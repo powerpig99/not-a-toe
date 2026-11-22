@@ -308,11 +308,11 @@ Chollet defines intelligence as skill-acquisition efficiency over novel tasks (f
 ### 弗里德里希·哈耶克 / Friedrich Hayek
 `经济 / Economic`
 
-哈耶克论证分散的知识无法被计划垄断，在解释市场如何借价格协调时有用；它在此到了边界：它仍把公开出现的东西想象成一份存量的碎片，并把一套固定的产权样式持为一般的回应，而这种持守本身也出自不完备的知识。
+哈耶克论证分散的知识无法被计划垄断，且偶合秩序（*catallaxy*）不像企业或家计组织（*oikonomia*）那样拥有单一的目的层级，在解释市场如何借价格协调而无需总量最优标准时有用；它在此到了边界：它仍把公开出现的东西想象成一份存量的碎片，并把一套固定的产权样式持为一般的回应，而这种持守本身也出自不完备的知识。
 
-Hayek's argument that dispersed knowledge cannot be monopolized by planning is of use in explaining how markets coordinate through prices; it reaches its boundary in that it still pictures what appears in public as pieces of a stock, and holds one fixed pattern of property rules as the general response, a holding that itself issues from incomplete knowledge.
+Hayek's argument that dispersed knowledge cannot be monopolized by planning and that a *catallaxy* has no single hierarchy of ends like a firm or *oikonomia* is of use in explaining how markets coordinate through prices without an aggregate optimality standard; it reaches its boundary in that it still pictures what appears in public as pieces of a stock, and holds one fixed pattern of property rules as the general response, a holding that itself issues from incomplete knowledge.
 
-→ [价格是言说，理解是交易 / Price as Utterance, Understanding as Trade](../../posts/price-as-utterance-understanding-as-trade/) · [知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/)
+→ [价格是言说，理解是交易 / Price as Utterance, Understanding as Trade](../../posts/price-as-utterance-understanding-as-trade/) · [知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/) · [表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice](../../posts/apparent-regulation-and-the-primacy-of-choice/)
 
 ### 杰弗里·辛顿 / Geoffrey Hinton
 `科学 / Scientific`
@@ -1585,14 +1585,23 @@ Post-scarcity cultural critique presumes that rising material surplus liberates 
 
 → [生产创造自己的意识形态消费 / Production Creates Its Own Ideological Consumption](../../posts/fate-loves-irony-refined/)
 
+### 公共选择理论 / Public Choice Theory
+`经济 / Economic`
+
+公共选择理论将行为对称性一并运用于市场与政治——把政治人物、官僚、选民与利益联盟都视作面对个人激励与主观机会成本的行动者，而非站在场外的“仁慈专制者”——在剥除凌驾于激励场之上的公正裁判幻象时有用；它在此到达边界：它将立宪前的偏好序列持守为权衡外部成本与决策成本的固定尺度，从而把偏好的形成留在了分析之外。
+
+Public choice theory applies behavioral symmetry across markets and politics—treating politicians, bureaucrats, voters, and coalitions as actors facing personal incentives and subjective opportunity costs rather than an exterior "benevolent despot"—which is of use in stripping the illusion of an impartial referee above the incentive field; it reaches its boundary in holding pre-constitutional preference schedules as fixed yardsticks for weighing external and decision-making costs, leaving preference formation outside the analysis.
+
+→ [表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice](../../posts/apparent-regulation-and-the-primacy-of-choice/)
+
 ### 理性选择理论 / Rational Choice Theory
 `经济 / Economic`
 
-理性选择理论预设偏好结构足够一致、足够共享，可以为加总、均衡与政策处方奠基，在对已发生的选择作事后重构时有用；它在此到了边界：私人且变动的前提给不出这种一致与稳定，于是它解释过去很强，预见未来很弱。
+理性选择理论预设偏好结构足够一致、足够共享，可以为加总、均衡与政策处方奠基，在对已发生的选择作事后重构及局部比较静态分析时有用；它在此到了边界：私人且变动的前提给不出这种一致与稳定，且累积的偏好始终只是过往选择的惰性残余，而非生成下一次切割的引擎，于是它解释过去很强，预见未来很弱。
 
-Rational choice theory presumes preference structures consistent and shared enough to ground aggregation, equilibrium and policy prescription, which is of use in reconstructing choices already made; it reaches its boundary in that private, shifting premises cannot supply that consistency and stability, so it fits the past well and foresees poorly.
+Rational choice theory presumes preference structures consistent and shared enough to ground aggregation, equilibrium and policy prescription, which is of use in reconstructing choices already made and local comparative statics; it reaches its boundary in that private, shifting premises cannot supply that consistency and stability, and accumulated preferences remain inert residue of past choices rather than an engine generating the next cut, so it fits the past well and foresees poorly.
 
-→ [理性选择公设是原罪 / The Rational Choice Postulate Is the Original Sin](../../posts/the-rational-choice-postulate-is-the-original-sin/)
+→ [理性选择公设是原罪 / The Rational Choice Postulate Is the Original Sin](../../posts/the-rational-choice-postulate-is-the-original-sin/) · [表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice](../../posts/apparent-regulation-and-the-primacy-of-choice/)
 
 ### 强化学习 / Reinforcement Learning (RL)
 `技术 / Technological`
@@ -1602,6 +1611,15 @@ Rational choice theory presumes preference structures consistent and shared enou
 Reinforcement learning formalizes policy optimization through scalar reward maximization over state-action trajectories, which is of use for training control policies inside bounded games and well-specified environments; it reaches its boundary when projected as a model of autonomous agency, since computational policies optimize fixed proxy scalars whereas living Minds hold sovereignty to question and redefine what counts as reward.
 
 → [看似AI的强化学习，实为人类的自我强化学习 / What Looks Like RL for AIs Is Self-RL for Humans](../../posts/self-rl-for-humans/)
+
+### 显露偏好理论 / Revealed Preference Theory
+`经济 / Economic`
+
+由保罗·萨缪尔森与亨德里克·霍撒克围绕选择一致性公理（WARP 与 SARP）建立、并经消费资本与习惯存量设定加以扩展的显露偏好理论，从已观测到的选择中重构序数效用排序，在稳定框架内总结已完成的权衡时有用；一旦可积性把关于过往行动的推断摘要转变为驱动未来选择的恒常引擎，混同了行动瞬间的单次一致性与跨期恒常性，并忽略累积的偏好在新鲜选择划出下一刀前始终只是惰性残余，该理论便到达了边界。
+
+Formulated by Paul Samuelson and Hendrik Houthakker around choice consistency axioms (WARP and SARP) and extended through consumption-capital and habit-stock specifications, revealed preference theory reconstructs ordinal utility orderings from observed selections, which is of use in summarizing completed trade-offs inside stable frames; it reaches its boundary when integrability turns an inferential summary of past acts into an invariant, forward-acting engine of future choices, conflating single-instant consistency in action with intertemporal constancy and missing that accumulated preferences stay inert residue until a fresh choice cuts.
+
+→ [表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice](../../posts/apparent-regulation-and-the-primacy-of-choice/)
 
 ### 时间可逆性悖论 / Reversibility Paradox of Time
 `科学 / Scientific`
@@ -3927,6 +3945,15 @@ Treating intra-frame extension and paradigm shift as a single continuum of incre
 
 → [框内延伸与维度跃迁 / Extension and Shift](../../posts/extension-and-shift/)
 
+### 帕累托最优 / Pareto Optimality
+`经济 / Economic`
+
+经由阿罗—德布鲁福利经济学第一基本定理形式化的帕累托最优，刻画了在价格接受、信息对称、零外部性与完备市场条件下没有任何参与者能在不使另一人受损的前提下获益的竞争性配置，在明示的理想化假设内部检验局部效率权衡时有用；当信息不对称或市场不完备打破均衡效率，且人们把一条以初始禀赋为索引的无穷前沿——在阿罗不可能性定理之下，不同偏好本就无法以非独裁方式作序数加总——误认作立于选择之上的唯一外部记分牌时，这一概念便到达了边界。
+
+Formalized through the Arrow–Debreu First Fundamental Theorem of Welfare Economics, Pareto optimality characterizes competitive allocations where no participant can gain without another losing under price-taking, symmetric information, zero externalities, and complete markets, which is of use in testing local efficiency trade-offs inside stated idealizations; it reaches its boundary when asymmetric information or incomplete markets break equilibrium efficiency and where an infinite, endowment-indexed frontier—with no non-dictatorial ordinal aggregation across differing preferences under Arrow's Impossibility Theorem—is mistaken for a unique exterior scoreboard standing above choice.
+
+→ [表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice](../../posts/apparent-regulation-and-the-primacy-of-choice/)
+
 ### 分析瘫痪 / Analysis Paralysis
 `成功学 / Self-Help`
 
@@ -4317,11 +4344,11 @@ The expectation is that material abundance will quiet zero-sum contest, and when
 ### 规制俘获 / Regulatory Capture
 `经济 / Economic`
 
-规制俘获预设在位企业扭曲了原本中立的公共监管机构以筑起牌照护城河，在描述逐城许可与排他性试点关卡如何使落后运营商免于直面前沿对照时颇为有用；这一前提在把监管者当作只需更好隔绝游说便能履职的外部守护者时到达边界——它忽略了规制结构实为个体把判断委托给幽灵集体后所稳定下来的残余，使屏障背后的具体决策者得以替他人收窄选择权，却不直接承担后果。
+规制俘获预设在位企业扭曲了原本中立的公共监管机构以筑起牌照护城河——而乔治·斯蒂格勒与萨姆·佩尔兹曼则将规制建模为集中行业压力与谋求支持的官员之间的政治市场——在描述逐城许可与排他性试点关卡以及更广泛的法定壁垒与价格楔子如何使落后运营商免于直面前沿对照、并阐明为何规制并非外生纠偏时颇为有用；这一前提在普通俘获叙事把监管者当作只需更好隔绝游说便能履职的外部守护者、或佩尔兹曼将单一支持度最大化者冻结在固定压力曲线之上时到达边界——它忽略了规制结构实为个体把判断委托给幽灵集体后所稳定下来的残余，使屏障背后的具体决策者得以替他人收窄选择权，却不直接承担后果，且“俘获”与“公共利益管控”都依然是同一个选择场内的回应，而每一次决定及其回返的代价始终留在具体的个人身上。
 
-Regulatory capture presumes that incumbent firms distort an otherwise neutral public regulator into erecting licensing moats, which is of use in describing how city-by-city permits and exclusive pilot gates insulate lagging operators from direct frontier comparison; the premise reaches its boundary when the regulator is treated as an exterior guardian awaiting better insulation from lobbying, overlooking that regulatory structures are the stabilized residue of individuals delegating judgment to a phantom collective, leaving specific decision-makers behind the barrier to narrow options for others without bearing direct consequences.
+Regulatory capture presumes that incumbent firms distort an otherwise neutral public regulator into erecting licensing moats—while George Stigler and Sam Peltzman model regulation as a political marketplace of concentrated industry pressure and support-seeking officials—which is of use in describing how city-by-city permits and exclusive pilot gates, alongside wider statutory barriers and price wedges, insulate lagging operators from direct frontier comparison and why regulation is not exogenous correction; the premise reaches its boundary when ordinary capture treats the regulator as an exterior guardian awaiting better insulation from lobbying or Peltzman freezes a single support-maximizer over fixed pressure curves, overlooking that regulatory structures are the stabilized residue of individuals delegating judgment to a phantom collective—leaving specific decision-makers behind the barrier to narrow options for others without bearing direct consequences—and that both capture and public-interest control remain responses inside one choice field while every decision and returning cost stays with concrete individuals.
 
-→ [本地屏障与残余滞后 / The Local Shield and the Residual Lag](../../posts/the-local-shield-and-the-residual-lag/)
+→ [本地屏障与残余滞后 / The Local Shield and the Residual Lag](../../posts/the-local-shield-and-the-residual-lag/) · [表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice](../../posts/apparent-regulation-and-the-primacy-of-choice/)
 
 ### 监管万能论 / Regulatory Omnipotence
 `意识形态 / Ideological`

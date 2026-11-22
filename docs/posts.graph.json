@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-22T19:03:17.544Z",
+    "generated_at": "2026-11-22T19:51:26.507Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -29,6 +29,7 @@
       "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "e1052154972b",
       "content/posts/amplification-paradox.md": "a275c141a687",
       "content/posts/an-observation-by-its-own-standard.md": "1d44b8371330",
+      "content/posts/apparent-regulation-and-the-primacy-of-choice.md": "b046d6035726",
       "content/posts/architecture-of-recursive-distinction.md": "bc11baadb09a",
       "content/posts/asymmetry-of-ascription.md": "de06a5c0d248",
       "content/posts/better-than-free-after-the-checklist-closes.md": "d39b1b10df08",
@@ -470,8 +471,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "5fd937c16807",
-      "content/book/economics.md": "e8fb281d2646",
-      "content/book/index-of-premises.md": "cf0a09e59615",
+      "content/book/economics.md": "59f58b5d23c6",
+      "content/book/index-of-premises.md": "49d61c945cd2",
       "content/book/intelligence.md": "aff9cd828dad",
       "content/book/knowledge-and-learning.md": "da0efd75ca7e",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -486,16 +487,16 @@
       "content/book/tools-and-progress.md": "dad2507ca407"
     },
     "stats": {
-      "posts": 460,
-      "edges": 14150,
-      "unique_directed": 6956,
+      "posts": 461,
+      "edges": 14174,
+      "unique_directed": 6968,
       "missing_targets": 0,
-      "one_way": 1574,
+      "one_way": 1586,
       "isolated": 0,
-      "posts_with_outbound": 460,
+      "posts_with_outbound": 461,
       "book_pages": 16,
-      "book_edges": 1576,
-      "posts_reached_by_book": 460
+      "book_edges": 1583,
+      "posts_reached_by_book": 461
     }
   },
   "hubs_in": [
@@ -509,11 +510,11 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 115
+      "in_degree": 116
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 98
+      "in_degree": 99
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -525,7 +526,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 74
+      "in_degree": 75
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -1251,6 +1252,30 @@
         "chollet-intelligence-explosion-analysis",
         "your-codebase-is-memory",
         "the-fixed-image-of-transcendence"
+      ]
+    },
+    {
+      "id": "post:apparent-regulation-and-the-primacy-of-choice",
+      "kind": "post",
+      "slug": "apparent-regulation-and-the-primacy-of-choice",
+      "path": "content/posts/apparent-regulation-and-the-primacy-of-choice.md",
+      "title": "表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice",
+      "hash": "b046d6035726",
+      "in_degree": 0,
+      "out_degree": 12,
+      "links_out": [
+        "mistaking-the-symptom-of-stability-for-its-source",
+        "the-observational-cut-in-ai-debates",
+        "the-local-shield-and-the-residual-lag",
+        "sovereignty-belief-and-regulatory-structures",
+        "the-category-error-of-better",
+        "preference-clusters-and-the-language-of-judgment",
+        "the-rational-choice-postulate-is-the-original-sin",
+        "individual-choices-as-the-only-causal-levers",
+        "the-only-coherent-uncaused-effect",
+        "the-knowledge-problem-and-the-illusion-of-delegation",
+        "no-system-can-be-kept-closed",
+        "openness-is-consistency"
       ]
     },
     {
@@ -3841,7 +3866,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers",
       "hash": "915a3572d822",
-      "in_degree": 115,
+      "in_degree": 116,
       "out_degree": 102,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -4602,7 +4627,7 @@
       "path": "content/posts/mistaking-the-symptom-of-stability-for-its-source.md",
       "title": "把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source",
       "hash": "c016f68c2992",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 11,
       "links_out": [
         "when-the-effect-authors-the-frame",
@@ -4809,7 +4834,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "没有系统能被保持封闭 / No System Can Be Kept Closed",
       "hash": "3fb19f23ec71",
-      "in_degree": 74,
+      "in_degree": 75,
       "out_degree": 68,
       "links_out": [
         "openness-is-consistency",
@@ -5308,7 +5333,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
       "hash": "de9e7ea03986",
-      "in_degree": 98,
+      "in_degree": 99,
       "out_degree": 90,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -5807,7 +5832,7 @@
       "path": "content/posts/preference-clusters-and-the-language-of-judgment.md",
       "title": "偏好聚类与评判语言 / Preference Clusters and the Language of Judgment",
       "hash": "048c60e24068",
-      "in_degree": 26,
+      "in_degree": 27,
       "out_degree": 27,
       "links_out": [
         "the-source-of-shared-change",
@@ -6604,7 +6629,7 @@
       "path": "content/posts/sovereignty-belief-and-regulatory-structures.md",
       "title": "主权、信念与规制结构的生成 / Sovereignty, Belief, and the Generation of Regulatory Structures",
       "hash": "9d04c6b1c923",
-      "in_degree": 31,
+      "in_degree": 32,
       "out_degree": 30,
       "links_out": [
         "hassabis-frontier-agi-premise",
@@ -7488,7 +7513,7 @@
       "path": "content/posts/the-category-error-of-better.md",
       "title": "「更好」的范畴谬误 / The Category Error of Better",
       "hash": "01832e3adff3",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 13,
       "links_out": [
         "the-irreducible-observer",
@@ -9502,7 +9527,7 @@
       "path": "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md",
       "title": "知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation",
       "hash": "f12b48ed8a70",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 12,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
@@ -9615,7 +9640,7 @@
       "path": "content/posts/the-local-shield-and-the-residual-lag.md",
       "title": "本地屏障与残余滞后 / The Local Shield and the Residual Lag",
       "hash": "344110f3b769",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 17,
       "links_out": [
         "the-invisible-first-move",
@@ -10192,7 +10217,7 @@
       "path": "content/posts/the-observational-cut-in-ai-debates.md",
       "title": "AI 争论中的观察划界 / The Observational Cut in AI Debates",
       "hash": "7df2fc299ebb",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 8,
       "links_out": [
         "the-question-that-installs-the-war",
@@ -10212,7 +10237,7 @@
       "path": "content/posts/the-only-coherent-uncaused-effect.md",
       "title": "唯一自洽的无因之果 / The Only Coherent Uncaused Effect",
       "hash": "305f2f69cada",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 13,
       "links_out": [
         "the-generative-mechanics-of-value-money-and-wealth",
@@ -10630,7 +10655,7 @@
       "path": "content/posts/the-rational-choice-postulate-is-the-original-sin.md",
       "title": "理性选择公设是原罪 / The Rational Choice Postulate Is the Original Sin",
       "hash": "e7860ba6a7fd",
-      "in_degree": 19,
+      "in_degree": 20,
       "out_degree": 21,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -17222,6 +17247,150 @@
       "to": "the-boundary-of-the-frame",
       "rel": "points_to",
       "label": "The Boundary of the Frame"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "把稳定的症状当作稳定的来源"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "Mistaking the Symptom of Stability for Its Source"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "the-observational-cut-in-ai-debates",
+      "rel": "points_to",
+      "label": "AI 争论中的观察划界"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "the-observational-cut-in-ai-debates",
+      "rel": "points_to",
+      "label": "The Observational Cut in AI Debates"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "the-local-shield-and-the-residual-lag",
+      "rel": "points_to",
+      "label": "本地屏障与残余滞后"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "主权、信念与规制结构的生成"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "the-local-shield-and-the-residual-lag",
+      "rel": "points_to",
+      "label": "The Local Shield and the Residual Lag"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "the-category-error-of-better",
+      "rel": "points_to",
+      "label": "「更好」的范畴谬误"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "偏好聚类与评判语言"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "the-category-error-of-better",
+      "rel": "points_to",
+      "label": "The Category Error of Better"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference Clusters and the Language of Judgment"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "理性选择公设是原罪"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The Rational Choice Postulate Is the Original Sin"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "the-only-coherent-uncaused-effect",
+      "rel": "points_to",
+      "label": "唯一自洽的无因之果"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "the-only-coherent-uncaused-effect",
+      "rel": "points_to",
+      "label": "The Only Coherent Uncaused Effect"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "知识问题与委托的幻觉"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "The Knowledge Problem and the Illusion of Delegation"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "apparent-regulation-and-the-primacy-of-choice",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "architecture-of-recursive-distinction",
@@ -98070,8 +98239,8 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "e8fb281d2646",
-        "out_degree": 35
+        "hash": "59f58b5d23c6",
+        "out_degree": 36
       },
       {
         "id": "book:index-of-premises",
@@ -98079,8 +98248,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "cf0a09e59615",
-        "out_degree": 460
+        "hash": "49d61c945cd2",
+        "out_degree": 461
       },
       {
         "id": "book:intelligence",
@@ -98859,6 +99028,12 @@
         "label": "外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth"
       },
       {
+        "from": "book:economics",
+        "to": "apparent-regulation-and-the-primacy-of-choice",
+        "rel": "collects",
+        "label": "表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice"
+      },
+      {
         "from": "book:index-of-premises",
         "to": "the-twin-paradox-and-the-hidden-observer",
         "rel": "collects",
@@ -99265,6 +99440,12 @@
         "to": "the-knowledge-problem-and-the-illusion-of-delegation",
         "rel": "collects",
         "label": "知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "apparent-regulation-and-the-primacy-of-choice",
+        "rel": "collects",
+        "label": "表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice"
       },
       {
         "from": "book:index-of-premises",
@@ -100876,15 +101057,33 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "apparent-regulation-and-the-primacy-of-choice",
+        "rel": "collects",
+        "label": "表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-rational-choice-postulate-is-the-original-sin",
         "rel": "collects",
         "label": "理性选择公设是原罪 / The Rational Choice Postulate Is the Original Sin"
       },
       {
         "from": "book:index-of-premises",
+        "to": "apparent-regulation-and-the-primacy-of-choice",
+        "rel": "collects",
+        "label": "表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "self-rl-for-humans",
         "rel": "collects",
         "label": "看似AI的强化学习，实为人类的自我强化学习 / What Looks Like RL for AIs Is Self-RL for Humans"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "apparent-regulation-and-the-primacy-of-choice",
+        "rel": "collects",
+        "label": "表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice"
       },
       {
         "from": "book:index-of-premises",
@@ -103348,6 +103547,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "apparent-regulation-and-the-primacy-of-choice",
+        "rel": "collects",
+        "label": "表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "choice-itself-has-no-inherent-weight",
         "rel": "collects",
         "label": "抉择本身并不沉重 / Choice Itself Has No Inherent Weight"
@@ -103801,6 +104006,12 @@
         "to": "the-local-shield-and-the-residual-lag",
         "rel": "collects",
         "label": "本地屏障与残余滞后 / The Local Shield and the Residual Lag"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "apparent-regulation-and-the-primacy-of-choice",
+        "rel": "collects",
+        "label": "表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice"
       },
       {
         "from": "book:index-of-premises",
