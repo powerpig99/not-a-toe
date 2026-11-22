@@ -6,9 +6,9 @@
 
 School curricula, academic disciplines, and expert advice catalog conclusions forged under past constraints, serving as a valuable index for rapid orientation and retrieval. Their incompleteness begins when this inventory of settled conclusions is mistaken for understanding itself — when schooling and reading treat passing standardized tests or repeating established verdicts as the destination, substituting memory of past traces for the live capacity to re-trace in unfamiliar terrain.
 
-这里的随笔考察了好奇心作为学习中不可观测的驱动力、专家经验作为参考而非替代的边界、理解的非对称性，以及“信任读者”与“无损传递”背后的认识论假设。真正的学习从来不是把现成答案搬进仓库，而是以好奇为先导，在行动与现实阻力的来回碰撞中持续校准自己的推断回路。
+这里的随笔考察了敞开的好奇回路、因果权能的安放作为学习中不可观测的驱动力、专家经验作为参考而非替代的边界、理解的非对称性，以及“信任读者”与“无损传递”背后的认识论假设。学习从来不是把现成答案搬进仓库，而是让探索保持敞开，将每一个回返的信号认领为自身行动的后果，在行动与现实阻力的来回碰撞中持续校准自己的推断回路。
 
-The essays here examine curiosity as the unobservable driver of learning, the boundary between expertise as reference and as replacement, the asymmetry of understanding, and the epistemological assumptions behind "trusting the reader" and "lossless transmission." Genuine learning is never warehousing ready-made answers; led by curiosity, it is the continuous calibration of one's own inferential loop through the back-and-forth collision between action and real resistance.
+The essays here examine the open loop of curiosity, the placement of causal power as the unobservable driver of learning, the boundary between expertise as reference and as replacement, the asymmetry of understanding, and the epistemological assumptions behind "trusting the reader" and "lossless transmission." Learning is never warehousing ready-made answers; keeping inquiry open and claiming each returning signal as the consequence of one's act, it is the continuous calibration of one's own inferential loop through the back-and-forth collision between action and real resistance.
 
 ## 篇目 / Essays
 

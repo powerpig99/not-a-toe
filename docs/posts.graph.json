@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-22T03:20:41.191Z",
+    "generated_at": "2026-11-22T03:50:27.858Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -75,7 +75,7 @@
       "content/posts/dimensions-are-projections.md": "961c2096adad",
       "content/posts/distillation-compression-agency.md": "8be4ecf97ac2",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "b64fa4420bd4",
-      "content/posts/dynamic-resnet-of-skill-loops.md": "04d7cda3949b",
+      "content/posts/dynamic-resnet-of-skill-loops.md": "b9d2508ec189",
       "content/posts/e-shi-feng-bi-de-shan.md": "035dbeba3f38",
       "content/posts/efficiency-without-differentiation.md": "6e611c312072",
       "content/posts/emotional-support-as-causal-interference.md": "ae6bd565946f",
@@ -466,12 +466,12 @@
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "5fd937c16807",
       "content/book/economics.md": "6a10f39cef21",
-      "content/book/index-of-premises.md": "3af53c16f0e3",
+      "content/book/index-of-premises.md": "32cfa5f64123",
       "content/book/intelligence.md": "aff9cd828dad",
-      "content/book/knowledge-and-learning.md": "60b558ba8715",
+      "content/book/knowledge-and-learning.md": "da0efd75ca7e",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
       "content/book/mathematics.md": "fd77287f086f",
-      "content/book/meaning-and-transcendence.md": "6a1e8d623959",
+      "content/book/meaning-and-transcendence.md": "85824b01375a",
       "content/book/method.md": "2f0a174477dc",
       "content/book/morality.md": "74e5662f2868",
       "content/book/physics.md": "c9d233b55433",
@@ -489,7 +489,7 @@
       "isolated": 0,
       "posts_with_outbound": 455,
       "book_pages": 16,
-      "book_edges": 1497,
+      "book_edges": 1543,
       "posts_reached_by_book": 455
     }
   },
@@ -2578,7 +2578,7 @@
       "slug": "dynamic-resnet-of-skill-loops",
       "path": "content/posts/dynamic-resnet-of-skill-loops.md",
       "title": "模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks",
-      "hash": "04d7cda3949b",
+      "hash": "b9d2508ec189",
       "in_degree": 31,
       "out_degree": 13,
       "links_out": [
@@ -96987,7 +96987,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "3af53c16f0e3",
+        "hash": "32cfa5f64123",
         "out_degree": 455
       },
       {
@@ -97005,7 +97005,7 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "60b558ba8715",
+        "hash": "da0efd75ca7e",
         "out_degree": 36
       },
       {
@@ -97032,7 +97032,7 @@
         "slug": "meaning-and-transcendence",
         "path": "content/book/meaning-and-transcendence.md",
         "title": "意义追寻与超越之境 / The Search for Meaning and Transcendence",
-        "hash": "6a1e8d623959",
+        "hash": "85824b01375a",
         "out_degree": 12
       },
       {
@@ -97852,12 +97852,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "the-grammar-of-finding-and-the-fading-observer",
-        "rel": "collects",
-        "label": "寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "the-invisible-gods-eye",
         "rel": "collects",
         "label": "隐秘的上帝之眼 / The Invisible God's Eye"
@@ -97909,6 +97903,12 @@
         "to": "objects-are-stabilized-relationships",
         "rel": "collects",
         "label": "对象是被稳定化的关系 / Objects Are Stabilized Relationships"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-cut-moves-but-never-vanishes",
+        "rel": "collects",
+        "label": "割点可移不可除 / The Cut Moves but Never Vanishes"
       },
       {
         "from": "book:index-of-premises",
@@ -98032,6 +98032,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+        "rel": "collects",
+        "label": "调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "not-predicting-is-predicting-without-awareness",
         "rel": "collects",
         "label": "不预测是没有觉察的预测 / Not Predicting Is Predicting Without Awareness"
@@ -98104,6 +98110,18 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-defining-seat",
+        "rel": "collects",
+        "label": "定义者的席位与离地的幻觉 / The Defining Seat"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+        "rel": "collects",
+        "label": "调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "subtracting-consciousness-at-the-source",
         "rel": "collects",
         "label": "集聚与人造主体性 / Collective and Artificial Subjectivity"
@@ -98155,6 +98173,12 @@
         "to": "the-summary-first-reversal-and-the-command-of-yields",
         "rel": "collects",
         "label": "宏观参数、微观抉择与利率的命令 / Macro Parameters, Micro Choices, and the Command of Yields"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-illusion-of-the-unmediated",
+        "rel": "collects",
+        "label": "“非中介化”的幻象 / The Illusion of the Unmediated"
       },
       {
         "from": "book:index-of-premises",
@@ -98296,6 +98320,24 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-cut-moves-but-never-vanishes",
+        "rel": "collects",
+        "label": "割点可移不可除 / The Cut Moves but Never Vanishes"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+        "rel": "collects",
+        "label": "算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "consciousness-ascription-and-the-quantum-cut",
+        "rel": "collects",
+        "label": "意识归属与量子割点 / Consciousness Ascription and the Quantum Cut"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-aesthetic-escalator-and-the-melancholy-of-the-balcony",
         "rel": "collects",
         "label": "审美的自动扶梯与阳台的忧郁 / The Aesthetic Escalator and the Melancholy of the Balcony"
@@ -98383,6 +98425,12 @@
         "to": "on-demand-contexts-keep-coherence-at-one-step",
         "rel": "collects",
         "label": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "open-vision-in-a-closed-arena",
+        "rel": "collects",
+        "label": "封闭竞技场中的开放视野 / Open Vision in a Closed Arena"
       },
       {
         "from": "book:index-of-premises",
@@ -98506,6 +98554,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "differentiation-and-the-appearance-of-negation",
+        "rel": "collects",
+        "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-unclosable-trace",
         "rel": "collects",
         "label": "无法闭合的痕迹 / The Unclosable Trace"
@@ -98599,6 +98653,12 @@
         "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
         "rel": "collects",
         "label": "论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "rel": "collects",
+        "label": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences"
       },
       {
         "from": "book:index-of-premises",
@@ -98746,6 +98806,18 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "closed-reality-in-benchmark-maxing",
+        "rel": "collects",
+        "label": "基准刷榜中的封闭实存 / Closed Reality in Benchmark Maxing"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "mistaking-the-symptom-of-stability-for-its-source",
+        "rel": "collects",
+        "label": "把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-geometry-of-mind",
         "rel": "collects",
         "label": "心智的几何学 / The Geometry of Mind"
@@ -98800,6 +98872,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
+        "rel": "collects",
+        "label": "未历摩擦的心智与借来的全能 / The Unfrictioned Mind and Borrowed Omnipotence"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
         "rel": "collects",
         "label": "自我价值、反向财富转移与过去成功的陷阱 / Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success"
@@ -98845,6 +98923,12 @@
         "to": "the-illusion-of-the-tool-and-the-inversion-of-time",
         "rel": "collects",
         "label": "工具的幻觉与时间的倒置 / The Illusion of the Tool and the Inversion of Time"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-twin-paradox-and-the-hidden-observer",
+        "rel": "collects",
+        "label": "双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer"
       },
       {
         "from": "book:index-of-premises",
@@ -98911,6 +98995,12 @@
         "to": "conscience-power-delegation",
         "rel": "collects",
         "label": "良知、委托与管辖权错位 / Conscience, Delegation, and the Jurisdiction Error"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "one-cannot-escape-ones-own-mind",
+        "rel": "collects",
+        "label": "无法逃逸的心智视界 / One Cannot Escape One's Own Mind"
       },
       {
         "from": "book:index-of-premises",
@@ -99121,6 +99211,12 @@
         "to": "the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function",
         "rel": "collects",
         "label": "全息回声 / The Holographic Echo"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+        "rel": "collects",
+        "label": "黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe"
       },
       {
         "from": "book:index-of-premises",
@@ -99514,6 +99610,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "zi-you-de-ce-bu-zhun",
+        "rel": "collects",
+        "label": "自由的测不准 / The Uncertainty of Freedom"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-causal-overstep-of-observation-and-the-first-person-surplus",
         "rel": "collects",
         "label": "观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus"
@@ -99601,6 +99703,12 @@
         "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "rel": "collects",
         "label": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "zi-you-de-ce-bu-zhun",
+        "rel": "collects",
+        "label": "自由的测不准 / The Uncertainty of Freedom"
       },
       {
         "from": "book:index-of-premises",
@@ -99736,6 +99844,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+        "rel": "collects",
+        "label": "感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "rel": "collects",
         "label": "时间之箭的伪悖论与对称模拟的边界 / The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation"
@@ -99745,6 +99859,12 @@
         "to": "when-electrons-think",
         "rel": "collects",
         "label": "当电子开始思考 / When Electrons Think"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+        "rel": "collects",
+        "label": "感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding"
       },
       {
         "from": "book:index-of-premises",
@@ -99781,6 +99901,12 @@
         "to": "when-electrons-think",
         "rel": "collects",
         "label": "当电子开始思考 / When Electrons Think"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+        "rel": "collects",
+        "label": "黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe"
       },
       {
         "from": "book:index-of-premises",
@@ -99898,6 +100024,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-grammar-of-finding-and-the-fading-observer",
+        "rel": "collects",
+        "label": "寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "not-a-theory-of-everything",
         "rel": "collects",
         "label": "非万物之理 / Not a Theory of Everything"
@@ -99931,6 +100063,12 @@
         "to": "the-ledger-of-the-unencountered",
         "rel": "collects",
         "label": "未被遭遇之物的账本 / The Ledger of the Unencountered"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "abstract-pain-and-living-hunger",
+        "rel": "collects",
+        "label": "抽象的苦难与真实的饥饿 / Abstract Pain and Living Hunger"
       },
       {
         "from": "book:index-of-premises",
@@ -100129,12 +100267,6 @@
         "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "rel": "collects",
         "label": "自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "present-contact-and-the-obscuration-of-desired-feeling",
-        "rel": "collects",
-        "label": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling"
       },
       {
         "from": "book:index-of-premises",
@@ -100432,6 +100564,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-boundary-of-the-frame",
+        "rel": "collects",
+        "label": "框架的边界 / The Boundary of the Frame"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "you-wu-zhi-bian",
         "rel": "collects",
         "label": "有无之边 / The Edge of Being and Non-Being"
@@ -100441,6 +100579,12 @@
         "to": "only-if-it-is-not-kept-empty",
         "rel": "collects",
         "label": "只要它不被保持为空 / Only If It Is Not Kept Empty"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-category-error-of-better",
+        "rel": "collects",
+        "label": "「更好」的范畴谬误 / The Category Error of Better"
       },
       {
         "from": "book:index-of-premises",
@@ -100459,12 +100603,6 @@
         "to": "differentiation-and-the-appearance-of-negation",
         "rel": "collects",
         "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
-        "rel": "collects",
-        "label": "未历摩擦的心智与借来的全能 / The Unfrictioned Mind and Borrowed Omnipotence"
       },
       {
         "from": "book:index-of-premises",
@@ -100507,12 +100645,6 @@
         "to": "intelligence-crisis-response",
         "rel": "collects",
         "label": "度量时滞与智能成本通缩 / The Measurement Lag"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-category-error-of-better",
-        "rel": "collects",
-        "label": "「更好」的范畴谬误 / The Category Error of Better"
       },
       {
         "from": "book:index-of-premises",
@@ -101044,6 +101176,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "when-abundance-looks-like-scarcity",
+        "rel": "collects",
+        "label": "当丰裕看起来像稀缺 / When Abundance Looks Like Scarcity"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "rel": "collects",
         "label": "“物理学才是定律”的障眼法 / The Sleight of Hand in \"Physics Is the Law\""
@@ -101326,6 +101464,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
+        "rel": "collects",
+        "label": "未历摩擦的心智与借来的全能 / The Unfrictioned Mind and Borrowed Omnipotence"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-misallocation-of-agency",
         "rel": "collects",
         "label": "能动性的错配 / The Misallocation of Agency"
@@ -101341,6 +101485,12 @@
         "to": "the-generative-topology-of-free-variables",
         "rel": "collects",
         "label": "自由变量的生成拓扑 / The Generative Topology of Free Variables"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "residual-individualism",
+        "rel": "collects",
+        "label": "剩余个人主义 / Residual Individualism"
       },
       {
         "from": "book:index-of-premises",
@@ -101596,6 +101746,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "zi-you-de-ce-bu-zhun",
+        "rel": "collects",
+        "label": "自由的测不准 / The Uncertainty of Freedom"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-generative-atlas-of-macroscopic-phenomena",
         "rel": "collects",
         "label": "宏观现象的生成图谱 / The Generative Atlas of Macroscopic Phenomena"
@@ -101623,12 +101779,6 @@
         "to": "closed-reality-in-the-pursuit-of-serendipity",
         "rel": "collects",
         "label": "追求机缘中的封闭现实 / Closed Reality in the Pursuit of Serendipity"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-mark-and-the-act",
-        "rel": "collects",
-        "label": "印迹与行动 / The Mark and the Act"
       },
       {
         "from": "book:index-of-premises",
@@ -101914,9 +102064,9 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "objects-are-stabilized-relationships",
+        "to": "the-grammar-of-finding-and-the-fading-observer",
         "rel": "collects",
-        "label": "对象是被稳定化的关系 / Objects Are Stabilized Relationships"
+        "label": "寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer"
       },
       {
         "from": "book:index-of-premises",
@@ -102040,6 +102190,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "symptom-and-cause-in-the-narratives-of-progress",
+        "rel": "collects",
+        "label": "进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-freedom-of-will-to-deny-itself",
         "rel": "collects",
         "label": "自由意志的自否自由 / The Freedom of Will to Deny Itself"
@@ -102154,6 +102310,18 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-power-law-of-surrendered-agency",
+        "rel": "collects",
+        "label": "让渡主权的幂律法则 / The Power-Law of Surrendered Agency"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-mirror-handshake-of-power",
+        "rel": "collects",
+        "label": "权力的镜像握手 / The Mirror Handshake of Power"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-model-never-becomes-a-second-edge",
         "rel": "collects",
         "label": "模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge"
@@ -102232,6 +102400,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-generative-topology-of-free-variables",
+        "rel": "collects",
+        "label": "自由变量的生成拓扑 / The Generative Topology of Free Variables"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
         "rel": "collects",
         "label": "涌现的伪因果 / The Pseudo-Causality of Emergence"
@@ -102277,6 +102451,12 @@
         "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
         "rel": "collects",
         "label": "确定性是微观不确定性的统计签名 / Determinism is the Statistical Signature of Micro-Indeterminism"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "fixed-by-nothing",
+        "rel": "collects",
+        "label": "没有固定者的固定 / Fixed by Nothing"
       },
       {
         "from": "book:index-of-premises",
@@ -102544,6 +102724,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
+        "rel": "collects",
+        "label": "未历摩擦的心智与借来的全能 / The Unfrictioned Mind and Borrowed Omnipotence"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-scaffolding-we-forget",
         "rel": "collects",
         "label": "遗忘的脚手架 / The Scaffolding We Forget"
@@ -102688,6 +102874,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+        "rel": "collects",
+        "label": "黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-irreducible-prior-of-decision-and-consequence",
         "rel": "collects",
         "label": "决策与后果的不可约先验 / The Irreducible Prior of Decision and Consequence"
@@ -102736,6 +102928,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "closed-reality-in-benchmark-maxing",
+        "rel": "collects",
+        "label": "基准刷榜中的封闭实存 / Closed Reality in Benchmark Maxing"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the_moving_ground",
         "rel": "collects",
         "label": "移动的基底与智能体委派的渐近线 / The Moving Ground"
@@ -102781,6 +102979,12 @@
         "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
         "rel": "collects",
         "label": "排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "present-contact-and-the-obscuration-of-desired-feeling",
+        "rel": "collects",
+        "label": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling"
       },
       {
         "from": "book:index-of-premises",
@@ -102886,6 +103090,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "objects-are-stabilized-relationships",
+        "rel": "collects",
+        "label": "对象是被稳定化的关系 / Objects Are Stabilized Relationships"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "cheng-gong-xue",
         "rel": "collects",
         "label": "成功学 / Theories After Success"
@@ -102943,6 +103153,12 @@
         "to": "data-is-local-intelligence-is-allocated",
         "rel": "collects",
         "label": "数据是局部的，智能是分配的 / Data Is Local, Intelligence Is Allocated"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-mark-and-the-act",
+        "rel": "collects",
+        "label": "印迹与行动 / The Mark and the Act"
       },
       {
         "from": "book:index-of-premises",
@@ -103072,6 +103288,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+        "rel": "collects",
+        "label": "黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-interesting-case-of-rubin",
         "rel": "collects",
         "label": "里克·鲁宾的奇特案例与不可瞄准的乐趣 / The Interesting Case of Rubin"
@@ -103171,6 +103393,12 @@
         "to": "the-residue-of-exercise-and-the-stabilization-of-politics",
         "rel": "collects",
         "label": "行使的残余与政治的稳定 / The Residue of Exercise and the Stabilization of Politics"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-power-law-of-surrendered-agency",
+        "rel": "collects",
+        "label": "让渡主权的幂律法则 / The Power-Law of Surrendered Agency"
       },
       {
         "from": "book:index-of-premises",
@@ -103294,6 +103522,36 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+        "rel": "collects",
+        "label": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-twin-paradox-and-the-hidden-observer",
+        "rel": "collects",
+        "label": "双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-defining-seat",
+        "rel": "collects",
+        "label": "定义者的席位与离地的幻觉 / The Defining Seat"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-irreducible-observer",
+        "rel": "collects",
+        "label": "不可还原的观察者 / The Irreducible Observer"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-grammar-of-finding-and-the-fading-observer",
+        "rel": "collects",
+        "label": "寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-closed-loop-of-representation",
         "rel": "collects",
         "label": "表征的闭环 / The Closed Loop of Representation"
@@ -103375,6 +103633,12 @@
         "to": "relative-differentials-and-the-compounding-of-comparison",
         "rel": "collects",
         "label": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-deterministic-machine",
+        "rel": "collects",
+        "label": "决定论机器 / The Deterministic Machine"
       },
       {
         "from": "book:index-of-premises",
@@ -103564,6 +103828,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+        "rel": "collects",
+        "label": "调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-cut-moves-but-never-vanishes",
         "rel": "collects",
         "label": "割点可移不可除 / The Cut Moves but Never Vanishes"
@@ -103591,12 +103861,6 @@
         "to": "the-boundary-crossing-of-choice",
         "rel": "collects",
         "label": "抉择的跨界 / The Boundary Crossing of Choice"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-cut-moves-but-never-vanishes",
-        "rel": "collects",
-        "label": "割点可移不可除 / The Cut Moves but Never Vanishes"
       },
       {
         "from": "book:index-of-premises",
@@ -103639,6 +103903,12 @@
         "to": "beyond-the-projection",
         "rel": "collects",
         "label": "超越投射 / Beyond the Projection"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-residue-and-the-free-variable",
+        "rel": "collects",
+        "label": "残余与自由变量 / The Residue and the Free Variable"
       },
       {
         "from": "book:index-of-premises",
@@ -103723,6 +103993,12 @@
         "to": "eternally-wrong-questions-that-haunt-practice",
         "rel": "collects",
         "label": "终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "grok-420-framework-drift",
+        "rel": "collects",
+        "label": "当模型在表演一套框架而非从基底推演 / When an AI Performs a Framework Instead of Operating From It"
       },
       {
         "from": "book:index-of-premises",

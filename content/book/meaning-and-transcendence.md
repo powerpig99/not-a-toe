@@ -6,9 +6,9 @@
 
 Religious traditions, theological systems, and contemplative narratives use symbolic language to record how human minds confront finitude, solitude, and the unknown, serving to comfort and to loosen everyday fixations. Their incompleteness begins when the mind's own distinguishing activity is projected into an external entity or frozen into a completed state — whether lodging an unclaimed first-person overview outside as God or as "we," confusing the unprojectable prior with open potentiality to imagine a boundless immortality, or freezing "enlightenment" into a gate crossed once and for all.
 
-本部文章追溯了神圣观念的生成结构、凡可言说如何皆为不可言说的产物，以及为何没有任何普渡能替代每个心智的自渡。意义不是藏在远方等待被发现的静态答案，而是在当下直面具体约束、起草下一步这一行动中生成的共振。
+本部文章追溯了神圣观念的生成结构、凡可言说如何皆为不可言说的产物，以及为何没有任何普渡能替代每个心智的自渡。意义不是藏在远方等待被发现的静态答案；它在当下直面具体约束、起草下一步这一行动中生成。
 
-The essays in this part trace the generative structure of conceptions of the sacred, how all that can be spoken is the product of the unspeakable, and why no universal salvation can substitute for each mind's own crossing. Meaning is not a static answer hidden in the distance waiting to be found, but the resonance generated in the act of confronting concrete constraints and drafting the next step in the present.
+The essays in this part trace the generative structure of conceptions of the sacred, how all that can be spoken is the product of the unspeakable, and why no universal salvation can substitute for each mind's own crossing. Meaning is not a static answer hidden in the distance waiting to be found; it is generated in the act of confronting concrete constraints and drafting the next step in the present.
 
 ## 篇目 / Essays
 
