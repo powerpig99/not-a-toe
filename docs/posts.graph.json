@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-22T17:58:15.054Z",
+    "generated_at": "2026-11-22T18:39:55.193Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -69,7 +69,7 @@
       "content/posts/curiosity-has-no-final-form.md": "100335def2de",
       "content/posts/cybersecurity-arms-race.md": "be1bf3d1f44c",
       "content/posts/data-is-local-intelligence-is-allocated.md": "020cfd693da3",
-      "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "1629b8d67b12",
+      "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "bf2027e97bd0",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "8b0479c7311d",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "9f8bcbd44c69",
       "content/posts/differentiation-and-the-appearance-of-negation.md": "0a7d8d3c7a5a",
@@ -97,7 +97,7 @@
       "content/posts/externalizing-unmet-drive-as-the-pathology-of-growth.md": "85e6496e3ef3",
       "content/posts/failure-as-information.md": "11a236cd7faa",
       "content/posts/fate-loves-irony-refined.md": "4173eb2feff2",
-      "content/posts/felt-resistance-and-the-speed-differential.md": "a65ccd0b204a",
+      "content/posts/felt-resistance-and-the-speed-differential.md": "e240aea1b76a",
       "content/posts/fidelity-not-optimality.md": "84fdc763c7f0",
       "content/posts/fixed-by-nothing.md": "307bb2bbbe73",
       "content/posts/four-night-questions.md": "6011fb84be91",
@@ -204,7 +204,7 @@
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "ad5983b40282",
       "content/posts/residual-control-recedes-to-the-edge.md": "1e41f477d826",
       "content/posts/residual-individualism.md": "07993abeddee",
-      "content/posts/restriction-is-a-selective-tax.md": "67892b4c8271",
+      "content/posts/restriction-is-a-selective-tax.md": "bfdd4ca0b587",
       "content/posts/scaffolds-or-specialized-contexts.md": "2b7375e218aa",
       "content/posts/school_essay_final.md": "f18cabb10f9c",
       "content/posts/selection-contradiction-and-open-reality.md": "1101972968c9",
@@ -487,10 +487,10 @@
     },
     "stats": {
       "posts": 460,
-      "edges": 14140,
-      "unique_directed": 6951,
+      "edges": 14146,
+      "unique_directed": 6954,
       "missing_targets": 0,
-      "one_way": 1575,
+      "one_way": 1572,
       "isolated": 0,
       "posts_with_outbound": 460,
       "book_pages": 16,
@@ -2439,9 +2439,9 @@
       "slug": "deceleration-is-the-drag-felt-when-accelerating",
       "path": "content/posts/deceleration-is-the-drag-felt-when-accelerating.md",
       "title": "减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating",
-      "hash": "1629b8d67b12",
+      "hash": "bf2027e97bd0",
       "in_degree": 10,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "symptom-and-cause-in-the-narratives-of-progress",
         "moral-language-as-projection",
@@ -2449,6 +2449,7 @@
         "restriction-is-a-selective-tax",
         "the-scaffolding-that-keeps-growing",
         "your-codebase-is-memory",
+        "the-residue-of-progress-and-the-reactivity-of-resistance",
         "failure-as-information",
         "the-local-trap-of-technological-change",
         "individual-choices-as-the-only-causal-levers"
@@ -3145,10 +3146,11 @@
       "slug": "felt-resistance-and-the-speed-differential",
       "path": "content/posts/felt-resistance-and-the-speed-differential.md",
       "title": "阻力体感与速率差 / Felt Resistance and the Speed Differential",
-      "hash": "a65ccd0b204a",
+      "hash": "e240aea1b76a",
       "in_degree": 13,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
+        "the-residue-of-progress-and-the-reactivity-of-resistance",
         "pessimism-is-the-shadow-of-optimism",
         "deceleration-is-the-drag-felt-when-accelerating",
         "symptom-and-cause-in-the-narratives-of-progress",
@@ -6241,13 +6243,14 @@
       "slug": "restriction-is-a-selective-tax",
       "path": "content/posts/restriction-is-a-selective-tax.md",
       "title": "限制是选择性的税 / Restriction Is a Selective Tax",
-      "hash": "67892b4c8271",
+      "hash": "bfdd4ca0b587",
       "in_degree": 24,
-      "out_degree": 22,
+      "out_degree": 23,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
         "hierarchy-from-individual-difference",
         "agency-contradiction-and-the-relocation-of-power",
+        "the-residue-of-progress-and-the-reactivity-of-resistance",
         "what-works-is-the-belief",
         "the-price-of-closing-optionality",
         "the-source-of-all-harm",
@@ -10878,7 +10881,7 @@
       "path": "content/posts/the-residue-of-progress-and-the-reactivity-of-resistance.md",
       "title": "进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance",
       "hash": "0f8da7de5cb1",
-      "in_degree": 0,
+      "in_degree": 3,
       "out_degree": 14,
       "links_out": [
         "generation-beyond-the-boundary-and-internal-rearrangement",
@@ -25824,6 +25827,18 @@
     },
     {
       "from": "deceleration-is-the-drag-felt-when-accelerating",
+      "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "rel": "points_to",
+      "label": "进步的残余与抵抗的反应性"
+    },
+    {
+      "from": "deceleration-is-the-drag-felt-when-accelerating",
+      "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "rel": "points_to",
+      "label": "The Residue of Progress and the Reactivity of Resistance"
+    },
+    {
+      "from": "deceleration-is-the-drag-felt-when-accelerating",
       "to": "failure-as-information",
       "rel": "points_to",
       "label": "失败即信息"
@@ -30228,9 +30243,21 @@
     },
     {
       "from": "felt-resistance-and-the-speed-differential",
+      "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "rel": "points_to",
+      "label": "进步的残余与抵抗的反应性"
+    },
+    {
+      "from": "felt-resistance-and-the-speed-differential",
       "to": "pessimism-is-the-shadow-of-optimism",
       "rel": "points_to",
       "label": "悲观是乐观的阴影"
+    },
+    {
+      "from": "felt-resistance-and-the-speed-differential",
+      "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "rel": "points_to",
+      "label": "The Residue of Progress and the Reactivity of Resistance"
     },
     {
       "from": "felt-resistance-and-the-speed-differential",
@@ -52257,6 +52284,18 @@
       "to": "agency-contradiction-and-the-relocation-of-power",
       "rel": "points_to",
       "label": "Agency, Contradiction, and the Relocation of Power"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "rel": "points_to",
+      "label": "进步的残余与抵抗的反应性"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "rel": "points_to",
+      "label": "The Residue of Progress and the Reactivity of Resistance"
     },
     {
       "from": "restriction-is-a-selective-tax",

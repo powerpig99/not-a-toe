@@ -120,9 +120,9 @@ Stabilizing deceleration into a permanent enemy short-circuits this evolutionary
 
 Progress does not eliminate resistance; it generates resistance in proportion to its own speed.
 
-阻力的出现，是真实的变化正在发生的最清楚的信号。一项没有遇到摩擦、没有引起警报、没有制度阻力的事业，相对于周围的介质，速度为零。
+阻力的出现，是真实的变化正在发生的最清楚的信号。一项没有遇到摩擦、没有引起警报、没有制度阻力的事业，相对于周围的介质，速度为零；[进步的残余与抵抗的反应性](../the-residue-of-progress-and-the-reactivity-of-resistance/)所追溯的，正是阻力对进步的同一份反应性依赖。
 
-The presence of drag is the clearest signal that real change is under way. An endeavor that meets no friction, no alarm and no institutional drag is moving at zero velocity relative to its surrounding medium.
+The presence of drag is the clearest signal that real change is under way. An endeavor that meets no friction, no alarm and no institutional drag is moving at zero velocity relative to its surrounding medium, the same reactive dependence on progress that [The Residue of Progress and the Reactivity of Resistance](../the-residue-of-progress-and-the-reactivity-of-resistance/) traces.
 
 策略上要做的，既不是否认阻力，也不是把它实体化为一场神圣的战争，而是把阻力当作未经过滤的反馈：一次传感器读数，测出当前的速度，并显出载具在哪里仍然钝、仍有湍流、仍与现实耦合不良。[失败即信息](../failure-as-information/)讲的正是这份纪律：摩擦与碰撞不是道德判决，而是下一次迭代的精确数据。[技术变革的局部陷阱](../the-local-trap-of-technological-change/)把这份诊断用在技术革命上：存量底盘的迟缓，是互补资本的流体摩擦，不是停滞的证据。
 
