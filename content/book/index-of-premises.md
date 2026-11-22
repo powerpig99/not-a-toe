@@ -870,7 +870,7 @@ Gibson's Neuromancer imagines cyberspace as a consensual hallucination and digit
 
 Nordhaus measured the postwar surplus distribution of technological change, documenting that innovators capture only a tiny private residual while the vast majority dissipates into broad social dividends, which is of use as macro-scale empirical telemetry refuting zero-sum wealth narratives; the econometric model reaches its boundary where retrospective statistical accounting is treated as the ground of causality rather than the downstream footprint of antecedent risk-bearing action.
 
-→ [私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus](../../posts/the-causal-order-of-private-residuals-and-social-surplus/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/)
+→ [私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus](../../posts/the-causal-order-of-private-residuals-and-social-surplus/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/) · [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/)
 
 ### 朱熹 / Zhu Xi
 `哲学 / Philosophical`
@@ -1997,7 +1997,7 @@ Richard Easterlin's paradox (alongside James Duesenberry's relative income hypot
 
 Formulated across Samuel Stouffer, W. G. Runciman, and Ted Gurr, relative deprivation theory models subjective dissatisfaction and social protest as the perceived discrepancy between expectations anchored to visible peers and realized attainment, which is of use in registering why accelerated advancement inside a peer group can heighten rather than ease local discontent; the premise reaches its boundary in treating perceived discrepancy as an automatic affective overflow from passive comparison rather than tracing how a short observation window converts differing compounding rates into static shortfalls and how maintaining dissatisfaction operates as an internally coherent condition for extracting relative concessions.
 
-→ [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/)
+→ [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/) · [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/)
 
 ### 指数增长偏差 / Exponential Growth Bias
 `科学 / Scientific`
@@ -2007,6 +2007,24 @@ Formulated across Samuel Stouffer, W. G. Runciman, and Ted Gurr, relative depriv
 Documented by Willem Wagenaar and Sabato Sagaria, Victor Stango and Jonathan Zinman, and Matthew Levy and Joshua Tasoff, exponential growth bias models the tendency to extrapolate compounding sequences linearly over short horizons, which is of use in accounting for systematic under-estimation in household borrowing, saving, and lifecycle accumulation; the premise reaches its boundary when framed strictly as an isolated intrapersonal calculation error rather than the short-window perception that hides multi-step personal compounding and converts another individual's faster or longer compounding trajectory into an unexplained static surplus.
 
 → [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/)
+
+### 怨恨理论 / Ressentiment
+`哲学 / Philosophical`
+
+由弗里德里希·尼采与马克斯·舍勒阐发的怨恨理论认为，能力受阻之下的向上比较会诱发一种“价值幻觉”，把不可企及的野心与财富贬为浅薄或腐败，同时把无力抬升为道德美德，这在刻画未行动的驱力如何将自身掩饰为道德优越感时有用；该前提在此到达了边界：它将价值倒置视作意在消灭对象本身的被动情绪反射，而忽略了为了抵御证伪所作的自我形象滞后主动维系，以及那种一边宣称野心病态、一边要求生产引擎照常运转的保留驱力姿态。
+
+Formulated by Friedrich Nietzsche and Max Scheler, the theory of ressentiment holds that blocked vitality under upward comparison induces a value delusion (*Wertwahn*) that demotes unattainable ambition and wealth as shallow or corrupt while elevating powerlessness into moral virtue, which is of use in mapping how unacted drive masks itself as moral superiority; the premise reaches its boundary where it treats value inversion as a passive affective reflex aiming to extinguish its object, overlooking active maintenance of self-image lag to shield against falsification and the drive-preserving move that calls ambition pathological while demanding the productive engine keep running.
+
+→ [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/)
+
+### 稳态经济与去增长理论 / Steady-State Economics and Degrowth
+`经济 / Economic`
+
+从赫尔曼·戴利对量上的物质能量通量增长与质上的发展所作的生物物理区分，演进为当代针对结构性“增长强迫”而将有计划缩减与“全民基本服务”并置的去增长方案，这一框架在区隔生态物质能量约束与质性效率提升时有用；它在此到达了边界：它将多元的资本结构与竞争抉择物化为普遍的增长强制，而稳态企业早已在并无禁令下照常运转，且方案即便在压缩私人复利残余的同时，仍旧依赖持续的生产能力与弥散出的财政剩余来供养公共供给。
+
+Developed from Herman Daly’s biophysical distinction between quantitative throughput growth and qualitative development into contemporary degrowth proposals pairing planned downscaling against structural growth compulsion (*Zwangswachstum*) with Universal Basic Services, this framework is of use in separating ecological matter-energy constraints from qualitative efficiency gains; it reaches its boundary where it reifies diverse capital-structure and competitive choices into universal growth coercion while steady-state firms already operate without prohibition, and where it relies on ongoing productive capacity and diffused fiscal surplus to fund public provisioning even while compressing the private compounding residual that sustains them.
+
+→ [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/)
 
 ## 概念 / Concepts
 
@@ -4267,7 +4285,7 @@ The reading of "emergent capability" presumes that the model has crossed a thres
 
 Treating transfer as what the loop requires is of use in arranging a later pickup of residue; it reaches its boundary in that it places causal power on consumption, while later registration cannot authorize earlier making—freezing shared cultural residue into a private origin debt, mistaking ongoing minority production for an ambient stock while surplus grows, and, once claims outrun remaining capacity, attributing the shortfall to producers as extractors rather than revising the claims—so transfer as justification thins incremental returns, lowers the opportunity cost of idleness, and makes sustained pressure for extraction itself the mark of diminishing capital use.
 
-→ [秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept](../../posts/order-surplus-and-the-moral-intercept/) · [价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth](../../posts/the-generative-mechanics-of-value-money-and-wealth/) · [生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption](../../posts/the-opacity-of-production-and-the-weight-of-consumption/) · [继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction](../../posts/inheritance-as-residue-and-the-need-for-extraction/)
+→ [秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept](../../posts/order-surplus-and-the-moral-intercept/) · [价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth](../../posts/the-generative-mechanics-of-value-money-and-wealth/) · [生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption](../../posts/the-opacity-of-production-and-the-weight-of-consumption/) · [继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction](../../posts/inheritance-as-residue-and-the-need-for-extraction/) · [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/)
 
 ### 丰裕会平息零和之争 / Abundance Will Quiet Zero-Sum Contest
 `经济 / Economic`
@@ -5131,7 +5149,7 @@ Assuming that refining tools and workflows directly increases output is of use i
 
 The self-image is taken for oneself, and so it is guarded, curated as a preferred portrait, or armoured, or one tries to extinguish it; as a passing reference point for computing orientation and error at the current step the self-image stays indispensable, and the premise reaches its boundary where any of these postures takes the low-dimensional probe for the generative Mind itself, turning disconfirming contact into a threat that must be filtered out to maintain the model.
 
-→ [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/) · [自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere](../../posts/self-image-speaks-as-if-from-nowhere/) · [自我模型维护悖论 / The Maintenance Paradox](../../posts/the-maintenance-paradox/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/) · [决定论机器 / The Deterministic Machine](../../posts/the-deterministic-machine/) · [展示的独处是已确保连接后的残余 / Displayed Solitude Is Residual After Secured Connection](../../posts/displayed-solitude-is-residual-after-secured-connection/)
+→ [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/) · [自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere](../../posts/self-image-speaks-as-if-from-nowhere/) · [自我模型维护悖论 / The Maintenance Paradox](../../posts/the-maintenance-paradox/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/) · [决定论机器 / The Deterministic Machine](../../posts/the-deterministic-machine/) · [展示的独处是已确保连接后的残余 / Displayed Solitude Is Residual After Secured Connection](../../posts/displayed-solitude-is-residual-after-secured-connection/) · [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/)
 
 ### 量子不确定性与隐变量 / Quantum Indeterminacy and Hidden Variables
 `科学 / Scientific`
@@ -5284,7 +5302,7 @@ A zero-knowledge proof establishes a statement's truth without revealing its wit
 
 The closed-reality premise treats resources, status and possibility as a fixed pool, which is of use in dividing a stock that really is finite; it reaches its boundary in that net value is generated only under the open premise, zero-sum mechanisms are themselves negative-sum, and they endure on the surplus the same people produce in their open moments.
 
-→ [潜能作为威胁或启发 / One’s Potential as Threat or Inspiration](../../posts/ones-potential-as-threat-or-inspiration/) · [道德语言作为投影 / Moral Language as Projection](../../posts/moral-language-as-projection/) · [寄存器的算术 / The Arithmetic of the Register](../../posts/the-arithmetic-of-the-register/) · [战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/) · [正交的拒绝 / The Orthogonal Refusal](../../posts/the-orthogonal-refusal/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/) · [边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement](../../posts/generation-beyond-the-boundary-and-internal-rearrangement/)
+→ [潜能作为威胁或启发 / One’s Potential as Threat or Inspiration](../../posts/ones-potential-as-threat-or-inspiration/) · [道德语言作为投影 / Moral Language as Projection](../../posts/moral-language-as-projection/) · [寄存器的算术 / The Arithmetic of the Register](../../posts/the-arithmetic-of-the-register/) · [战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/) · [正交的拒绝 / The Orthogonal Refusal](../../posts/the-orthogonal-refusal/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/) · [边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement](../../posts/generation-beyond-the-boundary-and-internal-rearrangement/) · [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/)
 
 ### 梵我一如（奥义书） / Ātman–Brahman Identity (Upanishads)
 `宗教 / Religious`

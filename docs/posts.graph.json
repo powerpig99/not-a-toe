@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-22T13:22:23.850Z",
+    "generated_at": "2026-11-22T15:26:42.116Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -94,6 +94,7 @@
       "content/posts/extended-cognition-refined.md": "8663360999f2",
       "content/posts/extension-and-shift.md": "bdb72c646856",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "a0c1f4787547",
+      "content/posts/externalizing-unmet-drive-as-the-pathology-of-growth.md": "5d9e40d3f8b4",
       "content/posts/failure-as-information.md": "11a236cd7faa",
       "content/posts/fate-loves-irony-refined.md": "4173eb2feff2",
       "content/posts/felt-resistance-and-the-speed-differential.md": "a65ccd0b204a",
@@ -468,8 +469,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "5fd937c16807",
-      "content/book/economics.md": "6a10f39cef21",
-      "content/book/index-of-premises.md": "3027cb788d26",
+      "content/book/economics.md": "e8fb281d2646",
+      "content/book/index-of-premises.md": "f25c32869c04",
       "content/book/intelligence.md": "aff9cd828dad",
       "content/book/knowledge-and-learning.md": "da0efd75ca7e",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -484,16 +485,16 @@
       "content/book/tools-and-progress.md": "e534b5466f36"
     },
     "stats": {
-      "posts": 458,
-      "edges": 14082,
-      "unique_directed": 6922,
+      "posts": 459,
+      "edges": 14106,
+      "unique_directed": 6934,
       "missing_targets": 0,
-      "one_way": 1546,
+      "one_way": 1558,
       "isolated": 0,
-      "posts_with_outbound": 458,
+      "posts_with_outbound": 459,
       "book_pages": 16,
-      "book_edges": 1560,
-      "posts_reached_by_book": 458
+      "book_edges": 1568,
+      "posts_reached_by_book": 459
     }
   },
   "hubs_in": [
@@ -3068,6 +3069,30 @@
       ]
     },
     {
+      "id": "post:externalizing-unmet-drive-as-the-pathology-of-growth",
+      "kind": "post",
+      "slug": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "path": "content/posts/externalizing-unmet-drive-as-the-pathology-of-growth.md",
+      "title": "外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth",
+      "hash": "5d9e40d3f8b4",
+      "in_degree": 0,
+      "out_degree": 12,
+      "links_out": [
+        "having-more-is-never-the-cause",
+        "the-average-is-residue-not-the-engine",
+        "self-image-speaks-as-if-from-nowhere",
+        "ones-potential-as-threat-or-inspiration",
+        "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+        "relative-differentials-and-the-compounding-of-comparison",
+        "the-causal-order-of-private-residuals-and-social-surplus",
+        "order-surplus-and-the-moral-intercept",
+        "the-opacity-of-production-and-the-weight-of-consumption",
+        "inheritance-as-residue-and-the-need-for-extraction",
+        "fate-loves-irony-refined",
+        "the-question-that-installs-the-war"
+      ]
+    },
+    {
       "id": "post:failure-as-information",
       "kind": "post",
       "slug": "failure-as-information",
@@ -3099,7 +3124,7 @@
       "path": "content/posts/fate-loves-irony-refined.md",
       "title": "生产创造自己的意识形态消费 / Production Creates Its Own Ideological Consumption",
       "hash": "4173eb2feff2",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 6,
       "links_out": [
         "your-codebase-is-memory",
@@ -3581,7 +3606,7 @@
       "path": "content/posts/having-more-is-never-the-cause.md",
       "title": "拥有更多从不是原因 / Having More Is Never the Cause",
       "hash": "fff7b1e393f6",
-      "in_degree": 29,
+      "in_degree": 30,
       "out_degree": 22,
       "links_out": [
         "not-predicting-is-predicting-without-awareness",
@@ -3922,7 +3947,7 @@
       "path": "content/posts/inheritance-as-residue-and-the-need-for-extraction.md",
       "title": "继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction",
       "hash": "0c7ba216c8ac",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 15,
       "links_out": [
         "your-codebase-is-memory",
@@ -5180,7 +5205,7 @@
       "path": "content/posts/ones-potential-as-threat-or-inspiration.md",
       "title": "潜能作为威胁或启发 / One’s Potential as Threat or Inspiration",
       "hash": "b68e2cc6fd51",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 7,
       "links_out": [
         "the-arithmetic-of-the-register",
@@ -5377,7 +5402,7 @@
       "path": "content/posts/order-surplus-and-the-moral-intercept.md",
       "title": "秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept",
       "hash": "eceaa52e6887",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 15,
       "links_out": [
         "symptom-and-cause-in-the-narratives-of-progress",
@@ -6103,7 +6128,7 @@
       "path": "content/posts/relative-differentials-and-the-compounding-of-comparison.md",
       "title": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding",
       "hash": "a5e6c9f1628d",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 14,
       "links_out": [
         "agency-compounding-and-the-argument-over-ai-feudalism",
@@ -6311,7 +6336,7 @@
       "path": "content/posts/self-image-speaks-as-if-from-nowhere.md",
       "title": "自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere",
       "hash": "13274f1991f6",
-      "in_degree": 33,
+      "in_degree": 34,
       "out_degree": 26,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
@@ -7071,7 +7096,7 @@
       "path": "content/posts/the-average-is-residue-not-the-engine.md",
       "title": "平均值是残余，不是引擎 / The Average Is Residue, Not the Engine",
       "hash": "b881dcae3e7d",
-      "in_degree": 32,
+      "in_degree": 33,
       "out_degree": 25,
       "links_out": [
         "the-rational-choice-postulate-is-the-original-sin",
@@ -7523,7 +7548,7 @@
       "path": "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md",
       "title": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus",
       "hash": "ea14066b3ea8",
-      "in_degree": 19,
+      "in_degree": 20,
       "out_degree": 13,
       "links_out": [
         "having-more-is-never-the-cause",
@@ -10203,7 +10228,7 @@
       "path": "content/posts/the-opacity-of-production-and-the-weight-of-consumption.md",
       "title": "生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption",
       "hash": "9d5edc313265",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 13,
       "links_out": [
         "the-frontier-lifts-the-floor",
@@ -10546,7 +10571,7 @@
       "path": "content/posts/the-question-that-installs-the-war.md",
       "title": "安装战争的那个问题 / The Question That Installs the War",
       "hash": "63e4ec243e36",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 14,
       "links_out": [
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
@@ -12274,7 +12299,7 @@
       "path": "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md",
       "title": "外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth",
       "hash": "fe621a27cbe8",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 16,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -29762,6 +29787,150 @@
       "to": "the-reversal-from-defensible-claim-to-dogma",
       "rel": "points_to",
       "label": "The Reversal from Defensible Claim to Dogma"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "拥有更多从不是原因"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having More Is Never the Cause"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "平均值是残余，不是引擎"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "The Average Is Residue, Not the Engine"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "自我形象仿佛从无处发声"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "ones-potential-as-threat-or-inspiration",
+      "rel": "points_to",
+      "label": "潜能作为威胁或启发"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "rel": "points_to",
+      "label": "外部归因是个人进步的障碍"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-Image Speaks as if from Nowhere"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "ones-potential-as-threat-or-inspiration",
+      "rel": "points_to",
+      "label": "One’s Potential as Threat or Inspiration"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "rel": "points_to",
+      "label": "External Attribution Is the Obstacle to Personal Growth"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "relative-differentials-and-the-compounding-of-comparison",
+      "rel": "points_to",
+      "label": "相对差异与复利比较"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "relative-differentials-and-the-compounding-of-comparison",
+      "rel": "points_to",
+      "label": "Relative Differentials and the Comparison of Compounding"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "私人残差与社会剩余的因果次序"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "The Causal Order of Private Residuals and Social Surplus"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "秩序、剩余与道德拦截"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "the-opacity-of-production-and-the-weight-of-consumption",
+      "rel": "points_to",
+      "label": "生产的不透明与消费的权重"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "inheritance-as-residue-and-the-need-for-extraction",
+      "rel": "points_to",
+      "label": "继承的残余与索取的必要"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "fate-loves-irony-refined",
+      "rel": "points_to",
+      "label": "生产创造自己的意识形态消费"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, Surplus, and the Moral Intercept"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "the-opacity-of-production-and-the-weight-of-consumption",
+      "rel": "points_to",
+      "label": "The Opacity of Production and the Weight of Consumption"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "inheritance-as-residue-and-the-need-for-extraction",
+      "rel": "points_to",
+      "label": "Inheritance as Residue and the Need for Extraction"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "fate-loves-irony-refined",
+      "rel": "points_to",
+      "label": "Production Creates Its Own Ideological Consumption"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "the-question-that-installs-the-war",
+      "rel": "points_to",
+      "label": "安装战争的那个问题"
+    },
+    {
+      "from": "externalizing-unmet-drive-as-the-pathology-of-growth",
+      "to": "the-question-that-installs-the-war",
+      "rel": "points_to",
+      "label": "The Question That Installs the War"
     },
     {
       "from": "failure-as-information",
@@ -97602,8 +97771,8 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "6a10f39cef21",
-        "out_degree": 34
+        "hash": "e8fb281d2646",
+        "out_degree": 35
       },
       {
         "id": "book:index-of-premises",
@@ -97611,8 +97780,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "3027cb788d26",
-        "out_degree": 458
+        "hash": "f25c32869c04",
+        "out_degree": 459
       },
       {
         "id": "book:intelligence",
@@ -98383,6 +98552,12 @@
         "to": "generation-beyond-the-boundary-and-internal-rearrangement",
         "rel": "collects",
         "label": "边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement"
+      },
+      {
+        "from": "book:economics",
+        "to": "externalizing-unmet-drive-as-the-pathology-of-growth",
+        "rel": "collects",
+        "label": "外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth"
       },
       {
         "from": "book:index-of-premises",
@@ -99397,6 +99572,12 @@
         "to": "beyond-the-hundred-trillion-horizon",
         "rel": "collects",
         "label": "百万亿地平线之外 / Beyond the Hundred-Trillion Horizon"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "externalizing-unmet-drive-as-the-pathology-of-growth",
+        "rel": "collects",
+        "label": "外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth"
       },
       {
         "from": "book:index-of-premises",
@@ -100900,9 +101081,27 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "externalizing-unmet-drive-as-the-pathology-of-growth",
+        "rel": "collects",
+        "label": "外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "relative-differentials-and-the-compounding-of-comparison",
         "rel": "collects",
         "label": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "externalizing-unmet-drive-as-the-pathology-of-growth",
+        "rel": "collects",
+        "label": "外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "externalizing-unmet-drive-as-the-pathology-of-growth",
+        "rel": "collects",
+        "label": "外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth"
       },
       {
         "from": "book:index-of-premises",
@@ -103246,6 +103445,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "externalizing-unmet-drive-as-the-pathology-of-growth",
+        "rel": "collects",
+        "label": "外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-arithmetic-of-the-register",
         "rel": "collects",
         "label": "寄存器的算术 / The Arithmetic of the Register"
@@ -104350,6 +104555,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "externalizing-unmet-drive-as-the-pathology-of-growth",
+        "rel": "collects",
+        "label": "外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
         "rel": "collects",
         "label": "感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding"
@@ -104515,6 +104726,12 @@
         "to": "generation-beyond-the-boundary-and-internal-rearrangement",
         "rel": "collects",
         "label": "边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "externalizing-unmet-drive-as-the-pathology-of-growth",
+        "rel": "collects",
+        "label": "外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth"
       },
       {
         "from": "book:index-of-premises",
