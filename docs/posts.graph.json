@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-22T04:38:22.385Z",
+    "generated_at": "2026-11-22T04:58:33.034Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -15,7 +15,7 @@
       "content/posts/abstract-pain-and-living-hunger.md": "521edf2dc946",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "c52d6149ba98",
       "content/posts/abstraction-determination-and-the-three-structural-flaws-of-machine-learning.md": "ebd51c27bb8b",
-      "content/posts/actual-infinity-born-inside-potential-infinity.md": "cfea40e5e48e",
+      "content/posts/actual-infinity-born-inside-potential-infinity.md": "6f688ab99507",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "fc6dd32eeea8",
       "content/posts/agency-and-the-pattern.md": "b02ee5b125ec",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "ae5b6e28af81",
@@ -483,10 +483,10 @@
     },
     "stats": {
       "posts": 456,
-      "edges": 14012,
-      "unique_directed": 6887,
+      "edges": 14020,
+      "unique_directed": 6891,
       "missing_targets": 0,
-      "one_way": 1519,
+      "one_way": 1523,
       "isolated": 0,
       "posts_with_outbound": 456,
       "book_pages": 16,
@@ -533,7 +533,7 @@
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
-      "in_degree": 46
+      "in_degree": 47
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -573,7 +573,7 @@
     },
     {
       "slug": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
-      "in_degree": 36
+      "in_degree": 37
     }
   ],
   "hubs_out": [
@@ -859,9 +859,9 @@
       "slug": "actual-infinity-born-inside-potential-infinity",
       "path": "content/posts/actual-infinity-born-inside-potential-infinity.md",
       "title": "实无限生于潜无限 / Actual Infinity Born Inside Potential Infinity",
-      "hash": "cfea40e5e48e",
+      "hash": "6f688ab99507",
       "in_degree": 0,
-      "out_degree": 10,
+      "out_degree": 14,
       "links_out": [
         "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
         "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
@@ -872,6 +872,10 @@
         "incompleteness-exhibited-twice",
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
+        "distillation-compression-agency",
+        "two-failures-of-trace",
+        "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+        "causality-stays-at-the-edge-that-steers",
         "the-mirage-of-the-infinite-totality"
       ]
     },
@@ -1543,7 +1547,7 @@
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers",
       "hash": "aa3cabf727b3",
-      "in_degree": 46,
+      "in_degree": 47,
       "out_degree": 42,
       "links_out": [
         "what-always-listens-cannot-originate",
@@ -2565,7 +2569,7 @@
       "path": "content/posts/distillation-compression-agency.md",
       "title": "蒸馏、压缩与能动性 / Distillation Chooses What to Lose",
       "hash": "8be4ecf97ac2",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 5,
       "links_out": [
         "two-phase-sleep-and-deep-sleep-continual-learning",
@@ -4279,7 +4283,7 @@
       "path": "content/posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence.md",
       "title": "机器智能作为人类智能的组合反馈回路 / Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence",
       "hash": "9eeba4ce94c6",
-      "in_degree": 36,
+      "in_degree": 37,
       "out_degree": 17,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
@@ -12137,7 +12141,7 @@
       "path": "content/posts/two-failures-of-trace.md",
       "title": "器物是智能的表达，而非智能本身 / Artifacts Are Expressions of Intelligence, Not Intelligence Itself",
       "hash": "6cb4839dacb4",
-      "in_degree": 33,
+      "in_degree": 34,
       "out_degree": 34,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -14641,6 +14645,54 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "distillation-compression-agency",
+      "rel": "points_to",
+      "label": "蒸馏、压缩与能动性"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "器物是智能的表达，而非智能本身"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "机器智能作为人类智能的组合反馈回路"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "distillation-compression-agency",
+      "rel": "points_to",
+      "label": "Distillation Chooses What to Lose"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
     },
     {
       "from": "actual-infinity-born-inside-potential-infinity",
