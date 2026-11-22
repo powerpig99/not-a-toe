@@ -263,11 +263,11 @@ Hassabis proposes historical-cutoff scientific discovery ('the Einstein test') a
 ### 德里克·西弗斯 / Derek Sivers
 `成功学 / Self-Help`
 
-西弗斯“只添加需要证明了的东西”的方法，在防范事先推想的某些错误时有用；它在此到了边界：它仍是一次预测，预测接触胜过推想，它在别人早已预测出的形式中挑选，而能负担这种等待，来自他人仍在继续的预测与他自己早先被读作成功的预测。
+西弗斯“只添加需要证明了的东西”并选择性路由往来以护住从容专注的方法，在防范草率推想与未经筛选的打扰时有用；其陈述在此到了边界：推迟依然是在预测接触胜过事先设计，且仍在他人预测过的形式中挑选，而把肉身独在呈现为自足的独处，则略去了最初先行确保选择性连接的财务余量、入站受众与远程通信渠道。
 
-Sivers' method of adding only what need has proven is of use in guarding against certain errors of prior speculation; it reaches its boundary in that it is still a prediction that contact beats speculation, it selects among forms others already predicted, and the ability to afford the waiting is fruit of others' continuing predictions and of his own earlier predicting read as success.
+Sivers' method of adding only what need has proven and routing contact selectively to protect unhurried focus is of use in guarding against premature speculation and unedited distraction; his accounts reach their boundary where deferral still predicts that contact beats prior design while choosing among forms others predicted, and where physical aloneness presented as self-contained solitude omits the financial margin, inbound audience, and remote communication channels that first secure selective connection.
 
-→ [不预测是没有觉察的预测 / Not Predicting Is Predicting Without Awareness](../../posts/not-predicting-is-predicting-without-awareness/)
+→ [不预测是没有觉察的预测 / Not Predicting Is Predicting Without Awareness](../../posts/not-predicting-is-predicting-without-awareness/) · [展示的独处是已确保连接后的残余 / Displayed Solitude Is Residual After Secured Connection](../../posts/displayed-solitude-is-residual-after-secured-connection/)
 
 ### 埃隆·马斯克 / Elon Musk
 `技术 / Technological`
@@ -412,6 +412,15 @@ In Eichmann in Jerusalem, Arendt described with the "banality of evil" how unthi
 Bergson's analysis of negation in Creative Evolution demonstrates that thinking 'not-A' adds a second exclusionary operation atop representing A in order to correct an expectation against reality taken as a block, which is of use in dissolving pseudo-problems of sheer nothingness and exposing negation's pedagogical and social role; his account reaches its boundary when discrete conceptual bounding itself is opposed to lived duration as a spatializing distortion rather than recognized as the primary operation through which a living Mind registers reality.
 
 → [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/)
+
+### 亨利·戴维·梭罗 / Henry David Thoreau
+`哲学 / Philosophical`
+
+梭罗的*《瓦尔登湖》*实验剥去了常规经济负担，以检验持续思考只需多少物质脚手架，并在书中明确记下了来访客人，这在将审慎的简朴生活与消费习惯区分开来时有用；其文化解读在此到了边界：它把肉身离群当作自足的独处，却将拉尔夫·沃尔多·爱默生的免租林地、定期步行进康科德镇、母亲与姐妹的家庭后勤支持以及林间木屋的频繁访客尽数留在幕后。
+
+Thoreau's *Walden* experiment strips away conventional economic overhead to test how little material scaffolding is needed for sustained inquiry and explicitly notes its visitors, which is of use in separating deliberate simplicity from consumer habit; its cultural reading reaches its boundary where physical seclusion is taken as self-contained solitude while dropping Ralph Waldo Emerson's rent-free woodlot, regular walks into Concord village, domestic support from mother and sisters, and frequent cabin guests offstage.
+
+→ [展示的独处是已确保连接后的残余 / Displayed Solitude Is Residual After Secured Connection](../../posts/displayed-solitude-is-residual-after-secured-connection/)
 
 ### 伊曼努尔·康德 / Immanuel Kant
 `哲学 / Philosophical`
@@ -3948,11 +3957,11 @@ Claims conscious agency is an illusion determined by non-conscious chemistry; us
 ### 表演式自我呈现 / Performative Self-Presentation
 `成功学 / Self-Help`
 
-表演式的自我呈现预设，把私下的校准公开为一条公式或一份记录，就能把它的力量传给他人，它在留下可供他人拿起的残余时有用；它在此到了边界：校准只在第一人称发生，传过去的只有接收者在自身约束之下重建的残余，而把校准摆成已获得的美德，既把它保存过了它的那一步，也什么都没有传递。
+表演式的自我呈现预设，把私下的校准公开为一条公式或一份记录，就能把它的力量或普遍可及性传给他人，它在留下可供他人拿起的残余时有用；它在此到了边界：校准只在第一人称发生，传过去的只有每个接收者在自身约束之下重建的残余，而无论是把校准摆成已获得的美德，还是陈述一套有条件的残余安排却略去维系它的余量与选择性路由，都将那份并不共享的脚手架留在了幕后，并未能传递任何鲜活的地基。
 
-Performative self-presentation presumes that making a private calibration public, as a formula or a record, carries its force to others, which is of use in leaving residue others can take up; it reaches its boundary in that calibration happens only in the first person, what travels is residue the receiver rebuilds under its own constraints, and staging the calibration as attained virtue both preserves it past its step and transfers nothing.
+Performative self-presentation presumes that making a private calibration public, as a formula or a record, carries its force or universal reach to others, which is of use in leaving residue others can take up; it reaches its boundary in that calibration happens only in the first person, what travels is residue each receiver rebuilds under its own constraints, and staging a calibration as attained virtue—or stating a conditioned residual arrangement while omitting the margin and selective routing that sustain it—leaves the unshared scaffolding offstage and transfers no live ground.
 
-→ [当观察变成表演 / When Observation Becomes Performance](../../posts/when-observation-becomes-performance/)
+→ [当观察变成表演 / When Observation Becomes Performance](../../posts/when-observation-becomes-performance/) · [展示的独处是已确保连接后的残余 / Displayed Solitude Is Residual After Secured Connection](../../posts/displayed-solitude-is-residual-after-secured-connection/)
 
 ### 哲学能动性的因果倒错 / Philosophical Inversion of Agency
 `哲学 / Philosophical`
@@ -5122,7 +5131,7 @@ Assuming that refining tools and workflows directly increases output is of use i
 
 The self-image is taken for oneself, and so it is guarded, curated as a preferred portrait, or armoured, or one tries to extinguish it; as a passing reference point for computing orientation and error at the current step the self-image stays indispensable, and the premise reaches its boundary where any of these postures takes the low-dimensional probe for the generative Mind itself, turning disconfirming contact into a threat that must be filtered out to maintain the model.
 
-→ [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/) · [自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere](../../posts/self-image-speaks-as-if-from-nowhere/) · [自我模型维护悖论 / The Maintenance Paradox](../../posts/the-maintenance-paradox/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/) · [决定论机器 / The Deterministic Machine](../../posts/the-deterministic-machine/)
+→ [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/) · [自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere](../../posts/self-image-speaks-as-if-from-nowhere/) · [自我模型维护悖论 / The Maintenance Paradox](../../posts/the-maintenance-paradox/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/) · [决定论机器 / The Deterministic Machine](../../posts/the-deterministic-machine/) · [展示的独处是已确保连接后的残余 / Displayed Solitude Is Residual After Secured Connection](../../posts/displayed-solitude-is-residual-after-secured-connection/)
 
 ### 量子不确定性与隐变量 / Quantum Indeterminacy and Hidden Variables
 `科学 / Scientific`

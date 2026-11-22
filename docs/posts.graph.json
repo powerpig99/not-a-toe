@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-22T08:45:24.141Z",
+    "generated_at": "2026-11-22T13:22:23.850Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -74,6 +74,7 @@
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "9f8bcbd44c69",
       "content/posts/differentiation-and-the-appearance-of-negation.md": "0a7d8d3c7a5a",
       "content/posts/dimensions-are-projections.md": "961c2096adad",
+      "content/posts/displayed-solitude-is-residual-after-secured-connection.md": "084dfa083081",
       "content/posts/distillation-compression-agency.md": "8be4ecf97ac2",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "b64fa4420bd4",
       "content/posts/dynamic-resnet-of-skill-loops.md": "b9d2508ec189",
@@ -468,7 +469,7 @@
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "5fd937c16807",
       "content/book/economics.md": "6a10f39cef21",
-      "content/book/index-of-premises.md": "fa910d3d6747",
+      "content/book/index-of-premises.md": "3027cb788d26",
       "content/book/intelligence.md": "aff9cd828dad",
       "content/book/knowledge-and-learning.md": "da0efd75ca7e",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -479,20 +480,20 @@
       "content/book/physics.md": "c9d233b55433",
       "content/book/preface.md": "09791dd76ace",
       "content/book/state-and-collective.md": "a1b57a68703f",
-      "content/book/success-and-the-self.md": "dee4b8680f14",
+      "content/book/success-and-the-self.md": "86fbf2c1128a",
       "content/book/tools-and-progress.md": "e534b5466f36"
     },
     "stats": {
-      "posts": 457,
-      "edges": 14060,
-      "unique_directed": 6911,
+      "posts": 458,
+      "edges": 14082,
+      "unique_directed": 6922,
       "missing_targets": 0,
-      "one_way": 1535,
+      "one_way": 1546,
       "isolated": 0,
-      "posts_with_outbound": 457,
+      "posts_with_outbound": 458,
       "book_pages": 16,
-      "book_edges": 1555,
-      "posts_reached_by_book": 457
+      "book_edges": 1560,
+      "posts_reached_by_book": 458
     }
   },
   "hubs_in": [
@@ -518,7 +519,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 79
+      "in_degree": 80
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -1602,7 +1603,7 @@
       "path": "content/posts/cheng-gong-xue.md",
       "title": "成功学 / Theories After Success",
       "hash": "05f6794abfe4",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 20,
       "links_out": [
         "the-free-variable-and-the-retrospective-illusion-of-power",
@@ -2562,6 +2563,29 @@
         "the-vector-and-the-puzzle-of-projections",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-unclosable-trace"
+      ]
+    },
+    {
+      "id": "post:displayed-solitude-is-residual-after-secured-connection",
+      "kind": "post",
+      "slug": "displayed-solitude-is-residual-after-secured-connection",
+      "path": "content/posts/displayed-solitude-is-residual-after-secured-connection.md",
+      "title": "展示的独处是已确保连接后的残余 / Displayed Solitude Is Residual After Secured Connection",
+      "hash": "084dfa083081",
+      "in_degree": 0,
+      "out_degree": 11,
+      "links_out": [
+        "having-more-is-never-the-cause",
+        "not-predicting-is-predicting-without-awareness",
+        "the-scaffolding-we-forget",
+        "self-image-speaks-as-if-from-nowhere",
+        "naval-separation-analysis",
+        "when-observation-becomes-performance",
+        "cheng-gong-xue",
+        "the-opacity-of-production-and-the-weight-of-consumption",
+        "hierarchy-from-individual-difference",
+        "the-form-of-enlightenment-and-the-inversion-of-gates",
+        "you-tiao-jian-de-zi-you"
       ]
     },
     {
@@ -3557,7 +3581,7 @@
       "path": "content/posts/having-more-is-never-the-cause.md",
       "title": "拥有更多从不是原因 / Having More Is Never the Cause",
       "hash": "fff7b1e393f6",
-      "in_degree": 28,
+      "in_degree": 29,
       "out_degree": 22,
       "links_out": [
         "not-predicting-is-predicting-without-awareness",
@@ -3614,7 +3638,7 @@
       "path": "content/posts/hierarchy-from-individual-difference.md",
       "title": "来自个体差异的层级 / Hierarchy from Individual Difference",
       "hash": "0284ab9a61c7",
-      "in_degree": 33,
+      "in_degree": 34,
       "out_degree": 31,
       "links_out": [
         "the-generative-contradiction",
@@ -4652,7 +4676,7 @@
       "path": "content/posts/naval-separation-analysis.md",
       "title": "分离不是病 / Separation Isn't the Disease",
       "hash": "093c5de72c75",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 8,
       "links_out": [
         "not-a-theory-of-everything",
@@ -4931,7 +4955,7 @@
       "path": "content/posts/not-predicting-is-predicting-without-awareness.md",
       "title": "不预测是没有觉察的预测 / Not Predicting Is Predicting Without Awareness",
       "hash": "7c0dda9a4196",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 12,
       "links_out": [
         "causality-all-the-way",
@@ -6287,7 +6311,7 @@
       "path": "content/posts/self-image-speaks-as-if-from-nowhere.md",
       "title": "自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere",
       "hash": "13274f1991f6",
-      "in_degree": 32,
+      "in_degree": 33,
       "out_degree": 26,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
@@ -8429,7 +8453,7 @@
       "path": "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md",
       "title": "开悟的相与门槛的倒置 / The Form of Enlightenment and the Inversion of Gates",
       "hash": "d245e5c4f9aa",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 13,
       "links_out": [
         "the-fixed-image-of-transcendence",
@@ -10179,7 +10203,7 @@
       "path": "content/posts/the-opacity-of-production-and-the-weight-of-consumption.md",
       "title": "生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption",
       "hash": "9d5edc313265",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 13,
       "links_out": [
         "the-frontier-lifts-the-floor",
@@ -11097,7 +11121,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "遗忘的脚手架 / The Scaffolding We Forget",
       "hash": "c1628ffd356a",
-      "in_degree": 79,
+      "in_degree": 80,
       "out_degree": 71,
       "links_out": [
         "the-extendable-horizon",
@@ -12617,7 +12641,7 @@
       "path": "content/posts/when-observation-becomes-performance.md",
       "title": "当观察变成表演 / When Observation Becomes Performance",
       "hash": "dfaf6fac81d1",
-      "in_degree": 19,
+      "in_degree": 20,
       "out_degree": 18,
       "links_out": [
         "the-meaning-of-life-is-in-the-drafting",
@@ -12837,7 +12861,7 @@
       "path": "content/posts/you-tiao-jian-de-zi-you.md",
       "title": "有条件的自由 / Conditional Freedom",
       "hash": "053d831ba18b",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 8,
       "links_out": [
         "freedom-as-ground",
@@ -26570,6 +26594,138 @@
       "to": "the-unclosable-trace",
       "rel": "points_to",
       "label": "The Unclosable Trace"
+    },
+    {
+      "from": "displayed-solitude-is-residual-after-secured-connection",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "拥有更多从不是原因"
+    },
+    {
+      "from": "displayed-solitude-is-residual-after-secured-connection",
+      "to": "not-predicting-is-predicting-without-awareness",
+      "rel": "points_to",
+      "label": "不预测是没有觉察的预测"
+    },
+    {
+      "from": "displayed-solitude-is-residual-after-secured-connection",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "displayed-solitude-is-residual-after-secured-connection",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having More Is Never the Cause"
+    },
+    {
+      "from": "displayed-solitude-is-residual-after-secured-connection",
+      "to": "not-predicting-is-predicting-without-awareness",
+      "rel": "points_to",
+      "label": "Not Predicting Is Predicting Without Awareness"
+    },
+    {
+      "from": "displayed-solitude-is-residual-after-secured-connection",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "displayed-solitude-is-residual-after-secured-connection",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "自我形象仿佛从无处发声"
+    },
+    {
+      "from": "displayed-solitude-is-residual-after-secured-connection",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-Image Speaks as if from Nowhere"
+    },
+    {
+      "from": "displayed-solitude-is-residual-after-secured-connection",
+      "to": "naval-separation-analysis",
+      "rel": "points_to",
+      "label": "分离不是病"
+    },
+    {
+      "from": "displayed-solitude-is-residual-after-secured-connection",
+      "to": "naval-separation-analysis",
+      "rel": "points_to",
+      "label": "Separation Isn't the Disease"
+    },
+    {
+      "from": "displayed-solitude-is-residual-after-secured-connection",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "当观察变成表演"
+    },
+    {
+      "from": "displayed-solitude-is-residual-after-secured-connection",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "成功学"
+    },
+    {
+      "from": "displayed-solitude-is-residual-after-secured-connection",
+      "to": "the-opacity-of-production-and-the-weight-of-consumption",
+      "rel": "points_to",
+      "label": "生产的不透明与消费的权重"
+    },
+    {
+      "from": "displayed-solitude-is-residual-after-secured-connection",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "来自个体差异的层级"
+    },
+    {
+      "from": "displayed-solitude-is-residual-after-secured-connection",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When Observation Becomes Performance"
+    },
+    {
+      "from": "displayed-solitude-is-residual-after-secured-connection",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "Theories After Success"
+    },
+    {
+      "from": "displayed-solitude-is-residual-after-secured-connection",
+      "to": "the-opacity-of-production-and-the-weight-of-consumption",
+      "rel": "points_to",
+      "label": "The Opacity of Production and the Weight of Consumption"
+    },
+    {
+      "from": "displayed-solitude-is-residual-after-secured-connection",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
+    },
+    {
+      "from": "displayed-solitude-is-residual-after-secured-connection",
+      "to": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "rel": "points_to",
+      "label": "开悟的相与门槛的倒置"
+    },
+    {
+      "from": "displayed-solitude-is-residual-after-secured-connection",
+      "to": "you-tiao-jian-de-zi-you",
+      "rel": "points_to",
+      "label": "有条件的自由"
+    },
+    {
+      "from": "displayed-solitude-is-residual-after-secured-connection",
+      "to": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "rel": "points_to",
+      "label": "The Form of Enlightenment and the Inversion of Gates"
+    },
+    {
+      "from": "displayed-solitude-is-residual-after-secured-connection",
+      "to": "you-tiao-jian-de-zi-you",
+      "rel": "points_to",
+      "label": "Conditional Freedom"
     },
     {
       "from": "distillation-compression-agency",
@@ -97455,8 +97611,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "fa910d3d6747",
-        "out_degree": 457
+        "hash": "3027cb788d26",
+        "out_degree": 458
       },
       {
         "id": "book:intelligence",
@@ -97554,8 +97710,8 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "dee4b8680f14",
-        "out_degree": 36
+        "hash": "86fbf2c1128a",
+        "out_degree": 37
       },
       {
         "id": "book:tools-and-progress",
@@ -98512,6 +98668,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "displayed-solitude-is-residual-after-secured-connection",
+        "rel": "collects",
+        "label": "展示的独处是已确保连接后的残余 / Displayed Solitude Is Residual After Secured Connection"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "failure-as-information",
         "rel": "collects",
         "label": "失败即信息 / Failure as Information"
@@ -98701,6 +98863,12 @@
         "to": "differentiation-and-the-appearance-of-negation",
         "rel": "collects",
         "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "displayed-solitude-is-residual-after-secured-connection",
+        "rel": "collects",
+        "label": "展示的独处是已确保连接后的残余 / Displayed Solitude Is Residual After Secured Connection"
       },
       {
         "from": "book:index-of-premises",
@@ -102706,6 +102874,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "displayed-solitude-is-residual-after-secured-connection",
+        "rel": "collects",
+        "label": "展示的独处是已确保连接后的残余 / Displayed Solitude Is Residual After Secured Connection"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-causal-inversion-of-philosophical-agency",
         "rel": "collects",
         "label": "哲学能动性的因果倒置 / The Causal Inversion of Philosophical Agency"
@@ -104167,6 +104341,12 @@
         "to": "the-deterministic-machine",
         "rel": "collects",
         "label": "决定论机器 / The Deterministic Machine"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "displayed-solitude-is-residual-after-secured-connection",
+        "rel": "collects",
+        "label": "展示的独处是已确保连接后的残余 / Displayed Solitude Is Residual After Secured Connection"
       },
       {
         "from": "book:index-of-premises",
@@ -106615,6 +106795,12 @@
         "to": "relative-differentials-and-the-compounding-of-comparison",
         "rel": "collects",
         "label": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding"
+      },
+      {
+        "from": "book:success-and-the-self",
+        "to": "displayed-solitude-is-residual-after-secured-connection",
+        "rel": "collects",
+        "label": "展示的独处是已确保连接后的残余 / Displayed Solitude Is Residual After Secured Connection"
       },
       {
         "from": "book:tools-and-progress",

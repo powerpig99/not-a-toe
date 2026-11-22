@@ -48,3 +48,4 @@ The essays in this part explore illegible long-term compounding, how a closed ma
 - [幸福是欲望与状态的关系 / Happiness Is the Relation of Desire to State](../../posts/happiness-is-the-relation-of-desire-to-state/)
 - [封闭框定与选择权的缩减 / Closed Framing and the Reduction of Optionality](../../posts/closed-framing-and-the-reduction-of-optionality/)
 - [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/)
+- [展示的独处是已确保连接后的残余 / Displayed Solitude Is Residual After Secured Connection](../../posts/displayed-solitude-is-residual-after-secured-connection/)
