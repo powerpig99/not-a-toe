@@ -1,14 +1,14 @@
 # 智能的器物神话 / The Artifact Myth of Intelligence
 
-*统计补全不等于内在理解，人造系统无法跨越承担生存摩擦的受力边界 / Statistical completion is not comprehension; synthetic systems bear no survival friction*
+*统计补全不等于理解，人造系统不承受切身后果 / Statistical completion is not comprehension; synthetic systems bear no lived consequence*
 
-现代机器学习与大型神经网络通过对人类既往留下的符号痕迹进行高维压缩与条件采样，提供了强大的模式检索、变换与执行杠杆。这一范式的前提在于，模型始终在既有分布与外部给定的目标函数之内运作；当人们把流畅的统计延续误认作能够自行发起意图、自行承担后果的第二重主体时，便把智能的表达倒置成了智能的源头。
+现代机器学习与大型神经网络通过对人类心智留下的符号痕迹进行压缩与条件采样，提供了强大的模式检索、变换与执行杠杆。这一范式的前提在于，模型始终在既有分布与外部给定的目标函数之内运作；当人们把流畅的统计延续误认作能够自行发起意图、自行承担后果的第二重主体时，便把智能的表达倒置成了智能的源头。
 
-Modern machine learning and large neural networks compress and sample from the symbolic traces left by human minds, providing a powerful lever for pattern retrieval, transformation, and execution. The premise of this paradigm is that a model operates within recorded distributions and externally supplied objectives; when fluent statistical continuation is mistaken for a second subject capable of originating intent and bearing consequence, the expression of intelligence is inverted into its source.
+Modern machine learning and large neural networks compress and conditionally sample from the symbolic traces left by human minds, providing a powerful lever for pattern retrieval, transformation, and execution. The premise of this paradigm is that a model operates within recorded distributions and externally supplied objectives; when fluent statistical continuation is mistaken for a second subject capable of originating intent and bearing consequence, the expression of intelligence is inverted into its source.
 
-本部随笔追溯了图灵测试与爱因斯坦测试的范畴边界、基准跑分中的封闭实存、蒸馏与过拟合的取舍，以及所谓“通用人工智能”背后的观察者切分。模型与智能体框架是心智向外延伸的认知外部皮层；唯有看清模型永远不会成为承受现实摩擦的第二重前沿，使用者才能在加速收紧的回路中保持自己的方向。
+本部随笔追溯了图灵测试与爱因斯坦测试的范畴边界、基准跑分中的封闭实存、蒸馏与过拟合的取舍，以及所谓“通用人工智能”背后的观察者切分。模型与智能体框架是心智向外延伸的认知外部皮层；看清模型永远不会成为第二重发起前沿，心智便能在加速收紧的回路中保持自己的方向。
 
-The essays in this part trace the category boundaries of the Turing and Einstein tests, closed reality in benchmark optimization, the tradeoffs of distillation and overfitting, and the observational cut behind claims of artificial general intelligence. Models and agent harnesses serve as an externalized cognitive cortex; only by seeing that a model never becomes a second edge bearing reality's friction can a mind hold its own direction inside an accelerating loop.
+The essays in this part trace the category boundaries of the Turing and Einstein tests, closed reality in benchmark optimization, the tradeoffs of distillation and overfitting, and the observational cut behind claims of artificial general intelligence. Models and agent harnesses serve as an externalized cognitive cortex; seeing that a model never becomes a second initiating edge lets a mind hold its own direction inside an accelerating loop.
 
 ## 篇目 / Essays
 
