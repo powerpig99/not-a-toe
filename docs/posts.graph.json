@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-22T05:47:34.330Z",
+    "generated_at": "2026-11-22T06:10:15.218Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -70,7 +70,7 @@
       "content/posts/cybersecurity-arms-race.md": "be1bf3d1f44c",
       "content/posts/data-is-local-intelligence-is-allocated.md": "020cfd693da3",
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "1629b8d67b12",
-      "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "f146489c346f",
+      "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "8b0479c7311d",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "9f8bcbd44c69",
       "content/posts/differentiation-and-the-appearance-of-negation.md": "0a7d8d3c7a5a",
       "content/posts/dimensions-are-projections.md": "961c2096adad",
@@ -483,10 +483,10 @@
     },
     "stats": {
       "posts": 456,
-      "edges": 14026,
-      "unique_directed": 6894,
+      "edges": 14028,
+      "unique_directed": 6895,
       "missing_targets": 0,
-      "one_way": 1522,
+      "one_way": 1523,
       "isolated": 0,
       "posts_with_outbound": 456,
       "book_pages": 16,
@@ -860,7 +860,7 @@
       "path": "content/posts/actual-infinity-born-inside-potential-infinity.md",
       "title": "实无限生于潜无限 / Actual Infinity Born Inside Potential Infinity",
       "hash": "6f688ab99507",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 14,
       "links_out": [
         "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
@@ -2456,12 +2456,13 @@
       "slug": "demanding-a-toe-freezes-time-into-a-catalog",
       "path": "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md",
       "title": "索求万物理论是在将当下冻结为清单 / Demanding a Theory of Everything Freezes Time into a Catalog",
-      "hash": "f146489c346f",
+      "hash": "8b0479c7311d",
       "in_degree": 11,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-cut-moves-but-never-vanishes",
         "the-twin-paradox-and-the-hidden-observer",
+        "actual-infinity-born-inside-potential-infinity",
         "the-closed-n-and-the-open-reality",
         "the-continuum-is-a-modeling-convenience",
         "time-is-causality-not-a-dimension",
@@ -25775,9 +25776,21 @@
     },
     {
       "from": "demanding-a-toe-freezes-time-into-a-catalog",
+      "to": "actual-infinity-born-inside-potential-infinity",
+      "rel": "points_to",
+      "label": "实无限生于潜无限"
+    },
+    {
+      "from": "demanding-a-toe-freezes-time-into-a-catalog",
       "to": "the-closed-n-and-the-open-reality",
       "rel": "points_to",
       "label": "闭合的N与开放的现实"
+    },
+    {
+      "from": "demanding-a-toe-freezes-time-into-a-catalog",
+      "to": "actual-infinity-born-inside-potential-infinity",
+      "rel": "points_to",
+      "label": "Actual Infinity Born Inside Potential Infinity"
     },
     {
       "from": "demanding-a-toe-freezes-time-into-a-catalog",
