@@ -2499,11 +2499,11 @@ Cognitive scaffolding treats external prompts, tools, and wrapper code as a temp
 ### 共享即共同性 / Sharedness as Commonality
 `哲学 / Philosophical`
 
-把“共享”读作共同性的持守，预设共享意识、共享价值或共享信念是一池跨越心智而被持有的相同特质，于是统一可以靠制造同一来达成，在指认一群人确实能够协调行动时有用；它在此到了边界：共享是一个心智登记到的不同个体性之间不完整的交集，不需要另一边的互补登记，理解是暂时不去登记余下的差异，把个体性逼成同一，就抹去了交集得以被登记的唯一条件，而在“共享”指称吸纳性单元之处，个体主权——决定、修正与退出的能力——被当作早已拿去换取了归属的确定性。
+把“共享”读作共同性的持守，预设共享意识、共享价值或共享信念是一池跨越心智而被持有的相同特质，于是统一可以靠制造同一来达成，在指认一群人确实能够协调行动时有用；它在此到了边界：共享是一个心智登记到的不同个体性之间不完整的交集，不需要另一边的互补登记，理解是暂时不去登记余下的差异，把个体性逼成同一，就抹去了交集得以被登记的唯一条件，而在“共享”指称吸纳性单元之处，个体主权——决定、修正与退出的能力——被当作早已拿去换取了归属的确定性，而在职场工具链中，表面援引自愿的专业化分工，同时却贬低共在的个人技能并将规则集中收归管理者主导的工厂，一旦将模式之外的工作重新归类为游离数据或“腐化”，便把共享从持续维持的复数性翻转为吸纳性单元。
 
-The hold that reads "shared" as commonality presumes that shared consciousness, shared value, or shared belief is a pool of identical traits held across Minds, so that unity can be reached by manufacturing identity, which is of use in naming that a group can indeed coordinate its action; it reaches its boundary in that sharedness is incomplete intersection of distinct individualities registered by one Mind, needing no complementary registration on the other side, understanding is the temporary non-registration of residual difference, forcing individualities into identity erases the only condition under which intersection can register, and where "shared" names an absorptive unit, individual sovereignty—the capacity to decide, correct, and exit—is treated as already exchanged for the certainty of belonging.
+The hold that reads "shared" as commonality presumes that shared consciousness, shared value, or shared belief is a pool of identical traits held across Minds, so that unity can be reached by manufacturing identity, which is of use in naming that a group can indeed coordinate its action; it reaches its boundary in that sharedness is incomplete intersection of distinct individualities registered by one Mind, needing no complementary registration on the other side, understanding is the temporary non-registration of residual difference, forcing individualities into identity erases the only condition under which intersection can register, and where "shared" names an absorptive unit, individual sovereignty—the capacity to decide, correct, and exit—is treated as already exchanged for the certainty of belonging, and in workplace tooling, invoking voluntary specialization on the surface while demoting co-present personal skills to centralize rules into manager-run factories flips sharedness from maintained plurality into an absorptive unit whenever working outside the schema is reclassified as stray data or rot.
 
-→ [共享意识是个体性的交集 / Shared Consciousness Is Intersecting Individualities](../../posts/shared-consciousness-is-intersecting-individualities/) · [“共享”的两种读法与观察的边界 / The Two Readings of Shared and the Observational Bound](../../posts/the-two-readings-of-shared-and-the-observational-bound/)
+→ [共享意识是个体性的交集 / Shared Consciousness Is Intersecting Individualities](../../posts/shared-consciousness-is-intersecting-individualities/) · [“共享”的两种读法与观察的边界 / The Two Readings of Shared and the Observational Bound](../../posts/the-two-readings-of-shared-and-the-observational-bound/) · [共享的边界，而非共享的语境 / Shared Boundaries, Not Shared Context](../../posts/shared-boundaries-not-shared-context/)
 
 ### 集体责任均摊 / Collective Responsibility
 `意识形态 / Ideological`
@@ -2616,11 +2616,11 @@ The ideal of frictionless optimization views constraints and limits as defects t
 ### 上下文工程 / Context Engineering
 `技术 / Technological`
 
-上下文工程预设填充词元窗口便等同于达成理解；对信息检索、以及对提供局部边界条件（C_local）以便从基座模型的无条件边际混合分布 P(E) = ∫ P(E|C)P(C)dC 中选出立场鲜明的条件模态 P(E|C_local) 有效，却混淆了信息贴近度与语义根基，在每次切换时付出重读数千个原始技能与模式定义词元的表层影子切换代价而非直接调用已编译的潜层算子或活生生的心智所持有的非符号先验，并且在保留原始键值档案仍有其效用的逐字精确复制之外，除非将先前的轮次整固为改写后的表层状态工件 Sₜ = f_{cmd(Pₜ)}(Sₜ₋₁, in(Pₜ)) 并由外环心智发出下一步的 Pₜ，否则每一步都将继续重扫不断膨胀的历史记录。
+上下文工程预设填充词元窗口便等同于达成理解；对信息检索、以及对提供局部边界条件（C_local）以便从基座模型的无条件边际混合分布 P(E) = ∫ P(E|C)P(C)dC 中选出立场鲜明的条件模态 P(E|C_local) 有效，却混淆了信息贴近度与语义根基，在每次切换时付出重读数千个原始技能与模式定义词元的表层影子切换代价而非直接调用已编译的潜层算子或活生生的心智所持有的非符号先验，并且在保留原始键值档案仍有其效用的逐字精确复制之外，除非将先前的轮次整固为改写后的表层状态工件 Sₜ = f_{cmd(Pₜ)}(Sₜ₋₁, in(Pₜ)) 并由外环心智发出下一步的 Pₜ，否则每一步都将继续重扫不断膨胀的历史记录，而当它被打包为宽泛持久的“语境仓库”而非共在的互动边界时，便把因果性的理解归于一个耐久媒介，在经由权限、视图与运行框架切分的不同调用方之间模糊了界限，同时在租用权重与自有存储的引擎—燃料割裂下，将活的工作与固定栏位之间的构成性滞后说成可消除的“语境腐化”。
 
-Context engineering presumes token window stuffing replicates shared understanding; highly effective for retrieval and for supplying a local boundary condition (C_local) that selects a committed conditional mode P(E|C_local) out of a base model's unconditioned marginal mixture P(E) = ∫ P(E|C)P(C)dC, it confuses informational proximity with semantic grounding, pays the surface-shadow switching cost of re-reading thousands of raw skill and schema tokens on every switch rather than invoking a compiled latent operator or the living Mind's non-symbolic priors, and beyond verbatim recall, where the raw KV archive keeps its use, re-searches a growing transcript at every step unless prior turns are consolidated into a rewritten state artifact Sₜ = f_{cmd(Pₜ)}(Sₜ₋₁, in(Pₜ)) whose next Pₜ the outer-loop Mind issues.
+Context engineering presumes token window stuffing replicates shared understanding; highly effective for retrieval and for supplying a local boundary condition (C_local) that selects a committed conditional mode P(E|C_local) out of a base model's unconditioned marginal mixture P(E) = ∫ P(E|C)P(C)dC, it confuses informational proximity with semantic grounding, pays the surface-shadow switching cost of re-reading thousands of raw skill and schema tokens on every switch rather than invoking a compiled latent operator or the living Mind's non-symbolic priors, and beyond verbatim recall, where the raw KV archive keeps its use, re-searches a growing transcript at every step unless prior turns are consolidated into a rewritten state artifact Sₜ = f_{cmd(Pₜ)}(Sₜ₋₁, in(Pₜ)) whose next Pₜ the outer-loop Mind issues, and when packaged as a broad standing "context warehouse" rather than co-present interaction boundaries, it attributes causal understanding to a durable medium that blurs limits across permission-, view-, and harness-sliced callers while casting the constitutive lag between living work and fixed columns as eliminable "context rot" under an engine-and-fuel split between rented weights and owned storage.
 
-→ [层层皆是语境 / Context All the Way Down](../../posts/context-engineering-essay/) · [机器智能作为人类智能的组合反馈回路 / Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../../posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/) · [影子没有损失 / The Shadow Has No Loss](../../posts/the-shadow-has-no-loss/) · [指令与载荷的双重切分 / The Dual Cut of Command and Payload](../../posts/the-dual-cut/) · [活的语境 / The Living Context](../../posts/the-living-context/)
+→ [层层皆是语境 / Context All the Way Down](../../posts/context-engineering-essay/) · [机器智能作为人类智能的组合反馈回路 / Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../../posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/) · [影子没有损失 / The Shadow Has No Loss](../../posts/the-shadow-has-no-loss/) · [指令与载荷的双重切分 / The Dual Cut of Command and Payload](../../posts/the-dual-cut/) · [活的语境 / The Living Context](../../posts/the-living-context/) · [共享的边界，而非共享的语境 / Shared Boundaries, Not Shared Context](../../posts/shared-boundaries-not-shared-context/)
 
 ### 相关与因果 / Correlation and Causation
 `科学 / Scientific`
@@ -4492,7 +4492,7 @@ Self-help literature assumes polished frames can initiate change, which is of us
 
 Shared knowledge presumes a common stock held across minds, which is of use in coordinating action; it reaches its boundary in that it is only the interception of private knowledge, a public mark each mind reconstructs on its own, whose differences do not converge, never possessed collectively.
 
-→ [没有天才能够解决知识问题 / No Genius Can Solve the Knowledge Problem](../../posts/no-genius-can-solve-the-knowledge-problem/)
+→ [没有天才能够解决知识问题 / No Genius Can Solve the Knowledge Problem](../../posts/no-genius-can-solve-the-knowledge-problem/) · [共享的边界，而非共享的语境 / Shared Boundaries, Not Shared Context](../../posts/shared-boundaries-not-shared-context/)
 
 ### 短期择时 / Short-Term Market Timing
 `经济 / Economic`
@@ -4897,7 +4897,7 @@ The Turing test presumes that sustained indistinguishability in text conversatio
 
 The idea is that thoughts and feelings can flow unmediated from one mind to another through resonance or intimacy; from the first-person origin no such channel is found, since another person arrives only as traces and what registers is one's own re-synthesized model, which is where the idea reaches its boundary, while as a way of confirming overlapping models and coordinating action among individuals, agreement and consensus stay useful, with language functioning as a boundary stabilized by the overlap that repeated use sediments among receivers' priors and renegotiated at every uptake where those priors diverge.
 
-→ [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/) · [接续阅读与协商中的语言边界 / Successive Reading and the Negotiated Boundary of Language](../../posts/successive-reading-and-the-negotiated-boundary-of-language/)
+→ [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/) · [接续阅读与协商中的语言边界 / Successive Reading and the Negotiated Boundary of Language](../../posts/successive-reading-and-the-negotiated-boundary-of-language/) · [共享的边界，而非共享的语境 / Shared Boundaries, Not Shared Context](../../posts/shared-boundaries-not-shared-context/)
 
 ### 苦涩的教训（理查德·萨顿） / The Bitter Lesson (Richard Sutton)
 `技术 / Technological`
@@ -4947,11 +4947,11 @@ Omniscient providence presumes an external divine standpoint surveys and directs
 ### 跨心智无损传递假定 / The Premise of Lossless Cross-Mind Transmission
 `哲学 / Philosophical`
 
-该假定预设观察记录能脱离具体的具身观察者、在不同心智间实现无损复刻；抹杀观察者抽空了理论赖以立足的因果原点，但在工程化标准协议与低维信息传递中仍是高效率的协作简化，而在两分句撤回序列中，该假定以为显式时间标记能把先后次序的意义原封不动地传递给接收者，从而使压平的读法看似接收者的失误，实则标记只呈现先后次序而无法强迫它，这一过渡究竟被按先后次序领会、被压平为同时断言，还是被读作平行的打发，是在接收者一侧决定的。
+该假定预设观察记录能脱离具体的具身观察者、在不同心智间实现无损复刻；抹杀观察者抽空了理论赖以立足的因果原点，但在工程化标准协议与低维信息传递中仍是高效率的协作简化，而在两分句撤回序列中，该假定以为显式时间标记能把先后次序的意义原封不动地传递给接收者，从而使压平的读法看似接收者的失误，实则标记只呈现先后次序而无法强迫它，这一过渡究竟被按先后次序领会、被压平为同时断言，还是被读作平行的打发，是在接收者一侧决定的，而在持久的企业语境存储库中，重读一张表格会重新激发起草心智自身早已持有的鲜活区分——由此维系了单心智表述幻觉，让人以为意义就驻留在媒介之中、可跨权限与运行框架切分的不同读者原样取用。
 
-This premise assumes observational records can be replicated losslessly across distinct minds detached from embodied observers; erasing the observer empties the causal origin upon which theory rests, yet it remains an efficient collaborative heuristic for standardized protocols and low-dimensional data transmission, and in a two-clause withdrawal the premise assumes explicit temporal markers carry the order's sense intact to the receiver, which makes a flattened reading look like the receiver's error, whereas the markers present the order without compelling it, and whether the passage is taken in succession, flattened into simultaneous assertions, or read as a parallel dismissal is settled on the receiver's side.
+This premise assumes observational records can be replicated losslessly across distinct minds detached from embodied observers; erasing the observer empties the causal origin upon which theory rests, yet it remains an efficient collaborative heuristic for standardized protocols and low-dimensional data transmission, and in a two-clause withdrawal the premise assumes explicit temporal markers carry the order's sense intact to the receiver, which makes a flattened reading look like the receiver's error, whereas the markers present the order without compelling it, and whether the passage is taken in succession, flattened into simultaneous assertions, or read as a parallel dismissal is settled on the receiver's side, and in standing enterprise context stores, re-reading a table re-fires the authoring Mind's own live distinctions—sustaining the single-Mind articulation illusion that meaning resides inside the medium ready for pickup across permission- and harness-sliced readers.
 
-→ [观察者的隐身与无损传递的妄念 / The Invisible Observer and the Delusion of Lossless Transmission](../../posts/the-invisible-observer-and-the-delusion-of-lossless-transmission/) · [接续阅读与协商中的语言边界 / Successive Reading and the Negotiated Boundary of Language](../../posts/successive-reading-and-the-negotiated-boundary-of-language/)
+→ [观察者的隐身与无损传递的妄念 / The Invisible Observer and the Delusion of Lossless Transmission](../../posts/the-invisible-observer-and-the-delusion-of-lossless-transmission/) · [接续阅读与协商中的语言边界 / Successive Reading and the Negotiated Boundary of Language](../../posts/successive-reading-and-the-negotiated-boundary-of-language/) · [共享的边界，而非共享的语境 / Shared Boundaries, Not Shared Context](../../posts/shared-boundaries-not-shared-context/)
 
 ### 借缺席证明不可或缺 / Indispensability Through Absence
 `成功学 / Self-Help`
@@ -4996,7 +4996,7 @@ Presumes individual emotional states are unilaterally authored by opposing demog
 
 Social consensus models presume that citizens inhabit an identical objective experiential sandbox, which is of use in holding public words, prices, and contracts as low-dimensional clearing signals to coordinate action; the premise reaches its boundary in that living Minds inhabit distinct first-person worlds and coordinate externally through overlapping signals without sharing an interior scene.
 
-→ [共享沙盒的幻象 / The Illusion of the Shared Sandbox](../../posts/the-illusion-of-the-shared-sandbox/)
+→ [共享沙盒的幻象 / The Illusion of the Shared Sandbox](../../posts/the-illusion-of-the-shared-sandbox/) · [共享的边界，而非共享的语境 / Shared Boundaries, Not Shared Context](../../posts/shared-boundaries-not-shared-context/)
 
 ### 高精仪器的自愿致盲 / The Sovereign Blinding of Precision
 `技术 / Technological`
@@ -5019,11 +5019,11 @@ Infinite causal regress presumes every act is pushed over by a prior physical do
 ### 形式本体论 / Formal Ontology
 `哲学 / Philosophical`
 
-形式本体论预设一套系统能够编目包括自身在内的一切存在之物；每一次书写都会添上该理论与持守它的理论家这一新事实，清单便在划线者的位置上到达边界，而作为照亮局部结构的临时边界，本体论依然有用。
+形式本体论预设一套系统能够编目包括自身在内的一切存在之物；每一次书写都会添上该理论与持守它的理论家这一新事实，清单便在划线者的位置上到达边界，而作为照亮局部结构的临时边界，本体论依然有用；当固定的工作区数据表被称作企业“本体”时，同一种遗忘便把结晶而成的残余当作持久的“公司大脑”，并将新近浮现的区分强行压回昨日的栏位之中。
 
-Formal ontology presumes that a system can catalogue everything that exists, itself included; each writing adds the new fact of the theory and the theorist holding it, so the list reaches its boundary at the position of the one drawing the lines, while as a temporary boundary that lights up local structure an ontology stays useful.
+Formal ontology presumes that a system can catalogue everything that exists, itself included; each writing adds the new fact of the theory and the theorist holding it, so the list reaches its boundary at the position of the one drawing the lines, while as a temporary boundary that lights up local structure an ontology stays useful; when fixed workspace tables are called an enterprise "ontology," the same forgetting treats crystallized residues as a standing "company brain" and forces emerging distinctions back into yesterday's columns.
 
-→ [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/)
+→ [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/) · [共享的边界，而非共享的语境 / Shared Boundaries, Not Shared Context](../../posts/shared-boundaries-not-shared-context/)
 
 ### 无处之境的上帝之眼 / The View from Nowhere
 `哲学 / Philosophical`

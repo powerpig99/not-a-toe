@@ -58,3 +58,4 @@ The essays in this part trace the codebase as externalized memory, the asymmetry
 - [多智能体协作的幻象 / The Illusion of Multi-Agent Collaboration](../../posts/the-illusion-of-multi-agent-collaboration/)
 - [投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop](../../posts/the-judgment-that-classifies-the-complaint/)
 - [旁观评论者的倒置 / The Reversal of the Bystander Commentators](../../posts/the-reversal-of-the-bystander-commentators/)
+- [共享的边界，而非共享的语境 / Shared Boundaries, Not Shared Context](../../posts/shared-boundaries-not-shared-context/)
