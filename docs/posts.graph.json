@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-22T19:51:26.507Z",
+    "generated_at": "2026-11-22T20:45:29.916Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -127,7 +127,7 @@
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "e39cb92ef63a",
       "content/posts/immortality-final.md": "2bbeb6b8ed55",
       "content/posts/incompleteness-exhibited-twice.md": "87f45601a359",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "915a3572d822",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "e5e1fcd23570",
       "content/posts/inheritance-as-residue-and-the-need-for-extraction.md": "0c7ba216c8ac",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "5656f412d172",
       "content/posts/intelligence-crisis-response.md": "ae3e106cc101",
@@ -149,7 +149,7 @@
       "content/posts/minimizing-path.md": "818c9dd4041e",
       "content/posts/mises-state-analysis.md": "bad1b8f579b1",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "525ef81069b4",
-      "content/posts/mistaking-the-symptom-of-stability-for-its-source.md": "c016f68c2992",
+      "content/posts/mistaking-the-symptom-of-stability-for-its-source.md": "fa72061ad8e4",
       "content/posts/moral-language-as-projection.md": "06388db8d0ab",
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "116d97ed1a9a",
       "content/posts/munger-dumb-competition-refined.md": "7f20fb303e4b",
@@ -374,7 +374,7 @@
       "content/posts/the-price-of-closing-optionality.md": "6de4077a2517",
       "content/posts/the-question-that-installs-the-war.md": "63e4ec243e36",
       "content/posts/the-ramble-within-the-ramble.md": "0fc8e5f33d89",
-      "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "e7860ba6a7fd",
+      "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "6295fda97469",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "6036be35fe63",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "e5b4c6a665d6",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "e25d00e96b60",
@@ -488,10 +488,10 @@
     },
     "stats": {
       "posts": 461,
-      "edges": 14174,
-      "unique_directed": 6968,
+      "edges": 14180,
+      "unique_directed": 6971,
       "missing_targets": 0,
-      "one_way": 1586,
+      "one_way": 1583,
       "isolated": 0,
       "posts_with_outbound": 461,
       "book_pages": 16,
@@ -584,7 +584,7 @@
   "hubs_out": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 102
+      "out_degree": 103
     },
     {
       "slug": "openness-is-consistency",
@@ -1261,7 +1261,7 @@
       "path": "content/posts/apparent-regulation-and-the-primacy-of-choice.md",
       "title": "表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice",
       "hash": "b046d6035726",
-      "in_degree": 0,
+      "in_degree": 3,
       "out_degree": 12,
       "links_out": [
         "mistaking-the-symptom-of-stability-for-its-source",
@@ -3865,9 +3865,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers",
-      "hash": "915a3572d822",
+      "hash": "e5e1fcd23570",
       "in_degree": 116,
-      "out_degree": 102,
+      "out_degree": 103,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
         "studying-the-effect-of-ai-relocates-causality",
@@ -3964,6 +3964,7 @@
         "the-illusion-of-free-intelligence",
         "the-reversal-from-defensible-claim-to-dogma",
         "the-rational-choice-postulate-is-the-original-sin",
+        "apparent-regulation-and-the-primacy-of-choice",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "technology-is-residual-of-human-compounding",
         "the-average-is-residue-not-the-engine",
@@ -4626,9 +4627,9 @@
       "slug": "mistaking-the-symptom-of-stability-for-its-source",
       "path": "content/posts/mistaking-the-symptom-of-stability-for-its-source.md",
       "title": "把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source",
-      "hash": "c016f68c2992",
+      "hash": "fa72061ad8e4",
       "in_degree": 18,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "the-scaffolding-we-forget",
@@ -4640,6 +4641,7 @@
         "the-observational-cut-in-ai-debates",
         "the-paradoxical-nature-of-bystander-insights",
         "symptom-and-cause-in-the-narratives-of-progress",
+        "apparent-regulation-and-the-primacy-of-choice",
         "a-new-deeper-look-at-antifragility"
       ]
     },
@@ -10654,9 +10656,9 @@
       "slug": "the-rational-choice-postulate-is-the-original-sin",
       "path": "content/posts/the-rational-choice-postulate-is-the-original-sin.md",
       "title": "理性选择公设是原罪 / The Rational Choice Postulate Is the Original Sin",
-      "hash": "e7860ba6a7fd",
+      "hash": "6295fda97469",
       "in_degree": 20,
-      "out_degree": 21,
+      "out_degree": 22,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "price-as-utterance-understanding-as-trade",
@@ -10664,6 +10666,7 @@
         "studying-the-effect-of-ai-relocates-causality",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-reality-distortion-field-inverts-the-baseline",
+        "apparent-regulation-and-the-primacy-of-choice",
         "your-codebase-is-memory",
         "performative-hindsight-that-pretends-to-be-foresight",
         "causality-all-the-way",
@@ -35700,6 +35703,12 @@
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
+      "to": "apparent-regulation-and-the-primacy-of-choice",
+      "rel": "points_to",
+      "label": "表面调节与选择的优先性"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "rel": "points_to",
       "label": "财富转移政策与价格下限中的原因错置"
@@ -35805,6 +35814,12 @@
       "to": "the-rational-choice-postulate-is-the-original-sin",
       "rel": "points_to",
       "label": "The Rational Choice Postulate Is the Original Sin"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "apparent-regulation-and-the-primacy-of-choice",
+      "rel": "points_to",
+      "label": "Apparent Regulation and the Primacy of Choice"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -40734,9 +40749,21 @@
     },
     {
       "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "apparent-regulation-and-the-primacy-of-choice",
+      "rel": "points_to",
+      "label": "表面调节与选择的优先性"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
       "to": "a-new-deeper-look-at-antifragility",
       "rel": "points_to",
       "label": "重新审视反脆弱"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "apparent-regulation-and-the-primacy-of-choice",
+      "rel": "points_to",
+      "label": "Apparent Regulation and the Primacy of Choice"
     },
     {
       "from": "mistaking-the-symptom-of-stability-for-its-source",
@@ -80730,6 +80757,12 @@
     },
     {
       "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "apparent-regulation-and-the-primacy-of-choice",
+      "rel": "points_to",
+      "label": "表面调节与选择的优先性"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
@@ -80745,6 +80778,12 @@
       "to": "causality-all-the-way",
       "rel": "points_to",
       "label": "因果贯穿始终"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "apparent-regulation-and-the-primacy-of-choice",
+      "rel": "points_to",
+      "label": "Apparent Regulation and the Primacy of Choice"
     },
     {
       "from": "the-rational-choice-postulate-is-the-original-sin",
