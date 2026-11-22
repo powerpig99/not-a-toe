@@ -20,7 +20,7 @@ The first infinity is the deep convergence of the perceptual substrate. Every li
 
 The second infinity is the divergence of the first-person vantage. Resonance across a shared substrate is mutual reinforcement, never a shared interior: no two human beings have ever inhabited the same perceptual world. Every conscious observer sits at an irreplicable origin, shaped by an irreversible trajectory of individual memories, formative wounds, and attentional orientations. Every Mind acts as an independent sovereign center making its own causal cut in the present (+1). If three people stand beneath the same oak, one registers shelter from the midday sun, another recalls a childhood fall from its branches, and a third calculates the timber value. Because each Mind's recursion compounds along its own path, the divergence between human Minds is equally open-ended.
 
-第三重无限，是鲜活实在与信息模型之间的非对称鸿沟。直接感知到的物理与生物实在是不可约减的高维模拟连续统。品尝一口苹果时，生命前沿在实时处理成百上千种挥发性芳香化合物、细胞膨压的剪切应力、温度梯度与演化痕迹；而对这一时刻的理性描述，不过是一小簇脱水的离散符号：“它很甜”、“含有果糖”、“六十卡路里”。任何形式模型、账本或外化代码库都只是过往已作区分留下的压缩残迹（即[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的记忆），而非掌舵前沿正在发生的自我区分活动本身，因此离散符号永远无法穷尽无边的场域。冲突便生长于敞开的可能性与压缩的误解之间的落差，正是[理解的非对称性](../the-asymmetry-of-understanding/)所追溯的那道落差。
+第三重无限，是鲜活实在与信息模型之间的非对称鸿沟。直接感知到的实在，在生命前沿展开为一片开放、超高维的递归区分场域，其步长永不归零——它之所以显现为无缝的模拟流，只是因为其粒度超出了任何有限框架。品尝一口苹果时，生命前沿在实时处理成百上千种挥发性芳香化合物、细胞膨压的剪切应力、温度梯度与演化痕迹；而对这一时刻的理性描述，不过是一小簇脱水的符号：“它很甜”、“含有果糖”、“六十卡路里”。任何形式模型、账本或外化代码库都只是过往已作区分留下的压缩残迹（即[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的记忆），而非掌舵前沿正在发生的自我区分活动本身，因此低维符号压缩永远无法穷尽无边的场域。冲突便生长于敞开的可能性与压缩的误解之间的落差，正是[理解的非对称性](../the-asymmetry-of-understanding/)所追溯的那道落差。
 
 ```mermaid
 flowchart TD
@@ -28,7 +28,7 @@ flowchart TD
         direction TB
         SubstrateFold["共有感知基底：支撑共鸣的生物与神经硬件"]
         PerspectiveFold["独一意识视角：不可复制的原点与主权因果切分 +1"]
-        TerritoryFold["不可约减的生命领地：远超离散模型的高维连续统"]
+        TerritoryFold["敞开的生命领地：超出压缩模型的超高维递归区分（步长 ≠ 0）"]
         SubstrateFold --> PerspectiveFold
         PerspectiveFold --> TerritoryFold
     end
@@ -41,7 +41,7 @@ flowchart TD
     style LowDModel fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-The third infinity is the asymmetric chasm between living reality and informational models. Directly perceived physical and biological reality is an irreducible, high-dimensional analog continuum. Tasting an apple processes hundreds of volatile compounds, cell-turgor shear stresses, temperature gradients, and evolutionary traces at the living edge. Rational description of that moment, by contrast, is a tiny cluster of dehydrated symbols: "it is sweet," "it contains fructose," "it has sixty calories." Every formal model, ledger, or externalized codebase is a compressed residue of distinctions already drawn (the memory [Your Codebase Is Memory](../your-codebase-is-memory/) traces) rather than the self-distinguishing activity at the steering edge, so discrete symbols never exhaust the unbounded field, and conflict grows from the gap between open possibility and compressed misunderstanding that [The Asymmetry of Understanding](../the-asymmetry-of-understanding/) traces.
+The third infinity is the asymmetric chasm between living reality and informational models. Directly perceived reality unfolds at the living edge as an open, ultra-high-dimensional field of recursive distinctions whose step size never collapses to zero—appearing as a seamless analog flow only because its grain outruns any finite frame. Tasting an apple processes hundreds of volatile compounds, cell-turgor shear stresses, temperature gradients, and evolutionary traces at the living edge. Rational description of that moment, by contrast, is a tiny cluster of dehydrated symbols: "it is sweet," "it contains fructose," "it has sixty calories." Every formal model, ledger, or externalized codebase is a compressed residue of distinctions already drawn (the memory [Your Codebase Is Memory](../your-codebase-is-memory/) traces) rather than the self-distinguishing activity at the steering edge, so low-dimensional symbolic compressions never exhaust the unbounded field, and conflict grows from the gap between open possibility and compressed misunderstanding that [The Asymmetry of Understanding](../the-asymmetry-of-understanding/) traces.
 
 ```mermaid
 flowchart TD
@@ -49,7 +49,7 @@ flowchart TD
         direction TB
         SubstrateFold["Shared Perceptual Substrate: Biological and neural hardware grounding resonance"]
         PerspectiveFold["Singular Conscious Vantage: Irreplicable origin and sovereign causal cut +1"]
-        TerritoryFold["Irreducible Living Territory: High-dimensional continuum richer than discrete models"]
+        TerritoryFold["Open Living Territory: Ultra-high-dimensional recursive distinctions (step ≠ 0) outrunning compressed models"]
         SubstrateFold --> PerspectiveFold
         PerspectiveFold --> TerritoryFold
     end
