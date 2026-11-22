@@ -63,6 +63,10 @@ SUMMARY_LINE_RE = re.compile(
     r"^SUMMARY:\s*(.+)$",
     flags=re.MULTILINE,
 )
+SIGNOFF_META_PREFIX_PAT = (
+    r"(?:VERDICT|SUMMARY|DRAFTER|TRANSLATOR|CRITIC|STYLIST|"
+    r"HANDOFF_CONFIRMED|S_PRE|S_POST|HOLD|RECAP|OPERATOR|PLANNER|SCOUTER|STATUS):"
+)
 
 
 _GIT_BLOB_CACHE: dict[tuple[str, str], bytes | None] = {}
@@ -719,7 +723,7 @@ def is_noop_todo_line(line: str) -> bool:
         return True
     if re.match(r"^(?:[-*]\s+)?\[[xX]\](?:\s+|$)", stripped):
         return True
-    if re.match(r"^(?:VERDICT|SUMMARY|DRAFTER|TRANSLATOR|CRITIC|STYLIST|HANDOFF_CONFIRMED):", stripped):
+    if re.match(rf"^{SIGNOFF_META_PREFIX_PAT}", stripped):
         return True
     body = re.sub(r"^(?:[-*]\s+)?(?:\[\s*\]\s+)?", "", stripped)
     body = body.strip("*_`() \t")
@@ -739,7 +743,7 @@ def extract_todo_blocks(slug: str) -> list[str]:
     items: list[str] = []
     heading_re = re.compile(r"^#{2,4}\s+For\s+`?work/todo\.md`?\b[^\n]*$", flags=re.IGNORECASE | re.MULTILINE)
     stop_re = re.compile(
-        r"\n(?:#{1,4}\s+|(?:VERDICT|SUMMARY|DRAFTER|TRANSLATOR|CRITIC|STYLIST|HANDOFF_CONFIRMED):|---+\s*$)",
+        rf"\n(?:#{{1,6}}\s+|{SIGNOFF_META_PREFIX_PAT}|---+\s*$)",
         flags=re.MULTILINE,
     )
     for fname in ("notes.md", "debate-en.md", "debate-zh.md"):
