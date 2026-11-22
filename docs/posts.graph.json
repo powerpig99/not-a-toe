@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-22T03:50:27.858Z",
+    "generated_at": "2026-11-22T04:38:22.385Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -15,6 +15,7 @@
       "content/posts/abstract-pain-and-living-hunger.md": "521edf2dc946",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "c52d6149ba98",
       "content/posts/abstraction-determination-and-the-three-structural-flaws-of-machine-learning.md": "ebd51c27bb8b",
+      "content/posts/actual-infinity-born-inside-potential-infinity.md": "cfea40e5e48e",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "fc6dd32eeea8",
       "content/posts/agency-and-the-pattern.md": "b02ee5b125ec",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "ae5b6e28af81",
@@ -466,11 +467,11 @@
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "5fd937c16807",
       "content/book/economics.md": "6a10f39cef21",
-      "content/book/index-of-premises.md": "32cfa5f64123",
+      "content/book/index-of-premises.md": "d15b2ea78fd1",
       "content/book/intelligence.md": "aff9cd828dad",
       "content/book/knowledge-and-learning.md": "da0efd75ca7e",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
-      "content/book/mathematics.md": "fd77287f086f",
+      "content/book/mathematics.md": "15cf0e9db0a5",
       "content/book/meaning-and-transcendence.md": "85824b01375a",
       "content/book/method.md": "2f0a174477dc",
       "content/book/morality.md": "74e5662f2868",
@@ -481,16 +482,16 @@
       "content/book/tools-and-progress.md": "7af75e4b8b67"
     },
     "stats": {
-      "posts": 455,
-      "edges": 13992,
-      "unique_directed": 6877,
+      "posts": 456,
+      "edges": 14012,
+      "unique_directed": 6887,
       "missing_targets": 0,
-      "one_way": 1509,
+      "one_way": 1519,
       "isolated": 0,
-      "posts_with_outbound": 455,
+      "posts_with_outbound": 456,
       "book_pages": 16,
-      "book_edges": 1543,
-      "posts_reached_by_book": 455
+      "book_edges": 1547,
+      "posts_reached_by_book": 456
     }
   },
   "hubs_in": [
@@ -508,7 +509,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 97
+      "in_degree": 98
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -516,7 +517,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 78
+      "in_degree": 79
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -524,7 +525,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 71
+      "in_degree": 72
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -559,11 +560,11 @@
       "in_degree": 41
     },
     {
-      "slug": "closed-reality-in-benchmark-maxing",
-      "in_degree": 38
+      "slug": "the-reversal-of-verification",
+      "in_degree": 39
     },
     {
-      "slug": "the-reversal-of-verification",
+      "slug": "closed-reality-in-benchmark-maxing",
       "in_degree": 38
     },
     {
@@ -850,6 +851,28 @@
         "learned-boundaries-and-the-given-rate",
         "the-fixed-map-and-the-repeated-trip",
         "mistaking-the-expression-for-the-intelligence"
+      ]
+    },
+    {
+      "id": "post:actual-infinity-born-inside-potential-infinity",
+      "kind": "post",
+      "slug": "actual-infinity-born-inside-potential-infinity",
+      "path": "content/posts/actual-infinity-born-inside-potential-infinity.md",
+      "title": "实无限生于潜无限 / Actual Infinity Born Inside Potential Infinity",
+      "hash": "cfea40e5e48e",
+      "in_degree": 0,
+      "out_degree": 10,
+      "links_out": [
+        "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+        "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+        "the-scaffolding-we-forget",
+        "the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function",
+        "the-continuum-is-a-modeling-convenience",
+        "the-reversal-of-verification",
+        "incompleteness-exhibited-twice",
+        "no-system-can-be-kept-closed",
+        "openness-is-consistency",
+        "the-mirage-of-the-infinite-totality"
       ]
     },
     {
@@ -3736,7 +3759,7 @@
       "path": "content/posts/incompleteness-exhibited-twice.md",
       "title": "两度显现的不完备性 / Incompleteness Exhibited Twice",
       "hash": "87f45601a359",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 7,
       "links_out": [
         "no-system-can-be-kept-closed",
@@ -4723,7 +4746,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "没有系统能被保持封闭 / No System Can Be Kept Closed",
       "hash": "3fb19f23ec71",
-      "in_degree": 71,
+      "in_degree": 72,
       "out_degree": 68,
       "links_out": [
         "openness-is-consistency",
@@ -5220,7 +5243,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
       "hash": "de9e7ea03986",
-      "in_degree": 97,
+      "in_degree": 98,
       "out_degree": 90,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -5636,7 +5659,7 @@
       "path": "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md",
       "title": "潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought",
       "hash": "cb1f469a0671",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 21,
       "links_out": [
         "the-mirage-of-the-infinite-totality",
@@ -7278,7 +7301,7 @@
       "path": "content/posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice.md",
       "title": "整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice",
       "hash": "c5729e23bdf4",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 10,
       "links_out": [
         "precision-and-resolution",
@@ -7681,7 +7704,7 @@
       "path": "content/posts/the-continuum-is-a-modeling-convenience.md",
       "title": "连续性作为建模的权宜之计 / The Continuum is a Modeling Convenience",
       "hash": "73d5986ffc82",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 10,
       "links_out": [
         "demanding-a-toe-freezes-time-into-a-catalog",
@@ -8843,7 +8866,7 @@
       "path": "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md",
       "title": "全息回声 / The Holographic Echo",
       "hash": "4d132f95ab75",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 8,
       "links_out": [
         "zi-you-de-ce-bu-zhun",
@@ -9759,7 +9782,7 @@
       "path": "content/posts/the-mirage-of-the-infinite-totality.md",
       "title": "无穷总体的海市蜃楼 / The Mirage of the Infinite Totality",
       "hash": "2b89c2db0c6f",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 7,
       "links_out": [
         "the-geometry-of-mind",
@@ -10914,7 +10937,7 @@
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
       "hash": "4a0bb22e1288",
-      "in_degree": 38,
+      "in_degree": 39,
       "out_degree": 9,
       "links_out": [
         "openness-is-consistency",
@@ -11038,7 +11061,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "遗忘的脚手架 / The Scaffolding We Forget",
       "hash": "c1628ffd356a",
-      "in_degree": 78,
+      "in_degree": 79,
       "out_degree": 71,
       "links_out": [
         "the-extendable-horizon",
@@ -14510,6 +14533,126 @@
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
       "label": "Mistaking the Expression for the Intelligence"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "rel": "points_to",
+      "label": "整数的内建无限与背景化的选择"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "潜无限与数学思维的暂时闭合"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "rel": "points_to",
+      "label": "The Built-in Infinity of Integers and the Backgrounded Choice"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function",
+      "rel": "points_to",
+      "label": "全息回声"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "the-continuum-is-a-modeling-convenience",
+      "rel": "points_to",
+      "label": "连续性作为建模的权宜之计"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function",
+      "rel": "points_to",
+      "label": "The Holographic Echo"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "the-continuum-is-a-modeling-convenience",
+      "rel": "points_to",
+      "label": "The Continuum is a Modeling Convenience"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "incompleteness-exhibited-twice",
+      "rel": "points_to",
+      "label": "两度显现的不完备性"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "incompleteness-exhibited-twice",
+      "rel": "points_to",
+      "label": "Incompleteness Exhibited Twice"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "the-mirage-of-the-infinite-totality",
+      "rel": "points_to",
+      "label": "无穷总体的海市蜃楼"
+    },
+    {
+      "from": "actual-infinity-born-inside-potential-infinity",
+      "to": "the-mirage-of-the-infinite-totality",
+      "rel": "points_to",
+      "label": "The Mirage of the Infinite Totality"
     },
     {
       "from": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
@@ -96987,8 +97130,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "32cfa5f64123",
-        "out_degree": 455
+        "hash": "d15b2ea78fd1",
+        "out_degree": 456
       },
       {
         "id": "book:intelligence",
@@ -97023,8 +97166,8 @@
         "slug": "mathematics",
         "path": "content/book/mathematics.md",
         "title": "数学与逻辑的边界 / The Boundaries of Mathematics and Logic",
-        "hash": "fd77287f086f",
-        "out_degree": 23
+        "hash": "15cf0e9db0a5",
+        "out_degree": 24
       },
       {
         "id": "book:meaning-and-transcendence",
@@ -99784,6 +99927,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "actual-infinity-born-inside-potential-infinity",
+        "rel": "collects",
+        "label": "实无限生于潜无限 / Actual Infinity Born Inside Potential Infinity"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-question-that-installs-the-war",
         "rel": "collects",
         "label": "安装战争的那个问题 / The Question That Installs the War"
@@ -100333,6 +100482,12 @@
         "to": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
         "rel": "collects",
         "label": "整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "actual-infinity-born-inside-potential-infinity",
+        "rel": "collects",
+        "label": "实无限生于潜无限 / Actual Infinity Born Inside Potential Infinity"
       },
       {
         "from": "book:index-of-premises",
@@ -101209,6 +101364,12 @@
         "to": "incompleteness-exhibited-twice",
         "rel": "collects",
         "label": "两度显现的不完备性 / Incompleteness Exhibited Twice"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "actual-infinity-born-inside-potential-infinity",
+        "rel": "collects",
+        "label": "实无限生于潜无限 / Actual Infinity Born Inside Potential Infinity"
       },
       {
         "from": "book:index-of-premises",
@@ -105079,6 +105240,12 @@
         "to": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
         "rel": "collects",
         "label": "整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice"
+      },
+      {
+        "from": "book:mathematics",
+        "to": "actual-infinity-born-inside-potential-infinity",
+        "rel": "collects",
+        "label": "实无限生于潜无限 / Actual Infinity Born Inside Potential Infinity"
       },
       {
         "from": "book:meaning-and-transcendence",
