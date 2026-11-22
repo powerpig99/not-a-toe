@@ -58,7 +58,7 @@ Test: hold “the established causality” (the abstraction treated as underlyin
 
 Causal weight drains from the external map at each step backward. Mid-chain explanations still point at what came earlier: conditions, correlations, prior abstractions. The origin is not at the far end of that chain but at the edge drawing the present step: at every link, what remains operative is the activity’s own uneven re-tracing. Earlier acts shape later ones; that shaping runs one way. Causality is the activity noticing that one-way shaping as it returns through its own path. The structure first secured and then obeyed is a later story about the same noticing, told from the side of the pattern held as source. Asking later registration to authorize that earlier shaping inverts the direction, as [Order, Surplus, and the Moral Intercept](../order-surplus-and-the-moral-intercept/) traces. [Time Is the Irreversible Direction and Discrete Step of Causality](../time-is-causality-not-a-dimension/) draws the consequence for time: it is the irreversible step of causality, not a fourth axis.
 
-[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)在工具与发起之下划出同一刀：重组之后，那道框定、选择并验证的边缘仍在原处。[超越投射](../beyond-the-projection/)把这项检验延伸至智能体架构：获授一条明文规则——即从先前结果中划出的有限投射——的自回归模型，把那个结果模式一直推演到其演绎极限；而当对等的同侪辩论在各个分支间触及不可化约的死锁时，恒定的规则便暴露出自身坍缩的轴线，退后一步去重新渲染那个破裂抽象的因果步，则依然留在活的心智边缘。[验证中因果权能的分配](../the-allocation-of-causal-power-in-validation/)在延续的位点上指认这种安放：哪一侧被当作提供下一步。常见的说法把供给安放在复原出的模式里。常量与变异的检验把供给交还给仍在划出其后每一次区分的那道边缘。[卓异、感知与自我设限的问题场域](../exceptionality-perception-and-the-self-limiting-field-of-problems/)在政治与移民中追溯同样的颠倒：过滤器与系统被计分为边缘的产出者，而登记已把沉积物塌缩为原因。每一个框架都是这样一种被持守的模式，而[框架的边界](../the-boundary-of-the-frame/)标出遗忘观察者在哪里把它变成教条。
+[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)在工具与发起之下划出同一刀：重组之后，那道框定、选择并验证的边缘仍在原处。[超越投射](../beyond-the-projection/)把这项检验延伸至智能体架构：自回归模型获授一条明文规则——即从先前结果中划出的有限投射——便把那个结果模式一直推演到其演绎极限；当对等的同侪辩论在各个分支间触及不可化约的死锁时，恒定的规则便暴露出自身坍缩的轴线，而退后一步去重新渲染那个破裂抽象的因果步，依然留在活的心智边缘。[验证中因果权能的分配](../the-allocation-of-causal-power-in-validation/)在延续的位点上指认这种安放：哪一侧被当作提供下一步。常见的说法把供给安放在复原出的模式里。常量与变异的检验把供给交还给仍在划出其后每一次区分的那道边缘。[卓异、感知与自我设限的问题场域](../exceptionality-perception-and-the-self-limiting-field-of-problems/)在政治与移民中追溯同样的颠倒：过滤器与系统被计分为边缘的产出者，而登记已把沉积物塌缩为原因。每一个框架都是这样一种被持守的模式，而[框架的边界](../the-boundary-of-the-frame/)标出遗忘观察者在哪里把它变成教条。
 
 ```mermaid
 flowchart TD
@@ -86,7 +86,7 @@ flowchart TD
     end
     E_Conj ==>|"投射临时规则或模式"| I_Map
     I_Diverge ==>|"将变异或死锁呈露给活的边缘"| E_Redraw
-    E_Redraw ==>|"为下一个发起前提提供依据"| E_Act
+    E_Redraw ==>|"为下一个动作被选择的前提提供参考"| E_Act
     I_Diverge -.->|"当观察不再返回边缘时"| F_Score
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Run fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -131,7 +131,7 @@ flowchart TD
     end
     E_Conj ==>|"Projects provisional rule or pattern"| I_Map
     I_Diverge ==>|"Surfaces variance or deadlock to the living edge"| E_Redraw
-    E_Redraw ==>|"Informs the next initiating premise"| E_Act
+    E_Redraw ==>|"Informs the chosen premise of the next act"| E_Act
     I_Diverge -.->|"When observation stops returning to the edge"| F_Score
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Run fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff

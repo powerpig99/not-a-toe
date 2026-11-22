@@ -53,7 +53,6 @@ flowchart TD
         Symp["症状登记：在持守之下被压缩的肥尾与非对称收益"]
         Act --> Hold --> Symp
     end
-
     subgraph S_Freeze["框架的豁免（过度图像滞后）"]
         direction TB
         Comp["所在压缩：将持守之下的登记误作先在结构"]
@@ -61,18 +60,15 @@ flowchart TD
         Well["认识论引力井：正交差值被重新路由回杠铃范畴"]
         Comp --> Asym --> Well
     end
-
     subgraph S_Open["开放的一致性与归还的参照"]
         direction TB
         Break["边界失效：未分类的摩擦暴露出坐标压缩轴线之处"]
         Return["在边缘处后退一步：心智重新渲染前提而非服从地图"]
         Break --> Return
     end
-
     Symp -.->|"义肢被安装为常设地基"| Comp
     Symp ==>|"作为局部器具被持为敞开"| Return
     Well ==>|"看见并释放豁免"| Break
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -97,7 +93,6 @@ flowchart TD
         Symp["Symptom Registration: Fat tails and asymmetric payoffs compressed under the hold"]
         Act --> Hold --> Symp
     end
-
     subgraph S_Freeze["Exemption of the Frame (Excess Image Lag)"]
         direction TB
         Comp["Locus Compression: Registration under a hold mistaken for prior structure"]
@@ -105,18 +100,15 @@ flowchart TD
         Well["Epistemic Gravity Well: Orthogonal differentials routed back into barbell categories"]
         Comp --> Asym --> Well
     end
-
     subgraph S_Open["Open Consistency and Returned Reference"]
         direction TB
         Break["Boundary Breakdown: Unclassified friction exposes where coordinates compressed axes"]
         Return["Stepping Back at the Edge: Mind re-renders the premise rather than obeying the map"]
         Break --> Return
     end
-
     Symp -.->|"Prosthesis installed as standing ground"| Comp
     Symp ==>|"Held open as local instrument"| Return
     Well ==>|"Exemption seen and released"| Break
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -140,7 +132,7 @@ Fallibility is invoked relentlessly to indict every predictive model and Fragili
 
 When the prosthesis is treated as the deeper ontological description rather than a useful local rendering, it turns into causal interference. By routing every friction back into a self-sealing vocabulary of convexity and tail risk, it dampens the signal that would otherwise press the Mind to revise or drop the frame when the coordinates no longer track what is occurring.
 
-正如[超越投射](../beyond-the-projection/)在有限投射引擎的架构中所追溯的，任何显式的启发式或坐标系，都是从鲜活的多维意图中投射出的简化投影。一旦被留在单一的自我确认回路内部，投影就会制造出属于它自己的认识论引力井，用先在的词库将反常包裹起来，以维持表面的合理性。试图让反脆弱启发式来统御自己与未知之间的整套关系，与将主权统御委托给有限调度器犯的是同一种范畴谬误：要求一个固定的投影去管辖生成它的未投射边缘。如[你的代码库即是记忆](../your-codebase-is-memory/)所示，无论是代码库还是统计坐标系，外化的结构唯有在鲜活心智始终居于未投射的边缘、并在摩擦暴露出压缩轴线时重溯与整合它们，才成其为人工记忆；拒绝这种替代，意味着让切身的摩擦与鲜活的区分直接施压，使心智在局部坐标陷入死锁时能退后一步、重新渲染前提，而非借凸性图表去中介每一次遭遇。
+正如[超越投射](../beyond-the-projection/)在有限投射引擎的架构中所追溯的，任何显式的启发式或坐标系，都是从鲜活的多维意图中投射出的简化投影。一旦被留在单一的自我确认回路内部，投影就会制造出属于它自己的认识论引力井，用先在的词库将反常包裹起来，以维持表面的合理性。试图让反脆弱启发式来统御自己与未知之间的整套关系，与将主权统御委托给有限调度器犯的是同一种范畴谬误：要求一个固定的投影去管辖生成它的未投射边缘。[你的代码库即是记忆](../your-codebase-is-memory/)在外化痕迹与清醒边缘之间标出了确切的结构边界：无论制品是代码库、书面文集还是统计坐标系，唯有当鲜活心智始终是未投射的驱动者——每当摩擦暴露出压缩轴线便重溯并巩固自身前提，在局部坐标陷入死锁时进一步退后，而非借凸性图表去中介每一次遭遇——它才成其为可用记忆。
 
 As [Beyond the Projection](../beyond-the-projection/) traces in the architecture of finite projection engines, any explicit heuristic or coordinate system is a reduced projection cast from living, multi-dimensional intent. Left inside a single self-confirming loop, a projection creates its own epistemic gravity well, wrapping anomalies in its prior vocabulary to preserve surface plausibility. Trying to let the antifragility heuristic orchestrate one's entire relation to the unknown is the same category error as delegating sovereign orchestration to a finite dispatcher: a fixed projection is asked to govern the unprojected edge that generated it. [Your Codebase Is Memory](../your-codebase-is-memory/) locates the exact structural boundary between an externalized trace and the waking edge: whether the artifact is a codebase, a written corpus, or a statistical coordinate system, it functions as usable memory only while the living Mind remains the unprojected driver that re-traces and consolidates its premises whenever friction exposes a compressed axis, stepping further back when a local coordinate deadlocks rather than mediating every encounter through convexity diagrams.
 
@@ -150,6 +142,6 @@ As [Beyond the Projection](../beyond-the-projection/) traces in the architecture
 
 The antifragility framework retains sharp practical utility where the option space stays tractable and the chosen stabilization holds. Its value increases when kept in its proper locus: one effective way the Mind renders certain statistical patterns observable, never the primary architecture through which reality must be met. Antifragility serves distinguishing, rather than distinguishing serving antifragility.
 
-每当暂时的持守被冻结为地基，将统计纹理抬升为工程化处方的做法便会在相邻领域反复重演。[现实扭曲力场颠倒了基线](../the-reality-distortion-field-inverts-the-baseline/)追溯了同样的抬升：幂律登记着跨越数量级的被迫敞开，而将其转化为一种可设计的属性，则重新安装了一个可被闭合的未来。[理性选择公设是原罪](../the-rational-choice-postulate-is-the-original-sin/)在经济学形式主义之下追溯了同一种动作：行为与生态补丁加密了对已兑现选择的事后重构，却并未松开那道基底冻结——正是它把私人且流动的前提这一唯一生成引擎排除在外。即便围绕单一的可选性来设计人生，一旦这一姿态本身被豁免于重溯，也会硬化为固定的参照，正如[追求机缘中的封闭现实](../closed-reality-in-the-pursuit-of-serendipity/)所揭示的，不设规划的规则在那里变成了另一份封闭的清单。
+每当暂时的持守被冻结为地基，将统计纹理抬升为工程化处方的做法便会在相邻领域反复重演。[现实扭曲力场颠倒了基线](../the-reality-distortion-field-inverts-the-baseline/)追溯了同样的抬升：幂律登记着跨越数量级的被迫敞开，而将其转化为一种可设计的属性，则重新安装了一个可被闭合的未来。[理性选择公设是原罪](../the-rational-choice-postulate-is-the-original-sin/)在经济学形式主义之下追溯了同一种动作：行为与生态补丁加密了对已兑现选择的事后重构，却并未松开那道基底冻结；而这道冻结所排除的，正是唯一的生成引擎——私人而变动的前提之下的个体选择。即便围绕单一的可选性来设计人生，一旦这一姿态本身被豁免于重溯，也会硬化为固定的参照，正如[追求机缘中的封闭现实](../closed-reality-in-the-pursuit-of-serendipity/)所揭示的，不设规划的规则在那里变成了另一份封闭的清单。
 
-Raising a statistical texture into an engineered prescription repeats across adjacent domains whenever a provisional hold is frozen as ground. [The Reality Distortion Field Inverts the Baseline](../the-reality-distortion-field-inverts-the-baseline/) traces the same elevation where power laws register forced openings across magnitudes, and converting them into a designable property reinstalls a closable future. [The Rational Choice Postulate Is the Original Sin](../the-rational-choice-postulate-is-the-original-sin/) traces the identical move under economic formalism, where behavioral and ecological patches densify the post-hoc reconstruction of already-materialized choices without releasing the foundational freeze that discards private, shifting premises as the sole generative engine. Even engineering one's life for pure optionality hardens into a fixed reference when the posture itself is exempted from re-tracing, as [Closed Reality in the Pursuit of Serendipity](../closed-reality-in-the-pursuit-of-serendipity/) shows where the rule of having no plan becomes another closed inventory.
+Raising a statistical texture into an engineered prescription repeats across adjacent domains whenever a provisional hold is frozen as ground. [The Reality Distortion Field Inverts the Baseline](../the-reality-distortion-field-inverts-the-baseline/) traces the same elevation where power laws register forced openings across magnitudes, and converting them into a designable property reinstalls a closable future. [The Rational Choice Postulate Is the Original Sin](../the-rational-choice-postulate-is-the-original-sin/) traces the identical move under economic formalism, where behavioral and ecological patches densify the post-hoc reconstruction of already-materialized choices without releasing the foundational freeze that excludes the sole generative engine—individual choice under private, shifting premises. Even engineering one's life for pure optionality hardens into a fixed reference when the posture itself is exempted from re-tracing, as [Closed Reality in the Pursuit of Serendipity](../closed-reality-in-the-pursuit-of-serendipity/) shows where the rule of having no plan becomes another closed inventory.
