@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-22T04:58:33.034Z",
+    "generated_at": "2026-11-22T05:47:34.330Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -168,7 +168,7 @@
       "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "0e54e4e3f39f",
       "content/posts/on-education.md": "2506ab652440",
       "content/posts/on-the-boundaries-of-what-can-be-said-about-p-and-np.md": "2cb5a3dff94a",
-      "content/posts/one-cannot-escape-ones-own-mind.md": "f1ed4efed15f",
+      "content/posts/one-cannot-escape-ones-own-mind.md": "8b93b91271b8",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "b68e2cc6fd51",
       "content/posts/only-if-it-is-not-kept-empty.md": "0ca65862b0fc",
       "content/posts/ontos-is-a-method-agent.md": "4224657b580a",
@@ -184,7 +184,7 @@
       "content/posts/platform-decision-capture.md": "0ee6b04aa27a",
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "c71369802649",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "028a28b54a32",
-      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "cb1f469a0671",
+      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "970f15f5bad3",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "57d4caa587f7",
       "content/posts/precision-and-resolution.md": "6a62412fc47d",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "048c60e24068",
@@ -241,7 +241,7 @@
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "4eb4b55d4fac",
       "content/posts/the-boundary-of-the-frame.md": "d379a51837b8",
       "content/posts/the-brain-does-not-backprop.md": "e1886dd17252",
-      "content/posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice.md": "c5729e23bdf4",
+      "content/posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice.md": "988bf37e7a02",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "a8a4ce29b72b",
       "content/posts/the-carry-that-cannot-be-named-inside-the-register.md": "c9d4f62e603a",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "b6bc0c00f0f4",
@@ -483,10 +483,10 @@
     },
     "stats": {
       "posts": 456,
-      "edges": 14020,
-      "unique_directed": 6891,
+      "edges": 14026,
+      "unique_directed": 6894,
       "missing_targets": 0,
-      "one_way": 1523,
+      "one_way": 1522,
       "isolated": 0,
       "posts_with_outbound": 456,
       "book_pages": 16,
@@ -860,7 +860,7 @@
       "path": "content/posts/actual-infinity-born-inside-potential-infinity.md",
       "title": "实无限生于潜无限 / Actual Infinity Born Inside Potential Infinity",
       "hash": "6f688ab99507",
-      "in_degree": 0,
+      "in_degree": 3,
       "out_degree": 14,
       "links_out": [
         "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
@@ -5121,13 +5121,14 @@
       "slug": "one-cannot-escape-ones-own-mind",
       "path": "content/posts/one-cannot-escape-ones-own-mind.md",
       "title": "无法逃逸的心智视界 / One Cannot Escape One's Own Mind",
-      "hash": "f1ed4efed15f",
+      "hash": "8b93b91271b8",
       "in_degree": 15,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "subtracting-consciousness-at-the-source",
         "the-continuum-of-the-fold",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+        "actual-infinity-born-inside-potential-infinity",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "the-shadow-and-the-infinite",
         "the-explanatory-trap-of-the-ordinary-perspective",
@@ -5662,9 +5663,9 @@
       "slug": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "path": "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md",
       "title": "潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought",
-      "hash": "cb1f469a0671",
+      "hash": "970f15f5bad3",
       "in_degree": 19,
-      "out_degree": 21,
+      "out_degree": 22,
       "links_out": [
         "the-mirage-of-the-infinite-totality",
         "the-geometry-of-mind",
@@ -5677,6 +5678,7 @@
         "why-mathematics-can-never-be-solved",
         "the-myth-of-the-four-dimensional-deer-and-the-present-model",
         "the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function",
+        "actual-infinity-born-inside-potential-infinity",
         "beyond-the-projection",
         "your-codebase-is-memory",
         "dynamic-resnet-of-skill-loops",
@@ -7304,12 +7306,13 @@
       "slug": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
       "path": "content/posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice.md",
       "title": "整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice",
-      "hash": "c5729e23bdf4",
+      "hash": "988bf37e7a02",
       "in_degree": 3,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "precision-and-resolution",
         "the-mirage-of-the-infinite-totality",
+        "actual-infinity-born-inside-potential-infinity",
         "the-continuum-is-a-modeling-convenience",
         "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
         "the-scaffolding-we-forget",
@@ -43868,6 +43871,18 @@
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
+      "to": "actual-infinity-born-inside-potential-infinity",
+      "rel": "points_to",
+      "label": "实无限生于潜无限"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "actual-infinity-born-inside-potential-infinity",
+      "rel": "points_to",
+      "label": "Actual Infinity Born Inside Potential Infinity"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
       "label": "“物理学才是定律”的障眼法"
@@ -48206,9 +48221,21 @@
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "actual-infinity-born-inside-potential-infinity",
+      "rel": "points_to",
+      "label": "实无限生于潜无限"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "to": "the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function",
       "rel": "points_to",
       "label": "The Holographic Echo"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "actual-infinity-born-inside-potential-infinity",
+      "rel": "points_to",
+      "label": "Actual Infinity Born Inside Potential Infinity"
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
@@ -59000,6 +59027,12 @@
     },
     {
       "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "to": "actual-infinity-born-inside-potential-infinity",
+      "rel": "points_to",
+      "label": "实无限生于潜无限"
+    },
+    {
+      "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
       "to": "precision-and-resolution",
       "rel": "points_to",
       "label": "Precision and Resolution"
@@ -59009,6 +59042,12 @@
       "to": "the-mirage-of-the-infinite-totality",
       "rel": "points_to",
       "label": "The Mirage of the Infinite Totality"
+    },
+    {
+      "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "to": "actual-infinity-born-inside-potential-infinity",
+      "rel": "points_to",
+      "label": "Actual Infinity Born Inside Potential Infinity"
     },
     {
       "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
