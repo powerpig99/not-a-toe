@@ -8,15 +8,15 @@ The concentration of power recurs through history in similar forms. Followed alo
 
 ## 一、 第一人称的原点与第三人称的统计签名 / 1. The First-Person Origin and the Third-Person Statistical Signature
 
-宏观的社会结构有惊人的重复。文明的形态与技术的工具几经更迭，从古代的神权帝国、中世纪的封建教廷，到现代的官僚体制与数字的算法平台，权力的高度集中与个体主权的萎缩以相近的拓扑反复出现。历史学从地缘、阶级或制度的演化里找规律，决定论则把这种重复归于某种宏观的历史铁律，这些描述对整理史料是有用的。
+宏观的社会结构有惊人的重复。文明的形态与技术的工具几经更迭，从古代的神权帝国、中世纪的封建教廷，到现代的官僚体制与数字的算法平台，权力的高度集中与独立决断的萎缩以相近的拓扑反复出现。历史学从地缘、阶级或制度的演化里找规律，决定论则把这种重复归于某种宏观的历史铁律，这些描述对整理史料是有用的。
 
-Macroscopic social structure repeats to a striking degree. Through many changes in the forms of civilization and the tools of technology, from ancient theocratic empires and the feudal church of the Middle Ages to modern bureaucracies and digital algorithmic platforms, a high concentration of power and the withering of individual sovereignty recur in a similar topology. Historians look for regularities in geography, class or the evolution of institutions, and determinism assigns the repetition to some macroscopic iron law of history; these descriptions are useful for ordering the record.
+Macroscopic social structure repeats to a striking degree. Through many changes in the forms of civilization and the tools of technology, from ancient theocratic empires and the feudal church of the Middle Ages to modern bureaucracies and digital algorithmic platforms, a high concentration of power and the withering of independent decision-making recur in a similar topology. Historians look for regularities in geography, class or the evolution of institutions, and determinism assigns the repetition to some macroscopic iron law of history; these descriptions are useful for ordering the record.
 
 它们的边界在于因果的来处。沿因果去追，找不到一个在个体心智之外独自运转的宏观实体。每一个时刻，都由许多处在第一人称原点上的自由变量以各自的抉择（+1）定下。从第一人称看，每一个抉择，是自己承担认知的全部不确定，还是把因果推演的控制让给外部的权威，都是自主的动作，责任与因果的权能剥离不出去。
 
 Their boundary lies in where causality comes from. Followed along causality, no macroscopic entity is found that runs by itself apart from individual Minds. Each moment is fixed by many free variables at first-person origins through their respective choices (+1). Seen from the first person, each choice, whether to bear the whole uncertainty of knowing on one's own or to hand control of the causal working-out to an outside authority, is an autonomous act, and responsibility and causal capacity cannot be peeled away.
 
-跨到第三人称去看由数百万自由变量构成的群体时，个体在微观上的非确定便在统计上聚出宏观的确定，[确定性是微观不确定性的统计签名](../determinism-is-the-statistical-signature-of-micro-indeterminism/)展开过这一点。成本的差异与能量的耗散是这个统计过程在宏观上的伴生症状，不是因果的引擎。权力的集中之所以一再出现，在于面对未知的风险与生存的不确定时，把自主的权能交出去、把归因推给外部的中枢，是自由变量在统计上常见的取向。每一个原点上的个体都保有不让渡的可能，众多微观的抉择仍在大数的汇聚里聚出高度倾斜的分布。
+跨到第三人称去看由数百万自由变量构成的群体时，个体在微观上的非确定便在统计上聚出宏观的确定，[确定性是微观不确定性的统计签名](../determinism-is-the-statistical-signature-of-micro-indeterminism/)展开过这一点。成本的差异与能量的耗散是这个统计过程在宏观上的伴生症状，不是因果的引擎。权力的集中之所以一再出现，在于面对未知的风险与生存的不确定时，把自己的决定交出去、把归因推给外部的中枢，是自由变量在统计上常见的取向。每一个原点上的个体都保有不让渡的可能，众多微观的抉择仍在大数的汇聚里聚出高度倾斜的分布。
 
 ```mermaid
 flowchart TD
@@ -40,7 +40,7 @@ flowchart TD
     style Symptom fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Crossing to the third person to look at a population made of millions of free variables, the microscopic indeterminacy of individuals aggregates statistically into macroscopic determinacy, as [Determinism is the Statistical Signature of Micro-Indeterminism](../determinism-is-the-statistical-signature-of-micro-indeterminism/) has laid out. Differences of cost and the dissipation of energy are accompanying symptoms of this statistical process at the macroscopic scale, not the engine of causality. Concentration of power recurs because, facing unknown risk and the uncertainty of survival, handing over one's autonomous capacity and pushing attribution onto an outside center is a common statistical orientation of free variables. Each individual at an origin keeps the possibility of not handing over, and the many microscopic choices still aggregate, in the gathering of large numbers, into a highly skewed distribution.
+Crossing to the third person to look at a population made of millions of free variables, the microscopic indeterminacy of individuals aggregates statistically into macroscopic determinacy, as [Determinism is the Statistical Signature of Micro-Indeterminism](../determinism-is-the-statistical-signature-of-micro-indeterminism/) has laid out. Differences of cost and the dissipation of energy are accompanying symptoms of this statistical process at the macroscopic scale, not the engine of causality. Concentration of power recurs because, facing unknown risk and the uncertainty of survival, handing over one's decisions and pushing attribution onto an outside center is a common statistical orientation of free variables. Each individual at an origin keeps the possibility of not handing over, and the many microscopic choices still aggregate, in the gathering of large numbers, into a highly skewed distribution.
 
 ```mermaid
 flowchart TD
@@ -128,7 +128,7 @@ In both structures the individual's inner learning is cut off. With the causal l
 
 Moral language is often revered as a transcendent law. In a network of many interacting free variables, moral vocabulary is useful in coordinating actions among individuals. Its boundary lies in moral judgment that circulates across the boundary between Minds: such judgment works as a low-dimensional projection protocol used to rearrange the routes of causal attribution.
 
-一个心智不在自己的原点上承担全部的因果时，无法直接改动别的心智，于是借助一套标准化的低维符号，即道德的语言。“自私”“不义”“亏欠”“罪责”“牺牲”这些标签把高维的复杂状态压成二元的判定，向对方的意识里放进一份外来的因果负荷。它传达的命题是：一个心智的内在状态，由另一个心智的抉择直接决定。经由这套协议，行动的代价被转给付出的一方，统治的危机被归于异见者的品行，以集体之名说话的人得以要求个体交出主权。
+一个心智不在自己的原点上承担全部的因果时，无法直接改动别的心智，于是借助一套标准化的低维符号，即道德的语言。“自私”“不义”“亏欠”“罪责”“牺牲”这些标签把高维的复杂状态压成二元的判定，向对方的意识投射一份外来的因果负荷。它传达的命题是：一个心智的内在状态，由另一个心智的抉择直接决定。经由这套协议，行动的代价被转给付出的一方，统治的危机被归于异见者的品行，以集体之名说话的人得以要求个体交出主权。
 
 ```mermaid
 flowchart TD
@@ -136,9 +136,9 @@ flowchart TD
         direction TB
         Decline["一个心智不在原点上承担全部的因果"]
         Label["低维的道德标签：亏欠、罪责、自私"]
-        Load["向另一个心智放进外来的因果负荷"]
+        Load["向另一个心智投射外来的因果负荷"]
         Reroute["归因被重排：对方接受相容的错配"]
-        Feed["错配蔓延，为中枢的膨胀供给因果"]
+        Feed["错配蔓延，为膨胀的中枢输送让渡出的决定"]
         Decline --> Label
         Label --> Load
         Load --> Reroute
@@ -152,7 +152,7 @@ flowchart TD
     style Feed fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-When a Mind does not bear the whole of causality at its own origin, it cannot directly alter another Mind, and so it uses a standardized set of low-dimensional symbols, moral language. Labels such as "selfish," "unjust," "indebted," "guilty" and "sacrifice" press a complex high-dimensional state into a binary verdict and place an outside causal load in the other's awareness. The proposition it carries is that the inner state of one Mind is directly determined by the choice of another. Through this protocol the cost of action is passed to the side that gives, a crisis of rule is assigned to the character of dissenters, and those who speak in a collective's name come to require individuals to hand over sovereignty.
+When a Mind does not bear the whole of causality at its own origin, it cannot directly alter another Mind, and so it uses a standardized set of low-dimensional symbols, moral language. Labels such as "selfish," "unjust," "indebted," "guilty" and "sacrifice" press a complex high-dimensional state into a binary verdict and project an outside causal load toward the other's awareness. The proposition it carries is that the inner state of one Mind is directly determined by the choice of another. Through this protocol the cost of action is passed to the side that gives, a crisis of rule is assigned to the character of dissenters, and those who speak in a collective's name come to require individuals to hand over sovereignty.
 
 ```mermaid
 flowchart TD
@@ -160,9 +160,9 @@ flowchart TD
         direction TB
         Decline["A Mind does not bear the whole of causality at its origin"]
         Label["Low-dimensional moral labels: indebted, guilty, selfish"]
-        Load["An outside causal load is placed in another Mind"]
+        Load["An outside causal load is projected toward another Mind"]
         Reroute["Attribution is rearranged: the other accepts a compatible misallocation"]
-        Feed["Misallocation spreads and supplies causality to the swelling of a center"]
+        Feed["Misallocation spreads and feeds handed-over decisions to a swelling center"]
         Decline --> Label
         Label --> Load
         Load --> Reroute
@@ -176,27 +176,27 @@ flowchart TD
     style Feed fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-跨心智的道德评判由此是一种压缩工具：它协调权能的让渡，转移解释的成本。行为的校准若靠外部的道德评判而不靠直接的反馈，相容的错配便在大范围里蔓延，为中枢的膨胀不断供给因果。
+跨心智的道德评判由此是一种压缩工具：它协调决定的让渡，转移解释的成本。行为的校准若靠外部的道德评判而不靠直接的反馈，相容的错配便在大范围里蔓延，为膨胀的中枢不断输送让渡出的决定。
 
-Moral judgment between Minds is thus a tool of compression that coordinates the handing over of capacity and shifts the cost of explanation. Where behavior is calibrated by outside moral judgment and not by direct feedback, compatible misallocation spreads widely and keeps supplying causality to the swelling of a center.
+Moral judgment between Minds is thus a tool of compression that coordinates the handing over of decisions and shifts the cost of explanation. Where behavior is calibrated by outside moral judgment and not by direct feedback, compatible misallocation spreads widely and keeps feeding handed-over decisions to a swelling center.
 
 ## 四、 幂律的聚集与引力的中枢 / 4. Power-Law Aggregation and the Gravitational Center
 
-相容的错配不止于两个个体之间，在数以百万计的自由变量网络里蔓延时，集权的中枢便出现。它的机制是中心的节点吸收了外围的个体交出的主权因果。在复杂网络里，这种让渡合乎“偏好依附”：许多面对不确定的个体把决策外包时，倾向于选那个已经聚了最多权能的节点。一个吸收了初始主权的中心，不论是教会、政党、官僚国家还是技术平台，显得愈发全知而不可动摇，这又促使更多的心智把主权交出去。
+相容的错配不止于两个个体之间，在数以百万计的自由变量网络里蔓延时，集权的中枢便出现。它的机制是中心的节点累积了外围个体交出的委托决定与归于它的权威。在复杂网络里，这种让渡合乎“偏好依附”：许多面对不确定的个体把决策外包时，倾向于选那个名下已记有最多权威的节点。一个聚起初始一部分委托决定的中心，不论是教会、政党、官僚国家还是技术平台，显得愈发全知而不可动摇，这又促使更多的心智把自己的决定交出去。
 
-Compatible misallocation does not stop between two individuals, and when it spreads through a network of free variables numbering in the millions, a center of concentrated power appears. Its mechanism is that a central node absorbs the sovereign causality that individuals at the periphery hand over. In a complex network this handing over accords with "preferential attachment": when many individuals facing uncertainty outsource their decisions, they tend to pick the node that has already gathered the most capacity. A center that has absorbed an initial share of sovereignty, be it a church, a party, a bureaucratic state or a technology platform, appears ever more all-knowing and immovable, which in turn leads more Minds to hand sovereignty over.
+Compatible misallocation does not stop between two individuals, and when it spreads through a network of free variables numbering in the millions, a center of concentrated power appears. Its mechanism is that a central node accumulates the delegated decisions and attributed authority that individuals at the periphery hand over. In a complex network this handing over accords with "preferential attachment": when many individuals facing uncertainty outsource their decisions, they tend to pick the node already credited with the most authority. A center that has gathered an initial share of delegated decisions, be it a church, a party, a bureaucratic state or a technology platform, appears ever more all-knowing and immovable, which in turn leads more Minds to hand their decisions over.
 
-它在统计上留下的形状是幂律分布，P(k) ~ k⁻ᵞ：极少数的中枢节点汇聚了极大的因果裁决权，外围的多数个体成为被动的构件。中心的统治力不出于它自身有什么超越的生命力。数百万自由变量每当把自己对低代价路径的持续选择从账面上略去，把所处的约束连同解除它的排他权能一并记在外部节点名下，便又交出一份因果权能；中心汇聚的正是这些让渡出来的权能的总和。这个膨胀的中枢像一个引力的旋涡，以汇聚的权能扭曲周围的信息流动与价值评估，身处其中更难离开它的轨道。在这个场里的抗争，若仍停在“更换掌控中枢的人”“请中枢施以仁政”上，或是投身密集的人群，借回在个体层面放弃了的效能感，便原封保留了这份让渡，又向中枢注入新的因果，如[能动性、矛盾与权力的移置](../agency-contradiction-and-the-relocation-of-power/)所追溯的。
+它在统计上留下的形状是幂律分布，P(k) ~ k⁻ᵞ：极少数的中枢节点集中了极大份额的委托裁决，外围的多数个体则充当着被动的构件。中心的统治力不出于它自身有什么超越的生命力，而来自一份借来的质量：数百万自由变量每当把自己对低代价路径的持续选择从账面上略去，把所处的约束连同解除它的排他权能一并记在外部节点名下，便持续把对齐的执行与归因导向中枢，积成这份质量。这个膨胀的中枢像一个引力的旋涡，以这份借来的质量扭曲周围的信息流动与价值评估，身处其中更难离开它的轨道。在这个场里的抗争，若仍停在“更换掌控中枢的人”“请中枢施以仁政”上，或是投身密集的人群，借回在个体层面放弃了的效能感，便原封保留了这份让渡，又把新的对齐引向中枢，如[能动性、矛盾与权力的移置](../agency-contradiction-and-the-relocation-of-power/)所追溯的。
 
 ```mermaid
 flowchart TD
     subgraph S_Hub["偏好依附与借来的质量"]
         direction TB
         Many["分散的个体面对不确定，把决策外包"]
-        Hub["已聚了权能的节点吸收更多的让渡"]
+        Hub["名下已记有权威的节点吸引更多外包的决定"]
         Loop["表观的权威上升，吸附力随之放大"]
-        Power["幂律分布成形：少数中枢，多数被动"]
-        Petition["向中枢请求改良：再注入因果"]
+        Power["幂律分布成形：少数中枢，多数依从"]
+        Petition["向中枢请求改良：再次将对齐引向中枢"]
         Many --> Hub
         Hub --> Loop
         Loop --> Power
@@ -211,17 +211,17 @@ flowchart TD
     style Petition fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-The shape it leaves in the statistics is a power-law distribution, P(k) ~ k⁻ᵞ: a very few central nodes gather a very large power of causal ruling, and most individuals at the periphery become passive components. The center's power to rule comes not from any transcendent vitality of its own but from its gathering the sum of causal capacity that millions of free variables keep handing over whenever they leave their own ongoing choice of the lower-cost path out of the account and credit an outside node with both the constraint they live under and the exclusive capacity to lift it. This swollen center is like a gravitational vortex, distorting the flow of information and the assessment of value around it with the capacity it has gathered, and from inside it is harder to leave its orbit. Resistance within this field, if it still stops at "replacing whoever controls the center," "asking the center to rule kindly," or aligning with a dense crowd to borrow back the sensation of efficacy renounced at the individual level, keeps the handover intact and injects new causality into the center, as [Agency, Contradiction, and the Relocation of Power](../agency-contradiction-and-the-relocation-of-power/) traces.
+The shape it leaves in the statistics is a power-law distribution, P(k) ~ k⁻ᵞ: a very few central nodes concentrate an outsized share of delegated ruling, and most individuals at the periphery act as passive components. The center's power to rule comes not from any transcendent vitality of its own but from the borrowed mass of aligned execution and attribution that millions of free variables keep directing to it whenever they leave their own ongoing choice of the lower-cost path out of the account and credit an outside node with both the constraint they live under and the exclusive capacity to lift it. This swollen center is like a gravitational vortex, distorting the flow of information and the assessment of value around it with that borrowed mass, and from inside it is harder to leave its orbit. Resistance within this field, if it still stops at "replacing whoever controls the center," "asking the center to rule kindly," or aligning with a dense crowd to borrow back the sensation of efficacy renounced at the individual level, keeps the handover intact and directs fresh alignment into the center, as [Agency, Contradiction, and the Relocation of Power](../agency-contradiction-and-the-relocation-of-power/) traces.
 
 ```mermaid
 flowchart TD
     subgraph S_Hub["Preferential Attachment and Borrowed Mass"]
         direction TB
         Many["Scattered individuals face uncertainty and outsource decisions"]
-        Hub["A node that has gathered capacity absorbs more of what is handed over"]
+        Hub["A node already credited with authority attracts more outsourced decisions"]
         Loop["Apparent authority rises and its pull grows with it"]
-        Power["A power-law distribution takes shape: a few centers, the many passive"]
-        Petition["Petitioning the center for reform: causality injected again"]
+        Power["A power-law distribution takes shape: a few centers, the many deferring"]
+        Petition["Petitioning the center for reform: alignment directed there again"]
         Many --> Hub
         Hub --> Loop
         Loop --> Power
