@@ -492,7 +492,7 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
                 if 'direction TB' not in block and 'direction TD' not in block:
                     horizontal_layout_issues.append(f"Diagram {idx} has {len(subgraphs)} subgraphs but lacks 'direction TB'. Subgraphs must enforce vertical node flow.")
 
-                has_inter_subgraph_edge = bool(re.search(r'==+>|-->|-\.->', block.split('end')[-1])) or bool(re.search(r'==+>', block))
+                has_inter_subgraph_edge = bool(re.search(r'==+>|-->|-\.->', re.split(r'(?m)^\s*end\s*$', block)[-1])) or bool(re.search(r'==+>', block))
                 if not has_inter_subgraph_edge:
                     horizontal_layout_issues.append(f"Diagram {idx} has {len(subgraphs)} disconnected subgraphs without vertical connecting arrow (e.g. UpperNode ==> LowerNode), which causes horizontal side-by-side layout.")
 
