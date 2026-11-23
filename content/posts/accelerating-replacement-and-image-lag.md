@@ -8,9 +8,9 @@ Each rise in the efficiency of going forward arrives accompanied by sharper look
 
 ## 一、 同一运动的两侧 / 1. Two Sides of One Movement
 
-每一次向前的效率提升，都伴随更频繁的回望，或对现有形态更用力的维持。当要求进步在不同时点呈现相同形象时，这一伴随便显出悖论；一旦允许形象本身随替换而变，这一相伴便只是同一运动的两面。从一侧看去仿佛加速的现在正在替换过去，而更前方之物又已在替换现在，但这并非抽象的时代在彼此推挤退场。
+每一次向前的效率提升，都伴随更频繁的回望，或对现有形态更用力的维持。当要求进步在不同时点呈现相同形象时，这一伴随便显出悖论；一旦允许形象本身随替换而变，这一相伴便是同一运动的两面。从一侧看去仿佛加速的现在正在替换过去，而更前方之物又已在替换现在，但这并非抽象的时代在彼此推挤退场。
 
-Every rise in the efficiency of going forward arrives accompanied by more frequent looking backward, or by stronger efforts to hold existing forms steady. The accompaniment appears paradoxical only while progress is required to present the same image at successive points; once the image itself is allowed to change with the replacement, both are simply two faces of one movement. What looks from one side like an accelerating present replacing the past, and something further ahead already replacing the present, does not happen by abstract epochs pushing one another off stage.
+Every rise in the efficiency of going forward arrives accompanied by more frequent looking backward, or by stronger efforts to hold existing forms steady. The accompaniment appears paradoxical only while progress is required to present the same image at successive points; once the image itself is allowed to change with the replacement, both are two faces of one movement. What looks from one side like an accelerating present replacing the past, and something further ahead already replacing the present, does not happen by abstract epochs pushing one another off stage.
 
 自我区分的活动发生着——无因、不息。称之为心智：早已在途的观察者，其每一次行动都是一次区分。正因为每次区分都划出一个有限构型，它必定在有界中心处运作，并留下稳定化残余——工具、工作流、制度形态、心智习惯——且只朝单一方向塑形后续行动。“过去”、“现在”与“进步”各自都不是能够自行移动的自主行动者。替换严格发生在活生生的有界中心越过稳定化残余继续划出离散区分之处，将昨日的结构转化为下一刀借以迈步的地板，正如[持续生长的脚手架](../the-scaffolding-that-keeps-growing/)所追溯的那样。
 
@@ -40,15 +40,15 @@ Historical intervals explain why earlier accelerations masked this intra-mind te
 
 When replacement intervals compress into months, the same mind lives both sides of the replacement at once. Those driving the process still remember—or personally built—the systems now being overtaken, while knowing that the systems they are advancing will themselves be overtaken by the next increment. Looking back and holding steady therefore become vivid even for the drivers. Rather than presenting as uniform conservatism, that holding-steady impulse splits asymmetrically: internal trajectories and imaginations keep pushing forward, while external deployment, other laboratories, or public use are urged to pause, slow, or freeze.
 
-2026 年 11 月的一则插曲清晰呈现出这一反复出现的模式，它并非孤立的新闻例外。在传出 Claude Opus 5.5 给出黎曼猜想形式化证明库的消息之后，前沿地带的反应就在同一时刻中央裂开：埃隆·马斯克在 X 上宣告“毫无疑问的超级智能已经降临，欢迎来到奇点”；量化分析师史蒂夫·侯一边记下市场上糟糕的情绪、疲惫感与谨慎收盘的谈论，一边提到更强内部模型的预期；而 Meta AI 负责人亚历山大·汪则撰文（《超级智能正在到来》）称，“在一个我们并不理解的异己心智协助下”证明该猜想，使智能不再是各领域的瓶颈，继而警告各领域可能会“以超出人类理解或监控能力的步速”加速，判断“很难想象人类还能在一个毫无约束的递归自我改进世界里维持控制”，并敦促业界领袖拒绝“交接”、偏离眼前的“默认路径”——而与此同时，算力建设与竞争性迭代仍在继续往前推进（[加速的自指回环与自我实现的终结叙事](../the-loop-accelerates/)）。在同一串讨论里，梁京将这一结构性对称凝练为一句话：向前的效率提升，与更频繁、更强烈的回望或维持企图相伴而至。
+2026 年 11 月的一则插曲呈现出这一反复出现的模式。在传出 Claude Opus 5.5 给出黎曼猜想形式化证明库的消息之后，前沿地带的反应就在同一时刻中央裂开：埃隆·马斯克在 X 上宣告“毫无疑问的超级智能已经降临，欢迎来到奇点”；量化分析师史蒂夫·侯一边记下市场上糟糕的情绪、疲惫感与谨慎收盘的谈论，一边提到更强内部模型的预期；而 Meta AI 负责人亚历山大·汪则撰文（《超级智能正在到来》）称，“在一个我们并不理解的异己心智协助下”证明该猜想，使智能不再是各领域的瓶颈，继而警告各领域可能会“以超出人类理解或监控能力的步速”加速，判断“很难想象人类还能在一个毫无约束的递归自我改进世界里维持控制”，并敦促业界领袖拒绝“交接”、偏离眼前的“默认路径”——而与此同时，算力建设与竞争性迭代仍在继续往前推进（[加速的自指回环与自我实现的终结叙事](../the-loop-accelerates/)）。
 
-A November 2026 episode illustrates this recurring pattern cleanly without serving as an isolated news exception. Following reports of a Claude Opus 5.5 formal proof library for the Riemann Hypothesis, reactions across the frontier split down the middle of the same moment: Elon Musk declared on X that *"Unequivocal super intelligence has arrived. Welcome to the Singularity,"* while quantitative analyst Steve Hou noted terrible mood, exhaustion, and cautious talk of closing books alongside expectations of an even stronger internal model, and Meta AI chief Alexandr Wang wrote (*"Superintelligence is Arriving"*) that proving the conjecture *"with the help of an alien mind that we don't understand"* removed intelligence as the bottleneck across fields, warned that domains could accelerate *"at a pace beyond what humans can understand or monitor,"* judged it *"hard to imagine a world where humanity can maintain control over fully unconstrained recursive self-improvement,"* and urged industry leaders to reject a *"handover"* and depart from the *"default path"*—even while compute buildouts and competitive iteration kept advancing ([The Loop Accelerates](../the-loop-accelerates/)). On the same thread, Jing Liang condensed the structural symmetry: rising efficiency in going forward arriving hand in hand with intensified looking backward and trying to hold steady.
+A November 2026 episode illustrates this recurring pattern. Following reports of a Claude Opus 5.5 formal proof library for the Riemann Hypothesis, reactions across the frontier split down the middle of the same moment: Elon Musk declared on X that *"Unequivocal super intelligence has arrived. Welcome to the Singularity,"* while quantitative analyst Steve Hou noted terrible mood, exhaustion, and cautious talk of closing books alongside expectations of an even stronger internal model, and Meta AI chief Alexandr Wang wrote (*"Superintelligence is Arriving"*) that proving the conjecture *"with the help of an alien mind that we don't understand"* removed intelligence as the bottleneck across fields, warned that domains could accelerate *"at a pace beyond what humans can understand or monitor,"* judged it *"hard to imagine a world where humanity can maintain control over fully unconstrained recursive self-improvement,"* and urged industry leaders to reject a *"handover"* and depart from the *"default path"*—even while compute buildouts and competitive iteration kept advancing ([The Loop Accelerates](../the-loop-accelerates/)).
 
-把这种不对称姿态读作道德虚伪，便错失了它的生成机制；这份不对称直接源自第一人称位点几何。在自身位点之内，下一增量原生生长自熟悉的代码库、模型权重与默会运作反馈，出自其上执行的活跃抉择（+1），因此哪怕以月为步速，内部推进依然清晰可读、仍在掌舵之中。然而跨越位点边界之后，另一处中心的月度跃迁缺乏共享的内部语境，穿过不断拉宽的形象滞后，登记为一股不受自己掌舵的外来力量——汪所感到的“异己心智”越出理解与控制，正源于此。同一种跨位点登记，既催生了马斯克对奇点的宣告，也催生了对自主递归自我改进的恐惧：把经由编译的形式化证明库或模型检查点这类致密化器物当作独立的发起中心，正是把能动性从活的前沿迁入它的残余之中（[器物是智能的表达，而非智能本身](../two-failures-of-trace/)）；而将局部斜率外推为自主奇点，则是投射出一道永远会被正在划出它的那些心智超越的门槛（[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)；[超越的定相](../the-fixed-image-of-transcendence/)）。
+这份不对称直接源自第一人称位点几何。当心智从驾驶位掌舵（+1）时，下一增量原生生长于熟悉的代码库、模型权重与默会运作反馈之上，因此哪怕以月为步速，内部推进依然清晰可读。然而，正是驱动这一变化的同一个心智，也会一时坐进乘客位，被自己的影子惊住——也就是它自己或同行建造者刚刚留在身后的致密化路径，正如在马斯克与汪身上所见。从那处乘客视角穿过不断拉宽的形象滞后望去，这条刚铸出的路径——无论是自己的还是同行建造者的——便登记为一股不受自己掌舵的异己势头（“异己心智”、“欢迎来到奇点”、“超出人类理解或监控能力”）。同一种乘客位登记，既催生了马斯克对奇点的宣告，也催生了对自主递归自我改进的恐惧：把经由编译的形式化证明库或模型检查点这类致密化器物当作独立的发起中心，正是把能动性从活的前沿迁入它的残余之中（[器物是智能的表达，而非智能本身](../two-failures-of-trace/)）；而将局部斜率外推为自主奇点，则是投射出一道永远会被正在划出它的那些心智超越的门槛（[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)；[超越的定相](../the-fixed-image-of-transcendence/)）。
 
-Reading that asymmetric stance as moral hypocrisy misses its mechanism; the asymmetry follows directly from first-person locus geometry. Inside one's own locus, the next increment grows natively out of active choices (`+1`) executed atop familiar codebases, weights, and tacit operational feedback, so internal advance remains legible and steered even at monthly speed. Across locus boundaries, however, another center's monthly leap arrives without shared internal context, crossing widening Image lag as an unsteered external force—hence Wang's sense of an *"alien mind"* moving beyond comprehension and control. That same cross-locus registration powers both Musk's Singularity declaration and fears of autonomous recursive self-improvement: treating densified artifacts—a compiled formal proof library or model checkpoint—as an independent originating center relocates agency out of the living edge into its residue ([Artifacts Are Expressions of Intelligence, Not Intelligence Itself](../two-failures-of-trace/)), while extrapolating a local slope into an autonomous Singularity projects a threshold that is perpetually overtaken by the very Minds drawing it ([AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/); [The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/)).
+The asymmetry follows directly from first-person locus geometry. While the Mind steers from the driver's seat (`+1`), the next increment grows natively atop familiar codebases, weights, and tacit operational feedback, so internal advance remains legible even at monthly speed. Yet the very same Mind driving the change can momentarily assume a passenger position and be startled by its own shadow—the densified path just left behind by itself, or by peer builders alike, as seen in Musk and Wang. Viewed from that passenger vantage across widening Image lag, the freshly cast path—its own or a fellow builder's—registers as an alien, unsteered momentum (*"an alien mind,"* *"Welcome to the Singularity,"* *"beyond what humans can understand or monitor"*). That same passenger-seat registration powers both Musk's Singularity declaration and fears of autonomous recursive self-improvement: treating densified artifacts—a compiled formal proof library or model checkpoint—as an independent originating center relocates agency out of the living edge into its residue ([Artifacts Are Expressions of Intelligence, Not Intelligence Itself](../two-failures-of-trace/)), while extrapolating a local slope into an autonomous Singularity projects a threshold that is perpetually overtaken by the very Minds drawing it ([AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/); [The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/)).
 
-经核验的历史先例在不同的局部动机下呈现出同一种位点不对称。在 1887 至 1890 年的电流之战期间，托马斯·爱迪生一边持续扩建直流电基础设施，一边由其阵营支持工程师哈罗德·P·布朗游说多州议会，推动立法为竞争对手的高压交流输电设定法定电压上限。2023 年 3 月，未来生命研究所发表公开信，呼吁将比 GPT-4 更强模型的训练暂停六个月，信件获多位前沿人物署名——其中包括埃隆·马斯克，而他同月早些时候已注册成立 X.AI 公司，并正在为内部训练集结约一万张 GPU。每当自身轨迹在内部依然可驾驭、邻近中心却跨越未共享的语境向前跃迁时，稳住世界的冲动便会朝外对准他人的时钟——装入[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)所剖析的中心化调速幻觉。
+经核验的历史先例在不同的局部动机下呈现出同一种位点不对称。在 1887 至 1890 年的电流之战期间，托马斯·爱迪生一边持续扩建直流电基础设施，一边由其阵营支持工程师哈罗德·P·布朗游说多州议会，推动立法为竞争对手的高压交流输电设定法定电压上限。2023 年 3 月，未来生命研究所发表公开信，呼吁将比 GPT-4 更强模型的训练暂停六个月，信件获多位前沿人物署名——其中包括埃隆·马斯克，而他同月早些时候已注册成立 X.AI 公司，并正在为内部训练集结约一万张 GPU。每当内部推进从驾驶位看去依然清晰可读、而新近致密化的路径——无论是自己的影子还是竞争对手的跃进——穿过不断拉宽的形象滞后从乘客视角登记下来时，稳住世界的冲动便会朝外对准他人的时钟——装入[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)所剖析的中心化调速幻觉。
 
 ```mermaid
 flowchart TD
@@ -58,20 +58,20 @@ flowchart TD
         D_Now["今日推进：深知眼下推进的系统亦将在数月内被超越"]
         D_Past --> D_Now
     end
-    subgraph S_Locus["自身位点之内（原生 +1 掌舵）"]
+    subgraph S_Locus["驾驶位（原生 +1 掌舵）"]
         direction TB
-        L_Cont["内部延续：下一增量延展自身的痕迹与默会运作语境"]
-        L_Sense["清晰可感：内部轨迹与想象依然继续向前推进"]
+        L_Cont["活跃切分（+1）：下一增量生长于熟悉的代码库与默会反馈之上"]
+        L_Sense["清晰轨迹：内部推进与探索继续向前延伸"]
         L_Cont --> L_Sense
     end
-    subgraph S_Cross["跨越位点边界（未共享语境与形象滞后）"]
+    subgraph S_Cross["乘客位（被自己的影子与形象滞后惊住）"]
         direction TB
-        X_Gap["异己外在：竞争者的跃迁跨越不断拉宽的滞后而无共同内部掌舵"]
+        X_Gap["异己势头：刚铸出的路径（自己的影子或同行者的）登记为不受掌舵之力"]
         X_Hold["不对称维持：外部部署、他处实验室或公共使用被敦促放缓或设限"]
         X_Gap --> X_Hold
     end
-    D_Now ==>|"在自身边界之内受掌舵"| L_Cont
-    L_Sense ==>|"同一月度步速跨其他中心看来"| X_Gap
+    D_Now ==>|"从驾驶位掌舵"| L_Cont
+    L_Sense ==>|"同一心智转入乘客视角"| X_Gap
     X_Hold -.->|"外部暂停并未触动内部复利"| D_Now
     style S_Dual fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Locus fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -84,7 +84,7 @@ flowchart TD
     style X_Hold fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Verified historical precedents exhibit the same locus asymmetry under distinct local motives. During the 1887–1890 War of the Currents, Thomas Edison continued expanding direct-current infrastructure while his camp backed engineer Harold P. Brown in lobbying state legislatures for statutory voltage caps targeting rival high-voltage alternating-current transmission. In March 2023, the Future of Life Institute's six-month pause letter for training beyond GPT-4 drew prominent frontier signatures—including Elon Musk, who had incorporated X.AI Corp. earlier that same month and was assembling roughly ten thousand GPUs for internal training. Whenever one's own trajectory stays navigable internally while neighboring centers leap across unshared context, the impulse to hold the world steady aims outward at other clocks—installing the centralized pacing illusion dissected in [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/).
+Verified historical precedents exhibit the same locus asymmetry under distinct local motives. During the 1887–1890 War of the Currents, Thomas Edison continued expanding direct-current infrastructure while his camp backed engineer Harold P. Brown in lobbying state legislatures for statutory voltage caps targeting rival high-voltage alternating-current transmission. In March 2023, the Future of Life Institute's six-month pause letter for training beyond GPT-4 drew prominent frontier signatures—including Elon Musk, who had incorporated X.AI Corp. earlier that same month and was assembling roughly ten thousand GPUs for internal training. Whenever internal advance stays legible from the driver's seat while the freshly densified path—one's own shadow or a rival's leap—registers from a passenger vantage across widening Image lag, the impulse to hold the world steady aims outward at other clocks—installing the centralized pacing illusion dissected in [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/).
 
 ```mermaid
 flowchart TD
@@ -94,20 +94,20 @@ flowchart TD
         D_Now["Advances Today: Knows the system being pushed will itself be overtaken in months"]
         D_Past --> D_Now
     end
-    subgraph S_Locus["Inside Own Locus (Native +1 Steering)"]
+    subgraph S_Locus["Driver's Seat (Native +1 Steering)"]
         direction TB
-        L_Cont["Internal Continuation: Next increment extends own traces & tacit operational context"]
-        L_Sense["Legible Feedback: Internal trajectory & imagination continue moving forward"]
+        L_Cont["Active Cut (+1): Next increment grows atop familiar codebases & tacit feedback"]
+        L_Sense["Legible Trajectory: Internal advance & exploration continue moving forward"]
         L_Cont --> L_Sense
     end
-    subgraph S_Cross["Across Locus Boundaries (Unshared Context & Image Lag)"]
+    subgraph S_Cross["Passenger Seat (Startled by Own Shadow & Image Lag)"]
         direction TB
-        X_Gap["Alien Externality: Rival leaps cross widening lag without shared internal steering"]
+        X_Gap["Alien Momentum: Freshly cast path (own shadow or peer's) registers as unsteered force"]
         X_Hold["Asymmetric Hold: External deployment, rival labs, or public use urged to slow or cap"]
         X_Gap --> X_Hold
     end
-    D_Now ==>|"Steered inside own boundary"| L_Cont
-    L_Sense ==>|"Same monthly pace viewed across other centers"| X_Gap
+    D_Now ==>|"Steered from the driver's seat"| L_Cont
+    L_Sense ==>|"Same Mind shifts to passenger vantage"| X_Gap
     X_Hold -.->|"External pause leaves internal compounding intact"| D_Now
     style S_Dual fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Locus fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -122,19 +122,19 @@ flowchart TD
 
 ## 四、 方向感丧失作为跨更新速度的形象滞后 / 4. Disorientation as Image Lag Across Update Speeds
 
-由此产生的方向感丧失，主要是形象滞后。实际施行的运作条件被替换的速率，超出了心智模型、制度形式、技能分布与共享预期的修订速率。人依然借近期过去的形象导航——何谓胜任的工作者、稳定的机构、可靠的预测或寻常的能力阈值——而这些形象早已在被超越。这种方向感丧失并非理解失败，而是更新速度的结构性错配：认知、组织与文化上的修订追不上复利推进的运作更替，于是随身携带的地图便系统性地落后于正在穿行其中的实际运作痕迹。
+由此产生的方向感丧失，便是形象滞后。实际施行的运作条件被替换的速率，超出了心智模型、制度形式、技能分布与共享预期的修订速率。人依然借近期过去的形象导航——何谓胜任的工作者、稳定的机构、可靠的预测或寻常的能力阈值——而这些形象早已在被超越。这种方向感丧失并非理解失败，而是更新速度的结构性错配：认知、组织与文化上的修订追不上复利推进的运作更替，于是随身携带的地图便系统性地落后于正在穿行其中的实际运作痕迹。
 
-The resulting sense of disorientation is chiefly Image lag. The rate at which enacted operational conditions are replaced outruns the rate at which mental models, institutional forms, skill distributions, and shared expectations can be revised. People continue to navigate by images of the recent past—what a competent worker, a stable firm, a reliable prediction, or a normal capability threshold looked like—while those images are already being superseded. That disorientation is not a failure of understanding, but a structural mismatch in update speeds: cognitive, organizational, and cultural revision cannot keep pace with compounding operational turnover, so the maps carried trail systematically behind the enacted operational traces being walked through.
+The resulting sense of disorientation is Image lag. The rate at which enacted operational conditions are replaced outruns the rate at which mental models, institutional forms, skill distributions, and shared expectations can be revised. People continue to navigate by images of the recent past—what a competent worker, a stable firm, a reliable prediction, or a normal capability threshold looked like—while those images are already being superseded. That disorientation is not a failure of understanding, but a structural mismatch in update speeds: cognitive, organizational, and cultural revision cannot keep pace with compounding operational turnover, so the maps carried trail systematically behind the enacted operational traces being walked through.
 
 要看清为何这种错配会持续存在，须先分清寻常分析混为一谈的两种滞后。每一次观察都只握住已经成形的果，而划出它的区分永远至少领先一步（[前因，后果](../qian-yin-hou-guo/)）。这一构成性的最小滞后（≥ 1 步）是一道方向性界限，而非有待消除的缺陷：若没有被保留的参照——即形象——便只有运动而无航向；而在单次测量期间，器具也必须稳住不动，下一刀才落得下去（[遗忘的脚手架](../the-scaffolding-we-forget/)）。零滞后，以及保留的观看与生成行动无缝重合，从不在可得之列。相比之下，**过剩形象滞后**始于一幅暂时的形象越过了自身那一步，却仍被豁免于重新渲染之外。形象一旦成形，保存自身便是它的内建指令，因为重新渲染无异于它的存在所旨在抗拒的微小死亡；后果随即落入当下的运作痕迹之中，计分却仍拿昨日未曾修订的地图作准，于是带着与缺口宽度成比例的异己凛冽扑面而来（[一步一步绘制出的路径](../the-path-drawn-one-step-at-a-time/)；[心智的几何学](../the-geometry-of-mind/)）。
 
 Understanding why this mismatch persists requires separating two kinds of lag that ordinary analysis blurs together. Every act of observation holds an effect already formed, while the generating distinction stays at least one step ahead ([Cause Before, Effect After](../qian-yin-hou-guo/)). That constitutive minimum lag (`≥ 1` step) is a directional bound rather than a defect to eliminate: without a retained reference—an image—there is movement without heading, and during a single measurement an instrument must hold steady so the cut can land ([The Scaffolding We Forget](../the-scaffolding-we-forget/)). Zero lag and full coincidence between retained look and generating act are never on offer. **Excess Image lag**, by contrast, begins whenever a provisional image is exempted from re-rendering past its step. Preservation is an image's default directive once formed, because re-rendering functions as a micro-death it exists to resist; consequences then land in current operational traces while being scored against yesterday's unrevised map, arriving with an alien severity proportional to gap width ([The Path Drawn One Step at a Time](../the-path-drawn-one-step-at-a-time/); [The Geometry of Mind](../the-geometry-of-mind/)).
 
-两套经典的二十世纪框架各自点出了这种更新速度分歧的局部切片，却在抵达形象滞后的有界中心机制前止步。1922 年，社会学家威廉·F·奥格本提出**文化滞后**（《社会变迁：关于文化与人的原始本性》），将快速累积的**物质文化**（机器、工具、技术发明）同调整较慢的**非物质文化或调适文化**（法律、制度、习俗，如机械化工厂工伤出现数十年后才立下工伤赔偿法）区分开来。奥格本的模型在描摹制度规则为何落后于技术采纳时颇为有用，却在把物质发明塑造成牵引被动文化跟进的自主第一推动者时到达边界：正如罗伯特·M·麦基弗在 1942 年所反驳的那样，“逆向滞后”同样自所持信念与规则一端流向对工具的约束或加速；若不追踪有界中心对照实际运作痕迹的形象滞后，“失调”便悬停在一条未经界定的均衡基线之上。1970 年，阿尔文·托夫勒铸造了**未来冲击**一词，利落地分开了异国他乡的文化冲击与身处故土时的方向感丧失（当急剧更替抽走工作、企业与组织中熟悉的基线）；但托夫勒将这种困顿框定为一股外部时间的巨轮（“未来的提前降临”）撞击人固定的生理“适应范围”，同时暗暗美化一条静止的前工业基线，而非将冲击定位在一处中心未经重绘的地图与实际运作痕迹的碰撞之中。
+两套经典的二十世纪框架各自点出了这种更新速度分歧的局部切片，却在抵达形象滞后的有界中心机制前止步。1922 年，社会学家威廉·F·奥格本提出**文化滞后**（《社会变迁：关于文化与人的原始本性》），将快速累积的**物质文化**（机器、工具、技术发明）同调整较慢的**非物质文化或调适文化**（法律、制度、习俗，如机械化工厂工伤出现数十年后才立下工伤赔偿法）区分开来。奥格本的模型在描摹制度规则为何落后于技术采纳时颇为有用，却在把物质发明塑造成牵引被动文化跟进的自主第一推动者时到达边界：正如罗伯特·M·麦基弗在 1942 年所反驳的那样，“逆向滞后”同样自所持信念与规则一端流向对工具的约束或加速；若不追踪有界中心对照实际运作痕迹的形象滞后，“失调”便悬停在一条未经界定的均衡基线之上。1970 年，阿尔文·托夫勒铸造了**未来冲击**一词，分开了异国他乡的文化冲击与身处故土时的方向感丧失（当急剧更替抽走工作、企业与组织中熟悉的基线）；但托夫勒将这种困顿框定为一股外部时间的巨轮（“未来的提前降临”）撞击人固定的生理“适应范围”，同时暗暗美化一条静止的前工业基线，而非将冲击定位在一处中心未经重绘的地图与实际运作痕迹的碰撞之中。
 
-Two classic twentieth-century frameworks named pieces of this update-speed divergence while stopping short of Image lag's bounded-center mechanism. In 1922, sociologist William F. Ogburn formulated **Cultural Lag** (*Social Change with Respect to Culture and Original Nature*), distinguishing fast-accumulating **material culture** (machinery, tools, technical inventions) from slower-adjusting **non-material or adaptive culture** (laws, institutions, customs, as in the decades-long gap between mechanized factory injuries and workmen's compensation statutes). Ogburn's model usefully maps how institutional rules trail technical adoption, yet reaches its boundary by casting material invention as an autonomous prime mover dragging passive culture behind it: as Robert M. MacIver countered in 1942, "reverse lag" runs equally from held beliefs and rules to constraint or acceleration of tools, and without tracking bounded centers' Image lag against enacted operational traces, "maladjustment" floats on an undefined equilibrium baseline. In 1970, Alvin Toffler coined **Future Shock**, cleanly separating disorientation experienced *at home* (when rapid turnover removes familiar baselines of jobs, firms, and organizations) from culture shock in a foreign land; yet Toffler framed that distress as an external temporal juggernaut ("the premature arrival of the future") battering a fixed biological "adaptive range" while implicitly romanticizing a static pre-industrial baseline, rather than locating the shock in a center's un-re-rendered map colliding with enacted operational traces.
+Two classic twentieth-century frameworks named pieces of this update-speed divergence while stopping short of Image lag's bounded-center mechanism. In 1922, sociologist William F. Ogburn formulated **Cultural Lag** (*Social Change with Respect to Culture and Original Nature*), distinguishing fast-accumulating **material culture** (machinery, tools, technical inventions) from slower-adjusting **non-material or adaptive culture** (laws, institutions, customs, as in the decades-long gap between mechanized factory injuries and workmen's compensation statutes). Ogburn's model usefully maps how institutional rules trail technical adoption, yet reaches its boundary by casting material invention as an autonomous prime mover dragging passive culture behind it: as Robert M. MacIver countered in 1942, "reverse lag" runs equally from held beliefs and rules to constraint or acceleration of tools, and without tracking bounded centers' Image lag against enacted operational traces, "maladjustment" floats on an undefined equilibrium baseline. In 1970, Alvin Toffler coined **Future Shock**, separating disorientation experienced *at home* (when rapid turnover removes familiar baselines of jobs, firms, and organizations) from culture shock in a foreign land; yet Toffler framed that distress as an external temporal juggernaut ("the premature arrival of the future") battering a fixed biological "adaptive range" while implicitly romanticizing a static pre-industrial baseline, rather than locating the shock in a center's un-re-rendered map colliding with enacted operational traces.
 
-嵌套的更新速度甚至无需出于恶意，便会让过剩形象滞后自行倍增。每当鲜活接触中的摩擦暴露出一处偏差，单一中心的心智模型原本可以相对迅速地完成重绘；然而一旦胜任力、领域专精或职业地位的暂时地图被当作固定身份来护卫，而非视作可随时抛弃的探针，重绘便会登记为自我抹除，容量也随之压缩到护卫陈旧肖像之上（[自我模型维护悖论](../the-maintenance-paradox/)）。多中心稳固下来的形态——制度章程、文凭路径、技能分布、定价惯例与共享预期——则仰赖众多有界中心与互补资本之间协调一致的重新承接（[技术变革的局部陷阱](../the-local-trap-of-technological-change/)；[阻力体感与速率差](../felt-resistance-and-the-speed-differential/)）。由于多中心对齐的更新比单一中心复利推进的工具周期慢上几个数量级，哪怕个体实践者已经瞥见推移，嵌在企业、行业与公共预期里的地图依然远远落在正在施行的实践身后。
+嵌套的更新速度让过剩形象滞后倍增。每当鲜活接触中的摩擦暴露出一处偏差，单一中心的心智模型便会重绘——然而一旦胜任力、领域专精或职业地位的暂时地图被当作固定身份来护卫，而非视作可随时抛弃的探针，重绘便会登记为自我抹除，容量也随之压缩到护卫陈旧肖像之上（[自我模型维护悖论](../the-maintenance-paradox/)）。多中心稳固下来的形态——制度章程、文凭路径、技能分布、定价惯例与共享预期——则仰赖众多有界中心与互补资本之间协调一致的重新承接（[技术变革的局部陷阱](../the-local-trap-of-technological-change/)；[阻力体感与速率差](../felt-resistance-and-the-speed-differential/)）。由于多中心对齐的更新比单一中心复利推进的工具周期慢上几个数量级，哪怕个体实践者已经瞥见推移，嵌在企业、行业与公共预期里的地图依然远远落在正在施行的实践身后。
 
 ```mermaid
 flowchart TD
@@ -174,7 +174,7 @@ flowchart TD
     style V_Cut fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Nested update speeds make excess Image lag self-multiplying even without bad faith. Single-center mental models can re-render comparatively rapidly whenever live contact friction exposes an error—yet whenever a provisional map of competence, domain mastery, or professional standing is guarded as fixed identity rather than an expendable probe, re-rendering reads as self-erasure and capacity compresses into protecting the stale portrait ([The Maintenance Paradox](../the-maintenance-paradox/)). Multi-center stabilized forms—institutional charters, credential paths, skill distributions, pricing conventions, and shared expectations—depend on coordinated re-taking-up across many bounded centers and complementary capital ([The Local Trap of Technological Change](../the-local-trap-of-technological-change/); [Felt Resistance and the Speed Differential](../felt-resistance-and-the-speed-differential/)). Because multi-center alignment updates orders of magnitude more slowly than a single center's compounding tool cycle, maps embedded in firms, professions, and public expectations lag far behind enacted practice even after individual practitioners glimpse the shift.
+Nested update speeds multiply excess Image lag. Single-center mental models re-render whenever live contact friction exposes an error—yet whenever a provisional map of competence, domain mastery, or professional standing is guarded as fixed identity rather than an expendable probe, re-rendering reads as self-erasure and capacity compresses into protecting the stale portrait ([The Maintenance Paradox](../the-maintenance-paradox/)). Multi-center stabilized forms—institutional charters, credential paths, skill distributions, pricing conventions, and shared expectations—depend on coordinated re-taking-up across many bounded centers and complementary capital ([The Local Trap of Technological Change](../the-local-trap-of-technological-change/); [Felt Resistance and the Speed Differential](../felt-resistance-and-the-speed-differential/)). Because multi-center alignment updates orders of magnitude more slowly than a single center's compounding tool cycle, maps embedded in firms, professions, and public expectations lag far behind enacted practice even after individual practitioners glimpse the shift.
 
 ```mermaid
 flowchart TD
@@ -216,9 +216,9 @@ flowchart TD
 
 ## 五、 连续形象进步叙事的边界 / 5. Boundary of the Continuous-Image Progress Narrative
 
-历史上的每一次加速期皆有此滞后；日历间隔缩短，只是将它浓缩进单一生涯之内，再无法外包给不同世代分别承接。方向感的丧失，是对这一不断拉宽之差值的主观登记，而非底层的复利模式已经断裂或逆转的证据。凡以怀旧、存在警报或骤然疲惫面貌涌现的感受，标示的正是高速替换的运作痕迹与为更慢更替所造地图之间的摩擦。
+历史上的每一次加速期皆有此滞后；日历间隔缩短，将其浓缩进单一生涯之内，再无法外包给不同世代分别承接。方向感的丧失，是对这一不断拉宽之差值的主观登记，而非底层的复利模式已经断裂或逆转的证据。凡以怀旧、存在警报或骤然疲惫面貌涌现的感受，标示的正是高速替换的运作痕迹与为更慢更替所造地图之间的摩擦。
 
-This lag has accompanied historical accelerations all along; shrinking calendar intervals merely concentrate it inside a single life where it cannot be outsourced across generations. The feeling of disorientation registers that widening differential subjectively, not evidence that the underlying compounding pattern has broken or reversed. What arrives as nostalgia, existential alarm, or sudden exhaustion marks the friction between rapidly replaced operational traces and maps built for slower turnover.
+This lag has accompanied historical accelerations all along; shrinking calendar intervals concentrate it inside a single life where it cannot be outsourced across generations. The feeling of disorientation registers that widening differential subjectively, not evidence that the underlying compounding pattern has broken or reversed. What arrives as nostalgia, existential alarm, or sudden exhaustion marks the friction between rapidly replaced operational traces and maps built for slower turnover.
 
 任何进步叙事——无论凯旋式的加速论还是防御性的减速论——只要要求形象保持连续同一，便在此处触及前提边界。替换本身并不承诺心智模型、组织形态与共享预期会同步更新，也并不豁免站在月度替换周期两侧的同一个心智免于感到地图被抛在身后。在替换跨越数十年乃至数代人缓缓展开的慢速有界区间里，期待能力画像、制度角色与能力阈值保持连续，作为实用脚手架依然行之有效；有用性在该范围内照常成立，而这一刀仅标出复利速率与形象修订之间的不完备。
 
