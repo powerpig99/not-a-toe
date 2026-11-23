@@ -1,6 +1,6 @@
 # 影子没有损失 / The Shadow Has No Loss
 
-*表层词元只是抽象投下的影子，理解需以重编码校验守住目标抽象，并在局部语境中打破无条件平均的模糊。 / Surface tokens are shadows of an abstraction; understanding verifies the held abstraction by re-encoding and localizes context against unconditioned averaging.*
+*表层词元只是抽象投下的影子，理解以重编码核验所持抽象，并借局部语境打破无条件平均的模糊。 / Surface tokens are shadows of an abstraction; understanding verifies the held abstraction by re-encoding and localizes context against unconditioned averaging.*
 
 设想一位老师让学生根据一幅场景回答问题。在老师的标准答案里写着：“狗追了猫。”学生看着场景，领会了问题，提笔写道：“犬追逐了猫科动物。”
 
@@ -82,7 +82,7 @@ flowchart TD
         direction TB
         C_Ext["1. Extraction & Clamping (E_in → A_in → A_target): Holds A_target steady while E_out adapts to modeled receiver C_recv"]
         C_Ver["2. Two-Check Re-Encoding: Evaluates wire alignment ℰ(E_out) ≈ ℰ(E_ref) and receiver-conditioned consistency ℰ(E_out|C_recv) ≈ A_target"]
-        C_Cap["3. Coupled Capacity Condition (§3): ℰ also pays for coding incoming stream E_in so ℰ ≡ const cannot satisfy both checks"]
+        C_Cap["3. Coupled Capacity Condition (§3): ℰ also pays for coding incoming stream E_in so ℰ ≡ const cannot clear the coupled budget"]
         C_Ext --> C_Ver --> C_Cap
     end
     W_Pen ==>|"Relocates verification to shared extractor ℰ(·) under coupled budget"| C_Ext
@@ -126,7 +126,7 @@ Why does scoring the surface shadow (`E`) alone also produce the hedged, composi
 flowchart TD
     subgraph S_Broad["无条件边际混合分布 P(E) = ∫ P(E|C)P(C)dC"]
         direction TB
-        B_Digit["外环共识（手写数字识别 A ∈ {0..9}）：训练前已锁死十个类别；多样的表层笔画 E 强化相同的十个不变量"]
+        B_Digit["外环共识（手写数字识别 A ∈ {0..9}）：训练前已固定十个类别；多样的表层笔画 E 强化相同的十个不变量"]
         B_Blur["无条件开放语料库（'通用人类'）：源自互斥前提 A_1..A_n 的相同语词 E 被汇入单一边际混合分布"]
         B_Cancel["有争议延续上的概率质量分裂：互斥前提瓜分概率质量，而共享的表层事实占据峰值"]
         B_Digit -.->|"开放言说不存在单一共享前提"| B_Blur
@@ -221,7 +221,7 @@ flowchart TD
     end
     subgraph S_Outer["固定参数流之外的三层发起机制"]
         direction TB
-        O_Rule["第一层——预编程的元规则：读取哪项残差未闭合，以触发拉远或推近传递"]
+        O_Rule["第一层——预编程的元规则：读取哪项残差未闭合，以触发拉远或推近操作"]
         O_Diff["第二层——教师流形扩散/蒸馏：解冻局部盆地或将更细切口迁移至扩容的学生网络"]
         O_Mind["第三层——处于外环的活生生的心智：作出设定损失定义、边界与框架的区分"]
         O_Rule --> O_Diff --> O_Mind
@@ -290,7 +290,7 @@ flowchart TD
 
 While the two re-encoding residuals remain legible on a plateau, parameter gradient flow inside a fixed architecture cannot by itself alter its own hypothesis class—it cannot insert a new macro-layer or split a token space without a rule outside the fixed parameter update, as [No Outside](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/) traces.
 
-每当固定的参数化陷入平台期，跳出锁死的跃迁总是由参数流之外的三个层级之一所发起。第一层是预编程的元规则（借来的远见）：由于外在对齐残差（`ℰ(E_out) ≠ ℰ(E_ref)`）与内在自洽残差（`ℰ(E_out | C_recv) ≠ A_target`）保持分明，工程师可以预先编写外环调度或自动审计传递，读取哪一项残差仍未闭合，进而触发相应的拉远或推近操作——尽管任何固定的启发式规则依然在事先设定的阈值之内运作。第二层是来自更宽广教师流形的扩散或蒸馏：当学生网络困于局部优化盆地或缺乏更细的划分时，将它与更高容量的教师网络耦合（包括蒸馏进扩容后的学生架构），便能从教师更宽广的框架中注入结构化方差与更细的切口，把框架的起源沿链条向上推移一环。第三层则是处于外环的活生生的心智：由于每一项损失定义、边界条件与容量预算本身都是一次被划出的区分——而区分正是第一节所出发的第一人称行动——从预训练基座变换器到智能体运行框架，每一座形式架构都承载着心智切分的痕迹，而非自行落下那一刀，如[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)与[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)所追溯。
+每当固定的参数化陷入平台期，跳出锁死的跃迁总是由参数流之外的三个层级之一所发起。第一层是预编程的元规则（借来的远见）：由于外在对齐残差（`ℰ(E_out) ≠ ℰ(E_ref)`）与内在自洽残差（`ℰ(E_out | C_recv) ≠ A_target`）保持分明，工程师可以预先编写外环调度或自动审计流程，读取哪一项残差仍未闭合，进而触发相应的拉远或推近操作——尽管任何固定的启发式规则依然在事先设定的阈值之内运作。第二层是来自更宽广教师流形的扩散或蒸馏：当学生网络困于局部优化盆地或缺乏更细的划分时，将它与更高容量的教师网络耦合（包括蒸馏进扩容后的学生架构），便能从教师更宽广的框架中注入结构化方差与更细的切口，把框架的起源沿链条向上推移一环。第三层则是处于外环的活生生的心智：由于每一项损失定义、边界条件与容量预算本身都是一次被划出的区分——而区分正是第一节所出发的第一人称行动——从预训练基座变换器到智能体运行框架，每一座形式架构都承载着心智切分的痕迹，而非自行落下那一刀，如[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)与[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)所追溯。
 
 Whenever a fixed parameterization plateaus, the shift out of the lock is initiated across one of three tiers outside the parameter flow. First is a pre-programmed meta-rule (borrowed foresight): because the external-alignment residual (`ℰ(E_out) ≠ ℰ(E_ref)`) and the internal-consistency residual (`ℰ(E_out | C_recv) ≠ A_target`) remain distinct, an engineer can code an outer-loop schedule or automated audit pass that reads which residual stayed open and triggers the corresponding zoom-out or zoom-in pass—though any fixed heuristic still operates within thresholds designed beforehand. Second is diffusion or distillation from a broader teacher manifold: when a student is trapped in a local optimization basin or lacks a finer partition, coupling it to a higher-capacity teacher (including distilling into an expanded student architecture) injects structured variance and finer cuts from the teacher's broader frame, passing the origin of that frame one link up the chain. Third is the living Mind at the outer loop: because every loss definition, boundary condition, and capacity budget is itself a distinction drawn—and distinguishing is the first-person act from which §1 began—every formal architecture, from a pretrained base transformer to an agentic harness, carries the trace of a Mind's cut rather than generating that cut on its own, as [Mistaking the Expression for the Intelligence](../mistaking-the-expression-for-the-intelligence/) and [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) trace.
 
