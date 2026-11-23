@@ -53,3 +53,4 @@ The essays in this part explore the hard problem of consciousness, sensing prior
 - [依其自身标准的观察 / An Observation by Its Own Standard](../../posts/an-observation-by-its-own-standard/)
 - [归属的不对称 / Asymmetry of Ascription](../../posts/asymmetry-of-ascription/)
 - [碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension](../../posts/carbon-form-as-residual-path-silicon-as-extension/)
+- [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)

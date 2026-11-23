@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-23T20:24:47.463Z",
+    "generated_at": "2026-11-23T21:15:25.066Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -130,6 +130,7 @@
       "content/posts/immortality-final.md": "2bbeb6b8ed55",
       "content/posts/incompleteness-exhibited-twice.md": "87f45601a359",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "e5e1fcd23570",
+      "content/posts/infinity-within-the-seat.md": "c603f801d2e5",
       "content/posts/inheritance-as-residue-and-the-need-for-extraction.md": "0c7ba216c8ac",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "5656f412d172",
       "content/posts/intelligence-crisis-response.md": "ae3e106cc101",
@@ -472,9 +473,9 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "c5096ce3a0d8",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
       "content/book/causality.md": "2cf0bbb6cb82",
-      "content/book/consciousness.md": "b984dd8a0284",
+      "content/book/consciousness.md": "804fb1b514fc",
       "content/book/economics.md": "59f58b5d23c6",
-      "content/book/index-of-premises.md": "561a153f523f",
+      "content/book/index-of-premises.md": "c528435f797e",
       "content/book/intelligence.md": "aff9cd828dad",
       "content/book/knowledge-and-learning.md": "a885aa187e8e",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -489,16 +490,16 @@
       "content/book/tools-and-progress.md": "276037119294"
     },
     "stats": {
-      "posts": 463,
-      "edges": 14296,
-      "unique_directed": 7029,
+      "posts": 464,
+      "edges": 14338,
+      "unique_directed": 7049,
       "missing_targets": 0,
-      "one_way": 1615,
+      "one_way": 1635,
       "isolated": 0,
-      "posts_with_outbound": 463,
+      "posts_with_outbound": 464,
       "book_pages": 16,
-      "book_edges": 1640,
-      "posts_reached_by_book": 463
+      "book_edges": 1654,
+      "posts_reached_by_book": 464
     }
   },
   "hubs_in": [
@@ -512,7 +513,7 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 116
+      "in_degree": 117
     },
     {
       "slug": "openness-is-consistency",
@@ -868,7 +869,7 @@
       "path": "content/posts/accelerating-replacement-and-image-lag.md",
       "title": "加速替换与形象滞后 / Accelerating Replacement and Image Lag",
       "hash": "c6be17d82b08",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 20,
       "links_out": [
         "the-scaffolding-that-keeps-growing",
@@ -3938,7 +3939,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers",
       "hash": "e5e1fcd23570",
-      "in_degree": 116,
+      "in_degree": 117,
       "out_degree": 103,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -4044,6 +4045,38 @@
         "cheng-gong-xue",
         "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
         "the-mind-that-statistics-cannot-reveal"
+      ]
+    },
+    {
+      "id": "post:infinity-within-the-seat",
+      "kind": "post",
+      "slug": "infinity-within-the-seat",
+      "path": "content/posts/infinity-within-the-seat.md",
+      "title": "座位之内的无限进程 / Infinity Within the Seat",
+      "hash": "c603f801d2e5",
+      "in_degree": 0,
+      "out_degree": 20,
+      "links_out": [
+        "one-cannot-escape-ones-own-mind",
+        "the-defining-seat",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+        "the-boundary-of-the-frame",
+        "individual-choices-as-the-only-causal-levers",
+        "the-invisible-gods-eye",
+        "the-two-readings-of-shared-and-the-observational-bound",
+        "no-genius-can-solve-the-knowledge-problem",
+        "the-coordinators-category-error",
+        "the-velocity-of-visibility",
+        "shared-consciousness-is-intersecting-individualities",
+        "the-illusion-of-the-shared-sandbox",
+        "objects-are-stabilized-relationships",
+        "the-cut-moves-but-never-vanishes",
+        "self-image-speaks-as-if-from-nowhere",
+        "accelerating-replacement-and-image-lag",
+        "the-mirage-of-the-infinite-totality",
+        "reality-is-the-minds-ongoing-realization",
+        "the-reality-distortion-field-inverts-the-baseline",
+        "the-boundary-of-perception-and-the-infinity-of-understanding"
       ]
     },
     {
@@ -4828,7 +4861,7 @@
       "path": "content/posts/no-genius-can-solve-the-knowledge-problem.md",
       "title": "没有天才能够解决知识问题 / No Genius Can Solve the Knowledge Problem",
       "hash": "f8e17f907c47",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 7,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
@@ -4847,7 +4880,7 @@
       "path": "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md",
       "title": "没有外部 / No Outside",
       "hash": "638cdabefffa",
-      "in_degree": 29,
+      "in_degree": 30,
       "out_degree": 26,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
@@ -5111,7 +5144,7 @@
       "path": "content/posts/objects-are-stabilized-relationships.md",
       "title": "对象是被稳定化的关系 / Objects Are Stabilized Relationships",
       "hash": "5c88afea080b",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 8,
       "links_out": [
         "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
@@ -5281,7 +5314,7 @@
       "path": "content/posts/one-cannot-escape-ones-own-mind.md",
       "title": "无法逃逸的心智视界 / One Cannot Escape One's Own Mind",
       "hash": "8b93b91271b8",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 19,
       "links_out": [
         "subtracting-consciousness-at-the-source",
@@ -6149,7 +6182,7 @@
       "path": "content/posts/reality-is-the-minds-ongoing-realization.md",
       "title": "现实是心智持续的实现 / Reality Is the Mind's Ongoing Realization",
       "hash": "812768c94db5",
-      "in_degree": 26,
+      "in_degree": 27,
       "out_degree": 28,
       "links_out": [
         "the-question-that-installs-the-war",
@@ -6444,7 +6477,7 @@
       "path": "content/posts/self-image-speaks-as-if-from-nowhere.md",
       "title": "自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere",
       "hash": "13274f1991f6",
-      "in_degree": 34,
+      "in_degree": 35,
       "out_degree": 26,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
@@ -6586,7 +6619,7 @@
       "path": "content/posts/shared-consciousness-is-intersecting-individualities.md",
       "title": "共享意识是个体性的交集 / Shared Consciousness Is Intersecting Individualities",
       "hash": "effb27d0037a",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 14,
       "links_out": [
         "shared-humanity-is-never-shared",
@@ -7410,7 +7443,7 @@
       "path": "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md",
       "title": "感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding",
       "hash": "4eb4b55d4fac",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 13,
       "links_out": [
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -7435,7 +7468,7 @@
       "path": "content/posts/the-boundary-of-the-frame.md",
       "title": "框架的边界 / The Boundary of the Frame",
       "hash": "d379a51837b8",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 21,
       "links_out": [
         "what-information-is",
@@ -7947,7 +7980,7 @@
       "path": "content/posts/the-coordinators-category-error.md",
       "title": "协调者的范畴错误 / The Coordinator's Category Error",
       "hash": "a103e14685b5",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 23,
       "links_out": [
         "your-codebase-is-memory",
@@ -7982,7 +8015,7 @@
       "path": "content/posts/the-cut-moves-but-never-vanishes.md",
       "title": "割点可移不可除 / The Cut Moves but Never Vanishes",
       "hash": "f64a6a74cf6b",
-      "in_degree": 32,
+      "in_degree": 33,
       "out_degree": 9,
       "links_out": [
         "demanding-a-toe-freezes-time-into-a-catalog",
@@ -8003,7 +8036,7 @@
       "path": "content/posts/the-defining-seat.md",
       "title": "定义者的席位与离地的幻觉 / The Defining Seat",
       "hash": "45b6527255eb",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 9,
       "links_out": [
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
@@ -9233,7 +9266,7 @@
       "path": "content/posts/the-illusion-of-the-shared-sandbox.md",
       "title": "共享沙盒的幻象 / The Illusion of the Shared Sandbox",
       "hash": "bc033de6677c",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 10,
       "links_out": [
         "the-causal-inversion-of-partnership",
@@ -9487,7 +9520,7 @@
       "path": "content/posts/the-invisible-gods-eye.md",
       "title": "隐秘的上帝之眼 / The Invisible God's Eye",
       "hash": "9e436c7e4371",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 15,
       "links_out": [
         "the-twin-paradox-and-the-hidden-observer",
@@ -9984,7 +10017,7 @@
       "path": "content/posts/the-mirage-of-the-infinite-totality.md",
       "title": "无穷总体的海市蜃楼 / The Mirage of the Infinite Totality",
       "hash": "2b89c2db0c6f",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 7,
       "links_out": [
         "the-geometry-of-mind",
@@ -10835,7 +10868,7 @@
       "path": "content/posts/the-reality-distortion-field-inverts-the-baseline.md",
       "title": "现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline",
       "hash": "e25d00e96b60",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 21,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
@@ -11884,7 +11917,7 @@
       "path": "content/posts/the-two-readings-of-shared-and-the-observational-bound.md",
       "title": "“共享”的两种读法与观察的边界 / The Two Readings of Shared and the Observational Bound",
       "hash": "1199b3c1f13f",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 8,
       "links_out": [
         "shared-humanity-is-never-shared",
@@ -12108,7 +12141,7 @@
       "path": "content/posts/the-velocity-of-visibility.md",
       "title": "可见性的速度差 / The Velocity of Visibility",
       "hash": "6d93e15aa1b5",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 10,
       "links_out": [
         "objects-are-stabilized-relationships",
@@ -36498,6 +36531,258 @@
       "to": "the-mind-that-statistics-cannot-reveal",
       "rel": "points_to",
       "label": "The Mind That Statistics Cannot Reveal"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "无法逃逸的心智视界"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-defining-seat",
+      "rel": "points_to",
+      "label": "定义者的席位与离地的幻觉"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "没有外部"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "One Cannot Escape One's Own Mind"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-defining-seat",
+      "rel": "points_to",
+      "label": "The Defining Seat"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No Outside"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "框架的边界"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "The Boundary of the Frame"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-invisible-gods-eye",
+      "rel": "points_to",
+      "label": "隐秘的上帝之眼"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-two-readings-of-shared-and-the-observational-bound",
+      "rel": "points_to",
+      "label": "“共享”的两种读法与观察的边界"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-invisible-gods-eye",
+      "rel": "points_to",
+      "label": "The Invisible God's Eye"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-two-readings-of-shared-and-the-observational-bound",
+      "rel": "points_to",
+      "label": "The Two Readings of Shared and the Observational Bound"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "no-genius-can-solve-the-knowledge-problem",
+      "rel": "points_to",
+      "label": "没有天才能够解决知识问题"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "协调者的范畴错误"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "no-genius-can-solve-the-knowledge-problem",
+      "rel": "points_to",
+      "label": "No Genius Can Solve the Knowledge Problem"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "The Coordinator's Category Error"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-velocity-of-visibility",
+      "rel": "points_to",
+      "label": "可见性的速度差"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-velocity-of-visibility",
+      "rel": "points_to",
+      "label": "The Velocity of Visibility"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "shared-consciousness-is-intersecting-individualities",
+      "rel": "points_to",
+      "label": "共享意识是个体性的交集"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-illusion-of-the-shared-sandbox",
+      "rel": "points_to",
+      "label": "共享沙盒的幻象"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "objects-are-stabilized-relationships",
+      "rel": "points_to",
+      "label": "对象是被稳定化的关系"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "割点可移不可除"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "shared-consciousness-is-intersecting-individualities",
+      "rel": "points_to",
+      "label": "Shared Consciousness Is Intersecting Individualities"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-illusion-of-the-shared-sandbox",
+      "rel": "points_to",
+      "label": "The Illusion of the Shared Sandbox"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "objects-are-stabilized-relationships",
+      "rel": "points_to",
+      "label": "Objects Are Stabilized Relationships"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "The Cut Moves but Never Vanishes"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "自我形象仿佛从无处发声"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "accelerating-replacement-and-image-lag",
+      "rel": "points_to",
+      "label": "加速替换与形象滞后"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-mirage-of-the-infinite-totality",
+      "rel": "points_to",
+      "label": "无穷总体的海市蜃楼"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-Image Speaks as if from Nowhere"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "accelerating-replacement-and-image-lag",
+      "rel": "points_to",
+      "label": "Accelerating Replacement and Image Lag"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-mirage-of-the-infinite-totality",
+      "rel": "points_to",
+      "label": "The Mirage of the Infinite Totality"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "objects-are-stabilized-relationships",
+      "rel": "points_to",
+      "label": "对象是被稳定化的关系"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "现实是心智持续的实现"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "objects-are-stabilized-relationships",
+      "rel": "points_to",
+      "label": "Objects Are Stabilized Relationships"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality Is the Mind's Ongoing Realization"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "现实扭曲力场颠倒了基线"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "感知的界限与理解的无限"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Inverts the Baseline"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "The Boundary of Perception and the Infinity of Understanding"
     },
     {
       "from": "inheritance-as-residue-and-the-need-for-extraction",
@@ -99049,8 +99334,8 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "b984dd8a0284",
-        "out_degree": 41
+        "hash": "804fb1b514fc",
+        "out_degree": 42
       },
       {
         "id": "book:economics",
@@ -99067,8 +99352,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "561a153f523f",
-        "out_degree": 463
+        "hash": "c528435f797e",
+        "out_degree": 464
       },
       {
         "id": "book:intelligence",
@@ -99643,6 +99928,12 @@
         "label": "碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension"
       },
       {
+        "from": "book:consciousness",
+        "to": "infinity-within-the-seat",
+        "rel": "collects",
+        "label": "座位之内的无限进程 / Infinity Within the Seat"
+      },
+      {
         "from": "book:economics",
         "to": "efficiency-without-differentiation",
         "rel": "collects",
@@ -99968,6 +100259,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "infinity-within-the-seat",
+        "rel": "collects",
+        "label": "座位之内的无限进程 / Infinity Within the Seat"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function",
         "rel": "collects",
         "label": "全息回声 / The Holographic Echo"
@@ -100001,6 +100298,12 @@
         "to": "objects-are-stabilized-relationships",
         "rel": "collects",
         "label": "对象是被稳定化的关系 / Objects Are Stabilized Relationships"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "infinity-within-the-seat",
+        "rel": "collects",
+        "label": "座位之内的无限进程 / Infinity Within the Seat"
       },
       {
         "from": "book:index-of-premises",
@@ -100283,6 +100586,12 @@
         "to": "apparent-regulation-and-the-primacy-of-choice",
         "rel": "collects",
         "label": "表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "infinity-within-the-seat",
+        "rel": "collects",
+        "label": "座位之内的无限进程 / Infinity Within the Seat"
       },
       {
         "from": "book:index-of-premises",
@@ -100706,6 +101015,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "infinity-within-the-seat",
+        "rel": "collects",
+        "label": "座位之内的无限进程 / Infinity Within the Seat"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "differentiation-and-the-appearance-of-negation",
         "rel": "collects",
         "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
@@ -100745,6 +101060,12 @@
         "to": "present-contact-and-the-obscuration-of-desired-feeling",
         "rel": "collects",
         "label": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "infinity-within-the-seat",
+        "rel": "collects",
+        "label": "座位之内的无限进程 / Infinity Within the Seat"
       },
       {
         "from": "book:index-of-premises",
@@ -102560,6 +102881,18 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "infinity-within-the-seat",
+        "rel": "collects",
+        "label": "座位之内的无限进程 / Infinity Within the Seat"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "infinity-within-the-seat",
+        "rel": "collects",
+        "label": "座位之内的无限进程 / Infinity Within the Seat"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "rel": "collects",
         "label": "自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution"
@@ -103112,9 +103445,21 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "infinity-within-the-seat",
+        "rel": "collects",
+        "label": "座位之内的无限进程 / Infinity Within the Seat"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-source-of-shared-change",
         "rel": "collects",
         "label": "共同改变的本源 / The Source of Shared Change"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "infinity-within-the-seat",
+        "rel": "collects",
+        "label": "座位之内的无限进程 / Infinity Within the Seat"
       },
       {
         "from": "book:index-of-premises",
@@ -104618,6 +104963,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "infinity-within-the-seat",
+        "rel": "collects",
+        "label": "座位之内的无限进程 / Infinity Within the Seat"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "immortality-final",
         "rel": "collects",
         "label": "永生与两种无限的混淆 / Immortality and the Two-Infinity Confusion"
@@ -105926,6 +106277,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "infinity-within-the-seat",
+        "rel": "collects",
+        "label": "座位之内的无限进程 / Infinity Within the Seat"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-sovereign-blinding",
         "rel": "collects",
         "label": "自愿的致盲 / The Sovereign Blinding"
@@ -106037,6 +106394,12 @@
         "to": "fixed-by-nothing",
         "rel": "collects",
         "label": "没有固定者的固定 / Fixed by Nothing"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "infinity-within-the-seat",
+        "rel": "collects",
+        "label": "座位之内的无限进程 / Infinity Within the Seat"
       },
       {
         "from": "book:index-of-premises",
@@ -106379,6 +106742,12 @@
         "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "rel": "collects",
         "label": "调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "infinity-within-the-seat",
+        "rel": "collects",
+        "label": "座位之内的无限进程 / Infinity Within the Seat"
       },
       {
         "from": "book:index-of-premises",

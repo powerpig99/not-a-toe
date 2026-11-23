@@ -123,7 +123,7 @@ Spinoza's monism holds that finite bodies and modes are bounded limitations with
 
 Mandelbrot's power laws and fractal geometry describe irregularity across magnitudes through scale-free regularities and self-similar structure, which is of use in registering how openings distribute at the surface and how the tension between local coherence and rupture recurs at every scale; it reaches its boundary in that these regularities are the mechanism's mathematical texture in its effects, not the mechanism itself, what generates them is openings forced by centers outside the average, and secondary theories that raise the patterns into manageable properties reinstall a closable future.
 
-→ [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
+→ [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/) · [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
 
 ### 伯恩哈德·黎曼 / Bernhard Riemann
 `数学 / Mathematical`
@@ -159,7 +159,7 @@ Russell constructed monumental systems of formal logic and later prescribed a fe
 
 Rovelli presumes that physical variables manifest only relative to another interacting system and that once dual substance between mind and body is refused, what remains hard is only a complicated natural phenomenon whose hinge between representation and embodiment is neither a metaphysical nor an explanatory gap, and that no exhaustive external account has been shown impossible, which is of use in dissolving intrinsic properties of isolated systems, joining dual kinds into one field of nature, and taking scientific knowledge as perspectival; it reaches its boundary in that placing all systems in flat third-person symmetry leaves the relational web an unanchored hall of mirrors, since the hinge is the one-step lag by which the first-person look registers and no third-person account can contain the act that gives it.
 
-→ [意识的难题与学习相容 / The Hard Problem of Consciousness Is Consistent with Learning](../../posts/the-hard-problem-of-consciousness-is-consistent-with-learning/) · [对象是被稳定化的关系 / Objects Are Stabilized Relationships](../../posts/objects-are-stabilized-relationships/)
+→ [意识的难题与学习相容 / The Hard Problem of Consciousness Is Consistent with Learning](../../posts/the-hard-problem-of-consciousness-is-consistent-with-learning/) · [对象是被稳定化的关系 / Objects Are Stabilized Relationships](../../posts/objects-are-stabilized-relationships/) · [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
 
 ### 卡洛斯·E·佩雷斯 / Carlos E. Perez
 `哲学 / Philosophical`
@@ -312,7 +312,7 @@ Chollet defines intelligence as skill-acquisition efficiency over novel tasks (f
 
 Hayek's argument that dispersed knowledge cannot be monopolized by planning and that a *catallaxy* has no single hierarchy of ends like a firm or *oikonomia* is of use in explaining how markets coordinate through prices without an aggregate optimality standard; it reaches its boundary in that it still pictures what appears in public as pieces of a stock, and holds one fixed pattern of property rules as the general response, a holding that itself issues from incomplete knowledge.
 
-→ [价格是言说，理解是交易 / Price as Utterance, Understanding as Trade](../../posts/price-as-utterance-understanding-as-trade/) · [知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/) · [表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice](../../posts/apparent-regulation-and-the-primacy-of-choice/)
+→ [价格是言说，理解是交易 / Price as Utterance, Understanding as Trade](../../posts/price-as-utterance-understanding-as-trade/) · [知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/) · [表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice](../../posts/apparent-regulation-and-the-primacy-of-choice/) · [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
 
 ### 弗里德里希·尼采 / Friedrich Nietzsche
 `哲学 / Philosophical`
@@ -674,6 +674,15 @@ Chamfort's aphorism observes that happiness is not easy to find in oneself and i
 
 → [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/)
 
+### 尼克拉斯·卢曼 / Niklas Luhmann
+`哲学 / Philosophical`
+
+卢曼的二阶观察理论指出每一次观察皆借划出主导区分而携带着自身盲点，并将社会调控诊断为不可得的外部席位（*Standort außerhalb*），在消解仿佛自上颁布的集体处方时有用；当严苛的第三人称自创生封闭性未能充分刻画具身活心智如何跨越界面承受不可逆的物理摩擦（+1）时，其理论便到达了边界。
+
+Luhmann's theory of second-order observation shows that every observation draws a guiding distinction carrying its own blind spot and diagnoses societal steering as an impossible external vantage (*Standort außerhalb*), which is of use in dissolving collective prescriptions issued as if from above; it reaches its boundary where strict third-person autopoietic closure under-specifies how embodied living Minds absorb irreversible physical friction (+1) across interfaces.
+
+→ [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
+
 ### 巴门尼德 / Parmenides
 `哲学 / Philosophical`
 
@@ -717,7 +726,7 @@ Laplace systematized celestial mechanics and probability and imagined an intelli
 
 Spencer-Brown's Laws of Form grounds formal structure in the primordial injunctive act of drawing a distinction, which is of use in formalizing self-referential indication and how every symbolic system begins with an operative cut; it reaches its boundary when the resulting calculus of marks is reified into an autonomous formal universe detached from the situated living center that draws and re-renders each distinction.
 
-→ [现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling](../../posts/present-contact-and-the-obscuration-of-desired-feeling/)
+→ [现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling](../../posts/present-contact-and-the-obscuration-of-desired-feeling/) · [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
 
 ### 柏拉图 / Plato
 `哲学 / Philosophical`
@@ -2098,6 +2107,24 @@ Hermann Lübbe's contraction of the present and musealization (1992) paired with
 
 → [加速替换与形象滞后 / Accelerating Replacement and Image Lag](../../posts/accelerating-replacement-and-image-lag/)
 
+### 二阶控制论 / Second-Order Cybernetics
+`科学 / Scientific`
+
+海因茨·冯·福斯特提出的二阶控制论将观察者折入反馈回路之中，把经验中稳定显现的对象建模为经由递归观察与行动维系的本征形式（O = F(O)），在消解脱离观察者的实体与外部控制者模型时有用；每当操作建构主义滑向无摩擦唯心论、脱离每条回路在接触时遭遇的不可逆物理与因果摩擦（+1），它便到达了边界。
+
+Second-order cybernetics (Heinz von Foerster) folds the observer inside the feedback loop and models stable experienced objects as eigenforms (O = F(O)) sustained by recursive observation and action, which is of use in dissolving observer-free substances and external controller models; it reaches its boundary wherever operational constructivism drifts toward frictionless idealism detached from the irreversible physical and causal friction (+1) each loop encounters upon contact.
+
+→ [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
+
+### 内物理与内部自测量局限 / Endophysics and Internal Self-Measurement
+`科学 / Scientific`
+
+奥托·罗斯勒的内物理学、布罗伊尔的自测量定理与沃尔珀特的物理推断极限表明，嵌入更大系统之内的观察者（O ⊂ S）严格只经由内部界面接触世界，不同的全局状态在此收束为主观上不可区分的记录，在形式化说明为何不存在系统内部的拉普拉斯妖或对整体的外部检视时有用；一旦微观建构主义模拟在更高一层重新装上外部座位，或证明内部不完备时不得不从分析者书桌前预设封闭的全局状态空间（Ω 或 U），这些框架便到达了边界。
+
+Endophysics (Otto Rössler), Breuer's self-measurement theorem, and Wolpert's physical limits of inference show that an observer embedded inside a larger system (O ⊂ S) accesses reality strictly across an internal interface where distinct global states collapse into subjectively indistinguishable records, which is of use in formalizing why no internal Laplace's Demon or external inspection of the whole is available; these frameworks reach their boundary where microconstructivist simulations reinstall an external seat one level up or where proving internal incompleteness presupposes a closed global state space (Ω or U) drawn from the analyst's desk.
+
+→ [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
+
 ## 概念 / Concepts
 
 ### 心理特质与防御机制分类学 / Psychological Trait and Defense Taxonomies
@@ -2602,7 +2629,7 @@ The hold that reads "shared" as commonality presumes that shared consciousness, 
 
 "Under an avalanche no snowflake is innocent" spreads responsibility for a collective disaster over everyone, of use as a description of universal participation; it reaches its boundary in that spreading drives each person's responsibility toward zero, 1/N → 0, the private gain of wrongdoing staying with oneself while its cost is spread over society and the cost of restraint staying with oneself while its gains are shared, so that stressing collective responsibility cuts the correspondence between choice and feedback.
 
-→ [涌现的伪因果 / The Pseudo-Causality of Emergence](../../posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/)
+→ [涌现的伪因果 / The Pseudo-Causality of Emergence](../../posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) · [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
 
 ### 集体社会改良论 / Collective Social Reform
 `哲学 / Philosophical`
@@ -2611,7 +2638,7 @@ The hold that reads "shared" as commonality presumes that shared consciousness, 
 
 Collective social reform presumes that altering laws and institutions at large changes the shared reality, which is of use in giving many centers a visible procedure to coordinate on; it reaches its boundary in that shared reality is private perception registered at each center, common ground is the overlapping residue of those registrations, change begins only as one Mind's private work with what registers as given, and whether residue lands as shared change is under the control of no originator or institution.
 
-→ [共同改变的本源 / The Source of Shared Change](../../posts/the-source-of-shared-change/)
+→ [共同改变的本源 / The Source of Shared Change](../../posts/the-source-of-shared-change/) · [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
 
 ### 强制善意 / Compulsory Kindness
 `哲学 / Philosophical`
@@ -4033,7 +4060,7 @@ Saying an essay was "written by AI", defining authorship by token share, gauging
 
 Reading measurement limits, cosmological and event horizons, and singularities as edges of reality is of use in marking where registration reaches its bound or where an extrapolated formalism stops holding; it reaches its boundary in that these are bounds of an observer's access or of a temporary description, not demonstrated edges of the field, and what exceeds a finite description cannot be confirmed or disconfirmed in any final sense.
 
-→ [选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/) · [框架的边界 / The Boundary of the Frame](../../posts/the-boundary-of-the-frame/) · [投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality](../../posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)
+→ [选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/) · [框架的边界 / The Boundary of the Frame](../../posts/the-boundary-of-the-frame/) · [投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality](../../posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/) · [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
 
 ### 肉体永生 / Physical Immortality
 `哲学 / Philosophical`
@@ -5050,7 +5077,7 @@ Presumes individual emotional states are unilaterally authored by opposing demog
 
 Social consensus models presume that citizens inhabit an identical objective experiential sandbox, which is of use in holding public words, prices, and contracts as low-dimensional clearing signals to coordinate action; the premise reaches its boundary in that living Minds inhabit distinct first-person worlds and coordinate externally through overlapping signals without sharing an interior scene.
 
-→ [共享沙盒的幻象 / The Illusion of the Shared Sandbox](../../posts/the-illusion-of-the-shared-sandbox/) · [共享的边界，而非共享的语境 / Shared Boundaries, Not Shared Context](../../posts/shared-boundaries-not-shared-context/)
+→ [共享沙盒的幻象 / The Illusion of the Shared Sandbox](../../posts/the-illusion-of-the-shared-sandbox/) · [共享的边界，而非共享的语境 / Shared Boundaries, Not Shared Context](../../posts/shared-boundaries-not-shared-context/) · [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
 
 ### 高精仪器的自愿致盲 / The Sovereign Blinding of Precision
 `技术 / Technological`
@@ -5086,7 +5113,7 @@ Formal ontology presumes that a system can catalogue everything that exists, its
 
 The view from nowhere presumes a description can be given from a stand outside every observer, which is of use in setting aside one center's particular stakes to find what holds across many; it reaches its boundary in that every such description is still drawn by a situated Mind, a physical reading depends on an observer at a concrete point, and a voice that speaks as if from nowhere is one re-projection of the Self elevated past its step.
 
-→ [隐秘的上帝之眼 / The Invisible God's Eye](../../posts/the-invisible-gods-eye/) · [割点可移不可除 / The Cut Moves but Never Vanishes](../../posts/the-cut-moves-but-never-vanishes/) · [自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere](../../posts/self-image-speaks-as-if-from-nowhere/) · [持续生长的脚手架 / The Scaffolding That Keeps Growing](../../posts/the-scaffolding-that-keeps-growing/) · [框架的边界 / The Boundary of the Frame](../../posts/the-boundary-of-the-frame/) · [无法逃逸的心智视界 / One Cannot Escape One's Own Mind](../../posts/one-cannot-escape-ones-own-mind/) · [因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere](../../posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere/) · [双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer](../../posts/the-twin-paradox-and-the-hidden-observer/) · [定义者的席位与离地的幻觉 / The Defining Seat](../../posts/the-defining-seat/) · [不可还原的观察者 / The Irreducible Observer](../../posts/the-irreducible-observer/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/) · [没有固定者的固定 / Fixed by Nothing](../../posts/fixed-by-nothing/)
+→ [隐秘的上帝之眼 / The Invisible God's Eye](../../posts/the-invisible-gods-eye/) · [割点可移不可除 / The Cut Moves but Never Vanishes](../../posts/the-cut-moves-but-never-vanishes/) · [自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere](../../posts/self-image-speaks-as-if-from-nowhere/) · [持续生长的脚手架 / The Scaffolding That Keeps Growing](../../posts/the-scaffolding-that-keeps-growing/) · [框架的边界 / The Boundary of the Frame](../../posts/the-boundary-of-the-frame/) · [无法逃逸的心智视界 / One Cannot Escape One's Own Mind](../../posts/one-cannot-escape-ones-own-mind/) · [因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere](../../posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere/) · [双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer](../../posts/the-twin-paradox-and-the-hidden-observer/) · [定义者的席位与离地的幻觉 / The Defining Seat](../../posts/the-defining-seat/) · [不可还原的观察者 / The Irreducible Observer](../../posts/the-irreducible-observer/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/) · [没有固定者的固定 / Fixed by Nothing](../../posts/fixed-by-nothing/) · [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
 
 ### 世界是幻觉 / The World as Illusion
 `哲学 / Philosophical`
@@ -5347,7 +5374,7 @@ The Upanishadic tradition presumes the recognition of awareness prior to every f
 
 The premise of a static observer-independent reality assumes that a standalone world exists fixed in advance beyond first-person perception waiting for theories to uncover, which is of use in coordinating shared measurements across observers within stable regimes; it reaches its boundary in leaving out that physical regularities register as the invariant friction produced where cognitive models meet perception rather than as an observer-free inventory waiting outside awareness.
 
-→ [切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere](../../posts/the-walking-tangent-and-the-stumbling-sphere/) · [模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge](../../posts/the-model-never-becomes-a-second-edge/) · [调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth](../../posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)
+→ [切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere](../../posts/the-walking-tangent-and-the-stumbling-sphere/) · [模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge](../../posts/the-model-never-becomes-a-second-edge/) · [调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth](../../posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) · [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
 
 ### 冯·诺依曼割点 / The von Neumann Cut
 `科学 / Scientific`
