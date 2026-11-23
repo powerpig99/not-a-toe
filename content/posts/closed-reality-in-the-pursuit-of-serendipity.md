@@ -8,11 +8,11 @@ Naval Ravikant's stance is simple and widely shared: delete the calendar, refuse
 
 ## 一、 把场域冻结为时段槽位的论断 / 1. The Claim That Freezes the Field as Slots
 
-在那段广为流传的访谈切片中，纳瓦尔归功于马克·安德森“不要保留日程表”的建议，删掉了自己的日历，几乎不留任何必须记住的待办事项，并开启了强硬的自动回复，告知人们不要发邮件或发短信，因为真正需要找他的人自然会找到他。他的妻子也不会替他预约晚宴、生日聚会或婚礼。当克里斯·威廉姆森问这是否会扼杀机缘时，纳瓦尔回答说，借由把所有时间腾出来，他的整个人生便在与任何人、任何时间、任何地点的无拘束互动中成了机缘。
+在那段广为流传的访谈切片中，纳瓦尔将这一做法归功于马克·安德森“不要保留日程表”的建议：他删掉了自己的日历，几乎不留任何必须记住的待办事项，并开启了强硬的自动回复，告知人们不要发邮件或发短信，因为真正需要找他的人自然会找到他。他的妻子也不会替他预约晚宴、生日聚会或婚礼。当克里斯·威廉姆森问这是否会扼杀机缘时，纳瓦尔回答说，借由把所有时间腾出来，他的整个人生便在与任何人、任何时间、任何地点的无拘束互动中成了机缘。
 
 In the circulating clip, Naval credits Marc Andreessen's advice not to keep a schedule, deletes his calendar, retains almost nothing that must be remembered, and runs a hard autoresponder instructing people not to email or text because anyone who truly needs him will find him. His wife does not book him for dinners, birthdays, or weddings. When Chris Williamson asks whether this kills serendipity, Naval answers that by freeing all his time, his entire life becomes serendipity through unconstrained interaction with whoever, whenever, wherever.
 
-这番回答所视为封闭的，并不是对可选性的偏爱，而是偶然性的拓扑结构。有安排的时间被塑造成被占领的领地，空白的时间则被安装为偶然性得以显现的必要条件。如此一来，开放便被倒置了：从不息运行的区分活动，变成了必须靠移除约束才能造出来的产物。那道从未闭合的连续边缘被推入背景，而一种特定的痕迹构型——缺席的日程表——则被推到前台，当成了生成的因。
+这番回答所视为封闭的，并不是对可选性的偏爱，而是偶然性的拓扑结构。有安排的时间被塑造成已被占领的领地，空白的时间则被安装为偶然性得以显现的必要条件。如此一来，开放便被倒置了：从不息运行的区分活动，变成了靠移除约束造出来的产物。那道从未闭合的连续边缘被推入背景，而一种特定的痕迹构型——缺席的日程表——则被推到前台，当成了生成的因。
 
 What that answer treats as sealed is not the preference for optionality, but the topology of chance. Scheduled time is cast as occupied territory, while blank time is installed as the necessary condition under which chance can appear. Openness is thereby inverted from the ongoing activity of distinguishing into a product manufactured by removing constraints. The continuous edge that was never closed is pushed into the background, while a specific configuration of traces—the absent calendar—is placed in the foreground as the generating cause.
 
@@ -104,11 +104,11 @@ The excess lag lies not in keeping a blank calendar, but in announcing that once
 
 ## 四、 不留残余的自我形象正是残余本身 / 4. The Image of No Residue Is the Residue
 
-由此产生的反讽是结构性的，而非针对个人的：一个人将自己塑造成“不留残余而活”的形象，恰恰成了他随后着力维护的公开残余。无挂碍的展演变成了被保留下来的差值，新的行动都要对照它来衡量。[无形象的写作](../writing-without-the-image/)在技艺的外衣下追溯了这种对观察者的抹除：把无我当作一项成就来展演，只是在相反的符号下保留了多余的滞后。访谈、自动回复，以及一遍遍重述的删日历故事，把那份残余压实成耐久的痕迹，供其他中心拾起并效仿。尽管区分的边缘照常继续，“不留残余而活”的主张却成了那个被豁免于重新渲染的参照。
+由此产生的反讽是结构性的，而非针对个人的：一个人将自己塑造成“不留残余而活”的形象，恰恰成了他随后着力维护的公开残余。无挂碍的展演变成了被保留下来的位置，新的行动都要对照它来衡量。[无形象的写作](../writing-without-the-image/)在技艺的外衣下追溯了这种对观察者的抹除：把无我当作一项成就来展演，只是在相反的符号下保留了多余的滞后。访谈、自动回复，以及一遍遍重述的删日历故事，把那份残余压实成耐久的痕迹，供其他中心拾起并效仿。尽管区分的边缘照常继续，“不留残余而活”的主张却成了那个被豁免于重新渲染的参照。
 
-The resulting irony is structural rather than personal: an image of oneself as the one who lives without residue becomes the exact public residue one then maintains. The performance of purity turns into the retained differential against which new acts are measured. [Writing Without the Image](../writing-without-the-image/) traces this erasure of the observer under craft costume, where staging no-self as an achievement preserves excess lag under the opposite sign. Interviews, autoresponders, and the repeated story of the deleted calendar densify that residue into durable traces that other centers take up and imitate. While the distinguishing edge continues regardless, the claim of living without residue becomes the very reference exempted from re-rendering.
+The resulting irony is structural rather than personal: an image of oneself as the one who lives without residue becomes the exact public residue one then maintains. The performance of purity turns into the retained position against which new acts are measured. [Writing Without the Image](../writing-without-the-image/) traces this erasure of the observer under craft costume, where staging no-self as an achievement preserves excess lag under the opposite sign. Interviews, autoresponders, and the repeated story of the deleted calendar densify that residue into durable traces that other centers take up and imitate. While the distinguishing edge continues regardless, the claim of living without residue becomes the very reference exempted from re-rendering.
 
-形象一旦成形，自我保存便是它自身的指令，因为重新渲染正是形象为了存续而要排斥的微小死亡。这种漂移并不需要任何恶意。消解它，并不意味着废除这种生活方式，或强行装回一张日程表来取而代之；消解是直接渲染那道裂隙本身，即察觉到“无计划”的位置已被豁免于其他每一个计划都必须接受的重新描摹。[遗忘的脚手架](../the-scaffolding-we-forget/)追溯了这一切口的两面：工具在随步伐移动而放下时发挥功用，而在跨步保留时冻结为多余的滞后。在这里，被遗忘的脚手架正是那幅无拘束待命的自我形象。
+形象一旦成形，自我保存便是它自身的指令，因为重新渲染正是形象为了存续而要排斥的微小死亡。这种漂移并不需要任何恶意。消解它，并不意味着废除这种生活方式，或强行装回一张日程表来取而代之；消解是直接渲染那道间隙本身，即察觉到“无计划”的位置已被豁免于其他每一个计划都必须接受的重新描摹。[遗忘的脚手架](../the-scaffolding-we-forget/)追溯了这一切口的两面：工具在随步伐移动而放下时发挥功用，而在跨步保留时冻结为多余的滞后。在这里，被遗忘的脚手架正是那幅无拘束待命的自我形象。
 
 Preservation is the image's own directive once formed, because re-rendering is the micro-death the image exists to select against. This drift requires no perversity. Dissolving it does not mean abolishing the lifestyle or installing a mandatory schedule in its place; dissolution is rendering the gap itself by noticing that the no-plan position has been exempted from the re-tracing demanded of every other plan. [The Scaffolding We Forget](../the-scaffolding-we-forget/) traces the dual face of that cut: an instrument functions when set down as the step moves, and freezes into excess lag when preserved past its step. Here the forgotten scaffolding is the self-image of unconstrained availability.
 

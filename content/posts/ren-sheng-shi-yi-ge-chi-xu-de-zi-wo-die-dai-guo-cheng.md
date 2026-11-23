@@ -138,6 +138,6 @@ The objective function has always been self-defined. A person can spend a whole 
 
 ## 六、 没有训练结束的一天 / 6. There Is No Day When Training Ends
 
-人生没有训练结束的一天。只有当前这一步的损失是否比上一步更低，以及误差信号是否还能回到那些可以改变的地方。
+人生没有训练结束的一天。只有当前这一步登记到了什么——差距是收窄、在摩擦下扩大，还是随着自己重新定义目标函数本身而重置——以及误差信号是否还能回到那些可以改变的地方。
 
-A life has no day when training ends. There is only whether the loss at this step is lower than at the last, and whether the error signal can still return to the places that can change.
+A life has no day when training ends. There is only what the current step registers—whether the gap narrows, widens under friction, or resets as one redefines the objective function itself—and whether the error signal can still return to the places that can change.
