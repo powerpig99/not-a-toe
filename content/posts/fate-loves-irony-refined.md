@@ -1,6 +1,6 @@
 # 生产创造自己的意识形态消费 / Production Creates Its Own Ideological Consumption
 
-*边际成本坍塌之际，物质盈余资助并放大了将生产本身反判为问题的非生产性框架。 / As marginal costs collapse, material surplus funds the frameworks that recast production itself as the problem.*
+*边际成本坍塌之际，物质盈余资助了将生产本身反判为问题的框架。 / As marginal costs collapse, material surplus funds the frameworks that recast production itself as the problem.*
 
 让-巴蒂斯特·萨伊曾指出，供给创造其自身的需求。在边际成本坍塌的时代，这一法则迎来了它充满反讽的应验——不仅体现在商品上，更体现在那些对商品进行重新解释的观念体系中。
 
@@ -26,11 +26,11 @@ Orientations across these axes are modal and self-reinforcing. Under scarcity, f
 
 Each dimension generates its own feedback. The production dimension's signal is comparatively legible: output, exchange, and measurable consequence. Those oriented primarily toward other dimensions receive a specific signal from the production axis—lower output and weaker recognition within that metric—which is simply what happens when one optimizes along a different axis.
 
-然而，来自某一个维度的信号，总是透过观察者自身所处维度的逻辑被解读。生产轴线发出的信号经由阐释或规范逻辑的解读后发生了倒置：生产维度上的较低位置，被登记为自身所在轴线上占据优势的证据——无论这种优势被表述为更敏锐的道德感知、更深邃的洞见，还是更精密的批判。在阐释维度自身的度量标准内，这种解读具有内部自洽性，而人类文明也确实因那些在表达与阐释轴线上延展的人而更加丰盈。就其自身而言，这种倒置并非连贯性断裂之处。
+然而，来自某一个维度的信号，会透过观察者自身所处维度的逻辑被解读。生产轴线发出的信号经由阐释或规范逻辑的解读后发生了倒置：生产维度上的较低位置，被登记为自身所在轴线上占据优势的证据——无论这种优势被表述为更敏锐的道德感知、更深邃的洞见，还是更精密的批判。在阐释维度自身的度量标准内，表达与阐释轴线上的工作依其自身准则成立，并使文明更加丰盈；生产上的较低位置仅仅标明优化发生在别处，并非连贯性的断裂。然而，将生产上的较低位置登记为道德或批判优势的证据，就已经把正交轴线坍缩到一条反向标尺上，将生产本身置于可疑地位。
 
-Yet signals from one dimension are interpreted through the logic of the dimension an observer inhabits. The production-axis signal is read through interpretive or normative logic and inverts: lower standing in production is registered as evidence of superiority along the home axis, whether as greater moral sensitivity, deeper insight, or refined critique. Within the interpretive dimension's own metric, that reading is internally coherent, and civilization is richer for those who extend along expressive and interpretive axes. The inversion, on its own terms, is not where coherence breaks.
+Yet signals from one dimension are interpreted through the logic of the dimension an observer inhabits. The production-axis signal is read through interpretive or normative logic and inverts: lower standing in production is registered as evidence of superiority along the home axis, whether as greater moral sensitivity, deeper insight, or refined critique. Within the interpretive dimension's own metric, work on expressive and interpretive axes stands on its own terms and enriches civilization; lower standing in production simply marks optimizing elsewhere, not a break in coherence. Yet registering lower production standing as evidence of moral or critical superiority already collapses orthogonal axes onto an inverse scale, casting production itself as suspect.
 
-断裂发生在一个具体的位置上：要求将在某一个维度上自称的优势，折算为以另一个维度计价的回报。阐释上的卓越不会在生产轴线上自动登记，正交的维度之间也不存在客观的汇率。然而，这一跨越依然发生了——人们以自身在阐释、规范建构或批判中的地位为凭据，将物质支持、制度权威与分配优先权当作理所应当的权益来索取。一个人无法在逻辑自洽的前提下，一边消解某个维度的纪律约束，一边又以自己在另一个维度上的地位为理由，将前者的产出据为己有。那个本可支撑开放多元主义的信号——即承认正交维度之间无法自动换算——被重新包装成了跨边界索取的凭证。
+这一倒置在一个具体位置上演变为显性的跨边界断裂：要求将在某一个维度上自称的优势，折算为以另一个维度计价的回报。阐释上的卓越不会在生产轴线上登记，正交的维度之间也不存在客观的汇率。然而，这一跨越依然发生了——人们以自身在阐释、规范建构或批判中的地位为凭据，将物质支持、制度权威与分配优先权当作理所应当的权益来索取。一个人无法在逻辑自洽的前提下，一边淡化某个维度的纪律约束，一边又以自己在另一个维度上的地位为依据，将前者的产出作为权利来索取。那个本可支撑开放多元主义的信号——即承认正交维度之间无法自动换算——被重新包装成了跨边界索取的凭证。
 
 ```mermaid
 flowchart TD
@@ -40,7 +40,6 @@ flowchart TD
         P_Signal["生产信号：经由自愿交换与后果检验的清晰价值"]
         P_Collapse --> P_Signal
     end
-
     subgraph S_Invert["跨维度倒置（意识形态消费）"]
         direction TB
         I_Read["模态重释：生产维度上的较低位置被解读为道德或批判优势"]
@@ -48,10 +47,8 @@ flowchart TD
         I_Loop["自我强化的补贴：盈余资助那些将生产视为问题的框架"]
         I_Read --> I_Claim --> I_Loop
     end
-
     P_Signal ==>|"透过规范透镜解读"| I_Read
     P_Collapse ==>|"规模化资助其存续"| I_Loop
-
     style S_Prod fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Invert fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style P_Collapse fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -61,7 +58,7 @@ flowchart TD
     style I_Loop fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-The fracture occurs at a specific location: the demand to convert claimed superiority in one dimension into rewards denominated in another. Excellence in interpretation does not register on the production axis, and there is no objective exchange rate between orthogonal dimensions. Yet the move is made—demanding material support, institutional authority, and distributional priority as entitlements warranted by standing in interpretation, normative construction, or critique. One cannot coherently de-emphasize a dimension's discipline while claiming its outputs as a right justified by standing in a different dimension. The signal that could support open pluralism—acknowledging that orthogonal dimensions do not automatically convert—is reframed as a warrant for extraction across the boundary.
+That inversion becomes an overt cross-boundary fracture at a specific location: the demand to convert claimed superiority in one dimension into rewards denominated in another. Excellence in interpretation does not register on the production axis, and there is no objective exchange rate between orthogonal dimensions. Yet the move is made—demanding material support, institutional authority, and distributional priority as entitlements warranted by standing in interpretation, normative construction, or critique. One cannot coherently de-emphasize a dimension's discipline while claiming its outputs as a right justified by standing in a different dimension. The signal that could support open pluralism—acknowledging that orthogonal dimensions do not automatically convert—is reframed as a warrant for extraction across the boundary.
 
 ```mermaid
 flowchart TD
@@ -71,7 +68,6 @@ flowchart TD
         P_Signal["Production Signal: Legible value tested through voluntary exchange and consequence"]
         P_Collapse --> P_Signal
     end
-
     subgraph S_Invert["Cross-Dimensional Inversion (Ideological Consumption)"]
         direction TB
         I_Read["Modal Reinterpretation: Lower production standing read as moral or critical superiority"]
@@ -79,10 +75,8 @@ flowchart TD
         I_Loop["Self-Reinforcing Subsidy: Surplus funds the frameworks that cast production as the problem"]
         I_Read --> I_Claim --> I_Loop
     end
-
     P_Signal ==>|"Read through normative lens"| I_Read
     P_Collapse ==>|"Subsidizes maintenance at scale"| I_Loop
-
     style S_Prod fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Invert fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style P_Collapse fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
