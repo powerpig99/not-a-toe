@@ -1,10 +1,10 @@
-# 知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry
+# 知识建制与认知探索 / Institutional Knowledge and Cognitive Inquiry
 
-*知识无法脱离心智现场而被动传递，制度化考核将探索异化为排位赛 / Knowledge cannot be handed over passively; institutional testing reduces inquiry to rank*
+*知识无法脱离心智现场而被动传递，制度化考核将探索异化为排位赛 / Knowledge cannot be handed over passively apart from the Mind's living scene; institutional testing reduces inquiry to rank*
 
 学校课程、学科分类与专家建议将前人在特定历史约束下探索出的结论整理成册，作为快速检索与入门的索引极为有用。它们的不完备始于把这套现成的结论清单误认作理解本身——当教育与阅读把通过标准化考核或复述他人定论当成终点时，学习者便用对既有痕迹的记忆替代了在未知处境中重新追溯的活态能力。
 
-School curricula, academic disciplines, and expert advice catalog conclusions forged under past constraints, serving as a valuable index for rapid orientation and retrieval. Their incompleteness begins when this inventory of settled conclusions is mistaken for understanding itself — when schooling and reading treat passing standardized tests or repeating established verdicts as the destination, substituting memory of past traces for the live capacity to re-trace in unfamiliar terrain.
+School curricula, academic disciplines, and expert advice catalog conclusions forged under past constraints, serving as a valuable index for rapid orientation and retrieval. Their incompleteness begins when this inventory of settled conclusions is mistaken for understanding itself — when schooling and reading treat passing standardized tests or repeating established verdicts as the destination, learners substitute memory of past traces for the live capacity to re-trace in unfamiliar terrain.
 
 这里的随笔考察了敞开的好奇回路、因果权能的安放作为学习中不可观测的驱动力、专家经验作为参考而非替代的边界、理解的非对称性，以及“信任读者”与“无损传递”背后的认识论假设。学习从来不是把现成答案搬进仓库，而是让探索保持敞开，将每一个回返的信号认领为自身行动的后果，在行动与现实阻力的来回碰撞中持续校准自己的推断回路。
 

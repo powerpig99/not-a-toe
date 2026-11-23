@@ -1,14 +1,14 @@
 # 善恶界限与共情陷阱 / Moral Boundaries and the Empathy Trap
 
-*地狱是由善意铺就的镜像，失去第一人称自卫界限的共情终将滑向自毁 / Hell is the mirror of good; empathy without first-person self-defense slides into destruction*
+*善越过步点冻结，便将地狱投射为自身的镜像；共情脱离第一人称自卫，即滑向自毁 / Good frozen past its step casts hell as its mirror; empathy untethered from first-person self-defense slides into self-destruction*
 
-道德规范与共情机制作为人际互动的简写约定，在熟悉的共同体内部有助于快速识别偏好聚类、缓冲冲突并维系互信。它们的边界坐落在最初那一道区分之上：善与恶并不是独立存在于宇宙中的两种实体，而是同一个心智在划定边界时同时生成的正反两面。当某种局部的“善”被封闭为不可核验、不可拒绝的普遍律令时，它便遮蔽了真实的因果反馈。
+道德规范与共情作为人际互动的简写约定，有助于熟悉的共同体识别偏好聚类、缓冲冲突并维系互信。它们的边界坐落在最初那一道切分与各中心的离散性之上：善与恶并非独立存在于宇宙中的两种实体，而是一个心智在划定道德边界时同时生成的正反两面，且没有哪个中心能够直接跨入另一个中心的内部。当某种局部的“善”被豁免于重新追溯，封闭为凌驾于其他心智之上、不容协商的普遍律令——或者当共情推断被当作一项常设能力并抬高到自我防卫之上时——这便遮蔽了无缓冲的因果反馈。
 
-Moral norms and empathy act as shorthand conventions in human interaction, helping familiar communities recognize preference clusters, buffer conflict, and sustain mutual trust. Their boundary sits at the initial cut: good and evil are not two independent substances in the universe, but the two faces generated simultaneously when a mind draws a boundary. When a local "good" is sealed into an unverifiable, non-negotiable universal command, it obscures real causal feedback.
+Moral norms and empathy act as shorthand conventions in human interaction, helping familiar communities recognize preference clusters, buffer conflict, and sustain mutual trust. Their boundary sits at the initial cut and at the discreteness of centers: good and evil are not two independent substances in the universe, but the two faces generated simultaneously when a mind draws a moral boundary, while no center can step into another's interior directly. When a local "good" is exempted from re-tracing and sealed into a non-negotiable universal command over other minds—or when empathic inference is treated as a standing capability and elevated above self-defense—it obscures unbuffered causal feedback.
 
-这里的篇目追溯了外化善意如何走向其反面、情感支持与同情如何干扰当事人的因果回路，以及阳台视角上的道德评判如何替代了具身行动。撤回悬浮在空中的评判语言，心智便能回到具体的接触面：先守住自身清晰的自卫与承担边界，再对真实相遇的他者履行可核验的责任。
+这里的篇目追溯了外化善意如何走向其反面、情感支持与同情如何干扰当事人的因果回路，以及阳台视角上的道德评判如何替代了具身行动。撤回悬浮在空中的评判语言，心智便回到接触点，在此守住清晰的第一人称自卫边界，认领自身抉择的原始后果，并践行在具体相遇中生成、而非由抽象账本强加的责任。
 
-The essays here trace how externalized virtue turns into its opposite, how emotional support and sympathy interfere with another person's causal loop, and how moralizing from the balcony substitutes for embodied action. Withdrawing suspended judgmental language returns the mind to the point of contact: holding clear boundaries of self-defense and accountability first, and honoring verifiable obligations to those actually encountered.
+The essays here trace how externalized virtue turns into its opposite, how emotional support and sympathy interfere with another person's causal loop, and how moralizing from the balcony substitutes for embodied action. Withdrawing suspended judgmental language returns the mind to the point of contact, where it holds clear boundaries of first-person self-defense, claims the raw consequences of its own choices, and enacts obligations generated in concrete encounter rather than imposed by an abstract ledger.
 
 ## 篇目 / Essays
 

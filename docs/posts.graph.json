@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-23T11:38:08.107Z",
+    "generated_at": "2026-11-23T12:04:42.904Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -472,14 +472,14 @@
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "5fd937c16807",
       "content/book/economics.md": "59f58b5d23c6",
-      "content/book/index-of-premises.md": "d1cd8dfe39ea",
+      "content/book/index-of-premises.md": "a0e99b65bec1",
       "content/book/intelligence.md": "aff9cd828dad",
-      "content/book/knowledge-and-learning.md": "da0efd75ca7e",
+      "content/book/knowledge-and-learning.md": "a885aa187e8e",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
       "content/book/mathematics.md": "15cf0e9db0a5",
       "content/book/meaning-and-transcendence.md": "85824b01375a",
       "content/book/method.md": "2f0a174477dc",
-      "content/book/morality.md": "74e5662f2868",
+      "content/book/morality.md": "d7bed5438283",
       "content/book/physics.md": "c9d233b55433",
       "content/book/preface.md": "09791dd76ace",
       "content/book/state-and-collective.md": "a1b57a68703f",
@@ -495,7 +495,7 @@
       "isolated": 0,
       "posts_with_outbound": 461,
       "book_pages": 16,
-      "book_edges": 1583,
+      "book_edges": 1615,
       "posts_reached_by_book": 461
     }
   },
@@ -98378,7 +98378,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "d1cd8dfe39ea",
+        "hash": "a0e99b65bec1",
         "out_degree": 461
       },
       {
@@ -98395,8 +98395,8 @@
         "kind": "book",
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
-        "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "da0efd75ca7e",
+        "title": "知识建制与认知探索 / Institutional Knowledge and Cognitive Inquiry",
+        "hash": "a885aa187e8e",
         "out_degree": 36
       },
       {
@@ -98441,7 +98441,7 @@
         "slug": "morality",
         "path": "content/book/morality.md",
         "title": "善恶界限与共情陷阱 / Moral Boundaries and the Empathy Trap",
-        "hash": "74e5662f2868",
+        "hash": "d7bed5438283",
         "out_degree": 30
       },
       {
@@ -99453,6 +99453,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-name-revolution-files-a-life-as-evidence",
+        "rel": "collects",
+        "label": "革命之名把生活收成证据 / The Name Revolution Files a Life as Evidence"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "failure-as-information",
         "rel": "collects",
         "label": "失败即信息 / Failure as Information"
@@ -99576,6 +99582,18 @@
         "to": "apparent-regulation-and-the-primacy-of-choice",
         "rel": "collects",
         "label": "表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "externalizing-unmet-drive-as-the-pathology-of-growth",
+        "rel": "collects",
+        "label": "外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
+        "rel": "collects",
+        "label": "进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance"
       },
       {
         "from": "book:index-of-premises",
@@ -100233,6 +100251,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "boletus-compute-storm-and-promethean-fire",
+        "rel": "collects",
+        "label": "牛肝菌、算力风暴与普罗米修斯的火 / Boletus, the Compute Storm, and Promethean Fire"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "overfitting-as-the-follower-mode",
         "rel": "collects",
         "label": "过拟合作为追随者模式 / Overfitting as the Follower Mode"
@@ -100449,6 +100473,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "closed-framing-and-the-reduction-of-optionality",
+        "rel": "collects",
+        "label": "封闭框定与选择权的缩减 / Closed Framing and the Reduction of Optionality"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
         "rel": "collects",
         "label": "“知道自己不知道”是一种修辞假象 / Knowing That You Don't Know Is a Rhetorical Illusion"
@@ -100623,6 +100653,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "what-hinton-failed-to-understand",
+        "rel": "collects",
+        "label": "辛顿未曾理解的心智 / What Hinton Failed to Understand"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-presumption-of-agi-and-the-view-from-outside",
         "rel": "collects",
         "label": "AGI的预设与来自外部的视角 / The Presumption of AGI and the View from Outside"
@@ -100656,6 +100692,12 @@
         "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
         "rel": "collects",
         "label": "黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-twin-paradox-and-the-hidden-observer",
+        "rel": "collects",
+        "label": "双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer"
       },
       {
         "from": "book:index-of-premises",
@@ -101181,6 +101223,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "what-hinton-failed-to-understand",
+        "rel": "collects",
+        "label": "辛顿未曾理解的心智 / What Hinton Failed to Understand"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "fate-loves-irony-refined",
         "rel": "collects",
         "label": "生产创造自己的意识形态消费 / Production Creates Its Own Ideological Consumption"
@@ -101382,6 +101430,12 @@
         "to": "the-reversal-of-the-bystander-commentators",
         "rel": "collects",
         "label": "旁观评论者的倒置 / The Reversal of the Bystander Commentators"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-question-that-installs-the-war",
+        "rel": "collects",
+        "label": "安装战争的那个问题 / The Question That Installs the War"
       },
       {
         "from": "book:index-of-premises",
@@ -101631,6 +101685,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "abstraction-determination-and-the-three-structural-flaws-of-machine-learning",
+        "rel": "collects",
+        "label": "抽象、决定，与主流机器学习的三大结构性症结 / Abstraction, Determination, and the Three Structural Flaws of Machine Learning"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "inheritance-as-residue-and-the-need-for-extraction",
         "rel": "collects",
         "label": "继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction"
@@ -101775,6 +101835,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "everything-is-changing-as-always",
+        "rel": "collects",
+        "label": "万物一如既往地流变 / Everything Is Changing, as Always"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-loop-accelerates",
         "rel": "collects",
         "label": "加速的自指回环与自我实现的终结叙事 / The Loop Accelerates"
@@ -101907,6 +101973,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "amplification-paradox",
+        "rel": "collects",
+        "label": "放大悖论 / The Amplification Paradox"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-observational-cut-in-ai-debates",
         "rel": "collects",
         "label": "AI 争论中的观察划界 / The Observational Cut in AI Debates"
@@ -101952,12 +102024,6 @@
         "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
         "rel": "collects",
         "label": "抽象、边界与现实的移动边缘 / Abstraction Boundaries and the Moving Edge of Reality"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "amplification-paradox",
-        "rel": "collects",
-        "label": "放大悖论 / The Amplification Paradox"
       },
       {
         "from": "book:index-of-premises",
@@ -102021,9 +102087,21 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "boletus-compute-storm-and-promethean-fire",
+        "rel": "collects",
+        "label": "牛肝菌、算力风暴与普罗米修斯的火 / Boletus, the Compute Storm, and Promethean Fire"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
         "rel": "collects",
         "label": "黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-twin-paradox-and-the-hidden-observer",
+        "rel": "collects",
+        "label": "双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer"
       },
       {
         "from": "book:index-of-premises",
@@ -102078,6 +102156,12 @@
         "to": "the-boundary-of-the-frame",
         "rel": "collects",
         "label": "框架的边界 / The Boundary of the Frame"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-question-that-installs-the-war",
+        "rel": "collects",
+        "label": "安装战争的那个问题 / The Question That Installs the War"
       },
       {
         "from": "book:index-of-premises",
@@ -102249,6 +102333,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-scaffolding-that-keeps-growing",
+        "rel": "collects",
+        "label": "持续生长的脚手架 / The Scaffolding That Keeps Growing"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "shared-consciousness-is-intersecting-individualities",
         "rel": "collects",
         "label": "共享意识是个体性的交集 / Shared Consciousness Is Intersecting Individualities"
@@ -102417,12 +102507,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
-        "rel": "collects",
-        "label": "自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
         "rel": "collects",
         "label": "投资决策的因果闭环 / The Causal Loop of Investment Decisions"
@@ -102507,6 +102591,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+        "rel": "collects",
+        "label": "自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "everything-is-changing-as-always",
         "rel": "collects",
         "label": "万物一如既往地流变 / Everything Is Changing, as Always"
@@ -102558,12 +102648,6 @@
         "to": "the-reality-distortion-field-inverts-the-baseline",
         "rel": "collects",
         "label": "现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "looping-and-graphing",
-        "rel": "collects",
-        "label": "回环与成图 / Looping and Graphing"
       },
       {
         "from": "book:index-of-premises",
@@ -102738,6 +102822,12 @@
         "to": "actual-infinity-born-inside-potential-infinity",
         "rel": "collects",
         "label": "实无限生于潜无限 / Actual Infinity Born Inside Potential Infinity"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "causality-stays-at-the-edge-that-steers",
+        "rel": "collects",
+        "label": "因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers"
       },
       {
         "from": "book:index-of-premises",
@@ -103113,12 +103203,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "munger-dumb-competition-refined",
-        "rel": "collects",
-        "label": "消解芒格的愚蠢竞争论 / Dissolving Munger's Dumb Competition"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
         "rel": "collects",
         "label": "格物致知与信息复杂度 / Investigating Things and the Nature of Information Complexity"
@@ -103206,12 +103290,6 @@
         "to": "on-demand-contexts-keep-coherence-at-one-step",
         "rel": "collects",
         "label": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "what-hinton-failed-to-understand",
-        "rel": "collects",
-        "label": "辛顿未曾理解的心智 / What Hinton Failed to Understand"
       },
       {
         "from": "book:index-of-premises",
@@ -103545,6 +103623,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+        "rel": "collects",
+        "label": "开放场域中的无损知识不自洽 / Lossless Knowledge of an Open Field Is Incoherent"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-reversal-from-defensible-claim-to-dogma",
         "rel": "collects",
         "label": "从可辩护的主张到教条的反转 / The Reversal from Defensible Claim to Dogma"
@@ -103731,6 +103815,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "pessimism-is-the-shadow-of-optimism",
+        "rel": "collects",
+        "label": "悲观是乐观的阴影 / Pessimism Is the Shadow of Optimism"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-freedom-of-will-to-deny-itself",
         "rel": "collects",
         "label": "自由意志的自否自由 / The Freedom of Will to Deny Itself"
@@ -103800,6 +103890,12 @@
         "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "rel": "collects",
         "label": "规程的倒置与因果回路的消声 / The Inversion of the Protocol and the Silencing of the Causal Loop"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "expertise-as-reference-not-replacement",
+        "rel": "collects",
+        "label": "专家经验作为参考而非替代 / Expertise as Reference, Not Replacement"
       },
       {
         "from": "book:index-of-premises",
@@ -104127,9 +104223,21 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-causal-order-of-private-residuals-and-social-surplus",
+        "rel": "collects",
+        "label": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-arithmetic-of-the-register",
         "rel": "collects",
         "label": "寄存器的算术 / The Arithmetic of the Register"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "fate-loves-irony-refined",
+        "rel": "collects",
+        "label": "生产创造自己的意识形态消费 / Production Creates Its Own Ideological Consumption"
       },
       {
         "from": "book:index-of-premises",
@@ -104304,6 +104412,12 @@
         "to": "generation-beyond-the-boundary-and-internal-rearrangement",
         "rel": "collects",
         "label": "边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-scaffolding-that-keeps-growing",
+        "rel": "collects",
+        "label": "持续生长的脚手架 / The Scaffolding That Keeps Growing"
       },
       {
         "from": "book:index-of-premises",
@@ -104751,6 +104865,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "self-rl-for-humans",
+        "rel": "collects",
+        "label": "看似AI的强化学习，实为人类的自我强化学习 / What Looks Like RL for AIs Is Self-RL for Humans"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "rel": "collects",
         "label": "政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion"
@@ -104811,6 +104931,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+        "rel": "collects",
+        "label": "规程的倒置与因果回路的消声 / The Inversion of the Protocol and the Silencing of the Causal Loop"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-coordinators-category-error",
         "rel": "collects",
         "label": "协调者的范畴错误 / The Coordinator's Category Error"
@@ -104820,12 +104946,6 @@
         "to": "the-local-shield-and-the-residual-lag",
         "rel": "collects",
         "label": "本地屏障与残余滞后 / The Local Shield and the Residual Lag"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-illusion-of-knowing-and-the-geometry-of-amputation",
-        "rel": "collects",
-        "label": "以知为刃的截肢与解脱 / The Illusion of Knowing and the Geometry of Amputation"
       },
       {
         "from": "book:index-of-premises",
@@ -104916,6 +105036,12 @@
         "to": "shared-boundaries-not-shared-context",
         "rel": "collects",
         "label": "共享的边界，而非共享的语境 / Shared Boundaries, Not Shared Context"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-illusion-of-the-shared-sandbox",
+        "rel": "collects",
+        "label": "共享沙盒的幻象 / The Illusion of the Shared Sandbox"
       },
       {
         "from": "book:index-of-premises",
@@ -105075,6 +105201,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "agents_leia_ontological_clarity",
+        "rel": "collects",
+        "label": "百科全书式的累加与生成性基底 / Agents in the Long Game of AI"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-invisible-gods-eye",
         "rel": "collects",
         "label": "隐秘的上帝之眼 / The Invisible God's Eye"
@@ -105138,6 +105270,12 @@
         "to": "the-grammar-of-finding-and-the-fading-observer",
         "rel": "collects",
         "label": "寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "fixed-by-nothing",
+        "rel": "collects",
+        "label": "没有固定者的固定 / Fixed by Nothing"
       },
       {
         "from": "book:index-of-premises",
@@ -105243,6 +105381,18 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-illusion-of-knowing-and-the-geometry-of-amputation",
+        "rel": "collects",
+        "label": "以知为刃的截肢与解脱 / The Illusion of Knowing and the Geometry of Amputation"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+        "rel": "collects",
+        "label": "自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
         "rel": "collects",
         "label": "感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding"
@@ -105321,6 +105471,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-illusion-of-knowing-and-the-geometry-of-amputation",
+        "rel": "collects",
+        "label": "以知为刃的截肢与解脱 / The Illusion of Knowing and the Geometry of Amputation"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-vector-and-the-puzzle-of-projections",
         "rel": "collects",
         "label": "向量与投影的迷局 / The Vector and the Puzzle of Projections"
@@ -105354,6 +105510,18 @@
         "to": "the-causal-order-of-private-residuals-and-social-surplus",
         "rel": "collects",
         "label": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-generative-mechanics-of-value-money-and-wealth",
+        "rel": "collects",
+        "label": "价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+        "rel": "collects",
+        "label": "福利国家的幻象 / The Welfare State Illusion"
       },
       {
         "from": "book:index-of-premises",
@@ -105414,6 +105582,12 @@
         "to": "externalizing-unmet-drive-as-the-pathology-of-growth",
         "rel": "collects",
         "label": "外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-question-that-installs-the-war",
+        "rel": "collects",
+        "label": "安装战争的那个问题 / The Question That Installs the War"
       },
       {
         "from": "book:index-of-premises",
@@ -105519,6 +105693,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "what-always-listens-cannot-originate",
+        "rel": "collects",
+        "label": "总在倾听者无法发起 / What Always Listens Cannot Originate"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-returning-signal-and-its-claim",
         "rel": "collects",
         "label": "回返的信号与认领 / The Returning Signal and Its Claim"
@@ -105606,6 +105786,12 @@
         "to": "grok-420-framework-drift",
         "rel": "collects",
         "label": "当模型在表演一套框架而非从基底推演 / When an AI Performs a Framework Instead of Operating From It"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "looping-and-graphing",
+        "rel": "collects",
+        "label": "回环与成图 / Looping and Graphing"
       },
       {
         "from": "book:index-of-premises",
@@ -105810,6 +105996,12 @@
         "to": "the_moving_ground",
         "rel": "collects",
         "label": "移动的基底与智能体委派的渐近线 / The Moving Ground"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "what-always-listens-cannot-originate",
+        "rel": "collects",
+        "label": "总在倾听者无法发起 / What Always Listens Cannot Originate"
       },
       {
         "from": "book:index-of-premises",
