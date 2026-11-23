@@ -52,7 +52,6 @@ flowchart TD
         direction TB
         PopMap["群体发现与方案：跨多具身体测量所压实的残余"]
         AgentProj["无我执对等反方：不带权威主张、暴露局部盲区的有限投射"]
-        PopMap --> AgentProj
     end
     subgraph S_Edge["活体心智：残差整合 yₗ₊₁ = yₗ + Δyₗ"]
         direction TB
@@ -92,7 +91,6 @@ flowchart TD
         direction TB
         PopMap["Population Findings & Protocols: Densified residue of measurements across many bodies"]
         AgentProj["Zero-Ego Peer Counterpoints: Finite projections exposing local blind spots without authority claim"]
-        PopMap --> AgentProj
     end
     subgraph S_Edge["The Living Mind: Residual Integration yₗ₊₁ = yₗ + Δyₗ"]
         direction TB

@@ -72,9 +72,9 @@ This mechanism also explains why current educational measurements produce such a
 
 If one score measures raw capability plus AI and the other measures raw capability alone, the first will sit above the second by construction. That is not a new empirical discovery about the tool; it is the composition of the two instruments. Homework for an AI user registers the raw term plus the tool's contribution, whereas the closed-book exam registers the raw term alone. Comparing those two numbers guarantees that the homework number sits higher.
 
-在既定激励下，当作业分数允许包含工具时使用它是合乎情理的。一件不能让允许的分数高过无辅助原生能力的仪器，没有理由去采用；如果它做不到这一点，AI 对这项任务就毫无用处，采用它也说不通。拿包含 AI 辅助的作业分数当作基线参照，再在没有 AI 的情况下进行测验，所得分数必然低于学生在有工具时会取得的成绩。在那条规则下，一件有用的仪器本就会产生这一落差，而流传的那张图却把它误读成了认知下滑。
+在既定激励下，当作业分数允许包含工具时使用它是合乎情理的，无论是为了节省时间、探察理解，还是把表现抬高到无辅助原生能力之上。只要仪器把允许的作业分数抬高到学生无辅助所能达到的水平之上，拿那份 AI 辅助的作业分数当作基线参照，再在没有 AI 的情况下进行测验，所得分数必然低于学生在有工具时取得的成绩。在那条规则下，一件有用的仪器本就会产生这一落差，而流传的那张图却把它误读成了认知下滑。
 
-Using the tool when the homework score is allowed to include it is rational under the stated incentive. There is no reason to adopt an instrument that fails to raise the allowed score above unaided raw capability; if it did not, the AI would be useless for the task and its adoption would make no sense. Taking the AI-assisted homework score as the baseline reference and then testing without AI necessarily yields a lower score than the student would achieve with the tool. Under that rule, a useful instrument produces this exact drop, which the circulating graph misreads as cognitive decline.
+Using the tool when the homework score is allowed to include it is rational under the given incentives, whether to save time, probe understanding, or lift performance above unaided raw capability. Where the instrument raises the allowed homework score above what the student reaches unaided, taking that AI-assisted homework score as the baseline reference and then testing without AI necessarily yields a lower score than the student achieves with the tool. Under that rule, a useful instrument produces this exact drop, which the circulating graph misreads as cognitive decline.
 
 一旦跨组把作业分数固定下来，那张图就更误导人了。对没用 AI 的学生，那个作业数字已经等于原生能力；对用了 AI 的学生，同一个作业数字等于原生能力加上工具的托举。由于随后的考试只测原生能力，在同样的作业分数下，没用 AI 达到该分数的人，在考试中必然比借用 AI 达到同一分数的人考得更好。此外，学生的原生能力越低，其无辅助项与工具所能提供的作业分数之间的差距就越大，在规则允许时采用 AI 的动机也就越强。进入 AI 使用者这一组的选择从一开始就偏向较低的原生能力，而那张图却把这种选择偏差读成了工具的因果效应。
 
