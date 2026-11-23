@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-23T10:59:00.464Z",
+    "generated_at": "2026-11-23T11:18:52.187Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -98,7 +98,7 @@
       "content/posts/externalizing-unmet-drive-as-the-pathology-of-growth.md": "1b67cba46a93",
       "content/posts/failure-as-information.md": "11a236cd7faa",
       "content/posts/fate-loves-irony-refined.md": "588c29686b20",
-      "content/posts/felt-resistance-and-the-speed-differential.md": "e240aea1b76a",
+      "content/posts/felt-resistance-and-the-speed-differential.md": "c19840358a80",
       "content/posts/fidelity-not-optimality.md": "84fdc763c7f0",
       "content/posts/fixed-by-nothing.md": "f7aea7bd2cbc",
       "content/posts/four-night-questions.md": "6011fb84be91",
@@ -168,7 +168,7 @@
       "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md": "39117b90bc28",
       "content/posts/observation-lag-and-the-inversion-of-optionality.md": "48ca1f4b438f",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "ccfd235ff8c1",
-      "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "72053aa70a31",
+      "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "54f2cb22c712",
       "content/posts/on-education.md": "2506ab652440",
       "content/posts/on-the-boundaries-of-what-can-be-said-about-p-and-np.md": "2cb5a3dff94a",
       "content/posts/one-cannot-escape-ones-own-mind.md": "8b93b91271b8",
@@ -227,7 +227,7 @@
       "content/posts/subtracting-consciousness-at-the-source.md": "2068711d9676",
       "content/posts/successive-reading-and-the-negotiated-boundary-of-language.md": "cc20006213a8",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "e20330f1108c",
-      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "463e396e6297",
+      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "1c779f9f8528",
       "content/posts/technology-is-residual-of-human-compounding.md": "4877c4cef76d",
       "content/posts/the-aesthetic-escalator-and-the-melancholy-of-the-balcony.md": "8c529cbcbda1",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "8a6e7dfe1ffa",
@@ -319,7 +319,7 @@
       "content/posts/the-illusion-of-the-unmediated.md": "6167af604584",
       "content/posts/the-imagining-of-ai-risk.md": "94a3c0af210d",
       "content/posts/the-initial-distinction.md": "597771bb1303",
-      "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "6b8f38992de7",
+      "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "c4013341a276",
       "content/posts/the-interesting-case-of-rubin.md": "6b555b01e274",
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "5db081fa7c26",
       "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "3a5779fc0793",
@@ -383,17 +383,17 @@
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "d836ec0d3431",
       "content/posts/the-residue-and-the-free-variable.md": "2d2ce0360330",
       "content/posts/the-residue-of-exercise-and-the-stabilization-of-politics.md": "f05119489494",
-      "content/posts/the-residue-of-progress-and-the-reactivity-of-resistance.md": "0f8da7de5cb1",
+      "content/posts/the-residue-of-progress-and-the-reactivity-of-resistance.md": "9cff78c0794d",
       "content/posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations.md": "5e9e6f5dcd66",
       "content/posts/the-returning-signal-and-its-claim.md": "973ad49b2d21",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "eac491539bc9",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "c8f2a7bc8d03",
       "content/posts/the-reversal-of-education-and-science.md": "79d30fed4db1",
       "content/posts/the-reversal-of-the-bystander-commentators.md": "db74aaeec163",
-      "content/posts/the-reversal-of-verification.md": "4a0bb22e1288",
+      "content/posts/the-reversal-of-verification.md": "0a1976ee9d00",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "295ca2a6161b",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "b9b1f9d77eb2",
-      "content/posts/the-scaffolding-that-keeps-growing.md": "a40b4bf95dec",
+      "content/posts/the-scaffolding-that-keeps-growing.md": "df17e8a60163",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "784859b75696",
       "content/posts/the-scaffolding-we-forget.md": "c1628ffd356a",
       "content/posts/the-scaling-loop.md": "59f678c43d21",
@@ -488,10 +488,10 @@
     },
     "stats": {
       "posts": 461,
-      "edges": 14188,
-      "unique_directed": 6975,
+      "edges": 14194,
+      "unique_directed": 6978,
       "missing_targets": 0,
-      "one_way": 1587,
+      "one_way": 1590,
       "isolated": 0,
       "posts_with_outbound": 461,
       "book_pages": 16,
@@ -566,7 +566,7 @@
     },
     {
       "slug": "the-reversal-of-verification",
-      "in_degree": 39
+      "in_degree": 40
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
@@ -2800,7 +2800,7 @@
       "path": "content/posts/escaping-the-sandbox-stays-inside-the-hold.md",
       "title": "逃出沙箱仍在持握之内 / Escaping the Sandbox Stays Inside the Hold",
       "hash": "b2f86b2c938b",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 15,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -3175,7 +3175,7 @@
       "slug": "felt-resistance-and-the-speed-differential",
       "path": "content/posts/felt-resistance-and-the-speed-differential.md",
       "title": "阻力体感与速率差 / Felt Resistance and the Speed Differential",
-      "hash": "e240aea1b76a",
+      "hash": "c19840358a80",
       "in_degree": 13,
       "out_degree": 10,
       "links_out": [
@@ -5142,7 +5142,7 @@
       "slug": "on-demand-contexts-keep-coherence-at-one-step",
       "path": "content/posts/on-demand-contexts-keep-coherence-at-one-step.md",
       "title": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step",
-      "hash": "72053aa70a31",
+      "hash": "54f2cb22c712",
       "in_degree": 24,
       "out_degree": 15,
       "links_out": [
@@ -6829,7 +6829,7 @@
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
       "title": "进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress",
-      "hash": "463e396e6297",
+      "hash": "1c779f9f8528",
       "in_degree": 36,
       "out_degree": 33,
       "links_out": [
@@ -9273,9 +9273,9 @@
       "slug": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
       "path": "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md",
       "title": "内部人假定与被动防护的因果倒置 / The Insider Presumption and the Causal Inversion of Reactive Containment",
-      "hash": "6b8f38992de7",
+      "hash": "c4013341a276",
       "in_degree": 3,
-      "out_degree": 12,
+      "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "a-creation-cannot-replace-its-source",
@@ -9284,7 +9284,10 @@
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-summary-first-reversal-and-the-command-of-yields",
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+        "the-risk-is-the-belief-in-oversight-itself",
+        "the-reversal-of-verification",
         "your-codebase-is-memory",
+        "escaping-the-sandbox-stays-inside-the-hold",
         "the-digital-god-and-the-horizon-jump",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "the-power-law-of-surrendered-agency",
@@ -10913,7 +10916,7 @@
       "slug": "the-residue-of-progress-and-the-reactivity-of-resistance",
       "path": "content/posts/the-residue-of-progress-and-the-reactivity-of-resistance.md",
       "title": "进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance",
-      "hash": "0f8da7de5cb1",
+      "hash": "9cff78c0794d",
       "in_degree": 3,
       "out_degree": 14,
       "links_out": [
@@ -11087,8 +11090,8 @@
       "slug": "the-reversal-of-verification",
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
-      "hash": "4a0bb22e1288",
-      "in_degree": 39,
+      "hash": "0a1976ee9d00",
+      "in_degree": 40,
       "out_degree": 9,
       "links_out": [
         "openness-is-consistency",
@@ -11109,7 +11112,7 @@
       "path": "content/posts/the-risk-is-the-belief-in-oversight-itself.md",
       "title": "风险在于对监管本身的迷信 / The Risk Is the Belief in Oversight Itself",
       "hash": "295ca2a6161b",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 26,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -11166,7 +11169,7 @@
       "slug": "the-scaffolding-that-keeps-growing",
       "path": "content/posts/the-scaffolding-that-keeps-growing.md",
       "title": "持续生长的脚手架 / The Scaffolding That Keeps Growing",
-      "hash": "a40b4bf95dec",
+      "hash": "df17e8a60163",
       "in_degree": 30,
       "out_degree": 33,
       "links_out": [
@@ -71881,6 +71884,18 @@
     },
     {
       "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "风险在于对监管本身的迷信"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
       "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
       "rel": "points_to",
       "label": "Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence"
@@ -71893,6 +71908,18 @@
     },
     {
       "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "The Risk Is the Belief in Oversight Itself"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
@@ -71902,6 +71929,18 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "escaping-the-sandbox-stays-inside-the-hold",
+      "rel": "points_to",
+      "label": "逃出沙箱仍在持握之内"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "escaping-the-sandbox-stays-inside-the-hold",
+      "rel": "points_to",
+      "label": "Escaping the Sandbox Stays Inside the Hold"
     },
     {
       "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",

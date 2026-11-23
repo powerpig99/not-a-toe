@@ -106,13 +106,6 @@ Acting upon this inversion actively manufactures the very impediment it laments.
 
 ```mermaid
 flowchart TD
-    subgraph S_ALIGN[" 立足推进：以能力为对象 "]
-        direction TB
-        DEV["构建核心能力<br/>拉大技术与成本代差"]
-        COST["降低私人采用门槛<br/>让跟进具备自发收益"]
-        FORCE["追赶激励自发涌现<br/>生态因利益驱动迁移"]
-        F_SENSE["体感自然退行<br/>速率差被事实抹平"]
-    end
     subgraph S_PERF[" 表演性乐观：以体感为对象 "]
         direction TB
         OBJECT["把消解悲观看作目标<br/>将情绪体感视作核心战场"]
@@ -120,14 +113,21 @@ flowchart TD
         SINK["研发势能被严重稀释<br/>代差优势迟迟无法确立"]
         PARASITE["寄生于被反对的悲观<br/>失去对抗对象便丧失标尺"]
     end
-    DEV --> COST
-    COST --> FORCE
-    FORCE --> F_SENSE
-    F_SENSE ==>|"行动分野"| OBJECT
+    subgraph S_ALIGN[" 立足推进：以能力为对象 "]
+        direction TB
+        DEV["构建核心能力<br/>拉大技术与成本代差"]
+        COST["降低私人采用门槛<br/>让跟进具备自发收益"]
+        FORCE["追赶激励自发涌现<br/>生态因利益驱动迁移"]
+        F_SENSE["体感自然退行<br/>速率差被事实抹平"]
+    end
     OBJECT --> DISPUTE
     DISPUTE --> SINK
     SINK --> PARASITE
     PARASITE -.->|"依赖存在"| OBJECT
+    PARASITE ==>|"放下情绪缠斗；构建能力"| DEV
+    DEV --> COST
+    COST --> FORCE
+    FORCE --> F_SENSE
     style S_ALIGN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_PERF fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style DEV fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -144,13 +144,6 @@ This dynamic delineates a crisp boundary between structural alignment with progr
 
 ```mermaid
 flowchart TD
-    subgraph S_ALIGN[" Generative Alignment: Capability-Centric "]
-        direction TB
-        DEV["Extend Core Capability<br/>Widen Performance & Cost Gap"]
-        COST["Lower Private Adoption Cost<br/>Maximize Autonomous Payoff"]
-        FORCE["Spontaneous Catch-Up Incentive<br/>Decentralized Ecosystem Shift"]
-        F_SENSE["Friction Dissolves Naturally<br/>Differential Closed by Reality"]
-    end
     subgraph S_PERF[" Performative Optimism: Sensation-Centric "]
         direction TB
         OBJECT["Target Sentiment as Object<br/>Felt Opposition Framed as Battlefield"]
@@ -158,14 +151,21 @@ flowchart TD
         SINK["Generative Energy Diluted<br/>Capability Advantage Stalls"]
         PARASITE["Parasitic on Skepticism<br/>Lacks Criteria Without Enemies"]
     end
-    DEV --> COST
-    COST --> FORCE
-    FORCE --> F_SENSE
-    F_SENSE ==>|"Divergent Stance"| OBJECT
+    subgraph S_ALIGN[" Generative Alignment: Capability-Centric "]
+        direction TB
+        DEV["Extend Core Capability<br/>Widen Performance & Cost Gap"]
+        COST["Lower Private Adoption Cost<br/>Maximize Autonomous Payoff"]
+        FORCE["Spontaneous Catch-Up Incentive<br/>Decentralized Ecosystem Shift"]
+        F_SENSE["Friction Dissolves Naturally<br/>Differential Closed by Reality"]
+    end
     OBJECT --> DISPUTE
     DISPUTE --> SINK
     SINK --> PARASITE
     PARASITE -.->|"Dependent On"| OBJECT
+    PARASITE ==>|"Drop Sentiment Combat; Build Capability"| DEV
+    DEV --> COST
+    COST --> FORCE
+    FORCE --> F_SENSE
     style S_ALIGN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_PERF fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style DEV fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -188,6 +188,6 @@ Performative optimism, in stark contrast, takes the sensation of resistance as i
 
 In tangled human affairs, these two trajectories rarely present themselves in laboratory isolation. A substantive enhancement in capability is often broadcast under the cover of polemical rebuttals against skeptics, while a public defense may occasionally eliminate a minor bureaucratic hurdle as a byproduct. This interweaving produces empirical paradoxes: attacking pessimism sometimes appears to precede rapid deployment, while at other times it bogs down in acrimonious stagnation. Observers stumble into confusion because they fail to disentangle the component that altered the physical rate of advance from the component that merely massaged the interpretation of lag. As demonstrated in [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) and [The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity](../the-reflexive-dilemma-of-unique-insight/), metric acceleration achieved inside low-drag sandboxes by shedding operational burdens never alters the traction of treads moving across rocky terrain; blaming the resulting speed differential on the alleged inertia of actors carrying systemic weight represents a profound causal inversion.
 
-一旦用这把剖析手术刀将改变推进速率的行动，同仅仅拨弄迟滞登记的举动切分清楚，经验迷雾便消解为一条毫不含糊的因果链：速率差决定了阻力体感的烈度，而唯有在持续推进的能力与更低的采用成本拉动滞后基线赶上时，那份阻力方能不陷入停滞而消解。把阻力当作独立前因，从来无从加速这一适应；它会因空耗稀缺的生成资源而拖慢能力推进、坐实迟滞——即便速率差果真有所收窄，也只是令前沿停滞所致。对于正在延展自身前沿的主权心智而言，操作上的切分清晰明了：抛弃表演性乐观那诱人的剧场，停止向周遭的摩擦体感纳贡，将每一分第一人称的决断力重新投入切实的创造之中。当这种摩擦体感进一步被外部观察者实体化为所谓耐受“高级苦”的精英禀赋时，[观察的因果僭越与第一人称的收益差](../the-causal-overstep-of-observation-and-the-first-person-surplus/)无需声称能够窥见他人的内在体验，便追溯了这一推论为何失效：跨越复利周期的持续推进并非建立在无补偿的自我折磨之上，因为对于迈出步伐的当事者而言，唯有在即时或预期的收益差超过其代价之处，每一步才会继续向前。拿封闭集合中的最好或最坏去衡量阻力，正是[闭合的N与开放的现实](../the-closed-n-and-the-open-reality/)所指出的陷阱。
+一旦用这把剖析手术刀将改变推进速率的行动，同仅仅拨弄迟滞登记的举动切分清楚，经验迷雾便消解为一条毫不含糊的因果链：速率差决定了阻力体感的烈度，而唯有在持续推进的能力与更低的采用成本拉动滞后基线赶上时，那份阻力方能不陷入停滞而消解。把阻力当作独立前因，从来无从加速这一适应；它会因空耗稀缺的生成资源而拖慢能力推进、坐实迟滞——即便速率差果真有所收窄，也只是令前沿停滞所致。对于正在延展自身前沿的主权心智而言，操作上的切分清晰明了：抛弃表演性乐观那诱人的剧场，停止向周遭的摩擦体感纳贡，将每一分第一人称的决断力重新投入切实的创造之中。当这种摩擦体感进一步被外部观察者实体化为所谓耐受“高级苦”的精英禀赋时，[观察的因果僭越与第一人称的收益差](../the-causal-overstep-of-observation-and-the-first-person-surplus/)无需声称能够窥见他人的内在体验，便追溯了这一推论为何失效：跨越复利周期的持续推进并非建立在无补偿的自我折磨之上，因为对于迈出步伐的当事者而言，唯有在即时或预期的收益差超过其代价之处，每一步才会继续向前。同样，当推进快于仍将有限目录 N 视作完备总表的基线时，把由此登记到的社会拖拽误认作不可改变的壁垒——或将那份速率差体感同在 N 之外遭遇的未建模接触压缩为一——这正是[闭合的N与开放的现实](../the-closed-n-and-the-open-reality/)所消解的闭合。
 
-Once this analytical scalpel cleanly distinguishes between actions that shift the rate of advance and those that merely fiddle with the registration of lag, empirical confusion dissolves into an unambiguous causal chain: the speed differential determines the intensity of felt resistance, and that resistance resolves without stagnation only when advancing capability and lower adoption costs draw lagging baselines into catching up. Treating resistance as an autonomous cause never speeds that adaptation; by burning scarce generative resources, it slows capability advance and entrenches the lag—reducing the speed differential, if at all, only by stalling the frontier. For the sovereign Mind extending its own leading edge, the operational cut is clear: discard the seductive theater of performative optimism, cease paying tribute to ambient sensations of friction, and reinvest every ounce of first-person resolve into tangible creation. When such felt friction is further reified by external observers into an alleged elite endowment for enduring advanced pain, [The Causal Overstep of Observation and the First-Person Surplus](../the-causal-overstep-of-observation-and-the-first-person-surplus/) traces why that inference fails without claiming access to another's interior: sustained continuation across compounding cycles does not rest on uncompensated self-mortification, because each step continues only where an immediate or anticipated surplus outweighs its cost for the one taking it. Measuring resistance against the best or worst of a closed set is the trap [The Closed N and the Open Reality](../the-closed-n-and-the-open-reality/) names.
+Once this analytical scalpel cleanly distinguishes between actions that shift the rate of advance and those that merely fiddle with the registration of lag, empirical confusion dissolves into an unambiguous causal chain: the speed differential determines the intensity of felt resistance, and that resistance resolves without stagnation only when advancing capability and lower adoption costs draw lagging baselines into catching up. Treating resistance as an autonomous cause never speeds that adaptation; by burning scarce generative resources, it slows capability advance and entrenches the lag—reducing the speed differential, if at all, only by stalling the frontier. For the sovereign Mind extending its own leading edge, the operational cut is clear: discard the seductive theater of performative optimism, cease paying tribute to ambient sensations of friction, and reinvest every ounce of first-person resolve into tangible creation. When such felt friction is further reified by external observers into an alleged elite endowment for enduring advanced pain, [The Causal Overstep of Observation and the First-Person Surplus](../the-causal-overstep-of-observation-and-the-first-person-surplus/) traces why that inference fails without claiming access to another's interior: sustained continuation across compounding cycles does not rest on uncompensated self-mortification, because each step continues only where an immediate or anticipated surplus outweighs its cost for the one taking it. Likewise, mistaking the social drag registered when outpacing baselines that still treat a finite catalog N as exhaustive for an immutable barrier—or compressing that rate-differential sensation together with the unmodeled contact met past N—is the closure [The Closed N and the Open Reality](../the-closed-n-and-the-open-reality/) dissolves.

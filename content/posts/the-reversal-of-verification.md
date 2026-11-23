@@ -63,33 +63,34 @@ The maxim "don't trust, verify" already encodes the order. Verification is the c
 ```mermaid
 flowchart TD
     P["经内核对照规约检验的证明"]
-    subgraph S_Order["验证先于信任"]
-        direction TB
-        V["作为痕迹持守：心智借工具持续验证"]
-        T["信任只立到下一次区分"]
-        R["可信基重新打开：验证继续"]
-    end
     subgraph S_Rev["倒置"]
         direction TB
         G["作为地基持守：工具成为信任之源"]
         F["可信基被免于重新追溯"]
         X["残余留给持续区分者"]
+        G --> F
+        F --> X
     end
-    P --> V
-    V --> T
-    T --> R
-    R -. "同一份证明，被当作地基持守" .-> G
-    G --> F
-    F --> X
-    style S_Order fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    subgraph S_Order["验证先于信任"]
+        direction TB
+        V["作为痕迹持守：心智借工具持续验证"]
+        T["信任只立到下一次区分"]
+        R["可信基重新打开：验证继续"]
+        V --> T
+        T --> R
+    end
+    P -.->|"作为地基持守"| G
+    P -->|"作为痕迹持守"| V
+    X ==>|"在开放一侧被探查"| V
     style S_Rev fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Order fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style P fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style V fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style T fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style R fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style G fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style F fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style X fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style V fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style T fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style R fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
 The reversal of verification, and by extension of trust, is the inversion of that order: the successful output of a tool or a method is taken as the origin of trust, rather than as an instrument of the capacity that uses it to verify. The reliance on tools or methods over improving one's own ability to verify, with or without the tools, is where the vulnerability comes from. A proof that passes the kernel is then no longer a trace the Mind reads; it is a seal the Mind stops reading past. Each time the tool is held as the source of trust over the ability to use it, the gap left for attackers grows, because the capacity that would locate the residue is the capacity no longer exercised. [Judgment Is Not a Stock](../judgment-is-not-a-stock/) traces why that capacity cannot be banked: it exists only in use at the present boundary.
@@ -97,33 +98,34 @@ The reversal of verification, and by extension of trust, is the inversion of tha
 ```mermaid
 flowchart TD
     P["Proof checked by the kernel against the specification"]
-    subgraph S_Order["Verification before trust"]
-        direction TB
-        V["Held as a trace: the Mind keeps verifying with the tool"]
-        T["Trust stands until the next distinction"]
-        R["Trusted base reopened: verification continues"]
-    end
     subgraph S_Rev["The reversal"]
         direction TB
         G["Held as ground: the tool becomes the source of trust"]
         F["Trusted base exempted from re-tracing"]
         X["Residue left to whoever keeps distinguishing"]
+        G --> F
+        F --> X
     end
-    P --> V
-    V --> T
-    T --> R
-    R -. "the same proof, held as ground" .-> G
-    G --> F
-    F --> X
-    style S_Order fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    subgraph S_Order["Verification before trust"]
+        direction TB
+        V["Held as a trace: the Mind keeps verifying with the tool"]
+        T["Trust stands until the next distinction"]
+        R["Trusted base reopened: verification continues"]
+        V --> T
+        T --> R
+    end
+    P -.->|"held as ground"| G
+    P -->|"held as a trace"| V
+    X ==>|"probed on the open side"| V
     style S_Rev fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Order fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style P fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style V fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style T fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style R fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style G fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style F fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style X fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style V fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style T fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style R fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
 同一份证明进入两种持守。区分它们的不是证明，而是加在证明之上的持守。被安放在行动与后果之间、充当一道权威的闸门时，这件器具就稀释了它本应收紧的回路，正如[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/)就发布前的审查所追溯的那样；而相信检验过的框架就是仍可能出错之处的边界，这种信念正是[风险在于对监管本身的迷信](../the-risk-is-the-belief-in-oversight-itself/)在监管中定位的风险。
