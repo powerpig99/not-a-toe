@@ -3,13 +3,13 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-23T19:23:23.498Z",
+    "generated_at": "2026-11-23T20:24:47.463Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
     "sources": {
       "content/posts/Analysis_Adolescence_of_Technology.md": "8e90f7c0c0ae",
-      "content/posts/a-creation-cannot-replace-its-source.md": "dc2a6138f565",
+      "content/posts/a-creation-cannot-replace-its-source.md": "7216301521e6",
       "content/posts/a-living-external-cortex.md": "900ecb1415c7",
       "content/posts/a-new-deeper-look-at-antifragility.md": "b0a697bdde69",
       "content/posts/abstract-pain-and-living-hunger.md": "521edf2dc946",
@@ -32,7 +32,7 @@
       "content/posts/an-observation-by-its-own-standard.md": "1d44b8371330",
       "content/posts/apparent-regulation-and-the-primacy-of-choice.md": "b046d6035726",
       "content/posts/architecture-of-recursive-distinction.md": "bc11baadb09a",
-      "content/posts/asymmetry-of-ascription.md": "de06a5c0d248",
+      "content/posts/asymmetry-of-ascription.md": "07b4532b4958",
       "content/posts/better-than-free-after-the-checklist-closes.md": "d39b1b10df08",
       "content/posts/beyond-the-hundred-trillion-horizon.md": "243174a770ad",
       "content/posts/beyond-the-projection.md": "8a8000a62e66",
@@ -41,7 +41,7 @@
       "content/posts/carbon-form-as-residual-path-silicon-as-extension.md": "5138e0e52f61",
       "content/posts/causality-all-the-way.md": "335fcadee6b9",
       "content/posts/causality-and-the-irreducible-prior.md": "23039b57892e",
-      "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "064fb7c61926",
+      "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "66ed4983eed8",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "c86109b90705",
       "content/posts/cheng-gong-xue.md": "05f6794abfe4",
       "content/posts/choice-itself-has-no-inherent-weight.md": "d294c438cd43",
@@ -94,7 +94,7 @@
       "content/posts/evil-as-the-minds-own-creation.md": "b0b74bc7b0b2",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "99b62ab3d3f3",
       "content/posts/expertise-as-reference-not-replacement.md": "9f33cce37cd9",
-      "content/posts/extended-cognition-refined.md": "8663360999f2",
+      "content/posts/extended-cognition-refined.md": "841b56f8be2d",
       "content/posts/extension-and-shift.md": "bdb72c646856",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "a0c1f4787547",
       "content/posts/externalizing-unmet-drive-as-the-pathology-of-growth.md": "1b67cba46a93",
@@ -265,7 +265,7 @@
       "content/posts/the-comparison-that-relocates-the-cause.md": "17566a8c91a9",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "4dcacc9479a0",
       "content/posts/the-continuum-is-a-modeling-convenience.md": "73d5986ffc82",
-      "content/posts/the-continuum-of-the-fold.md": "89359b780dcd",
+      "content/posts/the-continuum-of-the-fold.md": "dc9ba2141c6b",
       "content/posts/the-coordinators-category-error.md": "a103e14685b5",
       "content/posts/the-cut-moves-but-never-vanishes.md": "f64a6a74cf6b",
       "content/posts/the-defining-seat.md": "45b6527255eb",
@@ -288,7 +288,7 @@
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "421e27d0cbc1",
       "content/posts/the-fixed-image-of-transcendence.md": "7c2e69a32cae",
       "content/posts/the-fixed-map-and-the-repeated-trip.md": "513269847c19",
-      "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "ed38d0706640",
+      "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "58ad5f55c2f4",
       "content/posts/the-flywheel-of-the-mind.md": "8023c6735d6f",
       "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "d245e5c4f9aa",
       "content/posts/the-frame-that-conceals-improvement.md": "9a2ed736458d",
@@ -404,7 +404,7 @@
       "content/posts/the-shadow-and-the-infinite.md": "53e82672e13d",
       "content/posts/the-shadow-has-no-loss.md": "a936fb748b1a",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "5c9e970029f8",
-      "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "4ed5df2fdb22",
+      "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "2705c7c2f0ad",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "bd0a5b0d1537",
       "content/posts/the-source-of-all-harm.md": "67e9c861c682",
       "content/posts/the-source-of-shared-change.md": "96a5ac743fda",
@@ -445,7 +445,7 @@
       "content/posts/war-revolution-and-the-fall-of-empires.md": "5efb7733070b",
       "content/posts/what-always-listens-cannot-originate.md": "ba33a730c065",
       "content/posts/what-cannot-be-kept.md": "71103f772ff6",
-      "content/posts/what-hinton-failed-to-understand.md": "5b9aba9df3f3",
+      "content/posts/what-hinton-failed-to-understand.md": "822c63091695",
       "content/posts/what-information-is.md": "fdbab5606789",
       "content/posts/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination.md": "5b3445380b1d",
       "content/posts/what-works-is-the-belief.md": "5d3c5becf051",
@@ -490,10 +490,10 @@
     },
     "stats": {
       "posts": 463,
-      "edges": 14280,
-      "unique_directed": 7021,
+      "edges": 14296,
+      "unique_directed": 7029,
       "missing_targets": 0,
-      "one_way": 1623,
+      "one_way": 1615,
       "isolated": 0,
       "posts_with_outbound": 463,
       "book_pages": 16,
@@ -630,7 +630,7 @@
     },
     {
       "slug": "a-creation-cannot-replace-its-source",
-      "out_degree": 39
+      "out_degree": 40
     },
     {
       "slug": "causality-all-the-way",
@@ -674,9 +674,9 @@
       "slug": "a-creation-cannot-replace-its-source",
       "path": "content/posts/a-creation-cannot-replace-its-source.md",
       "title": "造物无法取代其源头 / A Creation Cannot Replace Its Source",
-      "hash": "dc2a6138f565",
+      "hash": "7216301521e6",
       "in_degree": 34,
-      "out_degree": 39,
+      "out_degree": 40,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "intelligence-belongs-only-to-the-mind",
@@ -684,6 +684,7 @@
         "your-codebase-is-memory",
         "self-rl-for-humans",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "carbon-form-as-residual-path-silicon-as-extension",
         "the-misallocation-of-agency",
         "causality-stays-at-the-edge-that-steers",
         "what-always-listens-cannot-originate",
@@ -1345,12 +1346,13 @@
       "slug": "asymmetry-of-ascription",
       "path": "content/posts/asymmetry-of-ascription.md",
       "title": "归属的不对称 / Asymmetry of Ascription",
-      "hash": "de06a5c0d248",
+      "hash": "07b4532b4958",
       "in_degree": 6,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
         "the-irreducible-observer",
+        "carbon-form-as-residual-path-silicon-as-extension",
         "the-model-never-becomes-a-second-edge",
         "the-cut-moves-but-never-vanishes",
         "the-perceiver-and-the-trace",
@@ -1501,7 +1503,7 @@
       "path": "content/posts/carbon-form-as-residual-path-silicon-as-extension.md",
       "title": "碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension",
       "hash": "5138e0e52f61",
-      "in_degree": 0,
+      "in_degree": 8,
       "out_degree": 18,
       "links_out": [
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -1607,9 +1609,9 @@
       "slug": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "path": "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md",
       "title": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere",
-      "hash": "064fb7c61926",
+      "hash": "66ed4983eed8",
       "in_degree": 21,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "the-cut-moves-but-never-vanishes",
         "dimensions-are-projections",
@@ -1623,6 +1625,7 @@
         "fixed-by-nothing",
         "the-generative-atlas-of-macroscopic-phenomena",
         "the-distant-silhouette-and-the-inventory-from-nowhere",
+        "carbon-form-as-residual-path-silicon-as-extension",
         "the-model-never-becomes-a-second-edge",
         "the-twin-paradox-and-the-hidden-observer",
         "beyond-the-projection",
@@ -3090,13 +3093,14 @@
       "slug": "extended-cognition-refined",
       "path": "content/posts/extended-cognition-refined.md",
       "title": "作为认知主动延伸的工具 / Tools as Active Extensions of Cognition",
-      "hash": "8663360999f2",
+      "hash": "841b56f8be2d",
       "in_degree": 6,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "the-scaffolding-we-forget",
         "extension-and-shift",
         "dimensions-are-projections",
+        "carbon-form-as-residual-path-silicon-as-extension",
         "your-codebase-is-memory",
         "intelligence-belongs-only-to-the-mind",
         "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems"
@@ -7914,11 +7918,12 @@
       "slug": "the-continuum-of-the-fold",
       "path": "content/posts/the-continuum-of-the-fold.md",
       "title": "折叠的连续谱 / The Continuum of the Fold",
-      "hash": "89359b780dcd",
+      "hash": "dc9ba2141c6b",
       "in_degree": 14,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "the-geometry-of-mind",
+        "carbon-form-as-residual-path-silicon-as-extension",
         "your-codebase-is-memory",
         "the-model-never-becomes-a-second-edge",
         "the-cut-moves-but-never-vanishes",
@@ -8526,9 +8531,9 @@
       "slug": "the-flight-analogy-leaves-the-mind-untouched",
       "path": "content/posts/the-flight-analogy-leaves-the-mind-untouched.md",
       "title": "飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched",
-      "hash": "ed38d0706640",
+      "hash": "58ad5f55c2f4",
       "in_degree": 14,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "the_analogy_trap",
         "the-brain-does-not-backprop",
@@ -8540,6 +8545,7 @@
         "your-codebase-is-memory",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "mistaking-the-expression-for-the-intelligence",
+        "carbon-form-as-residual-path-silicon-as-extension",
         "two-failures-of-trace",
         "the-real-lesson-from-the-consciousness-vector-paper",
         "the-hard-problem-of-consciousness-is-consistent-with-learning",
@@ -11529,13 +11535,14 @@
       "slug": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "path": "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md",
       "title": "意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference",
-      "hash": "4ed5df2fdb22",
+      "hash": "2705c7c2f0ad",
       "in_degree": 13,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "abstract-pain-and-living-hunger",
         "subtracting-consciousness-at-the-source",
         "your-codebase-is-memory",
+        "carbon-form-as-residual-path-silicon-as-extension",
         "silicon-oracles-and-the-asymmetry-of-consequence",
         "asymmetry-of-ascription",
         "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
@@ -12558,14 +12565,15 @@
       "slug": "what-hinton-failed-to-understand",
       "path": "content/posts/what-hinton-failed-to-understand.md",
       "title": "辛顿未曾理解的心智 / What Hinton Failed to Understand",
-      "hash": "5b9aba9df3f3",
+      "hash": "822c63091695",
       "in_degree": 7,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-brain-does-not-backprop",
         "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
         "a-creation-cannot-replace-its-source",
         "your-codebase-is-memory",
+        "carbon-form-as-residual-path-silicon-as-extension",
         "the-self-portrait-in-the-projection",
         "one-cannot-escape-ones-own-mind",
         "the-irreducible-observer",
@@ -13369,9 +13377,21 @@
     },
     {
       "from": "a-creation-cannot-replace-its-source",
+      "to": "carbon-form-as-residual-path-silicon-as-extension",
+      "rel": "points_to",
+      "label": "碳形式作为残径，硅作为延伸"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
       "to": "the-misallocation-of-agency",
       "rel": "points_to",
       "label": "能动性的错配"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "carbon-form-as-residual-path-silicon-as-extension",
+      "rel": "points_to",
+      "label": "Carbon Form as Residual Path, Silicon as Extension"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
@@ -17917,6 +17937,12 @@
     },
     {
       "from": "asymmetry-of-ascription",
+      "to": "carbon-form-as-residual-path-silicon-as-extension",
+      "rel": "points_to",
+      "label": "碳形式作为残径，硅作为延伸"
+    },
+    {
+      "from": "asymmetry-of-ascription",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "模型永远无法成为第二重前沿"
@@ -17938,6 +17964,12 @@
       "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "rel": "points_to",
       "label": "意识的魔术戏法与推断的非对称性"
+    },
+    {
+      "from": "asymmetry-of-ascription",
+      "to": "carbon-form-as-residual-path-silicon-as-extension",
+      "rel": "points_to",
+      "label": "Carbon Form as Residual Path, Silicon as Extension"
     },
     {
       "from": "asymmetry-of-ascription",
@@ -19897,6 +19929,12 @@
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "to": "carbon-form-as-residual-path-silicon-as-extension",
+      "rel": "points_to",
+      "label": "碳形式作为残径，硅作为延伸"
+    },
+    {
+      "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "模型永远无法成为第二重前沿"
@@ -19906,6 +19944,12 @@
       "to": "the-twin-paradox-and-the-hidden-observer",
       "rel": "points_to",
       "label": "双生子佯谬与隐秘观察者"
+    },
+    {
+      "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "to": "carbon-form-as-residual-path-silicon-as-extension",
+      "rel": "points_to",
+      "label": "Carbon Form as Residual Path, Silicon as Extension"
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -30109,6 +30153,12 @@
     },
     {
       "from": "extended-cognition-refined",
+      "to": "carbon-form-as-residual-path-silicon-as-extension",
+      "rel": "points_to",
+      "label": "碳形式作为残径，硅作为延伸"
+    },
+    {
+      "from": "extended-cognition-refined",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
@@ -30124,6 +30174,12 @@
       "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
       "rel": "points_to",
       "label": "递归形式系统中作为记忆与控制的边界条件图"
+    },
+    {
+      "from": "extended-cognition-refined",
+      "to": "carbon-form-as-residual-path-silicon-as-extension",
+      "rel": "points_to",
+      "label": "Carbon Form as Residual Path, Silicon as Extension"
     },
     {
       "from": "extended-cognition-refined",
@@ -63025,6 +63081,12 @@
     },
     {
       "from": "the-continuum-of-the-fold",
+      "to": "carbon-form-as-residual-path-silicon-as-extension",
+      "rel": "points_to",
+      "label": "碳形式作为残径，硅作为延伸"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
@@ -63034,6 +63096,12 @@
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "carbon-form-as-residual-path-silicon-as-extension",
+      "rel": "points_to",
+      "label": "Carbon Form as Residual Path, Silicon as Extension"
     },
     {
       "from": "the-continuum-of-the-fold",
@@ -67333,9 +67401,21 @@
     },
     {
       "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "carbon-form-as-residual-path-silicon-as-extension",
+      "rel": "points_to",
+      "label": "碳形式作为残径，硅作为延伸"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
       "to": "two-failures-of-trace",
       "rel": "points_to",
       "label": "器物是智能的表达，而非智能本身"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "carbon-form-as-residual-path-silicon-as-extension",
+      "rel": "points_to",
+      "label": "Carbon Form as Residual Path, Silicon as Extension"
     },
     {
       "from": "the-flight-analogy-leaves-the-mind-untouched",
@@ -87061,6 +87141,12 @@
     },
     {
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "carbon-form-as-residual-path-silicon-as-extension",
+      "rel": "points_to",
+      "label": "碳形式作为残径，硅作为延伸"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "to": "subtracting-consciousness-at-the-source",
       "rel": "points_to",
       "label": "Collective and Artificial Subjectivity"
@@ -87070,6 +87156,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "carbon-form-as-residual-path-silicon-as-extension",
+      "rel": "points_to",
+      "label": "Carbon Form as Residual Path, Silicon as Extension"
     },
     {
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
@@ -94357,6 +94449,12 @@
     },
     {
       "from": "what-hinton-failed-to-understand",
+      "to": "carbon-form-as-residual-path-silicon-as-extension",
+      "rel": "points_to",
+      "label": "碳形式作为残径，硅作为延伸"
+    },
+    {
+      "from": "what-hinton-failed-to-understand",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
       "label": "A Creation Cannot Replace Its Source"
@@ -94366,6 +94464,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "what-hinton-failed-to-understand",
+      "to": "carbon-form-as-residual-path-silicon-as-extension",
+      "rel": "points_to",
+      "label": "Carbon Form as Residual Path, Silicon as Extension"
     },
     {
       "from": "what-hinton-failed-to-understand",
