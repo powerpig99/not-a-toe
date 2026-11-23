@@ -12,7 +12,7 @@ The version of yourself that you work to protect is precisely what the protectin
 
 What is actually operating requires zero defensive maintenance, and a self-image held as a passing reference simply re-renders with each step; the presence of maintenance—whether self-pity, performative humility, curated authenticity, strategic vulnerability, or moral self-positioning—signals a portrait exempted from re-rendering and propped up against what is operating, as traced in [Self-Image Speaks as if from Nowhere](../self-image-speaks-as-if-from-nowhere/). When a maintained performance fails against reality, two paths open: update the model, or dismiss the failure as noise to preserve the model. Choosing preservation engages a ratchet in which each defended failure widens the gap and compounds the attention required to guard it (see [Winners and Losers in the Transmutation Frame](../huberman-winners-losers/) and [The Interesting Case of Rubin](../the-interesting-case-of-rubin/)).
 
-这种维护按双向锁钥结构运转：每一个受严防死守的自我模型都在向环境索取外部印证，而提供印证的环境本身也同时在维护某种互补的叙事或群体身份。两个行动者互相印证各自的人设，或一个圈子强制维持互不审视的默契，都是把“自我形象”、“可观测行为”与“社会叙事”这三个正交维度强行压扁到了一起，企图让一幅受保全的自我形象去顶替实际行动。由于实际行动需要在因果中付出不可逆的努力，而相互印证却用受辩护的宣称冒充了行动本身，由此产生的焦虑、认知负荷与空洞感，正是这场维度坍缩所留下的干涉条纹，如[不可读的复利重溯](../the_illegible_compound_retraced/)所揭示的那样，将维持不连贯的隐性代价分摊到了日常摩擦的每一处角落。
+当这种维护向外寻求印证时，它便按双向锁钥结构运转：一个受严防死守的自我模型向环境索取外部确认，而环境本身也同时在维护某种互补的叙事或群体身份。两个行动者互相印证各自的人设，或一个圈子强制维持互不审视的默契，都是把“自我形象”、“可观测行为”与“社会叙事”这三个正交维度强行压扁到了一起，企图让一幅受保全的自我形象去顶替实际行动。由于实际行动需要在因果中付出不可逆的努力，而相互印证却用受辩护的宣称冒充了行动本身，由此产生的焦虑、认知负荷与空洞感，正是这场维度坍缩所留下的干涉条纹，如[不可读的复利重溯](../the_illegible_compound_retraced/)所揭示的那样，将维持不连贯的隐性代价分摊到了日常摩擦的每一处角落。
 
 ```mermaid
 flowchart TD
@@ -22,13 +22,13 @@ flowchart TD
         Ratchet["防卫棘轮锁死：将反馈当作噪声抹去，不断拉大形象与实情的裂谷"]
         Guard --> Ratchet
     end
-    subgraph S_Release["认识论担当与不据为己有的运动"]
+    subgraph S_Release["认识论担当与不作勋章宣称的运动"]
         direction TB
         Own["认识论责任：如实认领当下运转之物，不留任何需要驻防的表面"]
         Move["看见并松手 (+1)：连“我不维护自我模型”的宣称也一并松开，保持在运动之中"]
         Own --> Move
     end
-    Ratchet ==>|"保护受偏爱的形象，恰好耗尽了实现它所需的注意力"| Own
+    Ratchet -.->|"看见保护正消耗实现所需的注意力，便转向"| Own
     style S_Ratchet fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Release fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Guard fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -37,7 +37,7 @@ flowchart TD
     style Move fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-This maintenance operates as a bilateral lock and key: every guarded self-model seeks external confirmation from an environment that is simultaneously maintaining a complementary narrative or group identity. Two actors validating each other's personas, or a circle enforcing mutual non-examination, forcibly collapse three orthogonal dimensions—self-image, observable behavior, and social narrative—by attempting to make a conserved self-image do the work of actual conduct. Because actual conduct requires irreversible effort in causality whereas mutual validation substitutes a defended claim for the act, the resulting anxiety, cognitive load, and sense of hollowness register as the interference pattern of that dimensional collapse, distributing the hidden cost of maintaining incoherence across daily friction as traced in [The Illegible Compound Retraced](../the_illegible_compound_retraced/).
+Where it reaches for outside validation, this maintenance operates as a bilateral lock and key: a guarded self-model seeks external confirmation from an environment that is simultaneously maintaining a complementary narrative or group identity. Two actors validating each other's personas, or a circle enforcing mutual non-examination, forcibly collapse three orthogonal dimensions—self-image, observable behavior, and social narrative—by attempting to make a conserved self-image do the work of actual conduct. Because actual conduct requires irreversible effort in causality whereas mutual validation substitutes a defended claim for the act, the resulting anxiety, cognitive load, and sense of hollowness register as the interference pattern of that dimensional collapse, distributing the hidden cost of maintaining incoherence across daily friction as traced in [The Illegible Compound Retraced](../the_illegible_compound_retraced/).
 
 ```mermaid
 flowchart TD
@@ -47,13 +47,13 @@ flowchart TD
         Ratchet["Defensive Ratchet Lock: Dismissing feedback as noise widens the gap between image and reality"]
         Guard --> Ratchet
     end
-    subgraph S_Release["Epistemic Ownership and Unclaimed Movement"]
+    subgraph S_Release["Epistemic Ownership and Movement Claiming No Badge"]
         direction TB
         Own["Epistemic Responsibility: Owning what operates leaves no defensive surface to guard"]
         Move["Seeing and Releasing (+1): Releasing even the claim of not maintaining self-models to stay in motion"]
         Own --> Move
     end
-    Ratchet ==>|"Protecting the preferred image consumes the exact attention needed to actualize it"| Own
+    Ratchet -.->|"Seeing that protecting consumes the attention needed to actualize turns to"| Own
     style S_Ratchet fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Release fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Guard fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -62,7 +62,7 @@ flowchart TD
     style Move fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-## 二、 保护即阻碍与不据为己有运动的最终递归 / 2. Protecting Is Preventing and the Final Recursion of Unclaimed Movement
+## 二、 保护即阻碍与不作勋章宣称运动的最终递归 / 2. Protecting Is Preventing and the Final Recursion of Movement Claiming No Badge
 
 核心悖论在此清晰显影：向往的能力唯有通过直视当下实际运转的状况才能付诸实现，而维护自我模型，恰恰在于系统性地拒绝看见正在运转之物。保护形象与阻碍实现，原本就是同一瞬间的同一个操作。只要注意力还花在擦亮招牌上，招牌背后的车间就只能闲置停工；反之，当建造者把心力尽数投向具体的问题拆解与外化结构——如[你的代码库即是记忆](../your-codebase-is-memory/)与[无形象的写作](../writing-without-the-image/)所追溯的那样，关注媒介本身所揭示的事物，而非审计行动者的肖像——那幅受严防死守的自我形象便会因断供失修而自行脱落。
 
