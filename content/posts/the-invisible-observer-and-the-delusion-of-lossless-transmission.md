@@ -6,7 +6,7 @@
 
 It is customary to fracture the world into two mutually alienated camps: on one side stands the actor, trapped in the center of the storm and ground by the uncertainties of lived exposure; on the other sits the spectator, perched calmly on an immaculate balcony recording regularities from afar. This ostensibly unbridgeable ontological chasm is not a natural divide of reality, but an artifact of an epistemic apparatus forcibly severing the observer from the act of observation. Whenever a theoretical edifice attempts to claim universal, unconditioned objectivity above all subjective minds, it surreptitiously harbors a fatal fantasy: that lossless transmission across distinct minds is possible.
 
-这一妄念为了将观察结果锻造为可在心智间无摩擦搬运的现成客体，预先将做出测量的特定具身观察者透明化并强行抹除。然而，践言悖论恰恰在此处爆发：一旦观察者隐身，经验记录便失去了因果原点与通向物理的接入点——它不是物理性的接入点，而是让物理得以显现的接入点——整座精密构建的理论大厦随之沦为无根无据、失去锚点的符号游戏。唯有放弃对无损传递的执念，承认每一次跨心智投射都伴随着不可消除的损耗与摩擦，并将观察者与观察视作与因果律及第一人称视角同构的一体两面，心智才能在动态重构中达成最高限度的校准保真。
+这一妄念为了将观察结果锻造为可在心智间无摩擦搬运的现成客体，预先将做出测量的特定具身观察者透明化并强行抹除。然而，践言悖论恰恰在此处爆发：一旦观察者隐身，经验记录便失去了因果原点与通向物理的接入点——它不是物理性的接入点，而是让物理得以显现的接入点——整座精密构建的理论大厦随之沦为无根无据、失去锚点的符号游戏。唯有放弃对无损传递的执念，承认每一次跨心智投射都伴随着不可消除的损耗与摩擦，并将观察者与观察视作与因果性及第一人称视角同构的一体两面，心智才能在动态重构中达成最高限度的校准保真。
 
 In order to forge observations into pre-packaged objects that can be shuttled between minds without friction, this fantasy must first render the specific, embodied observer transparent and invisible. Yet it is precisely here that the performative paradox erupts: the moment the observer vanishes, the empirical record loses its causal origin and the access point for the physical—not a physical access point, but the access point through which the physical comes into being—leaving the elaborate theoretical edifice to collapse into a groundless game of unanchored symbols. Only by relinquishing the obsession with lossless transmission, acknowledging that every cross-mind projection carries irreducible loss and friction, and recognizing the observer and observation as an indivisible duality isomorphic to causality and the first-person perspective, can minds attain maximal calibrated fidelity through dynamic reconstruction.
 
@@ -22,7 +22,7 @@ This ostensibly profound ontological chasm is, upon closer inspection, merely a 
 
 ## 二、 无损的妄念：透明观察者与悬空理论 / 2. The Delusion of Losslessness: The Transparent Observer and Floating Theory
 
-认知建制之所以处心积虑地维系看客与行动者的虚假隔离，其深层推手是对跨心智无损传递的执迷。在正统教条中，真理必须被包装为一种能够脱离发端现场、在不同个体间无差别复刻的标准集装箱。为了让数学公式、实证定律或道德戒条能够在陌生心智中原样落地，理论设计者必须剔除任何带有具身体温的痕迹。他们必须向受众保证：这项观察结果是未经粉饰的客体本身，不受记录者的感官敏锐度、仪器精度或推断偏好的污染。
+认知建制之所以极力维系看客与行动者的虚假隔离，其深层推手是对跨心智无损传递的执迷。在正统教条中，真理必须被包装为一种能够脱离发端现场、在不同个体间无差别复刻的标准集装箱。为了让数学公式、实证定律或道德戒条能够在陌生心智中原样落地，理论设计者必须剔除任何带有具身体温的痕迹。他们必须向受众保证：这项观察结果是未经粉饰的客体本身，不受记录者的感官敏锐度、仪器精度或推断偏好的污染。
 
 The underlying motive driving cognitive institutions to maintain this artificial divide between spectator and actor is an obsession with lossless cross-mind transmission. In orthodox dogma, truth must be packaged as a standardized cargo capable of being replicated identically across diverse individuals, detached from the scene of its emergence. For mathematical equations, empirical laws, or moral edicts to land unaltered within alien minds, the architects of theory must sanitize every trace of embodied warmth. They must assure their audience that the observation is the unvarnished object itself, uncontaminated by the recorder's sensory acuity, instrumental precision, or inferential bias.
 
@@ -82,9 +82,9 @@ Communication across distinct minds is inherently subject to topological distort
 
 ## 三、 一体两面：观察者与观察的同构共生 / 3. Two Sides of a Coin: The Isomorphic Unity of Observer and Observation
 
-破除上述困局的解药，在于识别出将观察者与观察动作结合为一体的内在同构性。认知建制习惯于将观察者归类为施力主体，将观察归类为提取出的产物，进而滋生出保留完整产物而丢弃主体的幻想。然而，这两者并非线性链条中先后相继的环节，而是如同因果律与第一人称视角一样，构成了同一枚认知硬币不可分割的两面。
+破除上述困局的解药，在于识别出将观察者与观察动作结合为一体的内在同构性。认知建制习惯于将观察者归类为施力主体，将观察归类为提取出的产物，进而滋生出保留完整产物而丢弃主体的幻想。然而，这两者并非线性链条中先后相继的环节，而是如同因果性与第一人称视角一样，构成了同一枚认知硬币不可分割的两面。
 
-The antidote to this impasse lies in recognizing the internal isomorphism uniting the observer and the act of observation. Epistemic institutions routinely categorize the observer as an operating agent and the observation as an extracted product, nurturing the fantasy that the product can be preserved intact while the agent is discarded. Yet these are not sequential links in a linear chain; like the law of causality and the first-person perspective, they constitute the two indivisible faces of a single cognitive coin.
+The antidote to this impasse lies in recognizing the internal isomorphism uniting the observer and the act of observation. Epistemic institutions routinely categorize the observer as an operating agent and the observation as an extracted product, nurturing the fantasy that the product can be preserved intact while the agent is discarded. Yet these are not sequential links in a linear chain; like causality and the first-person perspective, they constitute the two indivisible faces of a single cognitive coin.
 
 从正面审视，它是第一人称的具身遭遇：观察者投射注意力、迎击阻力并吸纳摩擦的主权轨迹。从反面审视，它显现为被度量、被记录并在不同观察者间达成统计不变性的痕迹。正如[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)所阐述的，脱离了主权抉择的客观规律只是一纸空文，而脱离了客观阻力的主观意志则沦为白日梦。要求保留观察却抹杀观察者，等同于要求保留硬币背面却削去正面。进一步地，正如[寻觅的语法与淡出的观察者](../the-grammar-of-finding-and-the-fading-observer/)所论证的，两面无法被同时捕捉源于观察朝向的几何排他性，而非本体论上的断裂；观察者在敞开观察场域时的自然淡出，恰恰证明了它是使观察得以可能的先验基底，而非可有可无的冗余。
 
@@ -100,7 +100,7 @@ flowchart TD
         subgraph S_trace ["客体化痕迹"]
             direction TB
             OBSN["观察产物<br/>经由摩擦留存的数据与模型"]
-            CAUS["因果律<br/>跨主体的统计规律性"]
+            REG["客观规律<br/>跨观察者的统计不变性"]
         end
     end
     subgraph S_fidelity ["校准保真"]
@@ -108,7 +108,7 @@ flowchart TD
         CALIB["跨心智对齐<br/>双向承担重构成本以达至最高保真"]
     end
     OBS <--> OBSN
-    PERS <--> CAUS
+    PERS <--> REG
     S_coin ==> CALIB
     style S_coin fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -117,7 +117,7 @@ flowchart TD
     style OBS fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style PERS fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style OBSN fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style CAUS fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style REG fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style CALIB fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
@@ -135,7 +135,7 @@ flowchart TD
         subgraph S_trace ["Objectified Trace"]
             direction TB
             OBSN["Observation Artifact<br/>Data and Models Preserved via Friction"]
-            CAUS["Law of Causality<br/>Statistical Regularity across Subjects"]
+            REG["Objective Regularity<br/>Statistical Invariance across Observers"]
         end
     end
     subgraph S_fidelity ["Calibrated Fidelity"]
@@ -143,7 +143,7 @@ flowchart TD
         CALIB["Cross-Mind Alignment<br/>Bilateral Reconstruction Costs for Peak Fidelity"]
     end
     OBS <--> OBSN
-    PERS <--> CAUS
+    PERS <--> REG
     S_coin ==> CALIB
     style S_coin fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -152,13 +152,13 @@ flowchart TD
     style OBS fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style PERS fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style OBSN fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style CAUS fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style REG fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style CALIB fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-在这一共生架构中，观察者与观察构成了张力十足的统一体。观察者赋予观察以语义原点与校准基准，而观察则为观察者提供了勘定自身边界、调校内部模型的反作用力。没有具身观察者入场，世界不过是一片未经解析的潜能之海；没有观察痕迹的结晶沉淀，观察者便无法在时间跨度中维持连续的自我同一性。任何融贯的理论框架，都必须将其自身认作观察者与实在交互时搭建的临时脚手架，而不是凌驾于鲜活心智之上的终极上诉法庭。正如[没有外部记账员](../no-outside-scorekeeper/)所进一步阐明的，并不存在悬于鲜活心智之上的客观记账员，唯有做出抉择的心智具备主权因果权能——它在抉择瞬间经由自身的第一人称世界模型运作；理论的生命力恰恰在于承认自身的局部性与工具性，从而始终向鲜活的第一人称介入保持开放。
+在这一共生架构中，观察者与观察构成了张力十足的统一体。观察者赋予观察以语义原点与校准基准，而观察则为观察者提供了勘定自身边界、调校内部模型的反作用力。没有置身具体处境的观察者划出区分，任何结构化数据或经验记录都无从登记；没有留存的观察痕迹在各步之间持续得到重新追溯，观察者便没有差分参照来追踪自身随时间的移动。任何融贯的理论框架，都必须被持守为观察者与实在交互时搭建的临时脚手架，而非被立为悬于鲜活心智之上的终极上诉法庭。正如[没有外部记账员](../no-outside-scorekeeper/)所进一步阐明的，并不存在悬于鲜活心智之上的客观记账员，唯有做出抉择的心智具备主权因果权能——它在抉择瞬间经由自身的第一人称世界模型运作；理论唯有在使用者将其当作局部工具、使之始终向鲜活的第一人称介入保持开放之时，才保有生命力。
 
-Within this symbiotic architecture, observer and observation form a tensely unified whole. The observer endows observation with a semantic origin and a baseline of calibration, while observation provides the counter-force through which the observer maps its own limits and tunes internal models. Absent an embodied observer entering the field, the world remains an unparsed sea of potentiality; absent the crystallization of observational traces, the observer cannot maintain continuous self-identity across time. Any coherent theoretical framework must recognize itself as temporary scaffolding erected during interaction between an observer and reality, rather than a final court of appeals hovering above living minds. As further articulated in [No Outside Scorekeeper](../no-outside-scorekeeper/), no objective scorekeeper hovers above living minds, and sovereign causal power resides solely with the choosing Mind operating through its first-person world model at the moment of choice; the vitality of theory lies precisely in acknowledging its localized, instrumental nature, remaining forever receptive to living first-person intervention.
+Within this symbiotic architecture, observer and observation form a tensely unified whole. The observer endows observation with a semantic origin and a baseline of calibration, while observation provides the counter-force through which the observer maps its own limits and tunes internal models. Without a situated observer drawing distinctions, no structured datum or empirical record registers at all; without retained observational traces continuously re-traced across steps, the observer has no differential reference against which to track its movement across time. Any coherent theoretical framework must be held as temporary scaffolding erected during interaction between an observer and reality, rather than installed as a final court of appeals hovering above living minds. As further articulated in [No Outside Scorekeeper](../no-outside-scorekeeper/), no objective scorekeeper hovers above living minds, and sovereign causal power resides solely with the choosing Mind operating through its first-person world model at the moment of choice; theory remains vital only while its user treats it as a localized instrument, keeping it open to living first-person intervention.
 
 ## 四、 接纳损耗：最高保真的动态校准 / 4. Embracing the Loss: Dynamic Calibration for Maximal Fidelity
 
