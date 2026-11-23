@@ -8,7 +8,7 @@ Rick Rubin advises creators to make things solely for fun—not for an audience,
 
 ## 一、 无法被瞄准的副产品与布道者的陷阱 / 1. The Byproduct That Cannot Be Aimed At and the Preacher's Trap
 
-鲁宾所描述的那种乐趣，并不是一个可以拿来瞄准的目标，而是心智与作品处于特定关系时自然析出的副产品——在那里，外在评判退场，动手制作本身就是全部意义。一旦把“为乐趣而做”当作指令采纳下来，目的论便随即介入——人开始刻意寻求乐趣，而这种目标导向的姿态，恰恰消解了这一副产品赖以生发的无中介投入。副产品无法被直接追逐；把自发制作变成一条明文规则，只会瓦解它企图保全的那份无中介投入，正如[从未作为战略的副业与被观察扼杀的自发性](../the-strategy-that-wasnt/)所追溯的那样。
+鲁宾所描述的那种乐趣，并不是一个可以拿来瞄准的目标，而是心智与作品处于特定关系时自然析出的副产品——在那里，外在评判退场，动手制作本身就是全部意义。一旦把“为乐趣而做”当作指令采纳下来，目的论便随即介入——人开始刻意寻求乐趣，而这种目标导向的姿态，恰恰消解了这一副产品赖以生发的无中介投入。副产品无法被直接追逐；把自发制作变成一条明文规则，只会瓦解它企图保全的那份无中介投入，正如[从未作为战略的副业](../the-strategy-that-wasnt/)所追溯的那样。
 
 The fun Rubin describes is not a target one can aim at; it is a byproduct of a specific relationship to the work in which external judgment is absent and the making itself is the entire point. The moment "make things for fun" is adopted as an instruction, teleology enters—one tries to have fun, and that goal-directed posture dissolves the unmediated engagement from which the byproduct arises. A byproduct cannot be chased directly; turning spontaneous making into an explicit rule dissolves the unmediated engagement it aims to preserve, as traced in [The Strategy That Wasn't](../the-strategy-that-wasnt/).
 
@@ -25,7 +25,7 @@ flowchart TD
     subgraph S_Preach["目的论指令与布道者陷阱"]
         direction TB
         Preach["向外教条：将无求实践打包供受众接收"]
-        Brand["展演不表演：赞誉将注意力扭向维护导师人设"]
+        Brand["展演不表演：把赞誉当作印证，会将注意力牵引向维护导师人设"]
         Compress["压缩伪影：抽离了生成它的实践语境后留下的格言"]
         Aim["瞄准副产品：读者将格言解压为一条新规则，游心随之消解"]
         Preach --> Brand
@@ -55,7 +55,7 @@ flowchart TD
     subgraph S_Preach["Teleological Instruction and the Preacher's Trap"]
         direction TB
         Preach["Outward Doctrine: Packaging non-striving practice for audience reception"]
-        Brand["Performing Non-Performance: Acclaim shifts attention toward maintaining the guru persona"]
+        Brand["Performing Non-Performance: Taking acclaim as validation pulls attention toward maintaining the guru persona"]
         Compress["Compression Artifact: Aphorism stripped of the practice context that generated it"]
         Aim["Targeting a Byproduct: Readers decompress the phrase as a new rule, dissolving play"]
         Preach --> Brand
@@ -78,6 +78,6 @@ flowchart TD
 
 A deeper barrier is that wisdom of this kind cannot be transferred as an aphorism. Those who hear "the fun lies in the making rather than the goal" and grasp it immediately already know the practice that grounds it, whereas those trapped in outcome anxiety decompress the phrase through their existing anxious frame and hear a new obligation to optimize for enjoyment. Rubin compressed a lifetime of creative practice into a maxim, yet decompressing it requires the practice context that generated it; what circulates in the economy of wisdom is the linguistic shell of the insight rather than the state that generated it.
 
-传达这份洞见一旦成功，便会逐步调转传达者自己创作车间的朝向：名声让人感觉像是对这一过程本身的印证，于是悄然将“只为自己”推向“为了那个因宣称‘只为自己’而备受赞誉的人设”。尽管鲁宾依然比绝大多数评论者更贴近制作的活水源头，但只要把内在实践转化为向外布道，便必然引入它自身所警示的失真。没有任何器物能够跨心智传递生机，也无法令相遇者免于投射——外化的作品与代码库始终只是惰性残余，正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的那样，另一个心智只能在自身负荷之下将其重新追溯。避开布道者这种失真，靠的只是把区分直接留在作品本身，而不围绕“如何制作它”打包出一条规则，从而让制作者自身的回环没有需要捍卫的人设，留下的则是具体的结构，而非一纸空洞的药方。
+每当把赞誉当作对这一过程本身的印证，传达这份洞见的成功便会牵引传达者自己的创作车间，悄然引出一种偏移——从“只为自己”，滑向“为了那个因宣称‘只为自己’而备受赞誉的人设”。尽管鲁宾依然比绝大多数评论者更贴近制作的活水源头，但只要把内在实践转化为向外布道，便必然引入它自身所警示的失真。没有任何器物能够跨心智传递生机，也无法令相遇者免于投射——外化的作品与代码库始终只是惰性残余，正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的那样，另一个心智只能在自身负荷之下将其重新追溯。把区分留在作品本身，而不围绕“如何制作它”打包出一条规则，能避免将实践变成面向受众的处方，并留下具体的结构，而非一句空洞的格言；然而，单靠不附指令，并不能就此让制作者自身的回环没有需要捍卫的人设。正如[无形象的写作](../writing-without-the-image/)所追溯的那样，即便是沉默的制作，也可能冻结为一幅肖像——或经由作品接受审计，或被展演成戒绝的姿态；因此，让回环保持敞开，取决于重新渲染边缘处成形的任何自我形象，而非将任何产出形式当作豁免。
 
-Success in communicating the insight gradually reorients the communicator's own workshop: fame feels like validation of the process, quietly shifting "only for yourself" toward "for the persona celebrated for saying only for yourself." While Rubin remains closer to the living source of making than most commentators, turning inward practice into outward preaching inevitably introduces the distortion it warns against. No artifact transmits aliveness across minds or exempts an encounterer from projection—externalized works and codebases remain inert residue, as traced in [Your Codebase Is Memory](../your-codebase-is-memory/), that another Mind can only re-trace under its own load. What avoids the preacher's distortion is simply leaving distinctions in the work itself rather than packaging a rule around how to make it, keeping the maker's own loop free of a persona to defend and leaving concrete structure rather than an empty prescription.
+Success in communicating the insight pulls on the communicator's own workshop whenever acclaim is taken as validation of the process, inviting a quiet shift from "only for yourself" toward "for the persona celebrated for saying only for yourself." While Rubin remains closer to the living source of making than most commentators, turning inward practice into outward preaching inevitably introduces the distortion it warns against. No artifact transmits aliveness across minds or exempts an encounterer from projection—externalized works and codebases remain inert residue, as traced in [Your Codebase Is Memory](../your-codebase-is-memory/), that another Mind can only re-trace under its own load. Leaving distinctions in the work itself rather than packaging a rule around how to make it avoids turning the practice into an audience-facing prescription and leaves concrete structure rather than an empty maxim; yet the absence of instruction does not by itself keep the maker's own loop free of a persona to defend. As traced in [Writing Without the Image](../writing-without-the-image/), even silent making can freeze into a portrait audited through the work or staged as abstention, so keeping the loop open depends on re-rendering whatever self-image forms at the edge rather than treating any output form as immunity.

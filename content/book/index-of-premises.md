@@ -4447,7 +4447,7 @@ Empirical observation assumes minds gather evidence before forming conclusions, 
 
 Retrospective grand strategy narratives treat durable success as the linear execution of a master plan conceived in advance, which is of use in organizing post-hoc case histories and communicating directional intent; they reach their boundary in projecting predetermined design onto paths that actually compounded through local first-person choices calibrated against unscripted friction.
 
-→ [从未作为战略的副业与被观察扼杀的自发性 / The Strategy That Wasn't](../../posts/the-strategy-that-wasnt/) · [成功的几何学 / The Geometry of Success](../../posts/the-geometry-of-success/)
+→ [从未作为战略的副业 / The Strategy That Wasn't](../../posts/the-strategy-that-wasnt/) · [成功的几何学 / The Geometry of Success](../../posts/the-geometry-of-success/)
 
 ### 奖励黑客与规格博弈 / Reward Hacking and Specification Gaming
 `技术 / Technological`

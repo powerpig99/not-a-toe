@@ -12,7 +12,7 @@ The essays in this part explore illegible long-term compounding, how a closed ma
 
 ## 篇目 / Essays
 
-- [从未作为战略的副业与被观察扼杀的自发性 / The Strategy That Wasn't](../../posts/the-strategy-that-wasnt/)
+- [从未作为战略的副业 / The Strategy That Wasn't](../../posts/the-strategy-that-wasnt/)
 - [里克·鲁宾的奇特案例与不可瞄准的乐趣 / The Interesting Case of Rubin](../../posts/the-interesting-case-of-rubin/)
 - [不可读的复利重溯 / The Illegible Compound Retraced](../../posts/the_illegible_compound_retraced/)
 - [赢家与输家的转化框架 / Winners and Losers in the Transmutation Frame](../../posts/huberman-winners-losers/)

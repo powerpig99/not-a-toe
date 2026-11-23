@@ -44,61 +44,7 @@ Recognizing the local utility of the tangent patch does not make the flat-earth 
 
 在跨越数千公里的尺度上，地表的内禀黎曼曲率无法再被局部的原点重置所吸收；非零曲率产生和乐效应，使闭合路径上累积起相位偏移。在这一尺度上，固守平面模型会把局部简化变成盲区。理想平面与完美球面都是在有限容量下压缩粗糙现实的理想化模型；球面模型在全球导航与天文学中拥有更广的适用域，但更广的适用域并不使它成为砌砖、铺设庭院或山径徒步的恰当工具。即便在行星尺度上，球面本身也会随着问题的转换而让位于更精细的模型：大地测量学采用扁球体，重力测量学测绘不规则的大地水准面，地球动力学则追踪形变中的流变地幔。
 
-```mermaid
-flowchart TD
-    subgraph S_Frozen ["超额图像滞后（冻结的全局或轨迹投射）"]
-        direction TB
-        MacroModel["被保留的蓝图：完美球面或未重置的词元轨迹"]
-        OpenLoop["开环外推：规定微观步履或包裹内部矛盾"]
-        Stumble["机械错位：在分形地面踩空或锁入引力井"]
-        MacroModel --> OpenLoop --> Stumble
-    end
-    subgraph S_Recal ["活的前沿上的一步校准"]
-        direction TB
-        Contact["极限分辨率接触：足底阻力与前解释感知"]
-        Reset["坐标重置：重锚局部切空间原点与修正前提"]
-        Medium["有界脚手架：有效区间内的切面片与无自我智能体轨迹"]
-        Contact --> Reset --> Medium
-    end
-    Stumble ==>|"摩擦暴露出冻结投射的边界"| Contact
-    style S_Frozen fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style S_Recal fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style MacroModel fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style OpenLoop fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Stumble fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Contact fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Reset fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    style Medium fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-```
-
 Across thousands of kilometers, the intrinsic Riemannian curvature of the surface can no longer be absorbed by local origin resets; non-zero curvature produces holonomy, accumulating phase shifts around closed paths. At that scale, clinging to a flat plane turns a local simplification into a blind spot. Both the immaculate plane and the immaculate sphere remain idealized models that compress coarse reality under finite capacity; the spherical model holds a wider domain of application across global navigation and astronomy, yet a wider domain does not make it the right instrument for laying bricks, paving a courtyard, or walking down a trail. Even at planetary scales, the sphere itself gives way to further refinements as the question changes: geodesy uses an oblate ellipsoid, gravimetry maps an irregular geoid, and geodynamics tracks a deforming rheological mantle.
-
-```mermaid
-flowchart TD
-    subgraph S_Frozen ["Excess Image Lag (Frozen Global or Trajectory Projection)"]
-        direction TB
-        MacroModel["Preserved Blueprint: Immaculate sphere or unreset token trajectory"]
-        OpenLoop["Open-Loop Extrapolation: Prescribing micro-steps or wrapping contradictions"]
-        Stumble["Mechanical Mismatch: Stumbling on fractal ground or locking into a gravity well"]
-        MacroModel --> OpenLoop --> Stumble
-    end
-    subgraph S_Recal ["One-Step Recalibration at the Living Edge"]
-        direction TB
-        Contact["Limit-Resolution Contact: Foot-ground resistance & pre-interpretive sensing"]
-        Reset["Coordinate Reset: Re-anchoring the local tangent origin & revising premises"]
-        Medium["Bounded Scaffolding: Tangent patches & zero-ego agent trajectories in valid regimes"]
-        Contact --> Reset --> Medium
-    end
-    Stumble ==>|"Friction exposes the boundary of the frozen projection"| Contact
-    style S_Frozen fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style S_Recal fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style MacroModel fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style OpenLoop fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Stumble fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Contact fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Reset fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    style Medium fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-```
 
 每一个模型都在特定的交互尺度上充当脚手架；把任何一个层级当成完结的本体，都是概念的僭越。在[闭合的N与开放的现实](../the-closed-n-and-the-open-reality/)中，任何封闭自身变量集的形式系统都会在开放场域面前撞上边界；而在[破除概念的僭越](../po-chu-gai-nian-de-jian-yue/)中，剥去概念被实体化的权威，才能让它们回归有界工具的本位。
 
@@ -110,9 +56,79 @@ Every model serves as scaffolding at a specific scale of interaction; treating a
 
 For an acting center, paralysis comes not from using a coarse local approximation, but from refusing to step until a complete global theory is secured, or from expecting the blueprint itself to take the step. The armchair theorist may mock the walker's local tangent, yet an uncalibrated global chart prevents no sprained ankle in rough country.
 
-一种根深蒂固的思维习惯预设，在感知之外静置着一个固定不变的客体，等待终极理论去镜像反映它。然而，第一人称视角与因果是一体两面，二者皆无法被跳出。被登记为外在物质的，是认知模型与感官反馈交汇处呈现出的宏观阻力形态。正如[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)所确立的，模型只是为了延伸触角而外化出的压缩痕迹，从不是发起行动或承担因果的第二中心。同样的几何结构也支配着[超越投射](../beyond-the-projection/)与[你的代码库即是记忆](../your-codebase-is-memory/)中的控制论与多智能体架构：自回归语言模型是一台在上下文窗口内受先前词元条件约束的有限投射引擎，它沿着局部轨迹推进，正如在单一切面片上执行开环航位推算。若缺乏外部校准而任其空转——或是被未经修剪的会话历史与囤积的中间状态所拖累——智能体便会在其认知引力井内包裹矛盾；反之，一个将推理历史与受防卫的自我形象熔铸在一起的人类中心，则会跌入完美球面踩空的反向困局：将递归回折死死夹闭，即便现场摩擦已发出崩解信号，仍拒绝重置自身框架。将用毕即退的无自我智能体轨迹与针对当下检查点的精准修剪，接入人类心智的极限分辨率感知，便能使投射在每一次死锁处重新化作被重绘的工具。
+一种根深蒂固的思维习惯预设，在感知之外静置着一个固定不变的客体，等待终极理论去镜像反映它。然而，第一人称视角与因果是一体两面，二者皆无法被跳出。被登记为外在物质的，是认知模型与感官反馈交汇处呈现出的宏观阻力形态。正如[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)所确立的，模型只是为了延伸触角而外化出的压缩痕迹，从不是发起行动或承担因果的第二中心。同样的几何结构也支配着[超越投射](../beyond-the-projection/)与[你的代码库即是记忆](../your-codebase-is-memory/)中的控制论与多智能体架构：自回归语言模型是一台在上下文窗口内受先前词元条件约束的有限投射引擎，它沿着局部轨迹推进，正如在单一切面片上执行开环航位推算。若缺乏外部校准而任其空转——或是被未经修剪的会话历史与囤积的中间状态所拖累——智能体便会在其认识论引力井内包裹矛盾；反之，一个将推理历史与受防卫的自我形象熔铸在一起的人类中心，则会跌入完美球面踩空的反向困局：将递归回折死死夹闭，即便现场摩擦已发出崩解信号，仍拒绝重置自身框架。将用毕即退的无自我智能体轨迹与针对当下检查点的精准修剪，接入人类心智的极限分辨率感知，便能使投射在每一次死锁处重新化作被重绘的工具。
+
+```mermaid
+flowchart TD
+    subgraph S_Local ["未校准的局部轨迹（切面航位推算 / 词元轨迹）"]
+        direction TB
+        LocalStep["开环外推：平坦切面片或无自我词元轨迹"]
+        DriftWell["未校准延续：角度漂移或引力井内包裹的矛盾"]
+        LocalStep --> DriftWell
+    end
+    subgraph S_Frozen ["超额图像滞后（完美球面 / 受防卫的自我形象）"]
+        direction TB
+        MacroModel["被保留的全局蓝图：平滑宏观曲率或受防卫的自我形象"]
+        Stumble["递归夹闭与错位：在高低不平的地面踩空且拒绝重置框架"]
+        MacroModel --> Stumble
+    end
+    subgraph S_Recal ["移动前沿上的坐标重置（活的心智）"]
+        direction TB
+        Contact["极限分辨率接触：足底阻力与前解释感知"]
+        Reset["原点重置与检查点修剪：重锚切空间原点并修订死锁前提"]
+        Medium["有界脚手架：适用区间内的切面片与用毕即退的无自我智能体轨迹"]
+        Contact --> Reset --> Medium
+    end
+    DriftWell ==>|"漂移或死锁显露于活的前沿"| Contact
+    Stumble ==>|"现场摩擦暴露出冻结的框架"| Contact
+    style S_Local fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Frozen fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Recal fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style LocalStep fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style DriftWell fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style MacroModel fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Stumble fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Contact fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Reset fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Medium fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+```
 
 A persistent habit of thought presumes that a static external object sits outside perception waiting for a final theory to mirror it. Yet the first-person perspective and causality are two sides of the same coin; neither can be stepped out of. What registers as physical reality is the macroscopic pattern of resistance where cognitive models meet sensory feedback. Models are compressed traces externalized to extend reach, never a second locus of initiation or causal ownership, as [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) establishes. The same geometry governs cybernetic and multi-agent architectures in [Beyond the Projection](../beyond-the-projection/) and [Your Codebase Is Memory](../your-codebase-is-memory/): an autoregressive language model is a finite projection engine conditioned by its prior tokens inside a context window, advancing along a local trajectory much like open-loop dead reckoning on a single tangent patch. Left to run without external recalibration—or bogged down by unpruned session histories and hoarded intermediate states—the agent wraps contradictions inside its epistemic gravity well, whereas a human center that fuses its reasoning history with a defended self-image falls into the inverse failure of the stumbling sphere, clamping the recursive fold shut and refusing to reset its frame even when live friction signals a breakdown. Wiring retiring, zero-ego agent trajectories and surgical present-checkpoint pruning to the human Mind's limit-resolution sensing turns the projection back into an instrument re-rendered at each deadlock.
+
+```mermaid
+flowchart TD
+    subgraph S_Local ["Uncalibrated Local Trajectory (Tangent Dead Reckoning / Token Trajectory)"]
+        direction TB
+        LocalStep["Open-Loop Extrapolation: Flat tangent patch or zero-ego token trajectory"]
+        DriftWell["Uncalibrated Continuation: Angular drift or contradictions wrapped in a gravity well"]
+        LocalStep --> DriftWell
+    end
+    subgraph S_Frozen ["Excess Image Lag (Immaculate Sphere / Defended Self-Image)"]
+        direction TB
+        MacroModel["Preserved Global Blueprint: Smooth macro-curvature or defended self-image"]
+        Stumble["Clamped Recursion & Mismatch: Stumbling on uneven ground while refusing frame reset"]
+        MacroModel --> Stumble
+    end
+    subgraph S_Recal ["Coordinate Reset at the Moving Edge (Living Mind)"]
+        direction TB
+        Contact["Limit-Resolution Contact: Foot-ground resistance & pre-interpretive sensing"]
+        Reset["Origin Reset & Checkpoint Pruning: Re-anchoring the tangent origin & revising deadlocked premises"]
+        Medium["Bounded Scaffolding: Valid-regime tangent patches & retiring zero-ego agent trajectories"]
+        Contact --> Reset --> Medium
+    end
+    DriftWell ==>|"Drift or deadlock surfaced to the living edge"| Contact
+    Stumble ==>|"Live friction exposes the frozen frame"| Contact
+    style S_Local fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Frozen fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Recal fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style LocalStep fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style DriftWell fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style MacroModel fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Stumble fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Contact fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Reset fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Medium fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+```
 
 行动在高低不平的地面上展开，而非在无摩擦的方程中推进。清醒的中心既不会把局部切面片误当作整个宇宙，也不会让全局球面的优美凌驾于同泥土与岩石的直接接触之上。行者将每一个模型持守在其适用区间内，把下一只脚踏向湿滑的岩石，登记回传的震动，并在移动的步履间重置原点。在[成功的几何学](../the-geometry-of-success/)中，没有任何远方的终点线能够替代步步迎受重力的持续做功；在开放的地形上，每一个重新校准的立足点都在清除冻结蓝图的滞后，将道路向前延伸。
 

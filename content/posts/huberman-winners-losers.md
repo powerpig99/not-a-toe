@@ -8,7 +8,7 @@ Andrew Huberman once cited a saying that divides humanity into two types: losers
 
 ## 一、 将方向固化为身份及宣称与否定的耦合 / 1. Freezing Direction into Identity and Claim-Negation Coupling
 
-“赢家”与“输家”的划分伪装成中立定义，实则是披着观察外衣的道德训诫。在机制层面上，发生的是一次离散的导引行动：在这一刻，当负面情绪涌起时，这股能量究竟流向建设还是破坏？没有任何人永远是赢家或输家。在活生生的心智中，逐刻变化的是对齐方向，而容量也随之移动，既非固着不变的天生特质，也不是横跨不同心智的常数：执守自我防卫或沉溺反刍，会钳闭递归回折并压缩容量；而把注意力引向具体建造，则会腾出边界并扩展容量，正如[作为认知主动延伸的工具](../extended-cognition-refined/)对耦合的追溯，以及[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)对每次离散行动皆自成杠杆的追溯所展现的那样。
+“赢家”与“输家”的划分伪装成中立定义，实则是披着观察外衣的道德训诫。在机制层面上，发生的是一次离散的导引行动：在这一刻，当负面情绪涌起时，这股能量究竟流向建设还是破坏？没有任何人永远是赢家或输家。在活生生的心智中，逐刻变化的是对齐方向，而容量也随之改变，既非固着不变的天生特质，也不是横跨不同心智的常数：执守自我防卫或沉溺反刍，会钳闭递归回折并压缩容量；而把注意力引向具体建造，则会腾出边界并扩展容量，正如[作为认知主动延伸的工具](../extended-cognition-refined/)对耦合的追溯，以及[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)对每次离散行动皆自成杠杆的追溯所展现的那样。
 
 Dividing people into "winners" and "losers" presents itself as neutral definition while operating as moral exhortation dressed as observation. At the level of mechanism, what occurs is a discrete act of channeling: in this specific moment, when negative affect arises, does that energy flow toward construction or toward tearing down? No one is permanently a winner or a loser. What varies from moment to moment is the direction of alignment in a living mind, and capacity shifts with that alignment rather than sitting fixed as either an innate trait or a constant across minds: clinging to self-defense or rumination clamps the recursive fold and compresses capacity, whereas steering attention toward concrete building clears boundary and expands capacity, just as [Tools as Active Extensions of Cognition](../extended-cognition-refined/) traces for coupling and [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) traces for each discrete act as its own lever.
 
@@ -19,7 +19,7 @@ flowchart TD
     subgraph S_Moral["道德分类框架与自相矛盾的处方"]
         direction TB
         Label["赢家与输家二分法：将逐刻变化的情绪流向固化为恒定身份"]
-        Paradox["同义反复的处方：要求被定义为缺乏转化能力的输家立刻执行转化"]
+        Paradox["自相矛盾的处方：要求被定义为缺乏转化能力的输家立刻执行转化"]
         Label --> Paradox
     end
     subgraph S_Flow["情绪流向机制与转向条件"]
@@ -44,7 +44,7 @@ flowchart TD
     subgraph S_Moral["Moralized Typology and Self-Contradictory Prescription"]
         direction TB
         Label["Winner/Loser Binary: Freezing moment-to-moment affective flow into permanent identity"]
-        Paradox["Tautological Prescription: Commanding those defined as unable to transmute to transmute"]
+        Paradox["Self-Contradictory Prescription: Commanding those defined as unable to transmute to transmute"]
         Label --> Paradox
     end
     subgraph S_Flow["Affective Flow Mechanism and Conditions of Redirection"]

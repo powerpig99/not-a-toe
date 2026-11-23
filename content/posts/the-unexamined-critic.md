@@ -47,7 +47,7 @@ flowchart TD
     end
     subgraph S_Autonomous ["Autonomous Field"]
         direction TB
-        FreeMind["Sovereign Frame Outside Metric: Name Fails to Organize Comparison"]
+        FreeMind["Sovereign Mind Outside Metric: Name Fails to Organize Comparison"]
     end
     S_Frame ==>|"Orthogonal Pivot: Dropping the Credential Axis"| S_Autonomous
     style S_Frame fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -60,7 +60,7 @@ flowchart TD
 
 深入名校体制内部可以消解光环带来的信息差，使心智停止将一块金字招牌视为能力的现成代币，这是局部经验修正的自然产物。更直接地看，这种论调暗中把持有凭证设成了反凭证主义的前提，反而在深层巩固并维护了凭证主义。如果一个从未踏入该体制的外人宣称自己不被名牌唬住，外部世界极易将其贬斥为缺乏见识的酸葡萄心理；唯有手握那张烫金印记的圈内人，其脱魅才被赋予合法地位，被奉为清醒透彻的洞见。批评凭证的资格依然由凭证授予，抽身与脱敏在此硬化为了更高阶的身份资产，宣示着一种唯有被选中者方能获得的免疫力。雕像没有被移走，体制通过将异议者收编为自己的授勋校友，进一步加固了自身门槛的首要地位。一个跳出该坐标系的心智，不会把不再敬畏名牌当作一项值得宣扬的自由，因为那个名字已经无法在它的认知中组织任何比较。[破除概念的僭越](../po-chu-gai-nian-de-jian-yue/)剖析了心智如何把纸面上业已完结的符号——无论是受人尊崇的文凭还是反凭证主义的口号——误认为行动边缘处不可逆的推进，并借由推诿回传的摩擦来护卫凝固的自我形象；正如[阅读的倒错与推断的次序](../the-inversion-of-reading-and-the-order-of-inference/)所展示的，应激式的反驳只会让批判者困在原作者的坐标系内缠斗，而非剥离出其承重的前提。这句格言本身的流转也遵循同一机制：作为归于索维尔名下的一句现成话语，它的反凭证力度正是由被引用者的名望所承载的，而[登记共鸣的表面](../the-surface-that-registers/)则追溯了这样一句话：一旦脱离筛选它的那条切分链条而四处流转，便只剩下一层借用出处分量的薄表面，而发布它的动作仍可以在发布端登记为一次已然完成的表达。
 
-Dwelling inside elite institutions can dissolve status differentials, stopping the mind from taking institutional seals as ready tokens of competence, which is the natural outcome of localized friction. More directly, this framing covertly establishes possessing the credential as the prerequisite for anti-credentialism, thereby fortifying and preserving credentialism from within. If an outsider who never entered the gates claims indifference to the pedigree, the world easily dismisses the attitude as sour grapes; only an insider stamped by the institution is granted the legitimate license for enlightened disenchantment. The authority to criticize the credential is still issued by the credential itself. Detachment hardens into a higher-order status asset, announcing an acquired immunity accessible only to the anointed. The monument remains intact; by co-opting critics as its own decorated alumni, the institution reinforces the primacy of its threshold. A frame that has stepped outside that coordinate space does not advertise its freedom from prestige, because the institution ceases to organize the comparison. [Breaking the Overreach of Concepts](../po-chu-gai-nian-de-jian-yue/) traces how finished symbols on paper—whether a revered diploma or an anti-credentialist slogan—are mistaken for irreversible execution at the living edge while returning friction is disowned to protect a frozen self-image, just as [The Inversion of Reading and the Order of Inference](../the-inversion-of-reading-and-the-order-of-inference/) shows how reactive refutation keeps a critic fighting inside an author's coordinate frame instead of isolating its load-bearing premises. The maxim itself travels the same way: as a finished line attributed to Sowell, its anti-credential force is carried by the standing of the quoted name, and [The Surface That Registers](../the-surface-that-registers/) traces how such a line, once circulated without the chain of cuts that selected it, keeps only a thin surface whose weight is borrowed from its source while its posting can register at the posting end as a completed expression.
+Dwelling inside elite institutions can dissolve status differentials, stopping the mind from taking institutional seals as ready tokens of competence, which is the natural outcome of localized friction. More directly, this framing covertly establishes possessing the credential as the prerequisite for anti-credentialism, thereby fortifying and preserving credentialism from within. If an outsider who never entered the gates claims indifference to the pedigree, the world easily dismisses the attitude as sour grapes; only an insider stamped by the institution is granted the legitimate license for enlightened disenchantment. The authority to criticize the credential is still issued by the credential itself. Detachment hardens into a higher-order status asset, announcing an acquired immunity accessible only to the anointed. The monument remains intact; by co-opting critics as its own decorated alumni, the institution reinforces the primacy of its threshold. A Mind that has stepped outside that coordinate space does not advertise its freedom from prestige, because that name ceases to organize any comparison in its cognition. [Breaking the Overreach of Concepts](../po-chu-gai-nian-de-jian-yue/) traces how finished symbols on paper—whether a revered diploma or an anti-credentialist slogan—are mistaken for irreversible execution at the living edge while returning friction is disowned to protect a frozen self-image, just as [The Inversion of Reading and the Order of Inference](../the-inversion-of-reading-and-the-order-of-inference/) shows how reactive refutation keeps a critic fighting inside an author's coordinate frame instead of isolating its load-bearing premises. The maxim itself travels the same way: as a finished line attributed to Sowell, its anti-credential force is carried by the standing of the quoted name, and [The Surface That Registers](../the-surface-that-registers/) traces how such a line, once circulated without the chain of cuts that selected it, keeps only a thin surface whose weight is borrowed from its source while its posting can register at the posting end as a completed expression.
 
 ## 二、 认知通道的天然不对称 / 2. The Structural Asymmetry of Access
 
@@ -82,13 +82,13 @@ flowchart TD
         OtherVerdict["评判压缩：他者被等同于其落地结果"]
         OtherHidden --> OtherTrace --> OtherVerdict
     end
-    S_Self ==>|"认知通道的结构性不对称"| S_Other
-    style S_Self fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    S_Self -.->|"认知通道的结构性不对称"| S_Other
+    style S_Self fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Other fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style SelfIntent fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style SelfAction fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style SelfExcuse fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style OtherHidden fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style SelfExcuse fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style OtherHidden fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style OtherTrace fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style OtherVerdict fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
@@ -111,13 +111,13 @@ flowchart TD
         OtherVerdict["Evaluative Compression: Actor Equated to the Landing"]
         OtherHidden --> OtherTrace --> OtherVerdict
     end
-    S_Self ==>|"Asymmetry of Cognitive Access"| S_Other
-    style S_Self fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    S_Self -.->|"Asymmetry of Cognitive Access"| S_Other
+    style S_Self fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Other fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style SelfIntent fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style SelfAction fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style SelfExcuse fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style OtherHidden fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style SelfExcuse fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style OtherHidden fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style OtherTrace fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style OtherVerdict fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
@@ -143,9 +143,9 @@ flowchart TD
         AnointedUnits --> MarketReality
     end
     S_Critic ==> |施加严苛成本检验| S_Anointed
-    style S_Critic fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Critic fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Anointed fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style CriticSeat fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style CriticSeat fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style AnointedUnits fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style MarketReality fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
@@ -165,9 +165,9 @@ flowchart TD
         AnointedUnits --> MarketReality
     end
     S_Critic ==> |Imposes Rigorous Cost Check| S_Anointed
-    style S_Critic fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Critic fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Anointed fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style CriticSeat fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style CriticSeat fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style AnointedUnits fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style MarketReality fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```

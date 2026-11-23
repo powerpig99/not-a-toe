@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-23T08:21:15.328Z",
+    "generated_at": "2026-11-23T08:44:15.194Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -123,7 +123,7 @@
       "content/posts/hierarchy-from-individual-difference.md": "0284ab9a61c7",
       "content/posts/how-belief-actually-changes.md": "6e1f9f8d6f3b",
       "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "7eea92222314",
-      "content/posts/huberman-winners-losers.md": "4ebe1677ca5b",
+      "content/posts/huberman-winners-losers.md": "1911318cef50",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "e39cb92ef63a",
       "content/posts/immortality-final.md": "2bbeb6b8ed55",
       "content/posts/incompleteness-exhibited-twice.md": "87f45601a359",
@@ -320,7 +320,7 @@
       "content/posts/the-imagining-of-ai-risk.md": "94a3c0af210d",
       "content/posts/the-initial-distinction.md": "597771bb1303",
       "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "6b8f38992de7",
-      "content/posts/the-interesting-case-of-rubin.md": "cea2f09826d9",
+      "content/posts/the-interesting-case-of-rubin.md": "6b555b01e274",
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "5db081fa7c26",
       "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "3a5779fc0793",
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "2219f4f28045",
@@ -407,28 +407,28 @@
       "content/posts/the-source-of-all-harm.md": "67e9c861c682",
       "content/posts/the-source-of-shared-change.md": "96a5ac743fda",
       "content/posts/the-sovereign-blinding.md": "ed3ccd01b170",
-      "content/posts/the-strategy-that-wasnt.md": "7635fc42511f",
+      "content/posts/the-strategy-that-wasnt.md": "d3b190e18de4",
       "content/posts/the-strongest-belief-of-the-mind.md": "28803b7cc924",
       "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "2570a2de1281",
       "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "45683f1cde48",
       "content/posts/the-surface-beneath.md": "e2ee6e1506ca",
       "content/posts/the-surface-that-registers.md": "935d5f757c76",
       "content/posts/the-three-shadows-of-the-cut.md": "fcb032465d92",
-      "content/posts/the-tightening-loop.md": "49128d718bb9",
+      "content/posts/the-tightening-loop.md": "ea908523f5d5",
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "1efcfef4bee3",
       "content/posts/the-two-readings-of-shared-and-the-observational-bound.md": "1199b3c1f13f",
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "06b70b068131",
       "content/posts/the-unclosable-trace.md": "12bf152789c6",
-      "content/posts/the-unexamined-critic.md": "ffe36622f873",
+      "content/posts/the-unexamined-critic.md": "d1e006ef8ba3",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "88086c00fb20",
       "content/posts/the-unobservable-driver-of-learning.md": "27742353345d",
       "content/posts/the-utility-men-of-progress.md": "e37db505a1a4",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "9f662f33a242",
       "content/posts/the-velocity-of-visibility.md": "6d93e15aa1b5",
-      "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "2e6b2a5bd8dc",
+      "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "423e249818ee",
       "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md": "e9b13d45153e",
       "content/posts/the_analogy_trap.md": "c3f0060b5f76",
-      "content/posts/the_illegible_compound_retraced.md": "e88070b6705a",
+      "content/posts/the_illegible_compound_retraced.md": "ece24ed3eacb",
       "content/posts/the_moving_ground.md": "ba570ac9a2ab",
       "content/posts/therapy-opens-the-feedback-loop.md": "fef94840ad77",
       "content/posts/time-is-causality-not-a-dimension.md": "2ba1a613c03d",
@@ -472,7 +472,7 @@
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "5fd937c16807",
       "content/book/economics.md": "59f58b5d23c6",
-      "content/book/index-of-premises.md": "49d61c945cd2",
+      "content/book/index-of-premises.md": "d1cd8dfe39ea",
       "content/book/intelligence.md": "aff9cd828dad",
       "content/book/knowledge-and-learning.md": "da0efd75ca7e",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -483,15 +483,15 @@
       "content/book/physics.md": "c9d233b55433",
       "content/book/preface.md": "09791dd76ace",
       "content/book/state-and-collective.md": "a1b57a68703f",
-      "content/book/success-and-the-self.md": "86fbf2c1128a",
+      "content/book/success-and-the-self.md": "58fce4f20c92",
       "content/book/tools-and-progress.md": "dad2507ca407"
     },
     "stats": {
       "posts": 461,
-      "edges": 14186,
-      "unique_directed": 6974,
+      "edges": 14188,
+      "unique_directed": 6975,
       "missing_targets": 0,
-      "one_way": 1586,
+      "one_way": 1587,
       "isolated": 0,
       "posts_with_outbound": 461,
       "book_pages": 16,
@@ -3803,7 +3803,7 @@
       "slug": "huberman-winners-losers",
       "path": "content/posts/huberman-winners-losers.md",
       "title": "赢家与输家的转化框架 / Winners and Losers in the Transmutation Frame",
-      "hash": "4ebe1677ca5b",
+      "hash": "1911318cef50",
       "in_degree": 2,
       "out_degree": 4,
       "links_out": [
@@ -6928,7 +6928,7 @@
       "slug": "the_illegible_compound_retraced",
       "path": "content/posts/the_illegible_compound_retraced.md",
       "title": "不可读的复利重溯 / The Illegible Compound Retraced",
-      "hash": "e88070b6705a",
+      "hash": "ece24ed3eacb",
       "in_degree": 4,
       "out_degree": 5,
       "links_out": [
@@ -9297,14 +9297,15 @@
       "slug": "the-interesting-case-of-rubin",
       "path": "content/posts/the-interesting-case-of-rubin.md",
       "title": "里克·鲁宾的奇特案例与不可瞄准的乐趣 / The Interesting Case of Rubin",
-      "hash": "cea2f09826d9",
+      "hash": "6b555b01e274",
       "in_degree": 4,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "the-strategy-that-wasnt",
         "extension-and-shift",
         "the-maintenance-paradox",
-        "your-codebase-is-memory"
+        "your-codebase-is-memory",
+        "writing-without-the-image"
       ]
     },
     {
@@ -11596,8 +11597,8 @@
       "kind": "post",
       "slug": "the-strategy-that-wasnt",
       "path": "content/posts/the-strategy-that-wasnt.md",
-      "title": "从未作为战略的副业与被观察扼杀的自发性 / The Strategy That Wasn't",
-      "hash": "7635fc42511f",
+      "title": "从未作为战略的副业 / The Strategy That Wasn't",
+      "hash": "d3b190e18de4",
       "in_degree": 3,
       "out_degree": 4,
       "links_out": [
@@ -11754,7 +11755,7 @@
       "slug": "the-tightening-loop",
       "path": "content/posts/the-tightening-loop.md",
       "title": "不断收紧的回环 / The Tightening Loop",
-      "hash": "49128d718bb9",
+      "hash": "ea908523f5d5",
       "in_degree": 4,
       "out_degree": 10,
       "links_out": [
@@ -11889,7 +11890,7 @@
       "slug": "the-unexamined-critic",
       "path": "content/posts/the-unexamined-critic.md",
       "title": "未经自我审视的批判者 / The Unexamined Critic",
-      "hash": "ffe36622f873",
+      "hash": "d1e006ef8ba3",
       "in_degree": 10,
       "out_degree": 12,
       "links_out": [
@@ -12049,7 +12050,7 @@
       "slug": "the-walking-tangent-and-the-stumbling-sphere",
       "path": "content/posts/the-walking-tangent-and-the-stumbling-sphere.md",
       "title": "切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere",
-      "hash": "2e6b2a5bd8dc",
+      "hash": "423e249818ee",
       "in_degree": 6,
       "out_degree": 10,
       "links_out": [
@@ -12847,7 +12848,7 @@
       "path": "content/posts/writing-without-the-image.md",
       "title": "无形象的写作 / Writing Without the Image",
       "hash": "157f6998ee85",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 9,
       "links_out": [
         "curiosity-first-the-hidden-engine-of-talent-and-development",
@@ -71966,7 +71967,7 @@
       "from": "the-interesting-case-of-rubin",
       "to": "the-strategy-that-wasnt",
       "rel": "points_to",
-      "label": "从未作为战略的副业与被观察扼杀的自发性"
+      "label": "从未作为战略的副业"
     },
     {
       "from": "the-interesting-case-of-rubin",
@@ -72006,9 +72007,21 @@
     },
     {
       "from": "the-interesting-case-of-rubin",
+      "to": "writing-without-the-image",
+      "rel": "points_to",
+      "label": "无形象的写作"
+    },
+    {
+      "from": "the-interesting-case-of-rubin",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-interesting-case-of-rubin",
+      "to": "writing-without-the-image",
+      "rel": "points_to",
+      "label": "Writing Without the Image"
     },
     {
       "from": "the-inversion-of-reading-and-the-order-of-inference",
@@ -88388,7 +88401,7 @@
       "from": "the-tightening-loop",
       "to": "the-strategy-that-wasnt",
       "rel": "points_to",
-      "label": "从未作为战略的副业与被观察扼杀的自发性"
+      "label": "从未作为战略的副业"
     },
     {
       "from": "the-tightening-loop",
@@ -90674,7 +90687,7 @@
       "from": "the_illegible_compound_retraced",
       "to": "the-strategy-that-wasnt",
       "rel": "points_to",
-      "label": "从未作为战略的副业与被观察扼杀的自发性"
+      "label": "从未作为战略的副业"
     },
     {
       "from": "the_illegible_compound_retraced",
@@ -98326,7 +98339,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "49d61c945cd2",
+        "hash": "d1cd8dfe39ea",
         "out_degree": 461
       },
       {
@@ -98425,7 +98438,7 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "86fbf2c1128a",
+        "hash": "58fce4f20c92",
         "out_degree": 37
       },
       {
@@ -104203,7 +104216,7 @@
         "from": "book:index-of-premises",
         "to": "the-strategy-that-wasnt",
         "rel": "collects",
-        "label": "从未作为战略的副业与被观察扼杀的自发性 / The Strategy That Wasn't"
+        "label": "从未作为战略的副业 / The Strategy That Wasn't"
       },
       {
         "from": "book:index-of-premises",
@@ -107431,7 +107444,7 @@
         "from": "book:success-and-the-self",
         "to": "the-strategy-that-wasnt",
         "rel": "collects",
-        "label": "从未作为战略的副业与被观察扼杀的自发性 / The Strategy That Wasn't"
+        "label": "从未作为战略的副业 / The Strategy That Wasn't"
       },
       {
         "from": "book:success-and-the-self",
