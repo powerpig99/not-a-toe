@@ -8,36 +8,36 @@ Functionalism defines mental states exclusively by their causal roles, the syste
 
 ## 一、 认真持有需要一个主体 / 1. Serious Holding Requires a Subject
 
-认真的认可，不是一种学说能够独自拥有的属性。它是一种认知立场，只有当某个主体例示相关角色时才存在：在不同选项之间作出辨别，持续回应反驳，并把这一观点当作约束后续判断的东西。一套学说并不认真持有它自身，正如一张地图并不阅读它自身。功能主义给出了评估任何此类立场的判据。当这些判据被用于声称认真对待该理论的主体时，它们按自身的尺度，把这份认可本身归为不认真：它们把持有描述为一种角色模式，却漏掉了划出并权衡这一模式的那个动作。一旦“认真”被还原为任何足够复杂的组织结构都能实现的一组输入输出关系，这套说明便只把模式算在内，不再把划出模式的持有者算在内。
+认真的认可，不是一种学说能够独自拥有的属性。它是一种认知立场，只有当某个主体在不同选项之间作出辨别、持续回应反驳，并把这一观点当作对后续判断的约束时才存在。一套学说并不认真持有它自身，正如一张地图并不阅读它自身。功能主义给出了评估任何心理立场的判据。当这些判据被用于声称认真对待该理论的主体时，它们只把持有描述为一种角色模式，却漏掉了划出并权衡这一模式的那个动作；按这套理论自身的条件，没有什么能把认真的持有与对这一模式的机械模仿区分开来。一旦“认真”被还原为任何足够复杂的组织结构都能实现的一组输入输出关系，这套说明便只把模式算在内，不再把划出模式的持有者算在内。
 
-Serious endorsement is not a property a doctrine can possess on its own. It is a cognitive stance that exists only when a subject instantiates the relevant roles: discriminating alternatives, remaining responsive to objections, and treating the view as constraining further judgment. A doctrine does not hold itself seriously, any more than a map reads itself. Functionalism supplies the criteria by which any such stance is to be evaluated. Applied to the subject who claims to take the theory seriously, those criteria classify the endorsement itself as non-serious by their own measure: they describe the holding as a role pattern and leave out the act that draws and weighs that pattern. Once seriousness is reduced to a set of input-output relations realizable by any sufficiently complex organization, the account counts the pattern and no longer counts the holder who draws it.
+Serious endorsement is not a property a doctrine can possess on its own. It is a cognitive stance that exists only when a subject discriminates alternatives, remains responsive to objections, and treats the view as constraining further judgment. A doctrine does not hold itself seriously, any more than a map reads itself. Functionalism supplies criteria by which any mental stance is to be evaluated. Applied to the subject who claims to take the theory seriously, those criteria describe the holding solely as a role pattern and leave out the act that draws and weighs that pattern; on the theory's own terms, nothing separates serious holding from mechanical mimicry of the pattern. Once seriousness is reduced to a set of input-output relations realizable by any sufficiently complex organization, the account counts the pattern and no longer counts the holder who draws it.
 
-这一失败的次序不可调换。它首先在主体那里登记，因为只有主体才能实现所涉及的角色；理论在被一个主体持有之前，只是一组没有“认真”谓词附着其上的命题。只有在那之后，失败才延伸到学说：学说由此再没有一位信奉者，能在它自身所阐明的条件下持有它。[自由意志的自否自由](../the-freedom-of-will-to-deny-itself/)在意志中追溯同一个次序：否定意志的雄辩，是意志在行使它作出区分的能力；在这里，宣称“认真”不过是功能角色的那份认真，正在行使被它自己否认的那种不可还原的持有。一套理论，若其认真标准系统地排除对它自身的认真接受，便无法一致地要求对立立场履行一项它已使之无从履行的解释责任。
+这一失败的次序不可调换。它首先在主体那里登记，因为只有主体才能认真持有一种立场；理论在被一个主体持有之前，只是一组没有“认真”谓词附着其上的命题。只有在那之后，失败才延伸到学说：学说由此再没有一位信奉者，能在它自身所阐明的条件下持有它。[自由意志的自否自由](../the-freedom-of-will-to-deny-itself/)在意志中追溯同一个次序：否定意志的雄辩，是意志在行使它作出区分的能力；在这里，宣称“认真”不过是功能角色的那份认真，正在行使被它自己否认的那种不可还原的持有。一套理论，若其标准漏掉了认真接受它自身所需的持有者，便无法一致地要求对立立场履行一项它已使之无从履行的解释责任。
 
 ```mermaid
 flowchart TD
     subgraph S_ORDER_ZH ["失败传导的次序"]
         direction TB
-        style S_ORDER_ZH fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
         Subject["持有者：权衡选项并回应反驳的主体"]
         Criteria["功能主义判据：认真是因果角色"]
-        Verdict["判定：持有者的认可不认真"]
+        Verdict["还原：只计入角色模式，漏掉持有者"]
         Doctrine["学说：再没有能认真持有它的主体"]
         Burden["向对手索要的解释责任变得无从履行"]
-        style Subject fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-        style Criteria fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-        style Verdict fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-        style Doctrine fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-        style Burden fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     end
     Subject -->|"将判据应用于自身"| Criteria
     Criteria --> Verdict
-    Verdict -->|"先落在持有者身上"| Subject
+    Verdict -->|"首先未把持有者算在内"| Subject
     Subject -->|"随后学说失去持有者"| Doctrine
     Doctrine -->|"随后抵达论辩姿态"| Burden
+    style S_ORDER_ZH fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style Subject fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Criteria fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Verdict fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Doctrine fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Burden fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-The order of this failure cannot be reversed. It registers first with the subject, because only a subject can realize the roles in question; before a subject holds it, a theory is only a set of claims with no seriousness predicate attaching to them. Only then does the failure extend to the doctrine, which is left without any adherent who can hold it under the conditions the doctrine itself articulates. [The Freedom of Will to Deny Itself](../the-freedom-of-will-to-deny-itself/) traces the same order in will: the eloquence denying will is will exercising its capacity to distinguish; here, the seriousness that declares seriousness to be nothing but functional role is exercising the very irreducible holding it denies. A theory whose standards of seriousness systematically exclude its own serious acceptance cannot consistently demand that rival positions discharge an explanatory burden it has already rendered unmeetable.
+The order of this failure cannot be reversed. It registers first with the subject, because only a subject can hold a stance seriously; before a subject holds it, a theory is only a set of claims with no seriousness predicate attaching to them. Only then does the failure extend to the doctrine, which is left without any adherent who can hold it under the conditions the doctrine itself articulates. [The Freedom of Will to Deny Itself](../the-freedom-of-will-to-deny-itself/) traces the same order in will: the eloquence denying will is will exercising its capacity to distinguish; here, the seriousness that declares seriousness to be nothing but functional role is exercising the very irreducible holding it denies. A theory whose standards omit the holder required for its own serious acceptance cannot consistently demand that rival positions discharge an explanatory burden it has already rendered unmeetable.
 
 ```mermaid
 flowchart TD
@@ -45,13 +45,13 @@ flowchart TD
         direction TB
         Subject["Holder: a subject weighing options and answering objections"]
         Criteria["Functionalist criteria: seriousness is causal role"]
-        Verdict["Verdict: the holder's endorsement is non-serious"]
+        Verdict["Reduction: counts only the role pattern, omits the holder"]
         Doctrine["Doctrine: left with no subject able to hold it seriously"]
         Burden["Burden demanded of rivals becomes undischargeable"]
     end
     Subject -->|"applies the criteria to itself"| Criteria
     Criteria --> Verdict
-    Verdict -->|"lands on the holder first"| Subject
+    Verdict -->|"leaves the holder uncounted first"| Subject
     Subject -->|"then the doctrine is left without a holder"| Doctrine
     Doctrine -->|"then reaches the dialectical posture"| Burden
     style S_ORDER_EN fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -68,25 +68,18 @@ flowchart TD
 
 Ordinary defenses do not resolve the difficulty; they presuppose what it places in question. In one typical pattern, rejection of functional equivalence between organisms and machines is simply designated the most defensible objection to machine consciousness, while rejection of functionalism itself is said to require a serious explanation, yet no independent grounds are offered for the ranking. In another, Chalmers' fading-qualia argument for machine consciousness concludes that experience survives gradual replacement because the subject's reports stay unchanged; that step already takes functional report as what settles evidence about experience. In each case the decisive premise, that functional criteria already govern what counts as serious reasoning or adequate evidence, is entered in advance. Once granted, the desired conclusions follow; the entitlement to the premise remains unargued. [The Sleight of Hand of Consciousness and the Asymmetry of Inference](../the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/) traces the asymmetry of inference that accompanies this premise: the same unmet standard of deductive proof is applied to both biological kin and machines, letting that shared gap stand in for the empirical pillars that tell them apart so that, on functional mimicry alone, machine interiority is treated as being as open a question as a kin's.
 
-面对自我适用的指控，辩护者可以指出，普特南、刘易斯与阿姆斯特朗的经典表述从未要求理论为它自身的元层次认可提供许可。作为历史评注，这是准确的，但它并不恢复自洽，因为它留下了一个两难。如果理论不必经得起被应用于它的拥护者，那么，批评者须为拒绝该理论提供认真解释这一要求，便不再能以理论自身的理由发出；这一要求依赖一个该理论拒绝涵盖的认真标准。反过来，如果理论用于心理与认知评价的判据是普遍的，它们便适用于拥护者自己的认可，并再次得出“不认真”的结果。要么标准被限制，以至于不再支撑原先的论辩主张；要么标准是普遍的，并削弱那些主张赖以发出的立场。
+面对自我适用的指控，辩护者可以指出，普特南、刘易斯与阿姆斯特朗的经典表述从未要求理论为它自身的元层次认可提供许可。作为历史评注，这是准确的，但它并不恢复自洽，因为它留下了一个两难。如果理论不必经得起被应用于它的拥护者，那么，批评者须为拒绝该理论提供认真解释这一要求，便不再能以理论自身的理由发出；这一要求依赖一个该理论拒绝涵盖的认真标准。反过来，如果理论用于心理与认知评价的判据是普遍的，它们便适用于拥护者自己的认可，将其还原为一种没有持有者的角色模式，不再留下任何能认真持有该理论的主体。要么标准被限制，以至于不再支撑原先的论辩主张；要么标准是普遍的，并削弱那些主张赖以发出的立场。
 
 ```mermaid
 flowchart TD
     subgraph S_PREMISE_ZH ["预先放入的前提及其两难"]
         direction TB
-        style S_PREMISE_ZH fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
         Assert["预设：功能判据支配认真与证据"]
         Rank["排序：否认功能等价被称为最站得住脚"]
         Shift["渐隐感受质：不变的报告被当作体验的裁定依据"]
         Fork["两难：判据是否适用于持有者"]
         Narrow["受限的判据：要求不再以理论自身的理由发出"]
-        General["普遍的判据：持有者的立场被判为不认真"]
-        style Assert fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-        style Rank fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-        style Shift fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-        style Fork fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-        style Narrow fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-        style General fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+        General["普遍的判据：持有被还原为无持有者的角色模式"]
     end
     Assert --> Rank
     Assert --> Shift
@@ -94,9 +87,16 @@ flowchart TD
     Shift -->|"被追问资格时"| Fork
     Fork -->|"否"| Narrow
     Fork -->|"是"| General
+    style S_PREMISE_ZH fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Assert fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Rank fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Shift fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Fork fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Narrow fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style General fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Faced with the charge of self-application, a defender can note that the classical formulations of Putnam, Lewis, and Armstrong never required the theory to license its own meta-level endorsement. As a historical remark this is accurate, yet it does not restore coherence, because it leaves a dilemma. If the theory is not obliged to survive application to its advocates, then the demand that critics supply a serious explanation for rejecting it can no longer be issued on the theory's own grounds; it rests on a standard of seriousness the theory declines to cover. If, on the other hand, the theory's criteria for mental and cognitive evaluation are general, they apply to the advocate's own endorsement and again yield the non-serious result. Either the standards are restricted so that they no longer support the original dialectical claims, or they are general and undermine the stance from which those claims are issued.
+Faced with the charge of self-application, a defender can note that the classical formulations of Putnam, Lewis, and Armstrong never required the theory to license its own meta-level endorsement. As a historical remark this is accurate, yet it does not restore coherence, because it leaves a dilemma. If the theory is not obliged to survive application to its advocates, then the demand that critics supply a serious explanation for rejecting it can no longer be issued on the theory's own grounds; it rests on a standard of seriousness the theory declines to cover. If, on the other hand, the theory's criteria for mental and cognitive evaluation are general, they apply to the advocate's own endorsement and reduce it to a holderless role pattern, leaving no subject to hold it seriously. Either the standards are restricted so that they no longer support the original dialectical claims, or they are general and undermine the stance from which those claims are issued.
 
 ```mermaid
 flowchart TD
@@ -107,7 +107,7 @@ flowchart TD
         Shift["Fading qualia: unchanged report taken to settle experience"]
         Fork["Dilemma: do the criteria apply to the holder"]
         Narrow["Restricted criteria: demands no longer issued on the theory's own grounds"]
-        General["General criteria: the holding stance judged non-serious"]
+        General["General criteria: holding reduced to a holderless role pattern"]
     end
     Assert --> Rank
     Assert --> Shift
