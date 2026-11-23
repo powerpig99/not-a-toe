@@ -6,9 +6,9 @@
 
 The common impulse to imitate the child-rearing habits of the successful carries a clean causal inversion: it confuses the post-success consumption of accumulated surplus with the generating engine that first created capability. Onlookers pointing to Silicon Valley executives who limit screen time, delay smartphones and arrange bespoke low-tech educations as a blueprint for success take the protective dividends of accumulated wealth for the cause of competence.
 
-把隔离变成一个模型，成功之后的家庭就造出一座过度设计的温室，拿走了任何心智建立切身能力所必需的原始摩擦、不确定与自主的决定。
+把隔离变成一个模型，成功之后的家庭就造出一座过度设计的温室，拿走了原始摩擦、不确定性，以及自主决定中不加缓冲的利害——这些正是任何心智建立切身能力所必需的。
 
-By turning insulation into a model, the post-success household builds an over-engineered greenhouse that removes the raw friction, uncertainty and self-directed decision-making any Mind needs to build lived capability.
+By turning insulation into a model, the post-success household builds an over-engineered greenhouse that removes the raw friction, uncertainty and unbuffered stakes of self-directed decisions any Mind needs to build lived capability.
 
 ## 一、 榜样的错觉 / 1. The Role-Model Illusion
 
@@ -16,9 +16,9 @@ By turning insulation into a model, the post-success household builds an over-en
 
 The structural error in treating elite parenting as a model to teach from lies in an unexamined asymmetry of baseline: the children of the successful start from a far higher point. A wealthy executive raising children in a low-tech setting with bespoke tutors and pristine nature retreats is deploying the dividends of a prior victory, not running the generating process that forged their own competence. As both [The Generative Atlas of Macroscopic Phenomena](../the-generative-atlas-of-macroscopic-phenomena/) and [The Geometry of Success](../the-geometry-of-success/) analyse, macroscopic outcomes cannot be understood by observing the static state of the winner at the summit. Those who now restrict technology became formidable, adaptive actors precisely because their formative years were spent in raw friction: unfiltered, self-directed exploration, intense trial and error under severe resource constraint, and direct, unbuffered contact with the consequences of their choices.
 
-看这些人在获得巨大的地位、财富与安全之后做什么，再把成功之后的生活方式误认成产生成功的公式，就是幸存者偏差：像看一个运动员赢得冠军后怎样休息，就断定休息是胜利的引擎。
+看这些人在获得巨大的地位、财富与安全之后做什么，再把成功之后的生活方式误认成产生成功的公式，就是因果倒置：像看一个运动员赢得冠军后怎样休息，就断定休息是胜利的引擎。
 
-Looking at what these people do after reaching great status, wealth and security, and taking that post-success lifestyle for the formula that produced success, is survivorship bias: like watching how an athlete rests after winning a championship and concluding that resting was the engine of victory.
+Looking at what these people do after reaching great status, wealth and security, and taking that post-success lifestyle for the formula that produced success, is causal inversion: like watching how an athlete rests after winning a championship and concluding that resting was the engine of victory.
 
 ## 二、 后见的归因错误 / 2. The Hindsight Attribution Error
 
@@ -58,7 +58,7 @@ flowchart TD
     end
     subgraph S_Child["孩子的回路"]
         direction TB
-        C1["解决问题的能力与能动性发展不起来"]
+        C1["解决问题的能力建立不起来，能动感被侵蚀"]
         C2["更加依赖，退回父母的庇护"]
     end
     subgraph S_Parent["父母的读法"]
@@ -88,7 +88,7 @@ flowchart TD
     end
     subgraph S_Child["The child's loop"]
         direction TB
-        C1["Problem-solving and agency fail to develop"]
+        C1["Problem-solving fails to build, sense of agency erodes"]
         C2["More dependence, retreat into the parental estate"]
     end
     subgraph S_Parent["The parent's reading"]
@@ -114,9 +114,9 @@ As both [Ownership and Self-Worthiness](../ownership-and-self-worthiness/) and [
 
 ## 六、 自我加强的回路与舒适的错觉 / 6. The Self-Reinforcing Loop and the Illusion of Comfort
 
-这个动态建立起一个自我加强的回路，被物质的舒适遮住，多半看不见：父母把孩子挡在无缓冲的挣扎之外；孩子发展不出稳健的解决问题的能力与独立的能动性；看到孩子的脆弱，父母觉得加强监督与控制理所当然；孩子更加依赖，退回父母庇护的舒适安全里。一个人可以过一种非常舒适、有教养的生活，却仍是一场过去胜利的附属，而不是一台自己发起的因果引擎；得到了一切优势，唯独缺了要紧的那一样：在没铺好的地形上挣扎、失败、建立自己能力的自由。父母急于清除的环境约束，并不是自由的失去，而是孩子的选择借以建立因果杠杆的摩擦——而感到的约束，则在能动性向后调转、去守护过去的胜利时生出，正如[约束的样子不是自由的失去](../the-look-of-constraint-is-not-the-loss-of-freedom/)所展示的那样。
+这个动态建立起一个自我加强的回路，被物质的舒适遮住，多半看不见：父母把孩子挡在无缓冲的挣扎之外；孩子发展不出稳健的问题解决能力与独立能力；看到孩子的脆弱，父母觉得加强监督与控制理所当然；孩子更加依赖，退回父母庇护的舒适安全里。一个人可以过一种非常舒适、有教养的生活，作为一场过去胜利的附属，而不是在自己的因果前沿锻造能力；得到了一切物质优势，却被挡在唯一能建立能力的接触之外：在没铺好的地面上不加缓冲地挣扎与失败。父母急于清除的环境约束，并不是自由的失去，而是孩子的选择借以建立因果杠杆的摩擦——而感到的约束，则在能动性向后调转、去守护过去的胜利时生出，正如[约束的样子不是自由的失去](../the-look-of-constraint-is-not-the-loss-of-freedom/)所展示的那样。
 
-This dynamic sets up a self-reinforcing loop that, masked by material comfort, mostly goes unseen: the parent keeps the child from unbuffered struggle; the child fails to develop robust problem-solving and independent agency; seeing the child's fragility, the parent feels more supervision and control are justified; and the child grows more dependent, retreating into the comfortable safety of the parental estate. A person can live a very comfortable, cultured life while remaining an appendage of a past victory rather than a self-originating causal engine, given every advantage except the one that matters: the freedom to struggle, fail and build capability of their own on unpaved ground. The environmental constraints parents rush to clear away are not a loss of freedom, but the friction against which a child's choices build causal leverage—whereas felt constraint sets in when agency is turned backward to guard a past victory, as [The Look of Constraint Is Not the Loss of Freedom](../the-look-of-constraint-is-not-the-loss-of-freedom/) shows.
+This dynamic sets up a self-reinforcing loop that, masked by material comfort, mostly goes unseen: the parent keeps the child from unbuffered struggle; the child fails to develop robust problem-solving and independent capability; seeing the child's fragility, the parent feels more supervision and control are justified; and the child grows more dependent, retreating into the comfortable safety of the parental estate. A person can live a very comfortable, cultured life as an appendage of a past victory rather than forging capability at their own causal edge, given every material advantage while shielded from the one contact that builds it: unbuffered struggle and failure on unpaved ground. The environmental constraints parents rush to clear away are not a loss of freedom, but the friction against which a child's choices build causal leverage—whereas felt constraint sets in when agency is turned backward to guard a past victory, as [The Look of Constraint Is Not the Loss of Freedom](../the-look-of-constraint-is-not-the-loss-of-freedom/) shows.
 
 ## 七、 越过镀金的笼子 / 7. Beyond the Gilded Cage
 

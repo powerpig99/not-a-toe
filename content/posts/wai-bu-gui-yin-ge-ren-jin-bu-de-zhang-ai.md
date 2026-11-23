@@ -94,17 +94,17 @@ The trouble in parenting lies not in methods that are not advanced enough, but i
 
 There are two common ways of doing it.
 
-一是替孩子承担他本可以自己承担的。过度保护、包办、抢先解决，等于在反复告诉孩子：“你做不到，也不需要做到。”他的行动与结果之间的因果链被切断，内部归因就无法生长。[作为因果干扰的情感支持](../emotional-support-as-causal-interference/)是同一种替换：外部的调节替掉了孩子自己与后果的接触。
+一是替孩子承担他本可以自己承担的。过度保护、包办、抢先解决，等于在反复告诉孩子：“你做不到，也不需要做到。”他的行动与结果之间的直接接触被打断，内部归因就失去了借以形成的摩擦。[作为因果干扰的情感支持](../emotional-support-as-causal-interference/)是同一种替换：外部的调节替掉了孩子自己与后果的接触。
 
-The first is carrying for the child what they could carry themselves. Overprotecting, doing everything for them, solving problems before they arise, all keep telling the child: “You can’t do it, and you don’t need to.” The causal chain between their actions and the results is cut, and inner attribution cannot grow. [Emotional Support as Causal Interference](../emotional-support-as-causal-interference/) is the same replacement: outside regulation takes the place of the child’s own contact with consequence.
+The first is carrying for the child what they could carry themselves. Overprotecting, doing everything for them, solving problems before they arise, all keep telling the child: “You can’t do it, and you don’t need to.” Direct contact between their actions and the results is interrupted, leaving inner attribution without the friction through which it forms. [Emotional Support as Causal Interference](../emotional-support-as-causal-interference/) is the same replacement: outside regulation takes the place of the child’s own contact with consequence.
 
 二是让孩子承担本不属于他的。把父母的焦虑、情绪与未完成的欲望投射过去，等于在告诉他：“你的价值取决于别人的心情和期待。”他开始用外部的标准定义自己，内在的驱力逐渐萎缩。[当效果主宰了框架的叙事](../when-the-effect-authors-the-frame/)是同一个先验：把登记到的东西当成下一步的作者。
 
 The second is making the child carry what was never theirs. Projecting the parents’ anxiety, moods and unfinished desires onto the child amounts to telling them: “Your worth depends on other people’s moods and expectations.” The child begins to define themselves by outside standards, and the inner drive slowly withers. [When the Effect Authors the Frame](../when-the-effect-authors-the-frame/) is the same prior: what registers is taken for the author of the next step.
 
-这两种操作，把孩子原本微弱却真实的自驱力，一点一点磨平。
+这两种操作，让孩子试探性的自驱力得不到练习，注意力也一点一点转向外部。
 
-These two ways grind down, bit by bit, the child’s self-drive, faint at first but real.
+Both ways leave the child’s tentative self-drive unpracticed, turning attention bit by bit outward.
 
 ## 四、 个体的自驱力经不起平均 / 4. Individual Self-Drive Cannot Be Averaged
 

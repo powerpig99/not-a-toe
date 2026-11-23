@@ -8,19 +8,19 @@ When a child comes to believe that their future depends on a small investment by
 
 ## 一、 投资回报与因果的移位 / 1. Return on Investment and the Relocation of Cause
 
-当知名实业家公开颂扬为每个儿童投入250美元能够带来丰厚的投资回报率时，现代慈善便暴露出其记账方式是如何倒置因果的。在金融市场的标准逻辑下，投资回报率衡量的是资本自身的生产效率；然而在此处，被计入分子的却是个体在随后数十年间的坚韧、判断、劳作与认知求索。为了让一笔微不足道的款项在资产负债表上登记为千倍红利，整套叙事机制必须把个体此后承受的一切摩擦、习得的技能与生存抉择，统统归因于最初那张支票。在这种记账方式下，原本无因且不息地进行自我区分的活生生的心智，被减记成了他人投资组合中的生息资产。
+当知名实业家公开颂扬为每个儿童投入250美元能够带来丰厚的投资回报率时，现代慈善便暴露出其记账方式是如何倒置因果的。按照金融市场的标准逻辑，投资回报率是在共同剩余索取权下，将企业的财务收益与承担风险的资本相比较；然而在此处，出资者对孩子的人生并不持有任何实际运营权益，却把个体在随后数十年间的坚韧、判断、劳作与认知求索记入了分子。为了让一笔微不足道的款项在资产负债表上登记为千倍红利，整套叙事机制必须把个体此后承受的一切摩擦、习得的技能与生存抉择，统统归因于最初那张支票。在这种记账方式下，原本无因且不息地进行自我区分的活生生的心智，被减记成了他人投资组合中的生息资产。
 
-When a prominent industrialist publicly celebrates how a 250-dollar investment per child yields a massive return on investment, modern philanthropy exposes how its accounting inverts causality. Within the standard logic of financial markets, return on investment measures the productive efficiency of capital itself; yet here, the numerator consists of an individual's subsequent decades of perseverance, judgment, labor, and cognitive struggle. For a negligible sum to register on a balance sheet as a thousand-fold dividend, the entire narrative apparatus must attribute all subsequent friction-bearing, skill acquisition, and existential choices to the initial check. In that accounting, the living Mind—where self-distinguishing activity occurs uncaused and unceasing—is written down as an interest-bearing asset in another's portfolio.
+When a prominent industrialist publicly celebrates how a 250-dollar investment per child yields a massive return on investment, modern philanthropy exposes how its accounting inverts causality. Within the standard logic of financial markets, return on investment compares an enterprise's financial yield against the capital risked under shared residual claimancy; yet here, the donor takes no operational stake in the child's life while booking the individual's subsequent decades of perseverance, judgment, labor, and cognitive struggle into the numerator. For a negligible sum to register on a balance sheet as a thousand-fold dividend, the entire narrative apparatus must attribute all subsequent friction-bearing, skill acquisition, and existential choices to the initial check. In that accounting, the living Mind—where self-distinguishing activity occurs uncaused and unceasing—is written down as an interest-bearing asset in another's portfolio.
 
-这并非关于金额大小的争论。保障住所、清洁水源、基础教育与基本医疗，拓宽的是个体得以呼吸和行动的生理边界，并未侵入主体性的领地。一旦外部力量试图去包揽一个独立生命的建构过程——无论是提供种子资本、购置第一套房产，还是发放持续补贴以暗示沉重的跋涉已由外部代劳——这条边界便被跨越了。像芬兰每月发放95欧元儿童津贴这样的适度公共补贴，并不会制造这种倒置；扭曲并非源于支票的面额，而是源于把支票描绘成未来之所以可能的叙事框架。正如[拥有更多从不是原因](../having-more-is-never-the-cause/)所追溯的，初始存量只塑造可用条件的分布，却从不生成唯有在持续抉择中才能生长出来的能力。
+这并非关于金额大小的争论。在孩子尚无力维持自身生存时，为其提供住所、清洁水源、基础教育与基本医疗，拓宽的是一个人得以呼吸和行动的生理边界，并未侵入主体性的领地。一旦外部力量试图去包揽一个独立生命的建构过程——无论是提供种子资本、购置第一套房产，还是发放持续补贴以暗示沉重的跋涉已由外部代劳——这条边界便被跨越了。像芬兰每月95欧元儿童津贴这样的适度公共补贴也好，250美元的私人种子账户也罢，都不会因金额大小或资金来源而豁免：扭曲并非源于支票的面额，而是凡有转移支付未被留作环境背景、反而被框定或采纳为未来之所以可能的依据之处，扭曲便在那里发生。正如[拥有更多从不是原因](../having-more-is-never-the-cause/)所追溯的，初始存量只塑造可用条件的分布，却从不生成唯有在持续抉择中才能生长出来的能力。
 
 ```mermaid
 flowchart TD
   subgraph S_FIN["资本折现模型"]
     direction TB
     C_IN["外部转移支票<br/>250美元种子资本"]
-    C_RET["出资者账面回报<br/>宣称百倍投资收益率"]
     C_DISC["主体性折现<br/>将因果归于资本"]
+    C_RET["出资者账面回报<br/>宣称千倍投资收益率"]
   end
   subgraph S_ACT["第一人称因果序列"]
     direction TB
@@ -29,9 +29,10 @@ flowchart TD
     A_GROW["复利积累的能力<br/>第一人称主权"]
   end
   C_IN --> C_DISC
+  C_IN -.->|"被记作分母"| C_RET
   A_ACT --> A_FRIC --> A_GROW
   A_GROW -.->|"下游痕迹被认领为收益"| C_RET
-  C_DISC ==>|"外部参照取代自身杠杆"| A_ACT
+  C_DISC -.->|"若被采纳，便取代自身杠杆"| A_ACT
   style S_FIN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
   style S_ACT fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
   style C_IN fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -42,15 +43,15 @@ flowchart TD
   style A_GROW fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-This is not an argument over monetary amounts. Guaranteeing shelter, clean water, schooling, and basic medical care expands the biological horizon within which an individual breathes and acts, without trespassing upon the domain of agency. The boundary is crossed the moment an external party attempts to underwrite the construction of an independent life—whether through seed capital, purchasing the first home, or providing ongoing subsidies that imply the heavy lifting has already been solved from outside. A modest public stipend, such as Finland's child allowance of 95 euros monthly, does not produce this inversion; the distortion arises not from the size of the check, but from the narrative framing that presents the check as what makes the future possible. As [Having More Is Never the Cause](../having-more-is-never-the-cause/) traces, a starting stock patterns what is available without ever authoring the competence that only continued choosing generates.
+This is not an argument over monetary amounts. Supplying shelter, clean water, schooling, and basic medical care while a child cannot yet sustain themselves expands the biological horizon within which a person breathes and acts, without trespassing upon the domain of agency. The boundary is crossed the moment an external party attempts to underwrite the construction of an independent life—whether through seed capital, purchasing the first home, or providing ongoing subsidies that imply the heavy lifting has already been solved from outside. Neither a modest public stipend such as Finland's child allowance of 95 euros monthly nor a 250-dollar private seed account is exempt by size or origin: the distortion arises not from the face value of the check, but wherever a transfer is framed or adopted as what makes the future possible rather than left as ambient background. As [Having More Is Never the Cause](../having-more-is-never-the-cause/) traces, a starting stock patterns what is available without ever authoring the competence that only continued choosing generates.
 
 ```mermaid
 flowchart TD
   subgraph S_FIN["Capital Discounting Model"]
     direction TB
     C_IN["External Transfer Check<br/>USD 250 Seed Capital"]
-    C_RET["Financier Recorded Return<br/>Claimed 100x ROI"]
     C_DISC["Discount on Agency<br/>Attributing Causality to Capital"]
+    C_RET["Financier Recorded Return<br/>Claimed 1000x ROI"]
   end
   subgraph S_ACT["First-Person Causal Sequence"]
     direction TB
@@ -59,9 +60,10 @@ flowchart TD
     A_GROW["Compounded Competence<br/>First-Person Sovereignty"]
   end
   C_IN --> C_DISC
+  C_IN -.->|"Booked as Denominator"| C_RET
   A_ACT --> A_FRIC --> A_GROW
   A_GROW -.->|"Downstream Residue Claimed as Yield"| C_RET
-  C_DISC ==>|"External Reference Replaces Own Lever"| A_ACT
+  C_DISC -.->|"When Adopted, Displaces Own Lever"| A_ACT
   style S_FIN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
   style S_ACT fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
   style C_IN fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -78,7 +80,7 @@ flowchart TD
 
 When parents urge their young children to write thank-you letters to distant billionaires, a well-intentioned mechanism of externalization solidifies within the household. The parents' conscious intent is to teach gratitude and secure favorable attention within a hierarchical social web; yet the operational function of the ritual is to install an external reference as the cause of the child's future. The child is asked to put in writing that their trajectory is a bestowed favor and that their life possibilities hinge upon a distant benefactor's grant. As [Empowerment Establishes the Centralization of Power](../empowerment-establishes-the-centralization-of-power/) traces, the framing of empowerment presumes that capacity resides at a center and must be unlocked from outside; the thank-you letter rehearses that petition, training the recipient to assign causal credit outward to reinforce the donor's preserved self-image.
 
-这种仪式化的顺从将孩子的主体性摆上账本，以稳固施惠者的地位。资本可以购买工具、购买时间、提供安全网，却无法代行唯有活生生的心智才能执行的工作：持续的专注、审辨、支付不可逆能量代价的意愿，以及在未决后果面前站立的能力。训练孩子把一张种子支票当作自身前途的缔造者，会在他们直面开放世界之前很久，就把抉择的方向引向请愿：由此刻下的教训不是自身的行动能够改变可用之物，而是进阶取决于同外部把关者的对齐。[帮助是问题的一半](../help-is-half-the-problem/)追溯了这一双输入回路如何产生零净位移，在施助者对自身不可或缺的需求与受助者外化的责任之间维持平衡。
+这种仪式化的顺从将孩子的主体性摆上账本，以稳固施惠者的地位。资本可以购买工具、购买时间、提供安全网，却无法代行唯有活生生的心智才能执行的工作：持续的专注、审辨、支付不可逆能量代价的意愿，以及在未决后果面前站立的能力。训练孩子把一张种子支票当作自身前途的缔造者，早在他们直面开放世界之前，便会把抉择的方向引向请愿：由此刻下的教训不是自身的行动能够改变可用之物，而是进阶取决于同外部把关者的对齐。[帮助是问题的一半](../help-is-half-the-problem/)追溯了这一双输入回路如何产生零净位移，在施助者对自身不可或缺的需求与受助者外化的责任之间维持平衡。
 
 ```mermaid
 flowchart TD
@@ -164,6 +166,6 @@ This paradox exposes the irreducible locality of human growth. [Individual Choic
 
 Life cannot be engineered; were a life trajectory reducible to an engineering specification, the result would be a closed state machine devoid of meaning or direction. Meaning requires that the future remain unsettled—that outcomes are not pre-ordained, that individual effort can alter trajectories, and that failure remains an irreversible hazard. An engineered life reduces a living Mind into the administrative output of an architect's blueprint, leaving only managerial compliance. Grand philanthropic schemes commit this category error by substituting a pre-packaged outcome for the open, unfinished labor that only a living Mind can author through lived experience.
 
-每当父母受诱惑想要动用积累的财富为孩子扫清一切障碍、试图花钱买断成熟过程中的摩擦时，同一机制便在切近的家庭中运转。[投射中的自画像](../the-self-portrait-in-the-projection/)揭示了将他人的内在性压平为可控投射，反映出的只是观察者自身凝固的模型；[数字神祇与视界跳跃](../the-digital-god-and-the-horizon-jump/)则追溯了为何没有任何合成计算或外部资本能够代替活生生的心智，去完成跨越物理摩擦视界的不可逆跳跃。在家庭内部，[未历摩擦的心智与借来的全能](../the-unfrictioned-mind-and-borrowed-omnipotence/)追溯了那些试图通过创伤戒备与行政指令来工程化品格的照料者，如何在一端留下借来的全能感，而在另一端留下先发制人的负罪感。正如[隐性自由变量与权力的事后幻相](../the-free-variable-and-the-retrospective-illusion-of-power/)所确立的，价值从不是外部资本可以单向赋予的惰性存量，而是从感知未显的不对称、承担后果与摩擦下的迭代中涌现的递归回路；企图用一张预制支票买断下一代的探索与挣扎，恰恰在那个自由变量本该复利生长的边缘钝化了它的运用。监护在于放下将孩子当作工程项目的冲动，留在共同承受的反馈之中，并完整保留那道让他们直面摩擦、书写自身因果的边界。
+每当父母受诱惑想要动用积累的财富为孩子扫清一切障碍、试图花钱买断成熟过程中的摩擦时，同一机制便在切近的家庭中运转。[投射中的自画像](../the-self-portrait-in-the-projection/)揭示了将他人的内在性压平为可控投射，反映出的只是观察者自身凝固的模型；[数字神祇与视界跳跃](../the-digital-god-and-the-horizon-jump/)则追溯了为何没有任何合成计算或外部资本能够代替活生生的心智，去完成跨越物理摩擦视界的不可逆跳跃。在家庭内部，[未历摩擦的心智与借来的全能](../the-unfrictioned-mind-and-borrowed-omnipotence/)追溯了那些试图通过创伤戒备与行政指令来工程化品格的照料者，如何在一端留下借来的全能感，而在另一端留下先发制人的负罪感。正如[隐性自由变量与权力的事后幻相](../the-free-variable-and-the-retrospective-illusion-of-power/)所确立的，价值从不是外部资本可以单向赋予的惰性存量，而是从感知未显的不对称、承担后果与摩擦下的迭代中涌现的递归回路；企图用一张预制支票买断下一代的探索与挣扎，是在诱使受助者接纳这层缓冲来替代摩擦，从而恰恰在那个自由变量本该复利生长的边缘钝化了它的运用。监护在于放下将孩子当作工程项目的冲动，留在共同承受的反馈之中，并完整保留那道让他们直面摩擦、书写自身因果的边界。
 
-The same mechanism operates closer to home whenever a parent is tempted to deploy accumulated wealth to clear away every obstacle for a child, attempting to purchase immunity from the friction of maturation. [The Self-Portrait in the Projection](../the-self-portrait-in-the-projection/) shows how flattening another's interiority into a controllable projection reflects only the observer's own frozen model, and [The Digital God and the Horizon Jump](../the-digital-god-and-the-horizon-jump/) traces why no synthetic calculation or external capital can make the irreversible jump across the horizon of physical friction on behalf of a living Mind. In the household, [The Unfrictioned Mind and Borrowed Omnipotence](../the-unfrictioned-mind-and-borrowed-omnipotence/) traces how caregivers who attempt to engineer character through trauma vigilance and administrative decrees leave behind borrowed omnipotence on one side and preemptive guilt on the other. Value, as [The Invisible Free Variable and the Retrospective Illusion of Power](../the-free-variable-and-the-retrospective-illusion-of-power/) establishes, is never an inert stock that external capital can endow one-way, but a recursive loop emerging from perceiving unseen asymmetries, bearing consequences, and iterating under friction; trying to buy out the next generation's exploratory struggle with a prefabricated check dulls the exercise of that free variable at the very edge where it would compound. Guardianship consists in setting down the impulse to treat a child as an engineering project, remaining within shared feedback, and leaving intact the boundary within which they face friction and author their own causality.
+The same mechanism operates closer to home whenever a parent is tempted to deploy accumulated wealth to clear away every obstacle for a child, attempting to purchase immunity from the friction of maturation. [The Self-Portrait in the Projection](../the-self-portrait-in-the-projection/) shows how flattening another's interiority into a controllable projection reflects only the observer's own frozen model, and [The Digital God and the Horizon Jump](../the-digital-god-and-the-horizon-jump/) traces why no synthetic calculation or external capital can make the irreversible jump across the horizon of physical friction on behalf of a living Mind. In the household, [The Unfrictioned Mind and Borrowed Omnipotence](../the-unfrictioned-mind-and-borrowed-omnipotence/) traces how caregivers who attempt to engineer character through trauma vigilance and administrative decrees leave behind borrowed omnipotence on one side and preemptive guilt on the other. Value, as [The Invisible Free Variable and the Retrospective Illusion of Power](../the-free-variable-and-the-retrospective-illusion-of-power/) establishes, is never an inert stock that external capital can endow one-way, but a recursive loop emerging from perceiving unseen asymmetries, bearing consequences, and iterating under friction; trying to buy out the next generation's exploratory struggle with a prefabricated check invites the recipient to accept the buffer in place of friction, dulling the exercise of that free variable at the very edge where it would compound. Guardianship consists in setting down the impulse to treat a child as an engineering project, remaining within shared feedback, and leaving intact the boundary within which they face friction and author their own causality.
