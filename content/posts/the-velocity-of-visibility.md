@@ -64,7 +64,7 @@ The Mind is not an alien spectator dropped into a foreign physical arena. It is 
 
 If reality folds back on itself across scales, why does the Mind register as the fastest link within experience—why does no trackable physical entity or signal move faster than the observer's rendering horizon?
 
-其机制在于离散观测的采样视界。在信号处理中，奈奎斯特—香农采样定理标示出一条结构边界：离散采样系统无法重建频率高于其采样率一半的信号；任何更高频的信号，要么混叠为低频伪影，要么平均化为无法解析的背景基底。将这一边界推及测量本身，正如[黑白采样帧与外推宇宙](../the-black-and-white-sample-frame-and-the-extrapolated-universe/)所追溯的那样，便能看清为何**观察者自身的渲染节律界定了其可观测宇宙的运行速度上限。**
+其机制在于离散观测的采样视界。在信号处理中，奈奎斯特—香农采样定理标示出一条结构边界：离散采样系统无法重建频率高于其采样率一半的信号；任何更高频的信号，要么混叠为低频伪影，要么平均化为无法解析的背景基底——所登记的动态取决于有限采样节律，这正是[座位之内的无限进程](../infinity-within-the-seat/)所追溯的同一依存关系。将这一边界推及测量本身，正如[黑白采样帧与外推宇宙](../the-black-and-white-sample-frame-and-the-extrapolated-universe/)所追溯的那样，便能看清为何**观察者自身的渲染节律界定了其可观测宇宙的运行速度上限。**
 
 ```mermaid
 flowchart TD
@@ -89,7 +89,7 @@ flowchart TD
     style SlowerThanC fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
-The mechanism lies in the sampling horizon of discrete observation. In signal processing, the Nyquist-Shannon sampling theorem marks a structural boundary: a discrete sampling system cannot reconstruct a signal whose frequency exceeds half its sampling rate; any higher frequency either aliases into lower-frequency artifacts or averages out into an unresolvable background level. Carried over to measurement, as [The Black-and-White Sample Frame and the Extrapolated Universe](../the-black-and-white-sample-frame-and-the-extrapolated-universe/) traces, this boundary shows why **the observer's own rendering cadence defines the operational speed ceiling of its observable cosmos.**
+The mechanism lies in the sampling horizon of discrete observation. In signal processing, the Nyquist-Shannon sampling theorem marks a structural boundary: a discrete sampling system cannot reconstruct a signal whose frequency exceeds half its sampling rate; any higher frequency either aliases into lower-frequency artifacts or averages out into an unresolvable background level—the same dependence of registered dynamics on finite sampling cadence traced in [Infinity Within the Seat](../infinity-within-the-seat/). Carried over to measurement, as [The Black-and-White Sample Frame and the Extrapolated Universe](../the-black-and-white-sample-frame-and-the-extrapolated-universe/) traces, this boundary shows why **the observer's own rendering cadence defines the operational speed ceiling of its observable cosmos.**
 
 ```mermaid
 flowchart TD

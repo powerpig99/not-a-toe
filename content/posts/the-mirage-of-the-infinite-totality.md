@@ -82,9 +82,9 @@ More than two thousand years earlier, Aristotle set down the same principle in t
 
 ## 三、 因果与第一人称的地平线 / 3. Causality and the First-Person Horizon
 
-说因果是一张从无穷延伸到无穷的不断开的织物，容易唤起一个外部容器的图像：一条庞大且独立于心智的时空长廊，感知栖居其中。直接追溯生成的那一下，这个表面上的二元就消解了。无穷不作为外部的宇宙风景摆在感知之外；无穷说的是感知自身延展其移动地平线的无边潜能。因果的连续体，是把当下的区分连到后续后果的那条不变的接续规则；第一人称的地平线，是这场生成的接续实际发生的那个活的光圈。
+说因果是一张从无穷延伸到无穷的不断开的织物，容易唤起一个外部容器的图像：一条庞大且独立于心智的时空长廊，感知栖居其中。直接追溯生成的那一下，这个表面上的二元就消解了。无穷不作为外部的宇宙风景摆在感知之外；无穷说的是感知自身延展其移动地平线的无边潜能。因果的连续体，是把当下的区分连到后续后果的那条不变的接续规则；第一人称的地平线，是这场生成的接续实际发生的那个活的光圈——如[座位之内的无限进程](../infinity-within-the-seat/)所追溯的，它正是那个有界立足点，每一张描绘无界进程的地图都在其中画出。
 
-Describing causality as an unbroken fabric running from infinity to infinity easily calls up the image of an outside container: a vast corridor of space and time, independent of mind, within which perception lives. Tracing the generative act directly dissolves this apparent dualism. Infinity does not lie outside perception as an external cosmic landscape; infinity names the boundless potential of perception itself to widen its moving horizon. The causal continuum is the invariant rule of succession that links present distinctions to later consequences; the first-person horizon is the living aperture where this generative succession actually takes place.
+Describing causality as an unbroken fabric running from infinity to infinity easily calls up the image of an outside container: a vast corridor of space and time, independent of mind, within which perception lives. Tracing the generative act directly dissolves this apparent dualism. Infinity does not lie outside perception as an external cosmic landscape; infinity names the boundless potential of perception itself to widen its moving horizon. The causal continuum is the invariant rule of succession that links present distinctions to later consequences; the first-person horizon is the living aperture where this generative succession actually takes place—the bounded vantage inside which every map of an unbounded process is drawn, as [Infinity Within the Seat](../infinity-within-the-seat/) traces.
 
 这样立足，因果的织物与第一人称的立场就合到了一处。不必在有意识的经验之外再发明一个观察不到的形而上领域。无穷是活体中心持续划出区分、检验后果、穿越摩擦前行，却永远不会撞上一道最终封闭边界的能力。只有将无尽的生成步骤从视野中略去，完成的无穷才会呈现为一件给定的对象——正如在[翻袋球与魔术戏法](../the-bank-shot-and-the-magic-trick/)中，隐去中间环节会把一段序列变成一次无从解释的跳跃，只不过这里的步骤永不终止。
 

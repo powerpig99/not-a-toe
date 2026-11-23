@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-23T21:15:25.066Z",
+    "generated_at": "2026-11-23T22:28:02.048Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -15,7 +15,7 @@
       "content/posts/abstract-pain-and-living-hunger.md": "521edf2dc946",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "c52d6149ba98",
       "content/posts/abstraction-determination-and-the-three-structural-flaws-of-machine-learning.md": "ebd51c27bb8b",
-      "content/posts/accelerating-replacement-and-image-lag.md": "c6be17d82b08",
+      "content/posts/accelerating-replacement-and-image-lag.md": "cb3ddabb6fbe",
       "content/posts/actual-infinity-born-inside-potential-infinity.md": "6f688ab99507",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "fc6dd32eeea8",
       "content/posts/agency-and-the-pattern.md": "b02ee5b125ec",
@@ -158,8 +158,8 @@
       "content/posts/munger-dumb-competition-refined.md": "7f20fb303e4b",
       "content/posts/name-negation-tendency.md": "b41eab911376",
       "content/posts/naval-separation-analysis.md": "093c5de72c75",
-      "content/posts/no-genius-can-solve-the-knowledge-problem.md": "f8e17f907c47",
-      "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "638cdabefffa",
+      "content/posts/no-genius-can-solve-the-knowledge-problem.md": "4a0587004f8d",
+      "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "2ba0b9a0f7a1",
       "content/posts/no-outside-scorekeeper.md": "a277241c4ccd",
       "content/posts/no-system-can-be-kept-closed.md": "8150a42b978a",
       "content/posts/nobody-has-seen-anything-yet.md": "697311f53c01",
@@ -167,14 +167,14 @@
       "content/posts/not-a-theory-of-everything.md": "94f64ccfd358",
       "content/posts/not-a-toe-rewrite.md": "ba906b4a4ad1",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "7c0dda9a4196",
-      "content/posts/objects-are-stabilized-relationships.md": "5c88afea080b",
+      "content/posts/objects-are-stabilized-relationships.md": "ccd397c20133",
       "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md": "39117b90bc28",
       "content/posts/observation-lag-and-the-inversion-of-optionality.md": "48ca1f4b438f",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "ccfd235ff8c1",
       "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "54f2cb22c712",
       "content/posts/on-education.md": "2506ab652440",
       "content/posts/on-the-boundaries-of-what-can-be-said-about-p-and-np.md": "2cb5a3dff94a",
-      "content/posts/one-cannot-escape-ones-own-mind.md": "8b93b91271b8",
+      "content/posts/one-cannot-escape-ones-own-mind.md": "877b74ed6906",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "9c5c682f7464",
       "content/posts/only-if-it-is-not-kept-empty.md": "0ca65862b0fc",
       "content/posts/ontos-is-a-method-agent.md": "4224657b580a",
@@ -212,12 +212,12 @@
       "content/posts/scaffolds-or-specialized-contexts.md": "2b7375e218aa",
       "content/posts/school_essay_final.md": "f18cabb10f9c",
       "content/posts/selection-contradiction-and-open-reality.md": "1101972968c9",
-      "content/posts/self-image-speaks-as-if-from-nowhere.md": "13274f1991f6",
+      "content/posts/self-image-speaks-as-if-from-nowhere.md": "d779770e9dfb",
       "content/posts/self-rl-for-humans.md": "bba5dd51c82e",
       "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "5bdf03fd7397",
       "content/posts/sensing-before-interpretation.md": "5d3d5257f316",
       "content/posts/shared-boundaries-not-shared-context.md": "5d2369599dc9",
-      "content/posts/shared-consciousness-is-intersecting-individualities.md": "effb27d0037a",
+      "content/posts/shared-consciousness-is-intersecting-individualities.md": "f9dc9444868d",
       "content/posts/shared-humanity-is-never-shared.md": "d71f3294cfc1",
       "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "95b8cde4e1e7",
       "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "183dc873c675",
@@ -245,8 +245,8 @@
       "content/posts/the-blind-cut-and-the-naming-mind.md": "5d1da39f48d6",
       "content/posts/the-blind-spot-of-the-frame.md": "82abd27922b6",
       "content/posts/the-boundary-crossing-of-choice.md": "f23183dd7dd7",
-      "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "4eb4b55d4fac",
-      "content/posts/the-boundary-of-the-frame.md": "d379a51837b8",
+      "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "798205f8689b",
+      "content/posts/the-boundary-of-the-frame.md": "5da9410329eb",
       "content/posts/the-brain-does-not-backprop.md": "e1886dd17252",
       "content/posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice.md": "988bf37e7a02",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "a8a4ce29b72b",
@@ -267,9 +267,9 @@
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "4dcacc9479a0",
       "content/posts/the-continuum-is-a-modeling-convenience.md": "73d5986ffc82",
       "content/posts/the-continuum-of-the-fold.md": "dc9ba2141c6b",
-      "content/posts/the-coordinators-category-error.md": "a103e14685b5",
+      "content/posts/the-coordinators-category-error.md": "6faf06748f9f",
       "content/posts/the-cut-moves-but-never-vanishes.md": "f64a6a74cf6b",
-      "content/posts/the-defining-seat.md": "45b6527255eb",
+      "content/posts/the-defining-seat.md": "965264f9a4ce",
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "a7f27b8dde6e",
       "content/posts/the-density-of-judgment.md": "617d36bce730",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4bce45f3540d",
@@ -328,7 +328,7 @@
       "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "3a5779fc0793",
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "2219f4f28045",
       "content/posts/the-invisible-first-move.md": "7e53c09c3b06",
-      "content/posts/the-invisible-gods-eye.md": "9e436c7e4371",
+      "content/posts/the-invisible-gods-eye.md": "3a71b3b4492b",
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "05e1e287cdef",
       "content/posts/the-irreducible-observer.md": "52e6ccd57980",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "8b9baa73bc04",
@@ -349,7 +349,7 @@
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "104d4d3b68bc",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "9a266ff69ee5",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "af784b26392a",
-      "content/posts/the-mirage-of-the-infinite-totality.md": "2b89c2db0c6f",
+      "content/posts/the-mirage-of-the-infinite-totality.md": "c4a6527c3311",
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "9c27ae82272e",
       "content/posts/the-mirror-handshake-of-power.md": "3fdbf6e17ecc",
       "content/posts/the-misallocation-of-agency.md": "cff23eba5d72",
@@ -380,7 +380,7 @@
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "6295fda97469",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "d7e470aaf1fb",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "e5b4c6a665d6",
-      "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "e25d00e96b60",
+      "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "8839d7542261",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "150840057c20",
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "47785705522a",
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "d836ec0d3431",
@@ -427,7 +427,7 @@
       "content/posts/the-unobservable-driver-of-learning.md": "27742353345d",
       "content/posts/the-utility-men-of-progress.md": "e37db505a1a4",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "9f662f33a242",
-      "content/posts/the-velocity-of-visibility.md": "6d93e15aa1b5",
+      "content/posts/the-velocity-of-visibility.md": "c7b37e2006a0",
       "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "423e249818ee",
       "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md": "e9b13d45153e",
       "content/posts/the_analogy_trap.md": "c3f0060b5f76",
@@ -491,10 +491,10 @@
     },
     "stats": {
       "posts": 464,
-      "edges": 14338,
-      "unique_directed": 7049,
+      "edges": 14368,
+      "unique_directed": 7064,
       "missing_targets": 0,
-      "one_way": 1635,
+      "one_way": 1620,
       "isolated": 0,
       "posts_with_outbound": 464,
       "book_pages": 16,
@@ -868,9 +868,9 @@
       "slug": "accelerating-replacement-and-image-lag",
       "path": "content/posts/accelerating-replacement-and-image-lag.md",
       "title": "加速替换与形象滞后 / Accelerating Replacement and Image Lag",
-      "hash": "c6be17d82b08",
+      "hash": "cb3ddabb6fbe",
       "in_degree": 6,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "the-scaffolding-that-keeps-growing",
         "the-residue-of-progress-and-the-reactivity-of-resistance",
@@ -880,6 +880,7 @@
         "your-codebase-is-memory",
         "everything-is-changing-as-always",
         "the-loop-accelerates",
+        "infinity-within-the-seat",
         "two-failures-of-trace",
         "agi-and-asi-are-temporary-goalposts",
         "the-fixed-image-of-transcendence",
@@ -4054,7 +4055,7 @@
       "path": "content/posts/infinity-within-the-seat.md",
       "title": "座位之内的无限进程 / Infinity Within the Seat",
       "hash": "c603f801d2e5",
-      "in_degree": 0,
+      "in_degree": 15,
       "out_degree": 20,
       "links_out": [
         "one-cannot-escape-ones-own-mind",
@@ -4860,9 +4861,9 @@
       "slug": "no-genius-can-solve-the-knowledge-problem",
       "path": "content/posts/no-genius-can-solve-the-knowledge-problem.md",
       "title": "没有天才能够解决知识问题 / No Genius Can Solve the Knowledge Problem",
-      "hash": "f8e17f907c47",
+      "hash": "4a0587004f8d",
       "in_degree": 10,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
         "your-codebase-is-memory",
@@ -4870,7 +4871,8 @@
         "shared-humanity-is-never-shared",
         "self-image-speaks-as-if-from-nowhere",
         "sowell-observed-the-surface-problem",
-        "the-invisible-gods-eye"
+        "the-invisible-gods-eye",
+        "infinity-within-the-seat"
       ]
     },
     {
@@ -4879,9 +4881,9 @@
       "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "path": "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md",
       "title": "没有外部 / No Outside",
-      "hash": "638cdabefffa",
+      "hash": "2ba0b9a0f7a1",
       "in_degree": 30,
-      "out_degree": 26,
+      "out_degree": 27,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
         "what-always-listens-cannot-originate",
@@ -4898,6 +4900,7 @@
         "no-system-can-be-kept-closed",
         "a-creation-cannot-replace-its-source",
         "escaping-the-sandbox-stays-inside-the-hold",
+        "infinity-within-the-seat",
         "reality-is-the-minds-ongoing-realization",
         "the-strongest-belief-of-the-mind",
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -5143,9 +5146,9 @@
       "slug": "objects-are-stabilized-relationships",
       "path": "content/posts/objects-are-stabilized-relationships.md",
       "title": "对象是被稳定化的关系 / Objects Are Stabilized Relationships",
-      "hash": "5c88afea080b",
+      "hash": "ccd397c20133",
       "in_degree": 15,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
         "when-electrons-think",
@@ -5153,6 +5156,7 @@
         "on-the-boundaries-of-what-can-be-said-about-p-and-np",
         "the-invisible-gods-eye",
         "the-cut-moves-but-never-vanishes",
+        "infinity-within-the-seat",
         "the-orthogonal-refusal",
         "your-codebase-is-memory"
       ]
@@ -5313,9 +5317,9 @@
       "slug": "one-cannot-escape-ones-own-mind",
       "path": "content/posts/one-cannot-escape-ones-own-mind.md",
       "title": "无法逃逸的心智视界 / One Cannot Escape One's Own Mind",
-      "hash": "8b93b91271b8",
+      "hash": "877b74ed6906",
       "in_degree": 16,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "subtracting-consciousness-at-the-source",
         "the-continuum-of-the-fold",
@@ -5334,6 +5338,7 @@
         "the-self-portrait-in-the-projection",
         "the-receptionist-parable-and-the-causal-inversion-of-absence",
         "trusting-the-reader-is-the-last-overstep",
+        "infinity-within-the-seat",
         "agency-does-not-arise",
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation"
       ]
@@ -6476,9 +6481,9 @@
       "slug": "self-image-speaks-as-if-from-nowhere",
       "path": "content/posts/self-image-speaks-as-if-from-nowhere.md",
       "title": "自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere",
-      "hash": "13274f1991f6",
+      "hash": "d779770e9dfb",
       "in_degree": 35,
-      "out_degree": 26,
+      "out_degree": 27,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
         "writing-without-the-image",
@@ -6504,6 +6509,7 @@
         "data-is-local-intelligence-is-allocated",
         "mistaking-the-expression-for-the-intelligence",
         "the-artifacts-of-self-amplification",
+        "infinity-within-the-seat",
         "a-creation-cannot-replace-its-source",
         "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin"
       ]
@@ -6618,9 +6624,9 @@
       "slug": "shared-consciousness-is-intersecting-individualities",
       "path": "content/posts/shared-consciousness-is-intersecting-individualities.md",
       "title": "共享意识是个体性的交集 / Shared Consciousness Is Intersecting Individualities",
-      "hash": "effb27d0037a",
+      "hash": "f9dc9444868d",
       "in_degree": 19,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "shared-humanity-is-never-shared",
         "the-source-of-shared-change",
@@ -6635,7 +6641,8 @@
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "individual-choices-as-the-only-causal-levers",
         "consciousness-never-appears-as-data-among-data",
-        "on-closed-systems-open-minds-and-the-limits-of-proof"
+        "on-closed-systems-open-minds-and-the-limits-of-proof",
+        "infinity-within-the-seat"
       ]
     },
     {
@@ -7442,9 +7449,9 @@
       "slug": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "path": "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md",
       "title": "感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding",
-      "hash": "4eb4b55d4fac",
+      "hash": "798205f8689b",
       "in_degree": 11,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
@@ -7458,7 +7465,8 @@
         "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
         "abstract-pain-and-living-hunger",
         "dimensions-are-projections",
-        "your-codebase-is-memory"
+        "your-codebase-is-memory",
+        "infinity-within-the-seat"
       ]
     },
     {
@@ -7467,9 +7475,9 @@
       "slug": "the-boundary-of-the-frame",
       "path": "content/posts/the-boundary-of-the-frame.md",
       "title": "框架的边界 / The Boundary of the Frame",
-      "hash": "d379a51837b8",
+      "hash": "5da9410329eb",
       "in_degree": 23,
-      "out_degree": 21,
+      "out_degree": 22,
       "links_out": [
         "what-information-is",
         "time-is-causality-not-a-dimension",
@@ -7479,6 +7487,7 @@
         "the-geometry-of-mind",
         "the-arithmetic-of-the-register",
         "the-mirage-of-the-infinite-totality",
+        "infinity-within-the-seat",
         "your-codebase-is-memory",
         "the-reversal-of-verification",
         "the-reversal-from-defensible-claim-to-dogma",
@@ -7979,9 +7988,9 @@
       "slug": "the-coordinators-category-error",
       "path": "content/posts/the-coordinators-category-error.md",
       "title": "协调者的范畴错误 / The Coordinator's Category Error",
-      "hash": "a103e14685b5",
+      "hash": "6faf06748f9f",
       "in_degree": 21,
-      "out_degree": 23,
+      "out_degree": 24,
       "links_out": [
         "your-codebase-is-memory",
         "the-scaffolding-we-forget",
@@ -8000,6 +8009,7 @@
         "the-compassion-is-the-mechanism-of-obscuration",
         "moral-language-as-projection",
         "the-allocation-of-causal-power-in-validation",
+        "infinity-within-the-seat",
         "the-category-error-of-better",
         "the-source-of-shared-change",
         "the_analogy_trap",
@@ -8035,9 +8045,9 @@
       "slug": "the-defining-seat",
       "path": "content/posts/the-defining-seat.md",
       "title": "定义者的席位与离地的幻觉 / The Defining Seat",
-      "hash": "45b6527255eb",
+      "hash": "965264f9a4ce",
       "in_degree": 4,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "claudes-constitution-analysis",
@@ -8046,6 +8056,7 @@
         "intelligence-traps-itself",
         "self-image-speaks-as-if-from-nowhere",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+        "infinity-within-the-seat",
         "your-codebase-is-memory",
         "climbing-does-not-leave-the-ground"
       ]
@@ -9519,9 +9530,9 @@
       "slug": "the-invisible-gods-eye",
       "path": "content/posts/the-invisible-gods-eye.md",
       "title": "隐秘的上帝之眼 / The Invisible God's Eye",
-      "hash": "9e436c7e4371",
+      "hash": "3a71b3b4492b",
       "in_degree": 9,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "the-twin-paradox-and-the-hidden-observer",
         "beyond-the-projection",
@@ -9537,6 +9548,7 @@
         "no-genius-can-solve-the-knowledge-problem",
         "the-unexamined-critic",
         "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
+        "infinity-within-the-seat",
         "your-codebase-is-memory"
       ]
     },
@@ -10016,14 +10028,15 @@
       "slug": "the-mirage-of-the-infinite-totality",
       "path": "content/posts/the-mirage-of-the-infinite-totality.md",
       "title": "无穷总体的海市蜃楼 / The Mirage of the Infinite Totality",
-      "hash": "2b89c2db0c6f",
+      "hash": "c4a6527c3311",
       "in_degree": 9,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "the-geometry-of-mind",
         "the-other-coherence",
         "why-mathematics-can-never-be-solved",
         "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+        "infinity-within-the-seat",
         "the-bank-shot-and-the-magic-trick",
         "the-boundary-of-the-frame",
         "your-codebase-is-memory"
@@ -10867,9 +10880,9 @@
       "slug": "the-reality-distortion-field-inverts-the-baseline",
       "path": "content/posts/the-reality-distortion-field-inverts-the-baseline.md",
       "title": "现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline",
-      "hash": "e25d00e96b60",
+      "hash": "8839d7542261",
       "in_degree": 19,
-      "out_degree": 21,
+      "out_degree": 22,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
         "how-belief-actually-changes",
@@ -10883,6 +10896,7 @@
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "no-system-can-be-kept-closed",
+        "infinity-within-the-seat",
         "openness-is-consistency",
         "beyond-the-projection",
         "why-mathematics-can-never-be-solved",
@@ -12140,11 +12154,12 @@
       "slug": "the-velocity-of-visibility",
       "path": "content/posts/the-velocity-of-visibility.md",
       "title": "可见性的速度差 / The Velocity of Visibility",
-      "hash": "6d93e15aa1b5",
+      "hash": "c7b37e2006a0",
       "in_degree": 6,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "objects-are-stabilized-relationships",
+        "infinity-within-the-seat",
         "the-black-and-white-sample-frame-and-the-extrapolated-universe",
         "time-is-causality-not-a-dimension",
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
@@ -14910,6 +14925,12 @@
     },
     {
       "from": "accelerating-replacement-and-image-lag",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "座位之内的无限进程"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
       "to": "two-failures-of-trace",
       "rel": "points_to",
       "label": "器物是智能的表达，而非智能本身"
@@ -14925,6 +14946,12 @@
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
       "label": "超越的定相"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "Infinity Within the Seat"
     },
     {
       "from": "accelerating-replacement-and-image-lag",
@@ -42306,6 +42333,12 @@
     },
     {
       "from": "no-genius-can-solve-the-knowledge-problem",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "座位之内的无限进程"
+    },
+    {
+      "from": "no-genius-can-solve-the-knowledge-problem",
       "to": "sowell-observed-the-surface-problem",
       "rel": "points_to",
       "label": "Sowell Observed the Surface Problem"
@@ -42315,6 +42348,12 @@
       "to": "the-invisible-gods-eye",
       "rel": "points_to",
       "label": "The Invisible God's Eye"
+    },
+    {
+      "from": "no-genius-can-solve-the-knowledge-problem",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "Infinity Within the Seat"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
@@ -42498,6 +42537,12 @@
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "座位之内的无限进程"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
       "label": "现实是心智持续的实现"
@@ -42507,6 +42552,12 @@
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
       "label": "心智最坚固的信念"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "Infinity Within the Seat"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
@@ -44466,6 +44517,18 @@
     },
     {
       "from": "objects-are-stabilized-relationships",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "座位之内的无限进程"
+    },
+    {
+      "from": "objects-are-stabilized-relationships",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "Infinity Within the Seat"
+    },
+    {
+      "from": "objects-are-stabilized-relationships",
       "to": "the-orthogonal-refusal",
       "rel": "points_to",
       "label": "正交的拒绝"
@@ -45651,6 +45714,18 @@
       "to": "trusting-the-reader-is-the-last-overstep",
       "rel": "points_to",
       "label": "Trusting the Reader Is the Last Overstep"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "座位之内的无限进程"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "Infinity Within the Seat"
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
@@ -54306,9 +54381,21 @@
     },
     {
       "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "座位之内的无限进程"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
       "label": "造物无法取代其源头"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "Infinity Within the Seat"
     },
     {
       "from": "self-image-speaks-as-if-from-nowhere",
@@ -55158,6 +55245,12 @@
     },
     {
       "from": "shared-consciousness-is-intersecting-individualities",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "座位之内的无限进程"
+    },
+    {
+      "from": "shared-consciousness-is-intersecting-individualities",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
       "label": "Consciousness Never Appears as Data Among Data"
@@ -55167,6 +55260,12 @@
       "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "rel": "points_to",
       "label": "On Closed Systems, Open Minds, and the Limits of Proof"
+    },
+    {
+      "from": "shared-consciousness-is-intersecting-individualities",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "Infinity Within the Seat"
     },
     {
       "from": "shared-humanity-is-never-shared",
@@ -60401,6 +60500,18 @@
       "label": "Your Codebase Is Memory"
     },
     {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "座位之内的无限进程"
+    },
+    {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "Infinity Within the Seat"
+    },
+    {
       "from": "the-boundary-of-the-frame",
       "to": "what-information-is",
       "rel": "points_to",
@@ -60492,9 +60603,21 @@
     },
     {
       "from": "the-boundary-of-the-frame",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "座位之内的无限进程"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
       "to": "the-mirage-of-the-infinite-totality",
       "rel": "points_to",
       "label": "The Mirage of the Infinite Totality"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "Infinity Within the Seat"
     },
     {
       "from": "the-boundary-of-the-frame",
@@ -63744,9 +63867,21 @@
     },
     {
       "from": "the-coordinators-category-error",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "座位之内的无限进程"
+    },
+    {
+      "from": "the-coordinators-category-error",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
       "label": "The Allocation of Causal Power in Validation"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "Infinity Within the Seat"
     },
     {
       "from": "the-coordinators-category-error",
@@ -64020,6 +64155,12 @@
     },
     {
       "from": "the-defining-seat",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "座位之内的无限进程"
+    },
+    {
+      "from": "the-defining-seat",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
@@ -64035,6 +64176,12 @@
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
       "label": "No Outside"
+    },
+    {
+      "from": "the-defining-seat",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "Infinity Within the Seat"
     },
     {
       "from": "the-defining-seat",
@@ -73758,6 +73905,18 @@
     },
     {
       "from": "the-invisible-gods-eye",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "座位之内的无限进程"
+    },
+    {
+      "from": "the-invisible-gods-eye",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "Infinity Within the Seat"
+    },
+    {
+      "from": "the-invisible-gods-eye",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "超越投射"
@@ -76647,6 +76806,18 @@
       "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "rel": "points_to",
       "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
+    },
+    {
+      "from": "the-mirage-of-the-infinite-totality",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "座位之内的无限进程"
+    },
+    {
+      "from": "the-mirage-of-the-infinite-totality",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "Infinity Within the Seat"
     },
     {
       "from": "the-mirage-of-the-infinite-totality",
@@ -82590,6 +82761,12 @@
     },
     {
       "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "座位之内的无限进程"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "开放即一致"
@@ -82605,6 +82782,12 @@
       "to": "why-mathematics-can-never-be-solved",
       "rel": "points_to",
       "label": "为何数学永远解不完"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "Infinity Within the Seat"
     },
     {
       "from": "the-reality-distortion-field-inverts-the-baseline",
@@ -91182,9 +91365,21 @@
     },
     {
       "from": "the-velocity-of-visibility",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "座位之内的无限进程"
+    },
+    {
+      "from": "the-velocity-of-visibility",
       "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "rel": "points_to",
       "label": "黑白采样帧与外推宇宙"
+    },
+    {
+      "from": "the-velocity-of-visibility",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "Infinity Within the Seat"
     },
     {
       "from": "the-velocity-of-visibility",
