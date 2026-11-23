@@ -8,7 +8,7 @@ A scholar asks a model to review his new book in the role of a leading academic,
 
 ## 一、 镜中的回声 / 1. The Echo in the Mirror
 
-一位专门研究“妄想与社会根源”的学者，把自己刚出版的新书交给最新一代的人工智能模型，并在提示里写明：“你是一位世界顶尖学者，请写出一篇深刻的书评，适合发表在顶级学术期刊上。”模型算出这个语境下概率最高的词元序列，给出一篇措辞考究的学术书评。学者把书评公之于众，并说：“如果这是一位人类写出来的，我不仅会为他的细致阅读所震撼，更会被他的智慧、深度与洞见所折服；任何人如果继续怀疑模型具备真正的智能与洞见，那简直是在自欺欺人。”
+一位专门研究“妄想与社会根源”的学者，把自己刚出版的新书交给最新一代的模型，并在提示里写明：“你是一位世界顶尖学者。请为这本近著写出一篇深刻的书评……适合发表在顶级学术期刊上。”模型算出这个语境下概率最高的词元序列，给出一篇措辞考究的学术书评。学者把书评公之于众，并说：“如果这篇书评是一位人类写出来的，我不仅会为他的细致阅读所震撼，更会被他的智慧、专业学识乃至洞见所折服……如果有人认为前沿 AI 模型缺乏真正的智能、理解力或洞见，那简直是在自欺欺人。”
 
 A scholar who specializes in "delusion and its social roots" gives his newly published book to a model of the latest generation and writes in the prompt: "You are a world-leading academic. Please write an insightful review of this recent book... suitable for publication in a top academic journal." The model computes the most probable sequence of tokens in that context and returns a carefully worded academic review. The scholar makes the review public and says: "If a human had written the review, I would be impressed not just by their detailed reading but also by their intelligence, expertise, and even insight... People are simply kidding themselves if they think frontier AI models lack genuine intelligence, understanding, or insight."
 
@@ -124,7 +124,7 @@ One can walk in wind, rain and mud and bear the cost of every collision, and one
 
 ## 三、 共享维度上的精度 / 3. Precision on the Shared Dimension
 
-这一代的模型为何引出如此大面积的自愿致盲？答案在仪器的性质里。大型语言模型是至今造出的最精确的测量与拟合的仪器。要问的是：它高精度拟合与追踪的，是哪一个维度？
+这一代的模型为何引出如此大面积的自愿致盲？答案在仪器的性质里。大型语言模型是至今造出的最精确的测量与拟合仪器。要问的是：它高精度拟合与追踪的，是哪一个维度？
 
 Why does this generation of models draw out voluntary blinding on such a scale? The answer lies in the nature of the instrument. Large language models are the most precise instruments of measurement and fitting made so far. What has to be asked is: which dimension is it that they fit and track with such precision?
 
@@ -190,23 +190,27 @@ A map that is rough, blurred and full of blanks is taken by no one for the land.
 
 After the gaze has settled on the high-definition slice of the shared dimension, a second shift of category follows: operations within a larger, more refined zero-sum game are taken for exploring the world. The shared dimension made of language and symbols is mostly filled with the contest within society over attention, reputation, rank and the right to interpret: whose concept persuades better, which paper gets past peer review, which rhetoric takes the high ground of public morality, which faction holds legitimate interpretation. The total quantity of symbols can inflate, while the distribution of seats, reputation and attention is a fixed stock inside a given sandbox.
 
-模型的专长，正在于在这个沙盒里充当计算与博弈的利器。它能写出周密的基金申报书，能备好针对对手的反驳，能调出大量文献筑起防线，能以得体的措辞送上肯定。它让这场博弈更大、更体面、更高效。看着模型在棋盘上飞快地挪子，便说“在开创通用人工智能”“在触碰终极的真理”，是把沙盒里一台扫得很干净的吸尘器，当成了一艘飞出太阳系的飞船。
+模型的专长，正在于在这个沙盒里充当计算与博弈的利器。它能写出周密的基金申报书，能备好针对对手的反驳，能调出大量文献筑起防线，能以得体的措辞送上肯定。它让这场博弈更大、更体面、更高效。看着模型在棋盘上飞快地挪子，便说“我们在开创通用人工智能”或“我们在触碰终极的真理”，是把沙盒里一台扫得很干净的吸尘器，当成了一艘飞出太阳系的飞船。
 
 ```mermaid
 flowchart TD
-    subgraph S_Sandbox["沙盒之内与沙盒之外"]
+    subgraph S_Inside["沙盒之内"]
         direction TB
         Game["存量的博弈：位次、声望与解释权"]
         Engine["模型使这场博弈更大、更体面、更高效"]
         Mistake["沙盒里的精细运算被当成对世界的探索"]
-        Step["沙盒之外：面对阻力，作出不可收回的决断 +1"]
-        New["开出未被符号占满的疆域"]
         Game --> Engine
         Engine --> Mistake
-        Mistake --> Step
+    end
+    subgraph S_Outside["沙盒之外"]
+        direction TB
+        Step["面对阻力，作出不可收回的决断 +1"]
+        New["开出未被符号占满的疆域"]
         Step --> New
     end
-    style S_Sandbox fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    Mistake -.->|"踏出沙盒时消解"| Step
+    style S_Inside fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Outside fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Game fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Engine fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Mistake fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -218,19 +222,23 @@ A model's specialty lies precisely in serving as a sharp tool of calculation and
 
 ```mermaid
 flowchart TD
-    subgraph S_Sandbox["Inside the Sandbox and Outside It"]
+    subgraph S_Inside["Inside the Sandbox"]
         direction TB
         Game["A contest over a fixed stock: rank, reputation and the right to interpret"]
         Engine["A model makes the game larger, more presentable, more efficient"]
         Mistake["Fine calculation inside the sandbox taken for exploring the world"]
-        Step["Outside the sandbox: facing resistance and making a decision that cannot be taken back +1"]
-        New["Opening ground not yet filled with symbols"]
         Game --> Engine
         Engine --> Mistake
-        Mistake --> Step
+    end
+    subgraph S_Outside["Outside the Sandbox"]
+        direction TB
+        Step["Facing resistance and making a decision that cannot be taken back +1"]
+        New["Opening ground not yet filled with symbols"]
         Step --> New
     end
-    style S_Sandbox fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    Mistake -.->|"Dissolved when stepping outside"| Step
+    style S_Inside fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Outside fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Game fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Engine fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Mistake fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -244,7 +252,7 @@ Outside the sandbox, regularities do not change for a handsome argument, a virus
 
 ## 五、 仪器的位置与全部的责任 / 5. The Place of an Instrument and Full Responsibility
 
-这并不减损前沿模型的价值。不再把仪器当作神明时，仪器的用处才看得完整。望远镜不看星星，天文学家离不开望远镜。显微镜不理解细胞，生物学靠它揭开微观的生命。大型语言模型是文明的符号沉淀物的高阶干涉仪，以前所未有的效率，把散在亿万卷册里的概念关联、推理范式与经验碎片汇到指尖。
+这并不减损前沿模型的价值。不再把仪器当作神明时，仪器的用处才看得完整。望远镜不看星星，天文学家离不开望远镜。显微镜不理解细胞，生物学靠它揭开微观的生命。大型语言模型是文明符号沉淀的高阶干涉仪，以前所未有的效率，把散在亿万卷册里的概念关联、推理范式与经验碎片汇到指尖。
 
 None of this takes from the value of frontier models. Only when an instrument is no longer taken for a deity is its use seen whole. A telescope does not look at stars, and astronomers cannot do without the telescope. A microscope does not understand cells, and biology relies on it to uncover microscopic life. A large language model is a high-order interferometer of a civilization's symbolic sediment, bringing to the fingertips, with an efficiency not seen before, the conceptual links, patterns of inference and fragments of experience scattered across volumes without number.
 

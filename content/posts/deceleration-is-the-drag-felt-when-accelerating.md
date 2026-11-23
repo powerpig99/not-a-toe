@@ -1,6 +1,6 @@
 # 减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating
 
-*减速并非对抗进步的独立力量，而是速度生出的阻力，唯当作敌人去搏斗时才固化 / Deceleration is not a force opposing progress but drag made by velocity, stabilized only when fought as an enemy.*
+*减速并非对抗进步的独立力量，而是速度生出的阻力，被当作敌人去搏斗时便固化 / Deceleration is not a force opposing progress but drag made by velocity, stabilized when fought as an enemy.*
 
 把文明与技术的进步框定为加速与减速两种意识形态的对决，是一个范畴错误。减速不是站在战场对面、自行生成的独立力量；它是加速本身穿过既有介质时产生的反作用阻力。这份阻力一旦被实体化为一个本体上的敌人，加速的物体就会撑大迎风截面去与介质搏斗，把一时的摩擦固化成长期的对立制度。有纪律的回应把阻力认作诊断信息：既印证速度已经达到，也提示何处仍需将船体打磨得更加流线。
 
@@ -30,7 +30,7 @@ The deeper distortion begins when drag is treated as the primary problem to conq
 
 Personifying deceleration as a coherent adversarial ideology, with permanent enemies, malicious coalitions and moral deficits to be defeated in battle, holds the friction in place. What could have stayed a passing aerodynamic shear layer is granted formal institutional borders, political identities and entrenched battlements. Calls to slow down arrive mostly in moral language, which [Moral Language as Projection](../moral-language-as-projection/) reads as projection from a closed reality.
 
-“对抗减速”的姿态本身就扩大了运动物体的迎风面积。本该投入引擎效率与外形塑造的能量，被转去打诊断式的论战，向周围的空气发动文化战争。载具慢下来，不是因为介质无法穿越，而是因为它长出了巨大的附肢去与风角力。[阻力体感与速率差](../felt-resistance-and-the-speed-differential/)把这次因果倒置说得更清楚：所感到的阻力，与推进的能力同滞后的适应之间的速率差成正比。将生成性的资源抽调去同四周的怀疑论战，抹平了未采用者主动跟进的内在激励，反而固化了那些姿态性交锋所哀叹的滞后。[限制是选择性的税](../restriction-is-a-selective-tax/)追溯了同一个动态：监管与限制的屏障不是无法穿越的石墙，而是选择性的摩擦，惩罚宽大的迎风面，放过专注、流线的流动。
+“对抗减速”的姿态本身就扩大了运动物体的迎风面积。本该投入引擎效率与外形塑造的能量，被转去打诊断式的论战，向周围的空气发动文化战争。载具慢下来，不是因为介质无法穿越，而是因为它长出了巨大的附肢去与风角力。[阻力体感与速率差](../felt-resistance-and-the-speed-differential/)把这次因果倒置说得更精确：所感到的阻力，正是推进能力与滞后适应之间速率差的成比例体感。将生成性的资源抽调去同四周的怀疑论战，抹平了未采用者主动跟进的私人激励，反而固化了那些姿态性交锋所哀叹的滞后。[限制是选择性的税](../restriction-is-a-selective-tax/)追溯了同一个动态：监管与限制的屏障不是无法穿越的石墙，而是选择性的摩擦，惩罚宽大的迎风面，放过专注、流线的流动。
 
 ```mermaid
 flowchart TD
@@ -120,9 +120,9 @@ Stabilizing deceleration into a permanent enemy short-circuits this evolutionary
 
 Progress does not eliminate resistance; it generates resistance in proportion to its own speed.
 
-阻力的出现，是真实的变化正在发生的最清楚的信号。一项没有遇到摩擦、没有引起警报、没有制度阻力的事业，相对于周围的介质，速度为零；[进步的残余与抵抗的反应性](../the-residue-of-progress-and-the-reactivity-of-resistance/)所追溯的，正是阻力对进步的同一份反应性依赖。
+当一项事业与相耦合的介质发生剪切时，阻力标示的是运动快过了既定基线，而非一股独立的对抗之力。仅与这些基线同步移动，不会激起来自它们的反推；其余条件相同时，一条轨迹在相耦合的地面上拉开距离越快，激起的反应性阻力就越尖锐——这正是[进步的残余与抵抗的反应性](../the-residue-of-progress-and-the-reactivity-of-resistance/)所追溯的、对持续前进的同一份依赖——尽管早期安静的复利或流线型的船体，也能够在公共警报或制度阻力聚拢之前先行一步。
 
-The presence of drag is the clearest signal that real change is under way. An endeavor that meets no friction, no alarm and no institutional drag is moving at zero velocity relative to its surrounding medium, the same reactive dependence on progress that [The Residue of Progress and the Reactivity of Resistance](../the-residue-of-progress-and-the-reactivity-of-resistance/) traces.
+Where an endeavor shears against a coupled medium, drag signals motion outpacing settled baselines rather than an independent counter-force. Moving only in step with those baselines generates no pushback against them; all else equal, the faster a trajectory departs across coupled ground, the sharper the reactive resistance it stirs—the same dependence on continuing advance that [The Residue of Progress and the Reactivity of Resistance](../the-residue-of-progress-and-the-reactivity-of-resistance/) traces—even though early quiet compounding or streamlined hulls can move ahead before public alarm or institutional drag gathers.
 
 策略上要做的，既不是否认阻力，也不是把它实体化为一场神圣的战争，而是把阻力当作未经过滤的反馈：一次传感器读数，测出当前的速度，并显出载具在哪里仍然钝、仍有湍流、仍与现实耦合不良。[失败即信息](../failure-as-information/)讲的正是这份纪律：摩擦与碰撞不是道德判决，而是下一次迭代的精确数据。[技术变革的局部陷阱](../the-local-trap-of-technological-change/)把这份诊断用在技术革命上：存量底盘的迟缓，是互补资本的流体摩擦，不是停滞的证据。
 

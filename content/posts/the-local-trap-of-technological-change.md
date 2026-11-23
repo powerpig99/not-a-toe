@@ -2,7 +2,7 @@
 
 *前沿以净增量复利，扩散在互补资本间滞后，局部的观察者便困在炒作与恐慌里 / Frontier compounding adds value; diffusion lags across complementary capital, trapping local observers in hype and panic.*
 
-技术革命从不以流行叙事所预言的那种平滑、均质的转变到来。它们一再造成一种结构上的分岔：一边是加速的前沿，以净增量的方式生成新的经济价值；一边是庞大而惯性的旧运营底盘，缓慢地适应，要跨越几代人的时间才逐步退出。观察者一再落进局部的陷阱：要么把前沿的快速外推成瞬间全面替代的预测，要么把旧底盘的迟缓错当成什么都没变的证据。两种错误，都把一个局部的切片误认作技术传播的完整几何。
+技术革命从不以流行叙事所预言的那种平滑、均质的转变到来。它们一再造成一种结构上的分岔：一边是加速的前沿，以净增量的方式生成新的经济价值；一边是惯性庞大的旧运营底盘，缓慢地适应，要跨越几代人的时间才逐步退出。观察者一再落进局部的陷阱：要么把前沿的速度外推成瞬间全面替代的预测，要么把旧底盘的迟缓错当成什么都没变的证据。两种错误，都把一个局部的切片误认作技术传播的完整几何。
 
 Technological revolutions do not arrive as the smooth, homogeneous transformations popular narratives predict. Again and again they produce a structural bifurcation: an accelerating frontier that generates new economic value as net addition, and a vast inertial base of legacy operations that adapts slowly and is phased out only across generations. Observers keep falling into the local trap: extrapolating the frontier's speed into forecasts of instant total replacement, or taking the slowness of the legacy base as proof that nothing has changed. Both errors take a local slice for the whole geometry of technological propagation.
 
@@ -26,7 +26,7 @@ Meanwhile the broader economy runs with deep physical, organizational and cognit
 
 This double tempo is the signature general-purpose technologies have shown again and again through industrial history.
 
-十九世纪八十年代电动发电机出现时，工厂并没有立刻现代化。大部分制造业在四十年里仍锚定在蒸汽动力上，因为用上电需要把工厂的布局从多层的竖向传动轴，彻头彻尾地重新设计成单层的水平装配线。二十世纪五十年代数字计算机出现后，过了几十年，总量的生产率统计才登记到它的影响，也就是著名的索洛悖论，因为业务流程必须围绕数字数据库重建。蒸汽动力、内燃机与电信，走的是同一条曲线。
+十九世纪八十年代电动发电机出现时，工厂并没有立刻现代化。大部分制造业在四十年里仍锚定在蒸汽动力上，因为用上电需要把工厂布局从多层竖向传动轴重构为单层水平装配线。二十世纪五十年代数字计算机出现后，过了几十年，总量生产率统计才登记到它的影响，也就是著名的索洛悖论，因为业务流程必须围绕数字数据库重建。蒸汽动力、内燃机与电信，走的是同一条曲线。
 
 When electric dynamos were introduced in the 1880s, factories did not modernize at once. Most manufacturing stayed anchored to steam power for four decades, because using electricity meant re-architecting factory layouts from vertical multi-storey shafts to horizontal single-storey assembly lines. When digital computers emerged in the 1950s, decades passed before aggregate productivity statistics registered their effect, the well-known Solow paradox, because business processes had to be rebuilt around digital databases. Steam power, the internal combustion engine and telecommunications followed the same curve.
 
@@ -40,7 +40,7 @@ In each historical instance the frontier pulled ahead fast, while the legacy bas
 
 What obscures this predictable bifurcation is a recurring cognitive slip: the local sample trap.
 
-人类观察者自然地从自己身边的局部环境去概括，于是出现两种相互对照的错觉。在前沿的错觉中，沉浸在工具快速突破里的技术人员或早期采用者，每天都体验到指数式的速度，并把这份局部的步调投射到整个文明上，预言立刻发生的、全经济范围的剧变与突然的全面替代。在旧底盘的错觉中，在受严格监管或变化缓慢的行业里工作的员工或管理者，看到自己的日常运营没有变化，便断定新技术是被炒作的空头产品，低估了前沿上安静的复利积累。
+人类观察者自然地从自己身边的局部环境去概括，于是出现两种相互对照的错觉。在前沿的错觉中，沉浸在工具快速突破里的技术人员或早期采用者，每天都体验到指数式的速度，并把这份局部的步调投射到整个文明上，预言立刻席卷整个经济的剧变与突然的全面替代。在旧底盘的错觉中，身处严格监管或缓慢变化行业的员工或管理者，看到自己的日常运营没有变化，便断定新技术是被过度炒作的空气产品，低估了前沿上安静的复利积累。
 
 ```mermaid
 flowchart TD
@@ -61,7 +61,7 @@ flowchart TD
     end
     F1 ==> F2
     B1 ==> B2
-    F2 -.->|"从前沿概括"| T1
+    F1 -.->|"从前沿概括"| T1
     B1 -.->|"从旧底盘概括"| T2
     style S_Front fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Base fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
@@ -95,7 +95,7 @@ flowchart TD
     end
     F1 ==> F2
     B1 ==> B2
-    F2 -.->|"Generalized from the frontier"| T1
+    F1 -.->|"Generalized from the frontier"| T1
     B1 -.->|"Generalized from the legacy base"| T2
     style S_Front fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Base fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
@@ -108,7 +108,7 @@ flowchart TD
     style T2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-媒体报道在令人屏息的能力演示与企业推广停滞的故事之间来回切换，加剧了这种两极分化。因为工具的能力曲线很陡，人们心里的时间尺度被压缩了；历史上需要三十年的滞后，被不切实际地期待在三年里了结。由此而来的讨论在膨胀的炒作与末日的恐惧之间剧烈摇摆。[免费智能的幻觉](../the-illusion-of-free-intelligence/)描述了这种感知上的不对称：轻易拿到完成了的技术残余，造出一种无摩擦、普遍转变的错觉，而前沿整合的艰苦劳作仍然看不见。
+媒体报道在令人屏息的能力演示与企业推广停滞的故事之间来回切换，加剧了这种两极分化。因为工具的能力曲线很陡，人们心里的时间尺度被压缩了；历史上需要三十年的滞后，被不切实际地期待在三年里了结。由此而来的讨论在膨胀的炒作与末日的恐惧之间剧烈摇摆。[免费智能的幻觉](../the-illusion-of-free-intelligence/)描述了这种感知上的不对称：轻易接触到完成形态的技术残余，造出一种无摩擦、普遍转变的错觉，而前沿整合的艰苦劳作仍然看不见。
 
 Media coverage deepens this polarization by alternating between breathtaking capability demos and stories of stalled enterprise rollouts. Because the tool's capability curve is steep, mental timeframes compress; lags that historically took thirty years are unrealistically expected to resolve in three. The resulting discourse swings wildly between inflated hype and apocalyptic dread. [The Illusion of Free Intelligence](../the-illusion-of-free-intelligence/) describes this perceptual asymmetry: easy access to finished technological residue creates the illusion of frictionless universal transformation, while the hard labour of frontier integration stays invisible.
 
@@ -118,10 +118,10 @@ Media coverage deepens this polarization by alternating between breathtaking cap
 
 Seeing this clearly calls for neither panic at total disruption nor reactionary complacency.
 
-技术力量的传播，作为一种持续的结构性分裂在三个相连的维度上运作。首先，前沿的价值是增量：前沿创造新的领域，扩大社会总容量的速度，远快于它减去现有岗位的速度。其次，扩散受制于互补资本：重新训练人的习惯、重新设计组织、更新法律框架，以生物与社会的速度推进，而不是以算力的速度。最后，减速是诊断性的阻力：快速变化的技术所遇到的制度犹豫与迟缓，不是恶意的破坏，而是高惯性介质自然的流体阻力。[减速是加速时感受到的阻力](../deceleration-is-the-drag-felt-when-accelerating/)描绘了这份物理：阻力随速度的平方增长，它是诊断性的传感数据，指出哪里仍需要互补的脚手架。
+技术力量的传播，作为一种持续的结构性分裂在三个相连的维度上运作。首先，前沿的价值是增量：前沿创造新的领域，扩大社会总容量的速度，远快于它减去现有岗位的速度。其次，扩散受制于互补资本：重新训练人的习惯、重新设计组织、更新法律框架，以生物与社会的速度推进，而不是以算力的速度。最后，减速是诊断性的阻力：快速变化的技术所遇到的制度犹豫与迟缓，不是恶意的破坏，而是高惯性介质自然的流体阻力。[减速是加速时感受到的阻力](../deceleration-is-the-drag-felt-when-accelerating/)刻画了这一物理关系：阻力随速度的平方增长，它是诊断性的传感数据，指出哪里仍需要互补的脚手架。
 
 The propagation of technological power works as a persistent structural split across three linked dimensions. First, frontier value is additive: the frontier creates new domains, expanding total social capacity far faster than it subtracts existing jobs. Second, diffusion is bound to complementary capital: retraining human habits, redesigning organizations and updating legal frameworks move at biological and social speeds, not at the speed of compute. Third, deceleration is diagnostic drag: the institutional hesitation and slowness that fast-moving technologies meet are not malicious sabotage but the natural hydrodynamic resistance of a high-inertia medium. [Deceleration Is the Drag Felt When Accelerating](../deceleration-is-the-drag-felt-when-accelerating/) maps this physics: drag grows with the square of speed, serving as diagnostic sensor data for where complementary scaffolding is still needed.
 
-认出局部的陷阱，视角就恢复了。前沿会继续它陡峭的上升，在边缘生成大量新的财富与能力，而旧底盘通过耐心的、跨越几十年的过渡去适应。[一个可能的全自动交通未来的非定论预测](../non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future/)说明了这种非线性的扩张：用旧汽车的销量单位去量自动驾驶车队，会错过新被激活的出行需求那一个数量级的扩张。避开局部陷阱的心智，既不害怕瞬间的过时，也不否认前沿；它只是把注意力放在复利真正发生的活的边缘上。
+认出局部的陷阱，视角就恢复了。前沿会继续它陡峭的上升，在边缘生成大量新的财富与能力，而旧底盘通过耐心的、跨越几十年的过渡去适应。[一个可能的全自动交通未来的非定论预测](../non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future/)说明了这种非线性的扩张：用旧汽车的销量单位去量自动驾驶车队，会错过新激活的出行需求那一个数量级的扩张。避开局部陷阱的心智，既不害怕瞬间的过时，也不否认前沿；它只是把注意力放在复利正在发生的鲜活边缘上。
 
 Recognizing the local trap restores perspective. The frontier will go on with its steep climb, generating great new wealth and capability at the edge, while the legacy base adapts through a patient transition over decades. [Non-Definitive Forecast of a Possible Fully Autonomous Transportation Future](../non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future/) shows this non-linear expansion: measuring autonomous fleets in units of legacy car sales misses the order-of-magnitude expansion of newly activated travel demand. The Mind that avoids the local trap neither fears instant obsolescence nor denies the frontier; it simply puts its attention on the living edge where compounding takes place.
