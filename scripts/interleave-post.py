@@ -16,6 +16,10 @@ Interleaves locked `work/<slug>/zh.md` and `work/<slug>/en.md` into
   - Book surfaces (`_book:<name>`) preserve `## 篇目 / Essays` rosters and
     `index-of-premises.md` (`##` domain sections + `###` entries with paired
     category labels and `→` link lines) with lossless round-trip parity.
+  - Two-pass H1 sync: assembles all requested nodes first, then syncs H1
+    changes across `content/book/*.md` and `content/posts/*.md` while queuing
+    staggered in-flight rewrites in `work/<other>/.h1-sync.json` (applied on
+    output assembly) without ever mutating Maker-signed `work/*/{en,zh}.md`.
 
 Usage:
   python3 scripts/interleave-post.py <slug> [<slug2> ...]
@@ -26,9 +30,14 @@ Usage:
 
 from __future__ import annotations
 
+import contextlib
+import hashlib
+import io
+import json
 import pathlib
 import re
 import sys
+import tempfile
 
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -545,7 +554,76 @@ def check_slug(slug: str) -> None:
     interleave_blocks(slug, zh_blocks, en_blocks, strict=True)
 
 
-def sync_h1_change(slug: str, old_h1: str, new_h1: str) -> None:
+H1_SYNC_FILENAME = ".h1-sync.json"
+
+
+def load_h1_sync_rules(work_dir: pathlib.Path) -> list[dict[str, str]]:
+    sync_path = work_dir / H1_SYNC_FILENAME
+    if not sync_path.is_file():
+        return []
+    data = json.loads(sync_path.read_text(encoding="utf-8"))
+    if isinstance(data, list):
+        return [r for r in data if isinstance(r, dict) and "old" in r and "new" in r]
+    return []
+
+
+def apply_h1_sync_rules(text: str, work_dir: pathlib.Path) -> str:
+    for rule in load_h1_sync_rules(work_dir):
+        old_s = rule["old"]
+        new_s = rule["new"]
+        if old_s and old_s != new_s and old_s in text:
+            text = text.replace(old_s, new_s)
+    return text
+
+
+def queue_h1_sync_rules(work_dir: pathlib.Path, replacements: list[tuple[str, str]]) -> bool:
+    if not replacements:
+        return False
+    work_texts = [
+        p.read_text(encoding="utf-8")
+        for p in (work_dir / "en.md", work_dir / "zh.md")
+        if p.is_file()
+    ]
+    if not work_texts:
+        return False
+    combined_work = "\n".join(work_texts)
+    rules = load_h1_sync_rules(work_dir)
+    changed = False
+    for old_s, new_s in replacements:
+        if not old_s or old_s == new_s:
+            continue
+        for rule in rules:
+            if rule["new"] == old_s:
+                rule["new"] = new_s
+                changed = True
+        if old_s in combined_work:
+            existing = next((r for r in rules if r["old"] == old_s), None)
+            if existing is not None:
+                if existing["new"] != new_s:
+                    existing["new"] = new_s
+                    changed = True
+            else:
+                rules.append({"old": old_s, "new": new_s})
+                changed = True
+    if changed:
+        rules = [r for r in rules if r["old"] != r["new"]]
+        sync_path = work_dir / H1_SYNC_FILENAME
+        if rules:
+            sync_path.write_text(
+                json.dumps(rules, ensure_ascii=False, indent=2) + "\n",
+                encoding="utf-8",
+            )
+        elif sync_path.is_file():
+            sync_path.unlink()
+    return changed
+
+
+def sync_h1_change(
+    slug: str,
+    old_h1: str,
+    new_h1: str,
+    skip_work_nodes: set[str] | None = None,
+) -> None:
     if old_h1 == new_h1 or not (old_h1.startswith("# ") and new_h1.startswith("# ")):
         return
     old_inner, new_inner = old_h1[2:].strip(), new_h1[2:].strip()
@@ -553,64 +631,91 @@ def sync_h1_change(slug: str, old_h1: str, new_h1: str) -> None:
         return
     old_zh, old_en = [p.strip() for p in old_inner.split(" / ", 1)]
     new_zh, new_en = [p.strip() for p in new_inner.split(" / ", 1)]
+    skip = skip_work_nodes or set()
     updated_files = 0
+    deferred_work = 0
 
     book_dir = ROOT / "content" / "book"
-    work_root = ROOT / "work"
-    book_targets: list[pathlib.Path] = sorted(book_dir.glob("*.md")) if book_dir.is_dir() else []
-    if work_root.is_dir():
-        book_targets.extend(sorted(work_root.glob("_book:*/en.md")) + sorted(work_root.glob("_book:*/zh.md")))
     old_book_link = f"[{old_inner}](../../posts/{slug}/)"
     new_book_link = f"[{new_inner}](../../posts/{slug}/)"
     old_book_zh_link = f"[{old_zh}](../../posts/{slug}/)"
     new_book_zh_link = f"[{new_zh}](../../posts/{slug}/)"
     old_book_en_link = f"[{old_en}](../../posts/{slug}/)"
     new_book_en_link = f"[{new_en}](../../posts/{slug}/)"
-    for bf in book_targets:
-        txt = bf.read_text(encoding="utf-8")
-        new_txt = txt.replace(old_book_link, new_book_link)
-        if old_zh != new_zh and old_book_zh_link in new_txt:
-            new_txt = new_txt.replace(old_book_zh_link, new_book_zh_link)
-        if old_en != new_en and old_book_en_link in new_txt:
-            new_txt = new_txt.replace(old_book_en_link, new_book_en_link)
-        if new_txt != txt:
-            bf.write_text(new_txt, encoding="utf-8")
-            updated_files += 1
+    if book_dir.is_dir():
+        for bf in sorted(book_dir.glob("*.md")):
+            txt = bf.read_text(encoding="utf-8")
+            new_txt = txt.replace(old_book_link, new_book_link)
+            if old_zh != new_zh and old_book_zh_link in new_txt:
+                new_txt = new_txt.replace(old_book_zh_link, new_book_zh_link)
+            if old_en != new_en and old_book_en_link in new_txt:
+                new_txt = new_txt.replace(old_book_en_link, new_book_en_link)
+            if new_txt != txt:
+                bf.write_text(new_txt, encoding="utf-8")
+                updated_files += 1
 
-    post_targets: list[pathlib.Path] = sorted((ROOT / "content" / "posts").glob("*.md"))
-    if work_root.is_dir():
-        for wf in sorted(work_root.glob("*/en.md")) + sorted(work_root.glob("*/zh.md")):
-            if not wf.parent.name.startswith("_book:"):
-                post_targets.append(wf)
-
+    posts_dir = ROOT / "content" / "posts"
     old_zh_link = f"[{old_zh}](../{slug}/)"
     new_zh_link = f"[{new_zh}](../{slug}/)"
     old_en_link = f"[{old_en}](../{slug}/)"
     new_en_link = f"[{new_en}](../{slug}/)"
-    for pf in post_targets:
-        if pf.name == "README.md" or pf == ROOT / "content" / "posts" / f"{slug}.md":
-            continue
-        txt = pf.read_text(encoding="utf-8")
-        new_txt = txt
-        if old_zh != new_zh and old_zh_link in new_txt:
-            new_txt = new_txt.replace(old_zh_link, new_zh_link)
-        if old_en != new_en and old_en_link in new_txt:
-            new_txt = new_txt.replace(old_en_link, new_en_link)
-        if new_txt != txt:
-            pf.write_text(new_txt, encoding="utf-8")
-            updated_files += 1
+    if posts_dir.is_dir():
+        for pf in sorted(posts_dir.glob("*.md")):
+            if pf.name == "README.md" or pf == posts_dir / f"{slug}.md":
+                continue
+            txt = pf.read_text(encoding="utf-8")
+            new_txt = txt
+            if old_zh != new_zh and old_zh_link in new_txt:
+                new_txt = new_txt.replace(old_zh_link, new_zh_link)
+            if old_en != new_en and old_en_link in new_txt:
+                new_txt = new_txt.replace(old_en_link, new_en_link)
+            if new_txt != txt:
+                pf.write_text(new_txt, encoding="utf-8")
+                updated_files += 1
 
+    work_root = ROOT / "work"
+    if work_root.is_dir():
+        book_repls: list[tuple[str, str]] = [(old_book_link, new_book_link)]
+        if old_zh != new_zh:
+            book_repls.append((old_book_zh_link, new_book_zh_link))
+        if old_en != new_en:
+            book_repls.append((old_book_en_link, new_book_en_link))
+        post_repls: list[tuple[str, str]] = []
+        if old_zh != new_zh:
+            post_repls.append((old_zh_link, new_zh_link))
+        if old_en != new_en:
+            post_repls.append((old_en_link, new_en_link))
+
+        for wd in sorted(work_root.iterdir()):
+            if not wd.is_dir() or wd.is_symlink():
+                continue
+            name = wd.name
+            if name == slug or name in skip:
+                continue
+            if name.startswith("_book:"):
+                if queue_h1_sync_rules(wd, book_repls):
+                    deferred_work += 1
+            elif not name.startswith("_") and post_repls:
+                if queue_h1_sync_rules(wd, post_repls):
+                    deferred_work += 1
+
+    extra = f", {deferred_work} deferred work dir(s)" if deferred_work else ""
     print(
-        f"Synced H1 change for {slug}: '{old_inner}' -> '{new_inner}' ({updated_files} file(s) updated)"
+        f"Synced H1 change for {slug}: '{old_inner}' -> '{new_inner}' ({updated_files} file(s) updated{extra})"
     )
 
 
-def interleave_slug(slug: str) -> pathlib.Path:
+def interleave_slug(
+    slug: str,
+    *,
+    sync: bool = True,
+    skip_work_nodes: set[str] | None = None,
+) -> tuple[pathlib.Path, tuple[str, str, str] | None]:
     if is_book_node(slug):
         node, book_path = resolve_book_node(slug)
-        assembled = check_book_node(node)
+        assembled = apply_h1_sync_rules(check_book_node(node), ROOT / "work" / node)
         book_path.write_text(assembled, encoding="utf-8")
-        return book_path
+        return book_path, None
 
     work_dir = ROOT / "work" / slug
     zh_path = work_dir / "zh.md"
@@ -631,10 +736,15 @@ def interleave_slug(slug: str) -> pathlib.Path:
     zh_blocks = split_blocks(zh_path.read_text(encoding="utf-8"))
     en_blocks = split_blocks(en_path.read_text(encoding="utf-8"))
     out = interleave_blocks(slug, zh_blocks, en_blocks)
-    out_path.write_text("\n\n".join(out) + "\n", encoding="utf-8")
-    if old_h1 and out and out[0].startswith("# "):
-        sync_h1_change(slug, old_h1, out[0])
-    return out_path
+    assembled = apply_h1_sync_rules("\n\n".join(out) + "\n", work_dir)
+    out_path.write_text(assembled, encoding="utf-8")
+
+    h1_change: tuple[str, str, str] | None = None
+    if old_h1 and out and out[0].startswith("# ") and old_h1 != out[0]:
+        h1_change = (slug, old_h1, out[0])
+        if sync:
+            sync_h1_change(slug, old_h1, out[0], skip_work_nodes=skip_work_nodes)
+    return out_path, h1_change
 
 
 def split_book_node(slug: str) -> tuple[pathlib.Path, pathlib.Path]:
@@ -665,6 +775,9 @@ def split_book_node(slug: str) -> tuple[pathlib.Path, pathlib.Path]:
         raise ValueError(f"[{node}] Round-trip interleave mismatch after split")
 
     work_dir.mkdir(parents=True, exist_ok=True)
+    sync_file = work_dir / H1_SYNC_FILENAME
+    if sync_file.is_file():
+        sync_file.unlink()
     zh_path.write_text(zh_txt, encoding="utf-8")
     en_path.write_text(en_txt, encoding="utf-8")
     return zh_path, en_path
@@ -741,9 +854,134 @@ def split_slug(slug: str) -> tuple[pathlib.Path, pathlib.Path]:
         raise ValueError(f"[{slug}] Round-trip interleave mismatch after split")
 
     work_dir.mkdir(parents=True, exist_ok=True)
+    sync_file = work_dir / H1_SYNC_FILENAME
+    if sync_file.is_file():
+        sync_file.unlink()
     zh_path.write_text("\n\n".join(zh_blocks) + "\n", encoding="utf-8")
     en_path.write_text("\n\n".join(en_blocks) + "\n", encoding="utf-8")
     return zh_path, en_path
+
+
+def _sha256_bytes(path: pathlib.Path) -> str:
+    return hashlib.sha256(path.read_bytes()).hexdigest()
+
+
+def _self_test_h1_sync() -> None:
+    global ROOT
+    orig_root = ROOT
+    with tempfile.TemporaryDirectory() as tmp:
+        ROOT = pathlib.Path(tmp)
+        try:
+            posts = ROOT / "content" / "posts"
+            book = ROOT / "content" / "book"
+            work = ROOT / "work"
+            posts.mkdir(parents=True)
+            book.mkdir(parents=True)
+            (work / "a").mkdir(parents=True)
+            (work / "b").mkdir(parents=True)
+            (work / "c").mkdir(parents=True)
+            (work / "_book:part").mkdir(parents=True)
+
+            (posts / "a.md").write_text(
+                "# 旧标题A / Old A\n\n*副题 / Sub*\n\n中文引文。\n\nEnglish lead.\n",
+                encoding="utf-8",
+            )
+            (posts / "b.md").write_text(
+                "# 标题B / Title B\n\n*副题B / Sub B*\n\n参见[旧标题A](../a/)。\n\nSee [Old A](../a/).\n",
+                encoding="utf-8",
+            )
+            (posts / "c.md").write_text(
+                "# 标题C / Title C\n\n*副题C / Sub C*\n\n参见[旧标题A](../a/)。\n\nSee [Old A](../a/).\n",
+                encoding="utf-8",
+            )
+            (book / "part.md").write_text(
+                "# 部标题 / Part Title\n\n*部副题 / Part Sub*\n\n部导语。\n\nPart lead.\n\n## 篇目 / Essays\n\n- [旧标题A / Old A](../../posts/a/)\n",
+                encoding="utf-8",
+            )
+
+            # Same-batch co-DELTA in reverse order (b before a), plus staggered in-flight c and _book:part
+            (work / "a" / "zh.md").write_text("# 新标题A1\n\n*副题*\n\n中文引文。\n", encoding="utf-8")
+            (work / "a" / "en.md").write_text("# New A1\n\n*Sub*\n\nEnglish lead.\n", encoding="utf-8")
+            (work / "b" / "zh.md").write_text("# 标题B\n\n*副题B*\n\n参见[旧标题A](../a/)。\n", encoding="utf-8")
+            (work / "b" / "en.md").write_text("# Title B\n\n*Sub B*\n\nSee [Old A](../a/).\n", encoding="utf-8")
+            (work / "c" / "zh.md").write_text("# 标题C\n\n*副题C*\n\n参见[旧标题A](../a/)。\n", encoding="utf-8")
+            (work / "c" / "en.md").write_text("# Title C\n\n*Sub C*\n\nSee [Old A](../a/).\n", encoding="utf-8")
+            (work / "_book:part" / "zh.md").write_text(
+                "# 部标题\n\n*部副题*\n\n部导语。\n\n## 篇目\n\n- [旧标题A / Old A](../../posts/a/)\n",
+                encoding="utf-8",
+            )
+            (work / "_book:part" / "en.md").write_text(
+                "# Part Title\n\n*Part Sub*\n\nPart lead.\n\n## Essays\n\n- [旧标题A / Old A](../../posts/a/)\n",
+                encoding="utf-8",
+            )
+
+            pre_hashes = {
+                p: _sha256_bytes(p)
+                for p in (
+                    work / "a" / "zh.md",
+                    work / "a" / "en.md",
+                    work / "b" / "zh.md",
+                    work / "b" / "en.md",
+                    work / "c" / "zh.md",
+                    work / "c" / "en.md",
+                    work / "_book:part" / "zh.md",
+                    work / "_book:part" / "en.md",
+                )
+            }
+
+            with contextlib.redirect_stdout(io.StringIO()):
+                rc = main(["interleave-post.py", "b", "a"])
+            if rc != 0:
+                raise ValueError(f"Same-batch interleave returned rc={rc}")
+            for p, h in pre_hashes.items():
+                if _sha256_bytes(p) != h:
+                    raise ValueError(f"Maker-signed work file mutated by interleave-post: {p}")
+            b_txt = (posts / "b.md").read_text(encoding="utf-8")
+            if "[新标题A1](../a/)" not in b_txt or "[New A1](../a/)" not in b_txt:
+                raise ValueError(f"Same-batch post b.md missed H1 sync:\n{b_txt}")
+            if (work / "b" / H1_SYNC_FILENAME).exists():
+                raise ValueError("Same-batch node b should not receive deferred .h1-sync.json")
+
+            # Second H1 rename while c and _book:part remain staggered in-flight
+            (work / "a" / "zh.md").write_text("# 新标题A2\n\n*副题*\n\n中文引文。\n", encoding="utf-8")
+            (work / "a" / "en.md").write_text("# New A2\n\n*Sub*\n\nEnglish lead.\n", encoding="utf-8")
+            with contextlib.redirect_stdout(io.StringIO()):
+                rc = main(["interleave-post.py", "a"])
+            if rc != 0:
+                raise ValueError(f"Chained H1 rename returned rc={rc}")
+            for p in (
+                work / "b" / "zh.md",
+                work / "b" / "en.md",
+                work / "c" / "zh.md",
+                work / "c" / "en.md",
+                work / "_book:part" / "zh.md",
+                work / "_book:part" / "en.md",
+            ):
+                if _sha256_bytes(p) != pre_hashes[p]:
+                    raise ValueError(f"Maker-signed work file mutated on chained rename: {p}")
+
+            # Now staggered c and _book:part run Stage 3 assembly and must emit A2 without mutating work/*
+            with contextlib.redirect_stdout(io.StringIO()):
+                rc = main(["interleave-post.py", "c", "_book:part"])
+            if rc != 0:
+                raise ValueError(f"Deferred assembly returned rc={rc}")
+            for p in (
+                work / "c" / "zh.md",
+                work / "c" / "en.md",
+                work / "_book:part" / "zh.md",
+                work / "_book:part" / "en.md",
+            ):
+                if _sha256_bytes(p) != pre_hashes[p]:
+                    raise ValueError(f"Maker-signed work file mutated during own assembly: {p}")
+            c_txt = (posts / "c.md").read_text(encoding="utf-8")
+            part_txt = (book / "part.md").read_text(encoding="utf-8")
+            if "[新标题A2](../a/)" not in c_txt or "[New A2](../a/)" not in c_txt:
+                raise ValueError(f"Deferred post c.md regressed H1 anchor:\n{c_txt}")
+            if "[新标题A2 / New A2](../../posts/a/)" not in part_txt:
+                raise ValueError(f"Deferred book part.md regressed H1 anchor:\n{part_txt}")
+        finally:
+            ROOT = orig_root
+    print("SELF_TEST OK: two-pass + deferred H1 sync preserves Maker sha256")
 
 
 def self_test() -> None:
@@ -761,6 +999,7 @@ def self_test() -> None:
         if not exact and split_blocks(rebuilt) != split_blocks(raw):
             raise ValueError(f"Self-test mismatch on {node}")
         print(f"SELF_TEST OK: {node} (byte_exact={exact})")
+    _self_test_h1_sync()
 
 
 def main(argv: list[str]) -> int:
@@ -797,11 +1036,12 @@ def main(argv: list[str]) -> int:
         return 2
 
     try:
-        for slug in slugs:
-            if check_mode:
+        if check_mode:
+            for slug in slugs:
                 check_slug(slug)
                 print(f"Parity OK: {slug}")
-            elif split_mode:
+        elif split_mode:
+            for slug in slugs:
                 zh_path, en_path = split_slug(slug)
                 src_rel = (
                     f"content/book/{slug[6:]}.md"
@@ -812,10 +1052,22 @@ def main(argv: list[str]) -> int:
                     f"Split {src_rel} -> "
                     f"{zh_path.relative_to(ROOT)}, {en_path.relative_to(ROOT)}"
                 )
-            else:
-                out_path = interleave_slug(slug)
+        else:
+            assembled_nodes = {
+                f"_book:{s[6:]}" if is_book_node(s) else s
+                for s in slugs
+            }
+            h1_changes: list[tuple[str, str, str]] = []
+            for slug in slugs:
+                out_path, h1_change = interleave_slug(
+                    slug, sync=False, skip_work_nodes=assembled_nodes
+                )
+                if h1_change is not None:
+                    h1_changes.append(h1_change)
                 work_label = f"_book:{slug[6:]}" if is_book_node(slug) else slug
                 print(f"Interleaved work/{work_label}/{{zh,en}}.md -> {out_path.relative_to(ROOT)}")
+            for c_slug, old_h1, new_h1 in h1_changes:
+                sync_h1_change(c_slug, old_h1, new_h1, skip_work_nodes=assembled_nodes)
     except (ValueError, FileNotFoundError, FileExistsError) as exc:
         print(f"Error: {exc}", file=sys.stderr)
         return 1
