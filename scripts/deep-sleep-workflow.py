@@ -16,6 +16,7 @@ import asyncio
 from datetime import datetime
 import hashlib
 import json
+import os
 from pathlib import Path
 import re
 import shutil
@@ -30,6 +31,17 @@ TRACKED_STAGE3_PATHS = [
     "assets/",
     "docs/posts.graph.json",
 ]
+IGNORED_REPO_PREFIXES = (
+    ".git",
+    "work",
+    "memory",
+    "public",
+    "studio",
+    "drafts",
+    ".claude",
+    ".grok",
+    "__pycache__",
+)
 
 DRAFTER_SCHEMA = {
     "type": "object",
@@ -104,11 +116,16 @@ def summarize_gate_error(err: str, limit: int = 280) -> str:
     return summary
 
 
-async def run_cmd(cmd: list[str], *, check: bool = False) -> subprocess.CompletedProcess[str]:
+async def run_cmd(
+    cmd: list[str],
+    *,
+    cwd: Path | None = None,
+    check: bool = False,
+) -> subprocess.CompletedProcess[str]:
     proc = await asyncio.to_thread(
         subprocess.run,
         cmd,
-        cwd=str(ROOT),
+        cwd=str(cwd or ROOT),
         stdin=subprocess.DEVNULL,
         capture_output=True,
         text=True,
@@ -118,6 +135,88 @@ async def run_cmd(cmd: list[str], *, check: bool = False) -> subprocess.Complete
         detail = tail_output(proc) or f"exit code {proc.returncode}"
         raise RuntimeError(f"Command failed ({' '.join(cmd)}): {detail}")
     return proc
+
+
+def normalize_repo_commit_paths(
+    raw_paths: list[str] | None,
+    *,
+    root: Path = ROOT,
+) -> tuple[list[str], list[str]]:
+    """Filter candidate paths to unique repo-relative non-ignored file paths inside `root`."""
+    root_norm = Path(os.path.normpath(str(root.expanduser())))
+    if not root_norm.is_absolute():
+        root_norm = Path(os.path.normpath(str(Path.cwd() / root_norm)))
+    root_resolved = root.resolve()
+    candidates: list[str] = []
+    skipped: list[str] = []
+    seen: set[str] = set()
+
+    for raw in raw_paths or []:
+        raw_str = str(raw).strip()
+        if not raw_str:
+            continue
+        expanded = Path(raw_str).expanduser()
+        cand_lex = expanded if expanded.is_absolute() else (root_norm / expanded)
+        cand_norm = Path(os.path.normpath(str(cand_lex)))
+        if cand_norm.is_relative_to(root_norm):
+            rel = cand_norm.relative_to(root_norm).as_posix()
+        elif cand_norm.is_relative_to(root_resolved):
+            rel = cand_norm.relative_to(root_resolved).as_posix()
+        else:
+            skipped.append(raw_str)
+            continue
+        if not cand_norm.resolve().is_relative_to(root_resolved):
+            skipped.append(raw_str)
+            continue
+        if rel in ("", ".") or any(
+            rel == pref or rel.startswith(f"{pref}/") for pref in IGNORED_REPO_PREFIXES
+        ):
+            skipped.append(raw_str)
+            continue
+        if cand_norm.is_dir():
+            skipped.append(raw_str)
+            continue
+        if rel not in seen:
+            seen.add(rel)
+            candidates.append(rel)
+
+    return candidates, skipped
+
+
+def parse_porcelain_z_paths(stdout: str) -> list[str]:
+    tokens = stdout.split("\0")
+    paths: list[str] = []
+    i = 0
+    while i < len(tokens):
+        entry = tokens[i]
+        i += 1
+        if not entry or len(entry) < 4:
+            continue
+        xy = entry[:2]
+        paths.append(entry[3:])
+        if xy[0] in ("R", "C"):
+            i += 1
+    return paths
+
+
+async def filter_dirty_repo_commit_paths(
+    raw_paths: list[str] | None,
+    *,
+    root: Path = ROOT,
+) -> tuple[list[str], list[str]]:
+    """Return (dirty_repo_relative_paths, skipped_paths) safe to pass to `git add`."""
+    candidates, skipped = normalize_repo_commit_paths(raw_paths, root=root)
+    if not candidates:
+        return [], skipped
+
+    status_proc = await run_cmd(
+        ["git", "status", "--porcelain", "-z", "-uall", "--", *candidates],
+        cwd=root,
+        check=True,
+    )
+    dirty_set = set(parse_porcelain_z_paths(status_proc.stdout))
+    dirty_paths = [rel for rel in candidates if rel in dirty_set]
+    return dirty_paths, skipped
 
 
 def check_charter_hashes(
@@ -213,7 +312,7 @@ def build_drafter_prompt(
         else f"run `python3 scripts/audit-post.py work/{slug}/en.md`"
     )
     interfaces_step = (
-        "record your causal trace and `VERDICT: DELTA (terminal) | RESTATERS: none` in `work/<slug>/notes.md` (skip `--interfaces` for `_book:` surfaces)"
+        f"record your causal trace and `VERDICT: DELTA (terminal) | RESTATERS: none` in `work/{slug}/notes.md` (skip `--interfaces` for `_book:` surfaces)"
         if is_book
         else f"inspect `node scripts/project-posts-graph.mjs --interfaces {slug}`, document moved wording & restaters in `work/{slug}/notes.md`"
     )
@@ -227,7 +326,7 @@ def build_drafter_prompt(
         repair_block = (
             "\n**REOPENED STAGE 1 (Translator logged T-item(s) in `work/{slug}/notes.md`):**\n"
             f"Read `work/{slug}/notes.md`, resolve every logged T-item cleanly in `work/{slug}/en.md`, "
-            f"re-verify `{audit_cmd}` and `python3 scripts/check-signoffs.py --stage1 {slug}`, and update `DRAFTER: confirmed` with the new 64-hex `sha256`.\n"
+            f"re-verify ({audit_cmd}) and `python3 scripts/check-signoffs.py --stage1 {slug}`, and update `DRAFTER: confirmed` with the new 64-hex `sha256`.\n"
         ).format(slug=slug, audit_cmd=audit_cmd)
 
     return (
@@ -373,10 +472,10 @@ async def run_node_pipeline(
             workspace="inherit",
             model=agent_model,
         )
-        if dres["status"] == "HOLD" or dres["verdict"] == "HOLD":
-            return {"slug": slug, "state": "HOLD", "note": dres.get("note", ""), "repair_notes": repair_notes}
         if dres["status"] == "FAIL":
             return {"slug": slug, "state": "FAIL", "error": dres.get("note") or "Drafter returned FAIL", "repair_notes": repair_notes}
+        if dres["status"] == "HOLD" or dres["verdict"] == "HOLD":
+            return {"slug": slug, "state": "HOLD", "note": dres.get("note", ""), "repair_notes": repair_notes}
 
         ok1, verdict1, sha1, err1 = await verify_stage1(slug, is_book, dres["sha256"])
         if not ok1:
@@ -390,6 +489,8 @@ async def run_node_pipeline(
                 workspace="inherit",
                 model=agent_model,
             )
+            if dres["status"] == "FAIL":
+                return {"slug": slug, "state": "FAIL", "error": dres.get("note") or "Drafter repair returned FAIL", "repair_notes": repair_notes}
             if dres["status"] == "HOLD" or dres["verdict"] == "HOLD":
                 return {"slug": slug, "state": "HOLD", "note": dres.get("note", ""), "repair_notes": repair_notes}
             ok1, verdict1, sha1, err1 = await verify_stage1(slug, is_book, dres["sha256"])
@@ -433,6 +534,8 @@ async def run_node_pipeline(
                     workspace="inherit",
                     model=agent_model,
                 )
+                if dres["status"] == "FAIL":
+                    return {"slug": slug, "state": "FAIL", "error": dres.get("note") or "Reopened Drafter returned FAIL", "repair_notes": repair_notes}
                 if dres["status"] == "HOLD" or dres["verdict"] == "HOLD":
                     return {"slug": slug, "state": "HOLD", "note": dres.get("note", ""), "repair_notes": repair_notes}
                 ok1, verdict1, en_sha_new, err1 = await verify_stage1(slug, is_book, dres["sha256"])
@@ -657,7 +760,7 @@ async def run_batch_stage3(
             prompt=(
                 f"Batch {batch_num} `/recap` in `{ROOT}` per `docs/charters/recap.md` and `docs/wave-refinement-plan.md` §4.5.\n"
                 f"- Confirmed problem(s): {'; '.join(problems)}\n"
-                f"- Inspect `{log_path}` and affected `work/<slug>/` directories strictly on a need-to-know basis against `/Users/jingliang/.gemini/config/plugins/ontological-clarity/skills/ontological-clarity/SKILL.md`.\n"
+                f"- Inspect `{log_path}` (if present) and affected `work/<slug>/` directories strictly on a need-to-know basis against `/Users/jingliang/.gemini/config/plugins/ontological-clarity/skills/ontological-clarity/SKILL.md`.\n"
                 f"- Write the concise report, sha256 table of any modified files, open_issues count, and `RECAP: confirmed (log: {recap_log}, files: <N>, date: {datetime.now().strftime('%Y-%m-%d')})` to `{recap_log}`.\n"
                 "- Do NOT run `git commit` or `git push` (the workflow commits verified tracked files).\n"
                 "**Mandatory completion rule:** Call `finish` matching the schema (`status`: `\"PASS\"` or `\"OPEN_ISSUES\"`, `open_issues`, `log`, `modified_files`, `summary`). Do NOT call `send_message`."
@@ -669,16 +772,15 @@ async def run_batch_stage3(
             model=agent_model,
         )
         open_issues = int(recap_res["open_issues"])
-        mod_files = [
-            f for f in recap_res.get("modified_files", [])
-            if not f.startswith("work/") and not f.startswith("memory/")
-        ]
-        if open_issues == 0 and mod_files:
-            dirty_recap = await run_cmd(["git", "status", "--porcelain", "--", *mod_files], check=True)
-            if dirty_recap.stdout.strip():
-                await run_cmd(["git", "add", "--", *mod_files], check=True)
-                await run_cmd(["git", "commit", "-m", f"Apply Deep Sleep Batch {batch_num} recap"], check=True)
-                await run_cmd(["git", "push", "origin", "main"], check=True)
+        dirty_recap_files, skipped_recap_files = await filter_dirty_repo_commit_paths(
+            recap_res.get("modified_files")
+        )
+        if skipped_recap_files:
+            log(f"Batch {batch_num} recap: skipped non-repo/excluded path(s): {', '.join(skipped_recap_files)}")
+        if open_issues == 0 and dirty_recap_files:
+            await run_cmd(["git", "add", "--", *dirty_recap_files], check=True)
+            await run_cmd(["git", "commit", "-m", f"Apply Deep Sleep Batch {batch_num} recap"], check=True)
+            await run_cmd(["git", "push", "origin", "main"], check=True)
 
     if open_issues == 0:
         for slug in completed_slugs:
@@ -733,7 +835,11 @@ async def main() -> dict:
             stop_reason = "DONE"
             break
 
-        w = int(concurrency_override) if concurrency_override else max(1, batch["concurrency"])
+        w = (
+            max(1, int(concurrency_override))
+            if concurrency_override is not None and str(concurrency_override).strip() != ""
+            else max(1, batch["concurrency"])
+        )
         phase(f"Batch {batch_num} ({batch['count']} nodes, W={w}, rem_after={batch['remaining_after']})")
         sem = asyncio.Semaphore(w)
         node_results = await parallel(
