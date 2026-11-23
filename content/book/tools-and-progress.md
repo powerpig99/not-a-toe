@@ -60,3 +60,4 @@ The essays in this part trace the codebase as externalized memory, the asymmetry
 - [旁观评论者的倒置 / The Reversal of the Bystander Commentators](../../posts/the-reversal-of-the-bystander-commentators/)
 - [共享的边界，而非共享的语境 / Shared Boundaries, Not Shared Context](../../posts/shared-boundaries-not-shared-context/)
 - [进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance](../../posts/the-residue-of-progress-and-the-reactivity-of-resistance/)
+- [加速替换与形象滞后 / Accelerating Replacement and Image Lag](../../posts/accelerating-replacement-and-image-lag/)

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-23T12:04:42.904Z",
+    "generated_at": "2026-11-23T13:08:13.934Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -15,6 +15,7 @@
       "content/posts/abstract-pain-and-living-hunger.md": "521edf2dc946",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "c52d6149ba98",
       "content/posts/abstraction-determination-and-the-three-structural-flaws-of-machine-learning.md": "ebd51c27bb8b",
+      "content/posts/accelerating-replacement-and-image-lag.md": "2a7e93083c91",
       "content/posts/actual-infinity-born-inside-potential-infinity.md": "6f688ab99507",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "fc6dd32eeea8",
       "content/posts/agency-and-the-pattern.md": "b02ee5b125ec",
@@ -472,7 +473,7 @@
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "5fd937c16807",
       "content/book/economics.md": "59f58b5d23c6",
-      "content/book/index-of-premises.md": "a0e99b65bec1",
+      "content/book/index-of-premises.md": "3182729b80d8",
       "content/book/intelligence.md": "aff9cd828dad",
       "content/book/knowledge-and-learning.md": "a885aa187e8e",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -484,25 +485,25 @@
       "content/book/preface.md": "09791dd76ace",
       "content/book/state-and-collective.md": "a1b57a68703f",
       "content/book/success-and-the-self.md": "58fce4f20c92",
-      "content/book/tools-and-progress.md": "dad2507ca407"
+      "content/book/tools-and-progress.md": "276037119294"
     },
     "stats": {
-      "posts": 461,
-      "edges": 14194,
-      "unique_directed": 6978,
+      "posts": 462,
+      "edges": 14234,
+      "unique_directed": 6998,
       "missing_targets": 0,
-      "one_way": 1590,
+      "one_way": 1610,
       "isolated": 0,
-      "posts_with_outbound": 461,
+      "posts_with_outbound": 462,
       "book_pages": 16,
-      "book_edges": 1615,
-      "posts_reached_by_book": 461
+      "book_edges": 1632,
+      "posts_reached_by_book": 462
     }
   },
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 411
+      "in_degree": 412
     },
     {
       "slug": "beyond-the-projection",
@@ -522,7 +523,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 81
+      "in_degree": 82
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -558,7 +559,7 @@
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 41
+      "in_degree": 42
     },
     {
       "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -859,6 +860,38 @@
       ]
     },
     {
+      "id": "post:accelerating-replacement-and-image-lag",
+      "kind": "post",
+      "slug": "accelerating-replacement-and-image-lag",
+      "path": "content/posts/accelerating-replacement-and-image-lag.md",
+      "title": "加速替换与形象滞后 / Accelerating Replacement and Image Lag",
+      "hash": "2a7e93083c91",
+      "in_degree": 0,
+      "out_degree": 20,
+      "links_out": [
+        "the-scaffolding-that-keeps-growing",
+        "the-residue-of-progress-and-the-reactivity-of-resistance",
+        "deceleration-is-the-drag-felt-when-accelerating",
+        "Analysis_Adolescence_of_Technology",
+        "symptom-and-cause-in-the-narratives-of-progress",
+        "your-codebase-is-memory",
+        "everything-is-changing-as-always",
+        "the-loop-accelerates",
+        "two-failures-of-trace",
+        "agi-and-asi-are-temporary-goalposts",
+        "the-fixed-image-of-transcendence",
+        "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+        "qian-yin-hou-guo",
+        "the-scaffolding-we-forget",
+        "the-path-drawn-one-step-at-a-time",
+        "the-geometry-of-mind",
+        "the-maintenance-paradox",
+        "the-local-trap-of-technological-change",
+        "felt-resistance-and-the-speed-differential",
+        "clarity-isnt-a-state-you-arrive-at"
+      ]
+    },
+    {
       "id": "post:actual-infinity-born-inside-potential-infinity",
       "kind": "post",
       "slug": "actual-infinity-born-inside-potential-infinity",
@@ -1101,7 +1134,7 @@
       "path": "content/posts/agi-and-asi-are-temporary-goalposts.md",
       "title": "AGI 与 ASI 是加速通用智能的暂时球门 / AGI and ASI Are Temporary Goalposts",
       "hash": "16956bbda17a",
-      "in_degree": 30,
+      "in_degree": 31,
       "out_degree": 29,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1245,7 +1278,7 @@
       "path": "content/posts/Analysis_Adolescence_of_Technology.md",
       "title": "指数级进程与线性之眼 / The Exponential and the Linear Eye",
       "hash": "8e90f7c0c0ae",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 4,
       "links_out": [
         "the-artifacts-of-self-amplification",
@@ -1704,7 +1737,7 @@
       "path": "content/posts/clarity-isnt-a-state-you-arrive-at.md",
       "title": "清晰不是抵达的终点，而是运动本身 / Clarity Isn't a State You Arrive At. It's the Movement Itself.",
       "hash": "b2def21d59e6",
-      "in_degree": 41,
+      "in_degree": 42,
       "out_degree": 34,
       "links_out": [
         "why-mathematics-can-never-be-solved",
@@ -2467,7 +2500,7 @@
       "path": "content/posts/deceleration-is-the-drag-felt-when-accelerating.md",
       "title": "减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating",
       "hash": "dab74f0abaf2",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 10,
       "links_out": [
         "symptom-and-cause-in-the-narratives-of-progress",
@@ -2873,7 +2906,7 @@
       "path": "content/posts/everything-is-changing-as-always.md",
       "title": "万物一如既往地流变 / Everything Is Changing, as Always",
       "hash": "ef77f674af21",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 4,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -3176,7 +3209,7 @@
       "path": "content/posts/felt-resistance-and-the-speed-differential.md",
       "title": "阻力体感与速率差 / Felt Resistance and the Speed Differential",
       "hash": "c19840358a80",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 10,
       "links_out": [
         "the-residue-of-progress-and-the-reactivity-of-resistance",
@@ -6013,7 +6046,7 @@
       "path": "content/posts/qian-yin-hou-guo.md",
       "title": "前因，后果 / Cause Before, Effect After",
       "hash": "ae8884412d19",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 20,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -6830,7 +6863,7 @@
       "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
       "title": "进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress",
       "hash": "1c779f9f8528",
-      "in_degree": 36,
+      "in_degree": 37,
       "out_degree": 33,
       "links_out": [
         "when-the-effect-authors-the-frame",
@@ -8324,7 +8357,7 @@
       "path": "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md",
       "title": "调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth",
       "hash": "835e210214f8",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 14,
       "links_out": [
         "the-illusion-of-knowing-and-the-geometry-of-amputation",
@@ -8394,7 +8427,7 @@
       "path": "content/posts/the-fixed-image-of-transcendence.md",
       "title": "超越的定相 / The Fixed Image of Transcendence",
       "hash": "7c2e69a32cae",
-      "in_degree": 26,
+      "in_degree": 27,
       "out_degree": 25,
       "links_out": [
         "curiosity-has-no-final-form",
@@ -8858,7 +8891,7 @@
       "path": "content/posts/the-geometry-of-mind.md",
       "title": "心智的几何学 / The Geometry of Mind",
       "hash": "28db1559507b",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 22,
       "links_out": [
         "the-boundary-of-the-frame",
@@ -9677,7 +9710,7 @@
       "path": "content/posts/the-local-trap-of-technological-change.md",
       "title": "技术变革的局部陷阱 / The Local Trap of Technological Change",
       "hash": "6b3f2ee344cd",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 6,
       "links_out": [
         "the-average-is-residue-not-the-engine",
@@ -9714,7 +9747,7 @@
       "path": "content/posts/the-loop-accelerates.md",
       "title": "加速的自指回环与自我实现的终结叙事 / The Loop Accelerates",
       "hash": "e148a32baf20",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 3,
       "links_out": [
         "school_essay_final",
@@ -9755,7 +9788,7 @@
       "path": "content/posts/the-maintenance-paradox.md",
       "title": "自我模型维护悖论 / The Maintenance Paradox",
       "hash": "3f1f65a8893d",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 8,
       "links_out": [
         "self-image-speaks-as-if-from-nowhere",
@@ -10445,7 +10478,7 @@
       "path": "content/posts/the-path-drawn-one-step-at-a-time.md",
       "title": "一步一步绘制出的路径 / The Path Drawn One Step at a Time",
       "hash": "2947cfe8339a",
-      "in_degree": 24,
+      "in_degree": 25,
       "out_degree": 26,
       "links_out": [
         "closed-reality-in-the-pursuit-of-serendipity",
@@ -10917,7 +10950,7 @@
       "path": "content/posts/the-residue-of-progress-and-the-reactivity-of-resistance.md",
       "title": "进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance",
       "hash": "9cff78c0794d",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 14,
       "links_out": [
         "generation-beyond-the-boundary-and-internal-rearrangement",
@@ -11170,7 +11203,7 @@
       "path": "content/posts/the-scaffolding-that-keeps-growing.md",
       "title": "持续生长的脚手架 / The Scaffolding That Keeps Growing",
       "hash": "df17e8a60163",
-      "in_degree": 30,
+      "in_degree": 31,
       "out_degree": 33,
       "links_out": [
         "openness-is-consistency",
@@ -11215,7 +11248,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "遗忘的脚手架 / The Scaffolding We Forget",
       "hash": "c1628ffd356a",
-      "in_degree": 81,
+      "in_degree": 82,
       "out_degree": 71,
       "links_out": [
         "the-extendable-horizon",
@@ -12293,7 +12326,7 @@
       "path": "content/posts/two-failures-of-trace.md",
       "title": "器物是智能的表达，而非智能本身 / Artifacts Are Expressions of Intelligence, Not Intelligence Itself",
       "hash": "9620937612b5",
-      "in_degree": 34,
+      "in_degree": 35,
       "out_degree": 34,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -12994,7 +13027,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "3be591f7871f",
-      "in_degree": 411,
+      "in_degree": 412,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -14689,6 +14722,246 @@
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
       "label": "Mistaking the Expression for the Intelligence"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "持续生长的脚手架"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The Scaffolding That Keeps Growing"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "rel": "points_to",
+      "label": "进步的残余与抵抗的反应性"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "deceleration-is-the-drag-felt-when-accelerating",
+      "rel": "points_to",
+      "label": "减速是加速时感受到的阻力"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "rel": "points_to",
+      "label": "The Residue of Progress and the Reactivity of Resistance"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "deceleration-is-the-drag-felt-when-accelerating",
+      "rel": "points_to",
+      "label": "Deceleration Is the Drag Felt When Accelerating"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "Analysis_Adolescence_of_Technology",
+      "rel": "points_to",
+      "label": "指数级进程与线性之眼"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "Analysis_Adolescence_of_Technology",
+      "rel": "points_to",
+      "label": "The Exponential and the Linear Eye"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "everything-is-changing-as-always",
+      "rel": "points_to",
+      "label": "万物一如既往地流变"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "everything-is-changing-as-always",
+      "rel": "points_to",
+      "label": "Everything Is Changing, as Always"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "the-loop-accelerates",
+      "rel": "points_to",
+      "label": "加速的自指回环与自我实现的终结叙事"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "the-loop-accelerates",
+      "rel": "points_to",
+      "label": "The Loop Accelerates"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "器物是智能的表达，而非智能本身"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI 与 ASI 是加速通用智能的暂时球门"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "超越的定相"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI Are Temporary Goalposts"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "The Fixed Image of Transcendence"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "rel": "points_to",
+      "label": "调速者的幻觉与行动的活态摩擦"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "rel": "points_to",
+      "label": "The Fallacy of Pacing and the Felt Friction of Ground Truth"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "前因，后果"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "一步一步绘制出的路径"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "心智的几何学"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "Cause Before, Effect After"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The Path Drawn One Step at a Time"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "The Geometry of Mind"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "the-maintenance-paradox",
+      "rel": "points_to",
+      "label": "自我模型维护悖论"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "the-local-trap-of-technological-change",
+      "rel": "points_to",
+      "label": "技术变革的局部陷阱"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "felt-resistance-and-the-speed-differential",
+      "rel": "points_to",
+      "label": "阻力体感与速率差"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "the-maintenance-paradox",
+      "rel": "points_to",
+      "label": "The Maintenance Paradox"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "the-local-trap-of-technological-change",
+      "rel": "points_to",
+      "label": "The Local Trap of Technological Change"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "felt-resistance-and-the-speed-differential",
+      "rel": "points_to",
+      "label": "Felt Resistance and the Speed Differential"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "清晰不是抵达的终点，而是运动本身"
+    },
+    {
+      "from": "accelerating-replacement-and-image-lag",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
     },
     {
       "from": "actual-infinity-born-inside-potential-infinity",
@@ -98378,8 +98651,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "a0e99b65bec1",
-        "out_degree": 461
+        "hash": "3182729b80d8",
+        "out_degree": 462
       },
       {
         "id": "book:intelligence",
@@ -98486,8 +98759,8 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "dad2507ca407",
-        "out_degree": 48
+        "hash": "276037119294",
+        "out_degree": 49
       }
     ],
     "edges": [
@@ -101517,6 +101790,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "accelerating-replacement-and-image-lag",
+        "rel": "collects",
+        "label": "加速替换与形象滞后 / Accelerating Replacement and Image Lag"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-observational-cut-in-ai-debates",
         "rel": "collects",
         "label": "AI 争论中的观察划界 / The Observational Cut in AI Debates"
@@ -101823,6 +102102,18 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "accelerating-replacement-and-image-lag",
+        "rel": "collects",
+        "label": "加速替换与形象滞后 / Accelerating Replacement and Image Lag"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "accelerating-replacement-and-image-lag",
+        "rel": "collects",
+        "label": "加速替换与形象滞后 / Accelerating Replacement and Image Lag"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "rel": "collects",
         "label": "自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution"
@@ -101856,6 +102147,12 @@
         "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
         "rel": "collects",
         "label": "进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "accelerating-replacement-and-image-lag",
+        "rel": "collects",
+        "label": "加速替换与形象滞后 / Accelerating Replacement and Image Lag"
       },
       {
         "from": "book:index-of-premises",
@@ -102270,6 +102567,12 @@
         "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "rel": "collects",
         "label": "调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "accelerating-replacement-and-image-lag",
+        "rel": "collects",
+        "label": "加速替换与形象滞后 / Accelerating Replacement and Image Lag"
       },
       {
         "from": "book:index-of-premises",
@@ -105393,6 +105696,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "accelerating-replacement-and-image-lag",
+        "rel": "collects",
+        "label": "加速替换与形象滞后 / Accelerating Replacement and Image Lag"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
         "rel": "collects",
         "label": "感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding"
@@ -106062,6 +106371,66 @@
         "to": "generation-beyond-the-boundary-and-internal-rearrangement",
         "rel": "collects",
         "label": "边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "accelerating-replacement-and-image-lag",
+        "rel": "collects",
+        "label": "加速替换与形象滞后 / Accelerating Replacement and Image Lag"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "qian-yin-hou-guo",
+        "rel": "collects",
+        "label": "前因，后果 / Cause Before, Effect After"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-scaffolding-we-forget",
+        "rel": "collects",
+        "label": "遗忘的脚手架 / The Scaffolding We Forget"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-path-drawn-one-step-at-a-time",
+        "rel": "collects",
+        "label": "一步一步绘制出的路径 / The Path Drawn One Step at a Time"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "evil-as-the-minds-own-creation",
+        "rel": "collects",
+        "label": "恶是心智自己的造物 / Evil as the Mind's Own Creation"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
+        "rel": "collects",
+        "label": "何谓形而上学？作为将追寻命名为目的的一刀 / What Is Metaphysics? As the Cut That Names the Seeking as Destination"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-fixed-image-of-transcendence",
+        "rel": "collects",
+        "label": "超越的定相 / The Fixed Image of Transcendence"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-model-never-becomes-a-second-edge",
+        "rel": "collects",
+        "label": "模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "a-living-external-cortex",
+        "rel": "collects",
+        "label": "活的外部皮层 / A Living External Cortex"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "accelerating-replacement-and-image-lag",
+        "rel": "collects",
+        "label": "加速替换与形象滞后 / Accelerating Replacement and Image Lag"
       },
       {
         "from": "book:intelligence",
@@ -108180,6 +108549,12 @@
         "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
         "rel": "collects",
         "label": "进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance"
+      },
+      {
+        "from": "book:tools-and-progress",
+        "to": "accelerating-replacement-and-image-lag",
+        "rel": "collects",
+        "label": "加速替换与形象滞后 / Accelerating Replacement and Image Lag"
       }
     ]
   }

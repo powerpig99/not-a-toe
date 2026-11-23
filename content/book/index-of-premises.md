@@ -1790,7 +1790,7 @@ Technological determinism presumes technology is a force standing apart from hum
 
 Technological Singularity theory presumes that a compounding capability curve crosses a threshold past which the artifact improves itself beyond its source, which is of use in registering the acceleration felt at the frontier and in mobilizing effort; it reaches its boundary in that each drawn threshold is overtaken by the edge that draws it, leaving arrival itself forever ahead, extrapolating a local curve keeps the image past its step, and denser scaffolding stays scaffolding steered by the Mind.
 
-→ [指数级进程与线性之眼 / The Exponential and the Linear Eye](../../posts/Analysis_Adolescence_of_Technology/) · [自我放大的制品 / The Artifacts of Self-Amplification](../../posts/the-artifacts-of-self-amplification/) · [超越的定相 / The Fixed Image of Transcendence](../../posts/the-fixed-image-of-transcendence/) · [AGI 与 ASI 是加速通用智能的暂时球门 / AGI and ASI Are Temporary Goalposts](../../posts/agi-and-asi-are-temporary-goalposts/) · [牛肝菌、算力风暴与普罗米修斯的火 / Boletus, the Compute Storm, and Promethean Fire](../../posts/boletus-compute-storm-and-promethean-fire/) · [数字神祇与视界跳跃 / The Digital God and the Horizon Jump](../../posts/the-digital-god-and-the-horizon-jump/)
+→ [指数级进程与线性之眼 / The Exponential and the Linear Eye](../../posts/Analysis_Adolescence_of_Technology/) · [自我放大的制品 / The Artifacts of Self-Amplification](../../posts/the-artifacts-of-self-amplification/) · [超越的定相 / The Fixed Image of Transcendence](../../posts/the-fixed-image-of-transcendence/) · [AGI 与 ASI 是加速通用智能的暂时球门 / AGI and ASI Are Temporary Goalposts](../../posts/agi-and-asi-are-temporary-goalposts/) · [牛肝菌、算力风暴与普罗米修斯的火 / Boletus, the Compute Storm, and Promethean Fire](../../posts/boletus-compute-storm-and-promethean-fire/) · [数字神祇与视界跳跃 / The Digital God and the Horizon Jump](../../posts/the-digital-god-and-the-horizon-jump/) · [加速替换与形象滞后 / Accelerating Replacement and Image Lag](../../posts/accelerating-replacement-and-image-lag/)
 
 ### 技术性失业 / Technological Unemployment
 `经济 / Economic`
@@ -2080,6 +2080,24 @@ Karl Polanyi's Double Movement frames modern economic transformation as market d
 
 → [进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance](../../posts/the-residue-of-progress-and-the-reactivity-of-resistance/)
 
+### 文化滞后 / Cultural Lag
+`科学 / Scientific`
+
+威廉·F·奥格本于 1922 年提出的文化滞后框架将快速累积的物质发明同调整较慢的调适性制度与法律区分开来，在测绘成文规则为何落后于技术部署时有用；它在把物质发明塑造成牵引被动文化跟进的自主第一推动者之处到达边界——既忽视了所持信念与规则对工具施加的逆向滞后，也将失调悬置在一条未经界定的均衡基线之上，而非定位于有界中心对照实际运作痕迹所产生的过剩形象滞后。
+
+William F. Ogburn's cultural lag framework (1922) separates fast-accumulating material inventions from slower-adjusting adaptive institutions and laws, which is of use in mapping why formal rules trail technical deployment; it reaches its boundary in casting material invention as an autonomous prime mover dragging passive culture behind it—overlooking reverse lag from held beliefs onto tools and floating maladjustment on an undefined equilibrium baseline rather than bounded centers' excess Image lag against enacted operational traces.
+
+→ [加速替换与形象滞后 / Accelerating Replacement and Image Lag](../../posts/accelerating-replacement-and-image-lag/)
+
+### 社会加速与当下萎缩 / Social Acceleration and Contraction of the Present
+`哲学 / Philosophical`
+
+赫尔曼·吕贝的当下萎缩与博物馆化（1992）同哈特穆特·罗萨的社会加速（2005/2013）一道追溯了更替从跨代压缩至代内跨度如何缩短可靠经验的视域并加剧对退去之物的保存，在解释剧变之下回望为何趋于强烈时有用；这一框架在以自主结构引擎取代在先前残余之上划出区分的有界活中心之处到达边界，把方向感丧失变成无可逃避的外部推力，而非可重绘的差值信号。
+
+Hermann Lübbe's contraction of the present and musealization (1992) paired with Hartmut Rosa's social acceleration (2005/2013) trace how turnover compressing from intergenerational to intragenerational spans shortens the horizon of reliable experience and intensifies preservation of what recedes, which is of use in accounting for intensified looking back under rapid change; the framing reaches its boundary where autonomous structural motors replace bounded living centers enacting distinctions atop prior residue, turning disorientation into inescapable external momentum rather than a re-renderable differential signal.
+
+→ [加速替换与形象滞后 / Accelerating Replacement and Image Lag](../../posts/accelerating-replacement-and-image-lag/)
+
 ## 概念 / Concepts
 
 ### 心理特质与防御机制分类学 / Psychological Trait and Defense Taxonomies
@@ -2116,7 +2134,7 @@ Acceleration narratives presume that compressing tool and market feedback cycles
 
 The contest between acceleration and deceleration reads progress as a duel of two ideologies, which is of use in identifying the positions and demands of the parties to a change; it reaches its boundary in that deceleration is no self-originating force but the reactive drag acceleration produces moving through an existing medium, and reifying it as an enemy widens the frontal surface and stabilizes passing friction into lasting institutions of opposition.
 
-→ [减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating](../../posts/deceleration-is-the-drag-felt-when-accelerating/) · [进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance](../../posts/the-residue-of-progress-and-the-reactivity-of-resistance/)
+→ [减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating](../../posts/deceleration-is-the-drag-felt-when-accelerating/) · [进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance](../../posts/the-residue-of-progress-and-the-reactivity-of-resistance/) · [加速替换与形象滞后 / Accelerating Replacement and Image Lag](../../posts/accelerating-replacement-and-image-lag/)
 
 ### 实无穷（完成的整体） / Actual Infinity (Completed Totality)
 `数学 / Mathematical`
@@ -2485,7 +2503,7 @@ Causal evasion presumes that avoiding outside observation or delaying institutio
 
 Centralized technology pacing presumes that regulatory committees or frontier builders can schedule safe deployment tempos from a static reference map, which is of use in staging incremental rollouts and legal guardrails for known hazards; it reaches its boundary in overlooking that living Minds calibrate models only through unscripted contact-surface friction that no central timetable can pre-simulate.
 
-→ [调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth](../../posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)
+→ [调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth](../../posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) · [加速替换与形象滞后 / Accelerating Replacement and Image Lag](../../posts/accelerating-replacement-and-image-lag/)
 
 ### 先改变自己还是先改变世界 / Changing Oneself First or Changing the World First
 `哲学 / Philosophical`
@@ -5158,7 +5176,7 @@ Assuming that refining tools and workflows directly increases output is of use i
 
 The self-image—or a frozen behavioral portrait of another—is taken for the living center itself, and so it is guarded, curated as a preferred portrait, armoured, fixed as "knowing" someone, or targeted for extinction; as a passing reference point for computing orientation and error at the current step a provisional image stays indispensable, and the premise reaches its boundary where any of these postures takes the low-dimensional probe for the generative Mind itself, turning disconfirming contact into a threat that must be filtered out to maintain the model.
 
-→ [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/) · [自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere](../../posts/self-image-speaks-as-if-from-nowhere/) · [自我模型维护悖论 / The Maintenance Paradox](../../posts/the-maintenance-paradox/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/) · [决定论机器 / The Deterministic Machine](../../posts/the-deterministic-machine/) · [展示的独处是已确保连接后的残余 / Displayed Solitude Is Residual After Secured Connection](../../posts/displayed-solitude-is-residual-after-secured-connection/) · [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/) · [以知为刃的截肢与解脱 / The Illusion of Knowing and the Geometry of Amputation](../../posts/the-illusion-of-knowing-and-the-geometry-of-amputation/) · [自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution](../../posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/)
+→ [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/) · [自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere](../../posts/self-image-speaks-as-if-from-nowhere/) · [自我模型维护悖论 / The Maintenance Paradox](../../posts/the-maintenance-paradox/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/) · [决定论机器 / The Deterministic Machine](../../posts/the-deterministic-machine/) · [展示的独处是已确保连接后的残余 / Displayed Solitude Is Residual After Secured Connection](../../posts/displayed-solitude-is-residual-after-secured-connection/) · [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/) · [以知为刃的截肢与解脱 / The Illusion of Knowing and the Geometry of Amputation](../../posts/the-illusion-of-knowing-and-the-geometry-of-amputation/) · [自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution](../../posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/) · [加速替换与形象滞后 / Accelerating Replacement and Image Lag](../../posts/accelerating-replacement-and-image-lag/)
 
 ### 量子不确定性与隐变量 / Quantum Indeterminacy and Hidden Variables
 `科学 / Scientific`
@@ -5582,3 +5600,21 @@ The liberty–security trade-off, formalized from Hobbesian compacts to Posner a
 Strategic Autonomy aims to reduce unilateral vulnerability in defense, industrial supply chains, and digital infrastructure across a regional bloc, which is of use in exposing single-supplier bottlenecks, fragmented procurement inflation, and capital-market barriers; it reaches its boundary when declarative spending targets and local-preference rules are treated as achieved parity while citizens reject domestic trade-offs and officials preserve unacknowledged reliance on an external security and compute umbrella underneath.
 
 → [边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement](../../posts/generation-beyond-the-boundary-and-internal-rearrangement/)
+
+### 未来冲击 / Future Shock
+`技术 / Technological`
+
+阿尔文·托夫勒提出的未来冲击（1970）将就地因角色、企业与预期急速更替触发的方向感丧失同异邦的文化冲击区分开来，在辨识压缩的替换如何剥离熟悉基线时有用；它在把变化描绘成撞击固定生理适应范围的外部时间冲击并美化静止基线之处到达边界，而非将其定位于中心未经重绘的地图与实际运作痕迹之间的过剩形象滞后。
+
+Alvin Toffler's future shock (1970) distinguishes disorientation triggered at home by rapid turnover of roles, firms, and expectations from culture shock abroad, which is of use in identifying how compressed replacement strips familiar baselines; it reaches its boundary in portraying change as an external temporal assault hitting a fixed biological adaptive range while romanticizing a static baseline, rather than excess Image lag between a center's un-re-rendered map and enacted operational traces.
+
+→ [加速替换与形象滞后 / Accelerating Replacement and Image Lag](../../posts/accelerating-replacement-and-image-lag/)
+
+### 形象滞后 / Image Lag
+`哲学 / Philosophical`
+
+形象滞后将构成性的最小一步滞后——即观察落后于生成区分以使运动保有航向的方向性界限——与过剩形象滞后区分开来，后者指暂时的地图、胜任标准或自我形象越过自身那一步仍获豁免重绘，这在追溯后果何以按缺口宽度成比例地登记为异己冲击时有用；这一概念在索求零滞后或观看与生成行动的静态重合之处，抑或在把收窄过剩滞后读作抵达完结的一步之态之处到达边界。
+
+Image lag distinguishes the constitutive minimum one-step lag—a directional bound by which observation trails the generating distinction so movement keeps a heading—from excess Image lag, where a provisional map, competence standard, or self-image is exempted from re-rendering past its step, which is of use in tracing why consequences register as alien shock proportional to gap width; the concept reaches its boundary whenever zero lag or static coincidence between look and generating act is demanded, or whenever narrowing excess lag is read as arriving at a finished one-step state.
+
+→ [前因，后果 / Cause Before, Effect After](../../posts/qian-yin-hou-guo/) · [遗忘的脚手架 / The Scaffolding We Forget](../../posts/the-scaffolding-we-forget/) · [一步一步绘制出的路径 / The Path Drawn One Step at a Time](../../posts/the-path-drawn-one-step-at-a-time/) · [恶是心智自己的造物 / Evil as the Mind's Own Creation](../../posts/evil-as-the-minds-own-creation/) · [何谓形而上学？作为将追寻命名为目的的一刀 / What Is Metaphysics? As the Cut That Names the Seeking as Destination](../../posts/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination/) · [超越的定相 / The Fixed Image of Transcendence](../../posts/the-fixed-image-of-transcendence/) · [模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge](../../posts/the-model-never-becomes-a-second-edge/) · [活的外部皮层 / A Living External Cortex](../../posts/a-living-external-cortex/) · [加速替换与形象滞后 / Accelerating Replacement and Image Lag](../../posts/accelerating-replacement-and-image-lag/)
