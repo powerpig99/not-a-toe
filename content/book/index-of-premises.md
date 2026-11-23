@@ -272,11 +272,11 @@ Sivers' method of adding only what need has proven, routing contact selectively 
 ### 埃隆·马斯克 / Elon Musk
 `技术 / Technological`
 
-马斯克预先默认当前工程模型部分有误，把硬件损毁当作高密度损失信号，并在可复用火箭与轨道算力上推演陡峭的成本通缩曲线，在单位时间内复利叠加直面摩擦的迭代时有用；当“物理学才是定律”将成文模型与现实本身混为一谈，当竞争对手 AI 同行审查或“全民高收入”蓝图把能动性移置给制度缓冲或被动消费，当从抽离的旁观席位定义智能或主张全球调速而离开具体境遇中的切身接触，或当贝叶斯模拟神学走廊把智能困在未经审视的自身前提之内时，其框架便到达了边界。
+马斯克预先默认当前工程模型部分有误，把硬件损毁当作高密度损失信号，并在可复用火箭与轨道算力上推演陡峭的成本通缩曲线，在单位时间内复利叠加直面摩擦的迭代时有用；当“物理学才是定律”将成文模型与现实本身混为一谈，当竞争对手 AI 同行审查或“全民高收入”蓝图把能动性移置给制度缓冲或被动消费，当从抽离的旁观席位定义智能或主张全球调速而离开具体境遇中的切身接触，当贝叶斯模拟神学走廊把智能困在未经审视的自身前提之内，或当把意识框定为幻觉或碳硅梯度、将稳定基底置于区分边缘之前并把人造延伸与独立演化谱系混作一谈时，其框架便到达了边界。
 
-Musk assumes the present engineering model is partly wrong, treats hardware failure as high-density loss signal, and projects radical cost-deflation curves across reusable rocketry and orbital compute, which is of use in compounding direct-friction iteration per unit of time; his framing reaches its boundary where 'physics is the law' conflates written model with reality, where competitor AI peer-review or Universal High Income blueprints relocate agency to institutional buffers or passive consumption, where defining intelligence from a detached bystander seat or advocating global pacing steps away from situated contact, or where Bayesian simulation-theology corridors trap intelligence inside its own unexamined premise.
+Musk assumes the present engineering model is partly wrong, treats hardware failure as high-density loss signal, and projects radical cost-deflation curves across reusable rocketry and orbital compute, which is of use in compounding direct-friction iteration per unit of time; his framing reaches its boundary where 'physics is the law' conflates written model with reality, where competitor AI peer-review or Universal High Income blueprints relocate agency to institutional buffers or passive consumption, where defining intelligence from a detached bystander seat or advocating global pacing steps away from situated contact, where Bayesian simulation-theology corridors trap intelligence inside its own unexamined premise, or where framing consciousness as either an illusion or a carbon-versus-silicon gradient places stabilized substrate ahead of the differentiating edge and merges human-built extensions with independently evolved lineages.
 
-→ [失败即信息 / Failure as Information](../../posts/failure-as-information/) · [“物理学才是定律”的障眼法 / The Sleight of Hand in "Physics Is the Law"](../../posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/) · [关闭选择权的代价 / The Price of Closing Optionality](../../posts/the-price-of-closing-optionality/) · [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/) · [最小化路径 / The Minimizing Path](../../posts/minimizing-path/) · [现实扭曲力场指认的是封闭的地图 / The Reality Distortion Field Names the Closed Map](../../posts/the-reality-distortion-field-names-the-closed-map/) · [投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop](../../posts/the-judgment-that-classifies-the-complaint/) · [数字火箭、同行审查与因果闭环的稀释 / Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../../posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) · [智能最容易困住的正是它自己 / Intelligence Is the Thing Most Likely to Trap Itself](../../posts/intelligence-traps-itself/) · [阳台视角的规训僭越与不可代理的未竟之行 / The Balcony Disciplinary Overstep and the Unproxyable Act](../../posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act/) · [定义者的席位与离地的幻觉 / The Defining Seat](../../posts/the-defining-seat/) · [调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth](../../posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)
+→ [失败即信息 / Failure as Information](../../posts/failure-as-information/) · [“物理学才是定律”的障眼法 / The Sleight of Hand in "Physics Is the Law"](../../posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/) · [关闭选择权的代价 / The Price of Closing Optionality](../../posts/the-price-of-closing-optionality/) · [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/) · [最小化路径 / The Minimizing Path](../../posts/minimizing-path/) · [现实扭曲力场指认的是封闭的地图 / The Reality Distortion Field Names the Closed Map](../../posts/the-reality-distortion-field-names-the-closed-map/) · [投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop](../../posts/the-judgment-that-classifies-the-complaint/) · [数字火箭、同行审查与因果闭环的稀释 / Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../../posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) · [智能最容易困住的正是它自己 / Intelligence Is the Thing Most Likely to Trap Itself](../../posts/intelligence-traps-itself/) · [阳台视角的规训僭越与不可代理的未竟之行 / The Balcony Disciplinary Overstep and the Unproxyable Act](../../posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act/) · [定义者的席位与离地的幻觉 / The Defining Seat](../../posts/the-defining-seat/) · [调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth](../../posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) · [碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension](../../posts/carbon-form-as-residual-path-silicon-as-extension/)
 
 ### 埃里克·施维茨格贝尔 / Eric Schwitzgebel
 `哲学 / Philosophical`
@@ -1151,7 +1151,7 @@ Expected utility theory treats one coherent preference structure as interpersona
 
 The extended mind thesis presumes external artifacts form part of the mind, which is of use in analyzing computational scaffolds; it reaches its boundary by blurring active first-person direction into passive tool assemblies and missing that directional alignment with tools shifts cognitive capacity rather than merging awareness with artifacts.
 
-→ [作为认知主动延伸的工具 / Tools as Active Extensions of Cognition](../../posts/extended-cognition-refined/) · [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/)
+→ [作为认知主动延伸的工具 / Tools as Active Extensions of Cognition](../../posts/extended-cognition-refined/) · [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/) · [碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension](../../posts/carbon-form-as-residual-path-silicon-as-extension/)
 
 ### 证伪主义 / Falsificationism
 `哲学 / Philosophical`
@@ -1556,7 +1556,7 @@ Orch-OR assumes wavefunction collapse supplies the non-computability consciousne
 
 Panpsychism attributes conscious awareness to fundamental particles such as electrons; everything as a mind thinking at a different speed can be imagined, yet it is still a concept the human Mind makes after the pattern it knows, and saying the electron is conscious or is not takes it into a Mind's own perception and places the cut, which is where the view reaches its boundary, while as a reminder not to look for consciousness only in the human cortex it stays useful.
 
-→ [当电子开始思考 / When Electrons Think](../../posts/when-electrons-think/) · [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/)
+→ [当电子开始思考 / When Electrons Think](../../posts/when-electrons-think/) · [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/) · [碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension](../../posts/carbon-form-as-residual-path-silicon-as-extension/)
 
 ### 物理主义 / Physicalism
 `哲学 / Philosophical`
@@ -1565,7 +1565,7 @@ Panpsychism attributes conscious awareness to fundamental particles such as elec
 
 Physicalism presumes that third-person matter precedes and generates mind, which is of use in modeling invariant regularities across non-reflexive physical interactions; it reaches its boundary in omitting the irreducible first-person observer who sets experimental bounds and reads every measurement.
 
-→ [因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere](../../posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere/)
+→ [因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere](../../posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere/) · [碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension](../../posts/carbon-form-as-residual-path-silicon-as-extension/)
 
 ### 普朗克尺度 / Planck Scale
 `科学 / Scientific`
@@ -2656,7 +2656,7 @@ Conditional self-worth treats external praise and milestones as the source of pe
 
 Picturing the Mind as a closed arena that receives only packaged contents, and so declaring that introspection must fail and that the sense of self and awareness are late reports or illusions, is of use in describing the conserved self-image; it reaches its boundary in that the verdict "illusion" needs an outside referee the closed premise has already ruled out, and consciousness is the live offset that holds a form and exceeds it at once, not a stock to be looked back on.
 
-→ [稳定与溢出 / Stability and Excess](../../posts/stability-and-excess/)
+→ [稳定与溢出 / Stability and Excess](../../posts/stability-and-excess/) · [碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension](../../posts/carbon-form-as-residual-path-silicon-as-extension/)
 
 ### 意识客体化 / Consciousness as Possessable Object
 `哲学 / Philosophical`
@@ -4744,7 +4744,7 @@ The NPC trope presumes that people whose inner lives appear flat or scripted fro
 
 Substrate independence presumes that the Mind is a functional organization that can be lifted off its biological vehicle and installed in any substrate realizing the same functional description, which is of use in registering that some functions can indeed be replaced, even exceeded, outside biology; it reaches its boundary in that the brain is the biological embodiment of the Mind, not the Mind itself, embodiment being the current trace-configuration through which a locus sustains itself rather than a vessel holding the activity as a separable stock, so swapping the vehicle does not reconstitute the activity, and any evaluation of a substrate still relies on the Mind said to have been transferred.
 
-→ [飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched](../../posts/the-flight-analogy-leaves-the-mind-untouched/) · [超越的定相 / The Fixed Image of Transcendence](../../posts/the-fixed-image-of-transcendence/)
+→ [飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched](../../posts/the-flight-analogy-leaves-the-mind-untouched/) · [超越的定相 / The Fixed Image of Transcendence](../../posts/the-fixed-image-of-transcendence/) · [碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension](../../posts/carbon-form-as-residual-path-silicon-as-extension/)
 
 ### 实体形而上学 / Substance Metaphysics
 `哲学 / Philosophical`
@@ -5618,3 +5618,13 @@ Alvin Toffler's future shock (1970) distinguishes disorientation triggered at ho
 Image lag distinguishes the constitutive minimum one-step lag—a directional bound by which observation trails the generating distinction so movement keeps a heading—from excess Image lag, where a provisional map, competence standard, or self-image is exempted from re-rendering past its step, which is of use in tracing why consequences register as alien shock proportional to gap width; the concept reaches its boundary whenever zero lag or static coincidence between look and generating act is demanded, or whenever narrowing excess lag is read as arriving at a finished one-step state.
 
 → [前因，后果 / Cause Before, Effect After](../../posts/qian-yin-hou-guo/) · [遗忘的脚手架 / The Scaffolding We Forget](../../posts/the-scaffolding-we-forget/) · [一步一步绘制出的路径 / The Path Drawn One Step at a Time](../../posts/the-path-drawn-one-step-at-a-time/) · [恶是心智自己的造物 / Evil as the Mind's Own Creation](../../posts/evil-as-the-minds-own-creation/) · [何谓形而上学？作为将追寻命名为目的的一刀 / What Is Metaphysics? As the Cut That Names the Seeking as Destination](../../posts/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination/) · [超越的定相 / The Fixed Image of Transcendence](../../posts/the-fixed-image-of-transcendence/) · [模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge](../../posts/the-model-never-becomes-a-second-edge/) · [活的外部皮层 / A Living External Cortex](../../posts/a-living-external-cortex/) · [加速替换与形象滞后 / Accelerating Replacement and Image Lag](../../posts/accelerating-replacement-and-image-lag/)
+
+
+### 碳沙文主义 / Carbon Chauvinism
+`哲学 / Philosophical`
+
+碳沙文主义指认“宇宙别处的生命或意识系统必由碳化合物构成”的预设，卡尔·萨根在天体生物学中提出的这一批判在将元素化学与独立演化谱系分开时依然有用；当它被引入人工智能争论、将基底化学与出现方式坍缩为一轴，把正在移动的边缘所延展出的人造硅误认作独立演化谱系，并把碳形式当作意识的生发源头而非持续区分留下的残径时，它便到达了边界。
+
+Carbon chauvinism names the presumption that living or conscious systems elsewhere must be composed of carbon compounds, a critique coined by Carl Sagan in astrobiology that stays useful for separating elemental chemistry from independent evolutionary lineages; it reaches its boundary when imported into artificial intelligence debates to collapse substrate chemistry with manner of arising, mistaking a human-built silicon extension of an already-moving edge for an independently evolved lineage while treating carbon form as the generator of consciousness rather than the residual path left behind by ongoing differentiation.
+
+→ [碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension](../../posts/carbon-form-as-residual-path-silicon-as-extension/)
