@@ -56,7 +56,7 @@ flowchart TD
     end
     P_Ration ==>|"将静态坐标上限投射到开放现实"| E_Finite
     E_Collapse ==>|"将前提死锁上交掌舵的心智"| O_Act
-    O_Expand -.->|"在持续接触中收窄冗余图像滞后"| O_Act
+    O_Expand -.->|"在持续接触中收窄过剩形象滞后"| O_Act
     style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Engine fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -128,9 +128,9 @@ Musk frequently invokes "maximal truth-seeking" and "the ground truth of physics
 
 Hassabis has anchored Google DeepMind on breakthroughs in foundational science, such as AlphaFold resolving three-dimensional protein conformations and AlphaProof navigating formal mathematical verification, deliberately selecting domains where contact impedance is hardest. The regularities of molecular folding and formal deduction do not bend to public narratives or administrative decrees; they present an unyielding contact surface. Those breakthroughs were not pre-written answers retrieved from a static catalog, but learning architectures engineered to register prediction error with high precision and convert computational friction directly into weight updates.
 
-两位实践者共有的力量，在于把心智与工具直接抵在现实的接触面上，在承受并校准活态阻力的过程中累积能力。他们共有的边界，则出现在把特定坐标轴上的局部领先包装成全局调速蓝图、声称有权为全人类设定技术发展速度的那一刻——此时说话的位置已经离开了摩擦的接触面，退回到了抽象沙盘旁的旁观席。
+两位实践者共有的力量，在于把心智与工具直接抵在现实的接触面上，在承受并校准活态阻力的过程中累积能力。他们共有的边界，则出现在把特定坐标轴上的局部领先包装成全局调速蓝图、声称有权为全人类设定技术发展速度的那一刻——此时说话的位置已经离开了摩擦的接触面，退回到了抽象沙盘旁的旁观席，这便是穿过不断拉宽的形象滞后发生的同一视角转移，正如[加速替换与形象滞后](../accelerating-replacement-and-image-lag/)所追溯的那样。
 
-The strength shared by both practitioners lies in pressing Mind and instrument directly against the contact surface of reality, compounding capability by absorbing and calibrating against live resistance. Their shared boundary appears the moment a local lead along those specific axes is packaged into a global pacing blueprint claiming the authority to set the speed of technological development for all humanity—a shift where the speaker steps away from the contact surface of friction and retreats to the bystander's seat beside an abstract sand table.
+The strength shared by both practitioners lies in pressing Mind and instrument directly against the contact surface of reality, compounding capability by absorbing and calibrating against live resistance. Their shared boundary appears the moment a local lead along those specific axes is packaged into a global pacing blueprint claiming the authority to set the speed of technological development for all humanity—a shift where the speaker steps away from the contact surface of friction and retreats to the bystander's seat beside an abstract sand table, the same shift in vantage across widening Image lag traced in [Accelerating Replacement and Image Lag](../accelerating-replacement-and-image-lag/).
 
 ## 四、 逆向追随与第三方规训中的调速自缚 / 4. Pacing That Binds Itself in Reverse Following and Third-Party Regulation
 

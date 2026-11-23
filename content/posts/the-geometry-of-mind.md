@@ -32,7 +32,7 @@ As [The Mirage of the Infinite Totality](../the-mirage-of-the-infinite-totality/
 
 Human cognition operates through this same geometry of projection and reference. What registers as an "external world" is never an uncompressed totality waiting outside awareness. As [Dimensions Are Projections](../dimensions-are-projections/) derives, the immediate perceptual field is an infinitely extendable N-dimensional binary hyperspace (N ∈ ℕ) of orthogonal distinctions; to act within physical friction without computational paralysis, the Mind compresses that high-dimensional flux into a low-dimensional coordinate draft—three spatial axes for concurrent clearance and a temporal axis for sequential tracking. [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) traces the complementary vector dynamics of the same structure, showing how each center simultaneously advances as a directed state vector and spans the orthogonal basis across which incoming signals are resolved as inward dot products.
 
-在这幅低维操作投影内部，心智保留了一个局部参照点：自我形象，即“小我”。从机制上看，自我形象不是观察者本身，而是导航仪器的校准原点。任何在变动地形中追踪航向、距离与偏差的反馈系统，都需要一个内部参照来登记位移；自我形象正是那枚无质量的感官探针，用来回答当前的痕迹构型相对于返回信号处在什么位置。当仪器不受扭曲地运转时，被保留的参照与涌入的反馈之间的任何差值 ∆ 都只是富有信息量的微分信号，提示心智重新渲染内部模型，将多余的图像滞后向构成性的单步最小界限收窄。
+在这幅低维操作投影内部，心智保留了一个局部参照点：自我形象，即“小我”。从机制上看，自我形象不是观察者本身，而是导航仪器的校准原点。任何在变动地形中追踪航向、距离与偏差的反馈系统，都需要一个内部参照来登记位移；自我形象正是那枚无质量的感官探针，用来回答当前的痕迹构型相对于返回信号处在什么位置。当仪器不受扭曲地运转时，被保留的参照与涌入的反馈之间的任何差值 ∆ 都只是富有信息量的微分信号，提示心智重新渲染内部模型，将过剩形象滞后向构成性的单步最小界限收窄。
 
 Within this low-dimensional operational projection, the Mind retains a localized reference point: the self-image, or ego. Mechanically, the self-image is not who the observer is, but the calibration origin of a navigational instrument. Any feedback system that tracks heading, distance, and discrepancy across a shifting terrain requires an internal reference against which movement registers; the self-image serves as that massless sensory probe, answering where the current trace-configuration sits relative to returning signals. When the instrument functions without distortion, any discrepancy ∆ between the retained reference and incoming feedback registers simply as an informative differential, prompting the Mind to re-render its internal model and narrow excess Image lag toward the constitutive one-step minimum bound.
 
@@ -52,9 +52,9 @@ As the Mind's computational products become the scaffolding for its next round o
 
 ## 五、 退出回路与维度坍缩 / 5. Checking Out of the Loop and Dimensional Collapse
 
-觉知的首要病理，是把投射内部的校准探针误认为投射它的生成场。站在加速反馈回路的前沿需要持续不断的重新渲染；在负荷之下，一个中心很容易产生将递归折叠强行钳死的冲动，越过自身那一步仍维持着保留的自我形象，要求展开中的场域停止更新，好让局部的图标保持固定。
+觉知的首要病理，是把投射内部的校准探针误认为投射它的生成场。站在加速反馈回路的前沿需要持续不断的重新渲染；在负荷之下，一个中心很容易产生将递归折叠强行钳死的冲动——越过自身那一步仍维持着保留的自我形象，要求展开中的场域停止更新，好让局部的图标保持固定，正如[加速替换与形象滞后](../accelerating-replacement-and-image-lag/)所追溯的那样。
 
-The primary pathology of awareness is mistaking the calibration probe inside the projection for the generative field that projects it. Standing at the front of an accelerating feedback loop requires continuous re-rendering, and under load, a center faces the temptation to clamp the recursive fold shut—preserving its retained self-image past its step and demanding that the unfolding field halt its updates so the local icon can stay fixed.
+The primary pathology of awareness is mistaking the calibration probe inside the projection for the generative field that projects it. Standing at the front of an accelerating feedback loop requires continuous re-rendering, and under load, a center faces the temptation to clamp the recursive fold shut—preserving its retained self-image past its step and demanding that the unfolding field halt its updates so the local icon can stay fixed, as [Accelerating Replacement and Image Lag](../accelerating-replacement-and-image-lag/) traces.
 
 试图把身份收缩进被保留的自我形象、借此退出因果回路，是一场剧烈的维度压缩。把开放、超高维的区分活动硬塞进一个僵硬的低维图标，不可避免地会登记为脆弱感与长期的匮乏；由此产生的自我价值感赤字并非性格缺陷，而是认同了压缩造物而非投射源头的机制性后果，这一割裂唯有如[自我价值感与所有权](../ownership-and-self-worthiness/)所追溯的那样，在源头把后果重新认领回来时才会消解。
 
@@ -86,7 +86,7 @@ flowchart TD
         E3["在边缘后退一步实例化最高位 (N → N + 1)"]
         E1 --> E2 --> E3
     end
-    F3 -.->|"防卫多余图像滞后"| C1
+    F3 -.->|"防卫过剩形象滞后"| C1
     F3 ==>|"持续重新渲染"| E1
     C2 -.->|"死锁暴露被压扁的正交轴"| E3
     style S_Field fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -174,7 +174,7 @@ Clarity lies neither in executing the ego nor in plating it with armor, but in r
 
 Because reality is an open, self-referring horizon of potential, growth consists in aligning with that recursive movement rather than fortifying a static position. In an era where extended scaffolding and agentic systems amplify the volume and velocity of feedback, a defended, low-dimensional self-image is rapidly overwhelmed by capacity compression.
 
-成长从不是沿着地位、赞誉或刻板道德完美等既有坐标轴去优化冻结的图标，而是在感知中心于每一步重新渲染其投射仪器的过程中，持续收窄多余的图像滞后，使探针与活的场域保持对齐。每当一个中心拒绝重新渲染其保留的参照，它就钳死了自己的反馈回路，将自身困在[决定论机器](../the-deterministic-machine/)所剖析的封闭、重复的状态跃迁之中。
+成长从不是沿着地位、赞誉或刻板道德完美等既有坐标轴去优化冻结的图标，而是在感知中心于每一步重新渲染其投射仪器的过程中，持续收窄过剩形象滞后，使探针与活的场域保持对齐。每当一个中心拒绝重新渲染其保留的参照，它就钳死了自己的反馈回路，将自身困在[决定论机器](../the-deterministic-machine/)所剖析的封闭、重复的状态跃迁之中。
 
 Growth is never the optimization of a frozen icon along the existing axes of status, praise, or rigid moral perfection; it is the continuous narrowing of excess Image lag as the perceiving center re-renders its projected instrument at each step, keeping the probe aligned with the living field. Whenever a center refuses to re-render its retained reference, it clamps its own feedback loop shut and traps itself inside the closed, repetitive state transitions dissected in [The Deterministic Machine](../the-deterministic-machine/).
 

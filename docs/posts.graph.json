@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-23T13:39:28.397Z",
+    "generated_at": "2026-11-23T14:31:46.890Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -71,7 +71,7 @@
       "content/posts/curiosity-has-no-final-form.md": "100335def2de",
       "content/posts/cybersecurity-arms-race.md": "be1bf3d1f44c",
       "content/posts/data-is-local-intelligence-is-allocated.md": "020cfd693da3",
-      "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "dab74f0abaf2",
+      "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "96ad76ec209c",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "8b0479c7311d",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "9f8bcbd44c69",
       "content/posts/differentiation-and-the-appearance-of-negation.md": "0a7d8d3c7a5a",
@@ -88,7 +88,7 @@
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "b2f86b2c938b",
       "content/posts/eternally-wrong-questions-that-haunt-practice.md": "5be80163c785",
       "content/posts/every-limitation-is-self-limitation.md": "b32af09836ce",
-      "content/posts/everything-is-changing-as-always.md": "ef77f674af21",
+      "content/posts/everything-is-changing-as-always.md": "0a29a79b4870",
       "content/posts/evil-as-projected-resistance.md": "0fbf3620a2ff",
       "content/posts/evil-as-the-minds-own-creation.md": "b0b74bc7b0b2",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "99b62ab3d3f3",
@@ -282,7 +282,7 @@
       "content/posts/the-dual-cut.md": "df8dbcf83218",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "5fd5c9b7cedc",
       "content/posts/the-extendable-horizon.md": "b2ada327f796",
-      "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "835e210214f8",
+      "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "1dab3fa9644a",
       "content/posts/the-fallacy-of-post-success-parenting.md": "6c2609181de2",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "421e27d0cbc1",
       "content/posts/the-fixed-image-of-transcendence.md": "7c2e69a32cae",
@@ -303,7 +303,7 @@
       "content/posts/the-generative-topology-of-free-variables.md": "ec996ff7dc93",
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "5dd6c762a993",
       "content/posts/the-geometry-of-emergence.md": "2d50769c9847",
-      "content/posts/the-geometry-of-mind.md": "28db1559507b",
+      "content/posts/the-geometry-of-mind.md": "6c2c9b3f9747",
       "content/posts/the-geometry-of-success.md": "7e595bd2dce9",
       "content/posts/the-geometry-of-the-cut.md": "1fc2cc0a5e0c",
       "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "2cb811198b30",
@@ -337,7 +337,7 @@
       "content/posts/the-limitation-is-doing-work.md": "bdf4b71e4176",
       "content/posts/the-living-context.md": "f48e41a1b31f",
       "content/posts/the-local-shield-and-the-residual-lag.md": "344110f3b769",
-      "content/posts/the-local-trap-of-technological-change.md": "6b3f2ee344cd",
+      "content/posts/the-local-trap-of-technological-change.md": "05cdabe9b869",
       "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "a4b2df46f59c",
       "content/posts/the-loop-accelerates.md": "e148a32baf20",
       "content/posts/the-loop-that-cant-see-itself.md": "93b89204c643",
@@ -489,10 +489,10 @@
     },
     "stats": {
       "posts": 462,
-      "edges": 14234,
-      "unique_directed": 6998,
+      "edges": 14244,
+      "unique_directed": 7003,
       "missing_targets": 0,
-      "one_way": 1610,
+      "one_way": 1605,
       "isolated": 0,
       "posts_with_outbound": 462,
       "book_pages": 16,
@@ -866,7 +866,7 @@
       "path": "content/posts/accelerating-replacement-and-image-lag.md",
       "title": "加速替换与形象滞后 / Accelerating Replacement and Image Lag",
       "hash": "c6be17d82b08",
-      "in_degree": 0,
+      "in_degree": 5,
       "out_degree": 20,
       "links_out": [
         "the-scaffolding-that-keeps-growing",
@@ -2499,10 +2499,11 @@
       "slug": "deceleration-is-the-drag-felt-when-accelerating",
       "path": "content/posts/deceleration-is-the-drag-felt-when-accelerating.md",
       "title": "减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating",
-      "hash": "dab74f0abaf2",
+      "hash": "96ad76ec209c",
       "in_degree": 11,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
+        "accelerating-replacement-and-image-lag",
         "symptom-and-cause-in-the-narratives-of-progress",
         "moral-language-as-projection",
         "felt-resistance-and-the-speed-differential",
@@ -2905,14 +2906,15 @@
       "slug": "everything-is-changing-as-always",
       "path": "content/posts/everything-is-changing-as-always.md",
       "title": "万物一如既往地流变 / Everything Is Changing, as Always",
-      "hash": "ef77f674af21",
+      "hash": "0a29a79b4870",
       "in_degree": 5,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "the-scaffolding-we-forget",
         "claudes-constitution-analysis",
         "cybersecurity-arms-race",
-        "your-codebase-is-memory"
+        "your-codebase-is-memory",
+        "accelerating-replacement-and-image-lag"
       ]
     },
     {
@@ -8356,9 +8358,9 @@
       "slug": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "path": "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md",
       "title": "调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth",
-      "hash": "835e210214f8",
+      "hash": "1dab3fa9644a",
       "in_degree": 14,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "the-illusion-of-knowing-and-the-geometry-of-amputation",
         "the-mind-as-vector-and-coordinate-system",
@@ -8370,6 +8372,7 @@
         "beyond-the-projection",
         "the-reversal-of-verification",
         "your-codebase-is-memory",
+        "accelerating-replacement-and-image-lag",
         "felt-resistance-and-the-speed-differential",
         "individual-choices-as-the-only-causal-levers",
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
@@ -8890,9 +8893,9 @@
       "slug": "the-geometry-of-mind",
       "path": "content/posts/the-geometry-of-mind.md",
       "title": "心智的几何学 / The Geometry of Mind",
-      "hash": "28db1559507b",
+      "hash": "6c2c9b3f9747",
       "in_degree": 21,
-      "out_degree": 22,
+      "out_degree": 23,
       "links_out": [
         "the-boundary-of-the-frame",
         "time-is-causality-not-a-dimension",
@@ -8907,6 +8910,7 @@
         "beyond-the-projection",
         "the-continuum-is-a-modeling-convenience",
         "the-continuum-of-the-fold",
+        "accelerating-replacement-and-image-lag",
         "ownership-and-self-worthiness",
         "the-vector-and-the-puzzle-of-projections",
         "what-information-is",
@@ -9709,15 +9713,16 @@
       "slug": "the-local-trap-of-technological-change",
       "path": "content/posts/the-local-trap-of-technological-change.md",
       "title": "技术变革的局部陷阱 / The Local Trap of Technological Change",
-      "hash": "6b3f2ee344cd",
+      "hash": "05cdabe9b869",
       "in_degree": 8,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "the-average-is-residue-not-the-engine",
         "technology-is-residual-of-human-compounding",
         "your-codebase-is-memory",
         "the-illusion-of-free-intelligence",
         "deceleration-is-the-drag-felt-when-accelerating",
+        "accelerating-replacement-and-image-lag",
         "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future"
       ]
     },
@@ -26233,9 +26238,21 @@
     },
     {
       "from": "deceleration-is-the-drag-felt-when-accelerating",
+      "to": "accelerating-replacement-and-image-lag",
+      "rel": "points_to",
+      "label": "加速替换与形象滞后"
+    },
+    {
+      "from": "deceleration-is-the-drag-felt-when-accelerating",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
       "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "deceleration-is-the-drag-felt-when-accelerating",
+      "to": "accelerating-replacement-and-image-lag",
+      "rel": "points_to",
+      "label": "Accelerating Replacement and Image Lag"
     },
     {
       "from": "deceleration-is-the-drag-felt-when-accelerating",
@@ -28671,7 +28688,7 @@
       "from": "everything-is-changing-as-always",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "我们遗忘的脚手架"
+      "label": "遗忘的脚手架"
     },
     {
       "from": "everything-is-changing-as-always",
@@ -28714,6 +28731,18 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "everything-is-changing-as-always",
+      "to": "accelerating-replacement-and-image-lag",
+      "rel": "points_to",
+      "label": "加速替换与形象滞后"
+    },
+    {
+      "from": "everything-is-changing-as-always",
+      "to": "accelerating-replacement-and-image-lag",
+      "rel": "points_to",
+      "label": "Accelerating Replacement and Image Lag"
     },
     {
       "from": "evil-as-projected-resistance",
@@ -66121,6 +66150,18 @@
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "to": "accelerating-replacement-and-image-lag",
+      "rel": "points_to",
+      "label": "加速替换与形象滞后"
+    },
+    {
+      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "to": "accelerating-replacement-and-image-lag",
+      "rel": "points_to",
+      "label": "Accelerating Replacement and Image Lag"
+    },
+    {
+      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "to": "felt-resistance-and-the-speed-differential",
       "rel": "points_to",
       "label": "阻力体感与速率差"
@@ -69574,6 +69615,18 @@
       "to": "the-continuum-of-the-fold",
       "rel": "points_to",
       "label": "The Continuum of the Fold"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "accelerating-replacement-and-image-lag",
+      "rel": "points_to",
+      "label": "加速替换与形象滞后"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "accelerating-replacement-and-image-lag",
+      "rel": "points_to",
+      "label": "Accelerating Replacement and Image Lag"
     },
     {
       "from": "the-geometry-of-mind",
@@ -74617,9 +74670,21 @@
     },
     {
       "from": "the-local-trap-of-technological-change",
+      "to": "accelerating-replacement-and-image-lag",
+      "rel": "points_to",
+      "label": "加速替换与形象滞后"
+    },
+    {
+      "from": "the-local-trap-of-technological-change",
       "to": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
       "rel": "points_to",
       "label": "一个可能的全自动交通未来的非定论预测"
+    },
+    {
+      "from": "the-local-trap-of-technological-change",
+      "to": "accelerating-replacement-and-image-lag",
+      "rel": "points_to",
+      "label": "Accelerating Replacement and Image Lag"
     },
     {
       "from": "the-local-trap-of-technological-change",

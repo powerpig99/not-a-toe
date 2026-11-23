@@ -12,7 +12,7 @@ Andrej Karpathy described using a coding agent to extract the eight-bit floating
 
 Whenever the distance between living intent and executable hardware is too wide to cross in a single stride, human minds build intermediate projections—assembly languages, compilers, software libraries, and institutional frameworks—each one a derivation path traced once for a general class of problems and frozen into reusable structure. Yet every frozen intermediate carries its own geometric weight: abstraction boundaries, compatibility shims for edge cases a specific caller will never hit, and coordination surfaces built to preserve the library's internal generality rather than solve the immediate question.
 
-当卡帕西的智能体剥离出那一百五十行代码时，它顺着既有实现追溯了底层的推导路径，剔除了所有仅服务于其他场景的兼容脚手架，重构出一条从底层原语直达目标运算的极简路径。百分之三的运行加速，正是卸下正交维度冗余重量后的物理印记：因为不再需要协调无关组件之间的交互表面，`torch.compile` 得以对一张更干净的计算图执行深度优化。这一刻标出了那个关键的跨越点：当推导媒介的密度足以直接走完从源头到具体问题的全程时，显式的中间层便从“必修的运行时依赖”退化为“可选的参考语境”，这一兴替机制正如[我们遗忘的脚手架](../the-scaffolding-we-forget/)、[名为 Claude 的投射](../claudes-constitution-analysis/)与[网络安全军备竞赛与感知范畴边界](../cybersecurity-arms-race/)所追踪的那样。
+当卡帕西的智能体剥离出那一百五十行代码时，它顺着既有实现追溯了底层的推导路径，剔除了所有仅服务于其他场景的兼容脚手架，重构出一条从底层原语直达目标运算的极简路径。百分之三的运行加速，正是卸下正交维度冗余重量后的物理印记：因为不再需要协调无关组件之间的交互表面，`torch.compile` 得以对一张更干净的计算图执行深度优化。这一刻标出了那个关键的跨越点：当推导媒介的密度足以直接走完从源头到具体问题的全程时，显式的中间层便从“必需的运行时依赖”退化为“可选的参考语境”，这一兴替机制正如[遗忘的脚手架](../the-scaffolding-we-forget/)、[名为 Claude 的投射](../claudes-constitution-analysis/)与[网络安全军备竞赛与感知范畴边界](../cybersecurity-arms-race/)所追踪的那样。
 
 ```mermaid
 flowchart TD
@@ -28,7 +28,7 @@ flowchart TD
         Minimal["贴合语境的当场推导 (+1)：从意图直达底层原语的 150 行极简路径"]
         Absorb --> Minimal
     end
-    Weight ==>|"跨越点：显式封装从必修依赖退化为可选参考语境"| Absorb
+    Weight ==>|"跨越点：显式封装从必需依赖退化为可选参考语境"| Absorb
     style S_Frozen fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Dense fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Bridge fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -62,7 +62,7 @@ flowchart TD
     style Minimal fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-## 二、 沉淀入权重的阶石与历史同构 / 2. Stepping Stones Absorbed into the Medium and Historical Isomorphism
+## 二、 沉淀入媒介的阶石与历史同构 / 2. Stepping Stones Absorbed into the Medium and Historical Isomorphism
 
 前沿模型的权重，配合[你的代码库即是记忆](../your-codebase-is-memory/)所剖析的外部化代码库，已经将成千上万个曾被前人走通的中间层——数值稳定性技巧、编译优化通道与数据类型惯例——压缩并内化为推导媒介本身的密度，而不再需要作为僵硬的外部包裹被整体搬运。每一轮新的工程实践之所以在体感上比上一轮更轻盈，并不是因为从硬件原语到具体问题之间的因果距离缩短了，而是因为心智借以穿行这段距离的媒介，已经把昨天的垫脚石消化成了脚下的地板。
 
@@ -74,9 +74,9 @@ The same crossover has repeated across every communication and computation subst
 
 ## 三、 观察者即是变化本身 / 3. The Observer Is the Change Observing Itself
 
-身处复利曲线上的任何一个点，“这一切正在改变所有事”的感叹听起来都格外迫切，因为观察者总是拿当下的增量去对照由上一轮沉淀下来的中间层所构成的静态基线。然而底层的生成活动从未发生品类上的改变：自我区分的活动持续投射出结构，将其吸纳进基底，再从加厚了的地板上迈向尚未被渲染的边缘。我们今天之所以能感知到更剧烈的增量，恰恰是因为前几轮的复利已经把我们的感知与分析器官锤炼得足以分辨更细腻的差值。
+身处复利曲线上的任何一个点，“这一切正在改变所有事”的感叹听起来都格外迫切，因为观察者总是拿当下的增量去对照由上一轮沉淀下来的中间层所构成的静态基线——由此登记下过剩形象滞后，正如[加速替换与形象滞后](../accelerating-replacement-and-image-lag/)所追溯的那样。然而底层的生成活动从未发生品类上的改变：自我区分的活动持续投射出结构，将其吸纳进基底，再从加厚了的地板上迈向尚未被渲染的边缘。我们今天之所以能感知到更剧烈的增量，恰恰是因为前几轮的复利已经把我们的感知与分析器官锤炼得足以分辨更细腻的差值。
 
-Declaring that "this changes everything" feels urgent at every point along a compounding curve because the observer measures the current increment against a baseline formed by the previous round's settled intermediates. Yet the generative operation has not changed in kind: self-distinguishing activity continues to project structures, absorb them into the substrate, and step out from the newly thickened floor toward the unrendered edge. We register a larger delta today because prior rounds of compounding equipped our perceptual and analytical instruments to resolve finer distinctions.
+Declaring that "this changes everything" feels urgent at every point along a compounding curve because the observer measures the current increment against a baseline formed by the previous round's settled intermediates—registering excess Image lag, as traced in [Accelerating Replacement and Image Lag](../accelerating-replacement-and-image-lag/). Yet the generative operation has not changed in kind: self-distinguishing activity continues to project structures, absorb them into the substrate, and step out from the newly thickened floor toward the unrendered edge. We register a larger delta today because prior rounds of compounding equipped our perceptual and analytical instruments to resolve finer distinctions.
 
 软件日益增强的可塑性，只是让这一恒常循环在当下这一轮里再次清晰显影的透镜。无论是智能体将臃肿的库提炼为一百五十行直达原语的精简代码，还是未来越过传统编译器直接生成优化后的机器指令，过往的垫脚石既不会被供奉为永恒的丰碑，也不会被当作废料抛弃——它们被消化为媒介的语境密度，使处在认知边缘的活生生心智得以同时向两端延伸：更深地回溯生成的源头，更远地劈开尚未被推导出的新边疆。
 

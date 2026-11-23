@@ -2,9 +2,9 @@
 
 *前沿以净增量复利，扩散在互补资本间滞后，局部的观察者便困在炒作与恐慌里 / Frontier compounding adds value; diffusion lags across complementary capital, trapping local observers in hype and panic.*
 
-技术革命从不以流行叙事所预言的那种平滑、均质的转变到来。它们一再造成一种结构上的分岔：一边是加速的前沿，以净增量的方式生成新的经济价值；一边是惯性庞大的旧运营底盘，缓慢地适应，要跨越几代人的时间才逐步退出。观察者一再落进局部的陷阱：要么把前沿的速度外推成瞬间全面替代的预测，要么把旧底盘的迟缓错当成什么都没变的证据。两种错误，都把一个局部的切片误认作技术传播的完整几何。
+技术革命并不以流行叙事所预言的那种平滑、均质的转变到来。它们一再造成一种结构上的分岔：一边是加速的前沿，以净增量的方式生成新的经济价值；一边是惯性庞大的旧运营底盘，缓慢地适应，只有随着互补资本重新配置才逐步退出。观察者一再落进局部的陷阱：要么把前沿的速度外推成瞬间全面替代的预测，要么把旧底盘的迟缓错当成什么都没变的证据。两种错误，都把一个局部的切片误认作技术传播的完整几何。
 
-Technological revolutions do not arrive as the smooth, homogeneous transformations popular narratives predict. Again and again they produce a structural bifurcation: an accelerating frontier that generates new economic value as net addition, and a vast inertial base of legacy operations that adapts slowly and is phased out only across generations. Observers keep falling into the local trap: extrapolating the frontier's speed into forecasts of instant total replacement, or taking the slowness of the legacy base as proof that nothing has changed. Both errors take a local slice for the whole geometry of technological propagation.
+Technological revolutions do not arrive as the smooth, homogeneous transformations popular narratives predict. Again and again they produce a structural bifurcation: an accelerating frontier that generates new economic value as net addition, and a vast inertial base of legacy operations that adapts slowly and is phased out only as complementary capital reconfigures. Observers keep falling into the local trap: extrapolating the frontier's speed into forecasts of instant total replacement, or taking the slowness of the legacy base as proof that nothing has changed. Both errors take a local slice for the whole geometry of technological propagation.
 
 ## 一、 分岔，前沿的增量与旧底盘的惯性 / 1. The Bifurcation, Frontier Addition Against Legacy Inertia
 
@@ -52,7 +52,7 @@ flowchart TD
     subgraph S_Base["惯性的旧底盘"]
         direction TB
         B1["流程、资产、监管与习惯"]
-        B2["几十年的互补资本投入"]
+        B2["互补资本缓慢重新配置"]
     end
     subgraph S_Trap["局部样本的陷阱"]
         direction TB
@@ -86,7 +86,7 @@ flowchart TD
     subgraph S_Base["The inertial legacy base"]
         direction TB
         B1["Workflows, assets, regulation and habits"]
-        B2["Decades of complementary capital"]
+        B2["Slow complementary-capital reconfiguration"]
     end
     subgraph S_Trap["The local sample trap"]
         direction TB
@@ -122,6 +122,6 @@ Seeing this clearly calls for neither panic at total disruption nor reactionary 
 
 The propagation of technological power works as a persistent structural split across three linked dimensions. First, frontier value is additive: the frontier creates new domains, expanding total social capacity far faster than it subtracts existing jobs. Second, diffusion is bound to complementary capital: retraining human habits, redesigning organizations and updating legal frameworks move at biological and social speeds, not at the speed of compute. Third, deceleration is diagnostic drag: the institutional hesitation and slowness that fast-moving technologies meet are not malicious sabotage but the natural hydrodynamic resistance of a high-inertia medium. [Deceleration Is the Drag Felt When Accelerating](../deceleration-is-the-drag-felt-when-accelerating/) maps this physics: drag grows with the square of speed, serving as diagnostic sensor data for where complementary scaffolding is still needed.
 
-认出局部的陷阱，视角就恢复了。前沿会继续它陡峭的上升，在边缘生成大量新的财富与能力，而旧底盘通过耐心的、跨越几十年的过渡去适应。[一个可能的全自动交通未来的非定论预测](../non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future/)说明了这种非线性的扩张：用旧汽车的销量单位去量自动驾驶车队，会错过新激活的出行需求那一个数量级的扩张。避开局部陷阱的心智，既不害怕瞬间的过时，也不否认前沿；它只是把注意力放在复利正在发生的鲜活边缘上。
+认出局部的陷阱，视角就恢复了。前沿会继续它陡峭的上升，在边缘生成大量新的财富与能力，而旧底盘随着多中心互补资本重新配置而适应——比前沿复利慢上几个数量级，即便更快的替换同时把多代缓冲坍缩进单一职业生涯之内，并在嵌套的更新速度间让过剩形象滞后倍增，正如[加速替换与形象滞后](../accelerating-replacement-and-image-lag/)所追溯的那样。[一个可能的全自动交通未来的非定论预测](../non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future/)说明了这种非线性的扩张：用旧汽车的销量单位去量自动驾驶车队，会错过新激活的出行需求那一个数量级的扩张。避开局部陷阱的心智，既不害怕瞬间的过时，也不否认前沿；它只是把注意力放在复利正在发生的鲜活边缘上。
 
-Recognizing the local trap restores perspective. The frontier will go on with its steep climb, generating great new wealth and capability at the edge, while the legacy base adapts through a patient transition over decades. [Non-Definitive Forecast of a Possible Fully Autonomous Transportation Future](../non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future/) shows this non-linear expansion: measuring autonomous fleets in units of legacy car sales misses the order-of-magnitude expansion of newly activated travel demand. The Mind that avoids the local trap neither fears instant obsolescence nor denies the frontier; it simply puts its attention on the living edge where compounding takes place.
+Recognizing the local trap restores perspective. The frontier will go on with its steep climb, generating great new wealth and capability at the edge, while the legacy base adapts as multi-center complementary capital reconfigures—orders of magnitude more slowly than frontier compounding, even as faster replacement collapses the multi-generational buffer inside a single career and multiplies excess Image lag across nested update speeds, as [Accelerating Replacement and Image Lag](../accelerating-replacement-and-image-lag/) traces. [Non-Definitive Forecast of a Possible Fully Autonomous Transportation Future](../non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future/) shows this non-linear expansion: measuring autonomous fleets in units of legacy car sales misses the order-of-magnitude expansion of newly activated travel demand. The Mind that avoids the local trap neither fears instant obsolescence nor denies the frontier; it simply puts its attention on the living edge where compounding takes place.
