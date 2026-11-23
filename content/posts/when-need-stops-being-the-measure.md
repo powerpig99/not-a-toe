@@ -2,9 +2,9 @@
 
 *独立与依然想在孩子生命中重要的愿望，是同一份持续关怀的两次登记——退场的脚手架与演进的联结——直到“被需要”被冻结为关系的计分牌。 / Independence and the wish to matter are one continuous care registered twice—scaffolding that leaves and a bond that evolves—until need is frozen as the score.*
 
-为人父母很容易立志培养坚强、独立的孩子，却又感到每一个仍想对孩子而言举足轻重的愿望都与这一初衷相悖。那个“却”字竖起了两个彼此对立的靶心：一边是孩子日益增长的能力，另一边是父母仍想保持不可或缺的愿望。一旦划下这道切口，任何仍渴望保持联结的冲动，看起来都像是在暗中破坏父母原本期许的独立。这道切口并不必要。两种动向源于同一份关怀。独立并不是抹去关系场的制成品，而是关系场内部的新构型。需要是强制的；想要是自愿的。当孩子摆脱早先的依附时——无论此后他们是否选择留在身边——关怀便抵达了最清晰的成全。
+为人父母很容易立志培养坚强、独立的孩子，却又感到每一个仍想对孩子而言举足轻重的愿望都与这一初衷相悖。那个“却”字把“重要”等同于“被需要”，从而竖起了两个彼此对立的靶心：一边是孩子日益增长的能力，另一边是父母想对孩子重要的愿望。一旦划下这道切口，任何仍渴望保持联结的冲动，看起来都像是在暗中破坏父母原本期许的独立。这道切口并不必要。两种动向源于同一份关怀。独立并不是抹去关系场的制成品，而是关系场内部的新构型。需要是强制的；想要是自愿的。当孩子摆脱早先的依附时——无论此后他们是否选择留在身边——关怀便抵达了最清晰的成全。
 
-It is easy for a parent to set out to raise strong, independent children, and then to feel that every desire still to matter to them contradicts that aim. The "yet" installs two opposing targets: the child's growing competence on one side, the parent's wish to remain essential on the other. Once that cut is made, any impulse that still wants contact begins to look like sabotage of the independence the parent aimed at. The cut is unnecessary. Both movements arise from the same care. Independence is not a finished product that erases the relational field; it is a new configuration inside it. Need is compulsory; wanting is voluntary. Care reaches its clearest success when the child is free of the earlier dependence—whether or not they then choose to stay near.
+It is easy for a parent to set out to raise strong, independent children, and then to feel that every desire still to matter to them contradicts that aim. The "yet" installs two opposing targets by equating mattering with being needed: the child's growing competence on one side, the parent's wish to matter on the other. Once that cut is made, any impulse that still wants contact begins to look like sabotage of the independence the parent aimed at. The cut is unnecessary. Both movements arise from the same care. Independence is not a finished product that erases the relational field; it is a new configuration inside it. Need is compulsory; wanting is voluntary. Care reaches its clearest success when the child is free of the earlier dependence—whether or not they then choose to stay near.
 
 ## 一、 冻结两个目标的“却”字 / 1. The "Yet" That Freezes Two Aims
 
@@ -12,9 +12,9 @@ It is easy for a parent to set out to raise strong, independent children, and th
 
 The ordinary sentence runs: we want strong, independent kids, *yet* we still want to feel needed by them.
 
-正是那个“却”字执行了压缩。它把孩子的能力与父母自身的重要感当成一块两极对立的计分牌——仿佛在独立上每增一分，都是在不可或缺的位置上减一分；仿佛每一次仍想保持不可或缺的愿望，都是对独立的苛扣。一旦这两条轴共用同一具量器，后续的行动就只能在冲突内部排布。原本可以卸下的脚手架，登记为对联结的抛弃；留在附近的冲动，登记为拒绝放手。关怀看起来像是在与自身搏斗。
+正是那个“却”字执行了压缩。它把“重要”坍缩为“被需要”，将孩子的能力与父母自身的重要感当成一块两极对立的计分牌——仿佛在独立上每增一分，都是对联结的减损；仿佛每一个想对孩子重要的愿望，都是对独立的苛扣。一旦这两条轴共用同一具量器，后续的行动就只能在冲突内部排布。原本可以卸下的脚手架，登记为对联结的抛弃；留在附近的冲动，登记为拒绝放手。关怀看起来像是在与自身搏斗。
 
-That "yet" performs the compression. It treats the child's competence and the parent's sense of mattering as if they were one scoreboard with opposite poles—as if every gain on independence were a loss on essential place, and every wish to remain essential were a tax on independence. Once those axes share a single instrument, later acts can only pattern inside the conflict. Scaffolding that could be released registers as abandonment of the bond. The impulse to stay near registers as refusal to let go. Care appears to fight itself.
+That "yet" performs the compression. By collapsing mattering into being needed, it treats the child's competence and the parent's sense of mattering as if they were one scoreboard with opposite poles—as if every gain on independence were a loss to the bond, and every wish to matter were a tax on independence. Once those axes share a single instrument, later acts can only pattern inside the conflict. Scaffolding that could be released registers as abandonment of the bond. The impulse to stay near registers as refusal to let go. Care appears to fight itself.
 
 这场冲突是由量器制造出来的。能力与重要感起初位于彼此独立的轴上。把它们强行压进同一组对立，是以常识面目出现的容量坍缩：原本可以分立的区分被压成同一个读数。感到撕裂的父母并不是发现了养育的悲剧结构，而是透过一道本无必要的切口去解读两种动向。
 
