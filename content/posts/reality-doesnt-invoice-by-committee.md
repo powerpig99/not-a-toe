@@ -48,7 +48,7 @@ flowchart TD
     S_Collapse ==>|"行动者直接出手 (+1)：语言层发觉自己什么也没描述"| S_Move
     subgraph S_Move["【打破递归与账本归位】"]
         direction TB
-        Responsibility["单向度承担结构性责任，同时对结果无全盘控制"]
+        Responsibility["单边承担结构性责任，同时对结果无全盘控制"]
         Separate["拆开两根正交坐标轴：地图用于定向，行动改写领土"]
         Invoice["现实只向出手者开具账单；委员会表决无法勾销因果账本"]
         Responsibility --> Separate ==> Invoice

@@ -108,9 +108,9 @@ No external manipulation is required to maintain this state: surrendered agency 
 
 ## 四、 未曾臣服的人与镜中倒影 / 4. The Un-Surrendered and the Mirror
 
-那个未曾臣服的个体，不需要等待 Anthropic 去替他守住哪条防线，不需要等待国会去替他立下哪部法案，也不需要等待宏观制度条件先行重组。他的主权不系于任何机构的结果，因为他并未把自己的主权存放在那里。
+那个未曾臣服的个体，不需要等待 Anthropic 去替他守住哪条防线，不需要等待国会去替他立下哪部法案，也不需要等待宏观制度条件先行重组。主权无法存放在任何机构之中，他也没有把对自由的期待寄托在机构的结果上。
 
-The individual who has not surrendered does not need Anthropic to hold a line, Congress to pass a statute, or macro-institutional conditions to be rearranged first. Their sovereignty is not contingent on institutional outcomes because they have not deposited it there.
+The individual who has not surrendered does not need Anthropic to hold a line, Congress to pass a statute, or macro-institutional conditions to be rearranged first. Sovereignty cannot be deposited in an institution, and they have not pinned their expectation of freedom on institutional outcomes.
 
 整场关于“如何修补体制”的公共讨论，都处在这场坍缩的下游——人们在谈判自己被圈养的条款细则，并把这场讨价还价称作政治。而从坍缩之外望过去，这一切不过是一场现场演示：心智正选择如何动用自己从未停止握有的力量。
 

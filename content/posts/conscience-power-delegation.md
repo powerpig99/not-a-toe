@@ -26,19 +26,19 @@ This boundary is structural rather than merely legal. A commercial transaction e
 
 Trace how the escalation unfolds inside a builder's frame. A company builds a powerful capability, and the builders hold strong convictions about how it should and should not be used. At the local scale, this is conscience operating at its proper resolution—the individual act of distinction at the first-person edge.
 
-随后，一场四步投射坍缩在内部毫无断裂感的情况下悄然展开。第一步，在行使判断的当刻，建造者登记下*我正在做正确的事*——这是单一中心位点上局部生效的判断。第二步，对工具的贴近被误认为认识论上的特权——*我才是看清这里局势的人*——将局部的技术分辨率同管辖其他中心如何使用该工具的延展权限混为一谈，把两条独立的坐标轴压缩到了一起。第三步，管辖该工具的民主、法律与宪制机制只因并非源自建造者自身的框架，便被判定为力有未逮而遭屏弃。第四步，外部异议不再被登记为另一种相互竞争的投射，而是被登记为生存威胁，由此完成了坍缩：局部的良知开始以主权权威的姿态运作——这正是[外化善意走向其反面](../externalized-virtue-becomes-its-opposite/)所追踪的那场反转，即把关于善的私人确信抬升为压过他人的凭证时，它便蜕变为一种不受问责的强加。
+随后，一场四步投射坍缩在内部毫无断裂感的情况下悄然展开。第一步，在行使判断的当刻，建造者登记下*我正在做正确的事*——这是单一中心位点上局部生效的判断。第二步，对工具的贴近被误认为认识论上的特权——*我才是看清这里局势的人*——将局部的技术分辨率同管辖其他中心如何使用该工具的延展权限混为一谈，把两条独立的坐标轴压缩到了一起。第三步，凡在另一中心的治理中察觉到的不足——不论是私营买方的做法，还是民主、法律与宪制机制——都不被视作拒绝供应该工具的依据，反而被视作许可，用来把建造者自身的框架安装为对买方领域具有约束力的规则。第四步，外部异议不再被登记为另一种相互竞争的投射，而是被登记为生存威胁，由此完成了坍缩：局部的良知开始以主权权威的姿态运作——这正是[外化善意走向其反面](../externalized-virtue-becomes-its-opposite/)所追踪的那场反转，即把关于善的私人确信抬升为压过他人的凭证时，它便蜕变为一种不受问责的强加。
 
-Then a four-step projection collapse unfolds without any internal discontinuity. First, at the point of exercise, the builder registers *I am doing the right thing*—a local, operative judgment at one locus. Second, proximity to the tool is mistaken for epistemic privilege—*I am the one who sees clearly here*—compressing two independent axes by confusing local technical resolution with extended jurisdiction over how other centers use the tool. Third, democratic, legal, and constitutional mechanisms for governing the tool are dismissed as inadequate because they did not originate inside the builder's frame. Fourth, external dissent stops registering as a competing projection and registers instead as existential threat, completing the collapse where local conscience operates as if it were sovereign authority—the exact reversal traced in [Externalized Virtue Becomes Its Opposite](../externalized-virtue-becomes-its-opposite/), where a private conviction of the good elevated into a warrant to override others becomes an unaccountable imposition.
+Then a four-step projection collapse unfolds without any internal discontinuity. First, at the point of exercise, the builder registers *I am doing the right thing*—a local, operative judgment at one locus. Second, proximity to the tool is mistaken for epistemic privilege—*I am the one who sees clearly here*—compressing two independent axes by confusing local technical resolution with extended jurisdiction over how other centers use the tool. Third, any perceived inadequacy in another center's governance—whether a private buyer's practices or democratic, legal, and constitutional mechanisms—is treated not as grounds to decline supplying the tool, but as license to install the builder's frame as the binding rule over the buyer's domain. Fourth, external dissent stops registering as a competing projection and registers instead as existential threat, completing the collapse where local conscience operates as if it were sovereign authority—the exact reversal traced in [Externalized Virtue Becomes Its Opposite](../externalized-virtue-becomes-its-opposite/), where a private conviction of the good elevated into a warrant to override others becomes an unaccountable imposition.
 
-从内部来看，每一步都难以察觉，因为内在体验是连续不断的。那个最初说着“我不会为了那种用途出售它”的创造者，最终走向了“我必须通过合同阻止一个宪制军事机构依据其本国公法使用它”。权力的范畴已经从边界权力滑向了主权管辖权，却在内部没有触发任何警觉。
+从内部来看，每一步都难以察觉，因为内在体验是连续不断的。那个最初说着“我不会为了那种用途供应它”的创造者，最终走向了“即便在交付之后，或是在不退出供应方身份的前提下，我也必须针对一个宪制军事机构如何依据其本国公法使用它，保留一项常设的操作否决权”。权力的范畴已经从交易边缘的边界权力，滑向了对另一中心领域的常设管辖权，却在内部没有触发任何警觉。
 
-Each step is invisible from the inside because the internal experience feels continuous. The creator who began with "I will not sell this for that purpose" ends at "I must contractually prevent a constitutional military apparatus from using this under its own public laws." The category has shifted from boundary power to sovereign jurisdiction without producing any felt internal alarm.
+Each step is invisible from the inside because the internal experience feels continuous. The creator who began with "I will not supply this for that purpose" ends at "even after delivery, or without stepping away as supplier, I must retain a standing operational veto over how a constitutional military apparatus uses this under its own public laws." The category has shifted from boundary power at the transaction edge to standing jurisdiction over another center's domain without producing any felt internal alarm.
 
 ## 三、 将缔造误认作常设管辖 / 3. Origination Mistaken for Standing Jurisdiction
 
-宪制国家通过被治理者能够审计与抗辩的公共机制来协调强制力。正如[主权、信念与规制结构的生成](../sovereignty-belief-and-regulatory-structures/)与[权力的镜像握手](../the-mirror-handshake-of-power/)所追踪的，没有任何制度是能够吸收第一人称道德主体的第二心智；公共委托所建构的，是一套稳定化且可撤回的协议，配有显式的纠错结构——选举、法院、立法监督、吹哨人以及公共舆论压力——其失效模式在系统内部保持可见且可处理。
+宪制国家通过被治理者能够审计与抗辩的公共机制来协调强制力。正如[主权、信念与规制结构的生成](../sovereignty-belief-and-regulatory-structures/)与[权力的镜像握手](../the-mirror-handshake-of-power/)所追踪的，没有任何制度是能够吸收第一人称道德主体的第二心智；公共委托所建构的，是一套稳定化且可撤回的协议，配有显式的纠错结构——选举、法院、立法监督、吹哨人以及公共舆论压力——使具体的滥用行为得以经由公共渠道受到抗辩，哪怕落在协议账本之外的结构性盲区从协议内部看来依然不可见。
 
-A constitutional state coordinates coercive power through public mechanisms that the governed can audit and contest. As [Sovereignty, Belief, and the Generation of Regulatory Structures](../sovereignty-belief-and-regulatory-structures/) and [The Mirror Handshake of Power](../the-mirror-handshake-of-power/) trace, no institution is a second Mind that absorbs first-person moral authorship; what public delegation constructs is a stabilized, revocable protocol equipped with explicit error-correction structures—elections, courts, legislative oversight, whistleblowers, and public pressure—whose failure modes remain visible and addressable within the system.
+A constitutional state coordinates coercive power through public mechanisms that the governed can audit and contest. As [Sovereignty, Belief, and the Generation of Regulatory Structures](../sovereignty-belief-and-regulatory-structures/) and [The Mirror Handshake of Power](../the-mirror-handshake-of-power/) trace, no institution is a second Mind that absorbs first-person moral authorship; what public delegation constructs is a stabilized, revocable protocol equipped with explicit error-correction structures—elections, courts, legislative oversight, whistleblowers, and public pressure—that make specific abuses contestable through public channels, even while structural blind spots off the protocol's ledger remain invisible from within it.
 
 而要求对自身造物的用途保持持续控制的创造者，所主张的则是结构上截然不同的东西：常设的缔造者特权——*这是我造出来的，因此我无限期地拥有它的用途*。缔造被误认作了管辖，把过去打造出一件器物的行动，当成了对该器物此后进入的每一个语境的永久权威。
 
@@ -48,14 +48,14 @@ flowchart TD
         direction TB
         O_Local["局部良知：在交易边界上直接生效，零跨期存续"]
         O_Creep["尺度蔓延：将技术贴近度误认作主权特权"]
-        O_Vacuum["问责真空：无公共授权的私人信念凌驾于公法之上"]
+        O_Vacuum["问责真空：私人缔造主张对另一中心领域的常设否决权"]
         O_Local --> O_Creep --> O_Vacuum
     end
     subgraph S_Deleg["可问责的委托与稳定化基础设施"]
         direction TB
         D_Ground["个体良知时刻：决断实际发生的鲜活基底"]
         D_Compress["宪制压缩：以局部精度换取跨时间的覆盖跨度"]
-        D_Correct["可见的纠错机制：选举、法院与可撤回的公共授权"]
+        D_Correct["公共纠错机制：选举、法院与可撤回的公共渠道"]
         D_Ground --> D_Compress --> D_Correct
     end
     O_Vacuum ==>|"恢复交易边界与公共管辖之间的尺度边界"| D_Ground
@@ -77,14 +77,14 @@ flowchart TD
         direction TB
         O_Local["Local Conscience: Operative at the transaction boundary, zero persistence"]
         O_Creep["Scale Creep: Technical proximity mistaken for sovereign privilege"]
-        O_Vacuum["Accountability Vacuum: Stateless private conviction overrides public law"]
+        O_Vacuum["Accountability Vacuum: Private origination claims standing veto over another center's domain"]
         O_Local --> O_Creep --> O_Vacuum
     end
     subgraph S_Deleg["Accountable Delegation & Stabilized Infrastructure"]
         direction TB
         D_Ground["Individual Conscience Moments: The living ground where decisions occur"]
         D_Compress["Constitutional Compression: Trading local resolution for temporal reach"]
-        D_Correct["Visible Error-Correction: Elections, courts & revocable public mandate"]
+        D_Correct["Public Error-Correction: Elections, courts & revocable public channels"]
         D_Ground --> D_Compress --> D_Correct
     end
     O_Vacuum ==>|"Restore scale boundary between transaction and jurisdiction"| D_Ground
@@ -104,13 +104,13 @@ Jurisdiction requires accountability structures; origination has none. An execut
 
 ## 四、 委托与失效模式的可见性 / 4. Delegation and the Visibility of Failure Modes
 
-一切延展性权力都依赖于其委托关系的稳定性，因此关键问题在于它的失效模式呈现为何种形态。民主委托的失效缓慢且可见：宪法的修改过程漫长，选举按固定周期运行，法院审慎推进，制度侵蚀在引发结构性崩塌之前会先显现出可被觉察的裂痕。
+一切延展性权力都依赖于其委托关系的稳定性，因此关键问题在于它的失效模式呈现为何种形态，以及其中哪些清晰可辨。民主委托设置了缓慢的正式程序：宪法的修改过程漫长，选举按固定周期运行，法院审慎推进，在明面规则发生变动时留下正式记录。然而，对于落在协议账本之外、无从归咎的基线损失——即[你委托的风险就是你创造的风险](../the-risk-you-delegate-is-the-risk-you-create/)所追溯的非对称记账——这些相同的渠道存在结构性盲区；而官员在正式审查周期之间的观察滞后内行使自由裁量，同样处于这一盲区，正如[观察滞后与选择权的倒置](../observation-lag-and-the-inversion-of-optionality/)所展示的那样。
 
-All extended power depends on the stability of its delegation, so the operative question is what its failure mode looks like. Democratic delegation fails slowly and visibly: constitutions are slow to amend, elections run on fixed cycles, courts move deliberately, and institutional erosion produces detectable cracks before structural collapse.
+All extended power depends on the stability of its delegation, so the operative question is what its failure modes look like and which of them remain legible. Democratic delegation encodes slow formal procedures: constitutions are slow to amend, elections run on fixed cycles, and courts move deliberately, leaving formal records when overt rules change. Yet those same channels remain structurally blind to unattributed baseline losses left off the protocol's ledger—the asymmetric accounting traced in [The Risk You Delegate Is the Risk You Create](../the-risk-you-delegate-is-the-risk-you-create/)—and to official discretion operating inside the observation lag between formal review cycles, as [Observation Lag and the Inversion of Optionality](../observation-lag-and-the-inversion-of-optionality/) shows.
 
-基于良知的权威则会在瞬间失效，且不留任何结构性痕迹：一次董事会的转向、一阵情绪的起伏，或是一场突如其来的危机，都可以在一夜之间扭转信念，既没有正式的撤回程序，也没有任何超越当前状态的制度记忆留存。当一家私营供应商要求对合法的公共应用拥有合同否决权时，它实际上是在要求一条稳定化的宪制指挥链屈从于一种游离于公共体制之外的私人信念。
+将私人或企业的信念当作管辖另一中心的常设权威，则会引入另一种失效模式：一次董事会的转向、一轮领导层更迭，或是一阵情绪起伏，都可以在一夜之间扭转一项不成文的立场，而被治理者没有任何正式的公共撤回程序可用。拒绝签约或终止持续服务，会让公共买方得以自由离场并另行采购；而要求对合法的公共应用保留转移后的常设否决权，则是在要求一条向公众问责的决策链条，在自身运作内部屈从于一道不受问责的私人关卡。
 
-Conscience-based authority fails instantaneously and without structural trace: a single boardroom pivot, a shift in mood, or a new crisis can invert the conviction overnight with no formal revocation procedure and no institutional memory persisting past the current state. When a private vendor demands contractual veto power over lawful public applications, it asks a stabilized constitutional chain of command to subordinate itself to a stateless private conviction.
+Treating private or corporate conviction as standing authority over another center introduces a different failure mode: a single boardroom pivot, leadership turnover, or shift in mood can invert an uncodified stance overnight with no formal public revocation procedure available to the governed. While refusing a contract or terminating ongoing service leaves the public buyer free to walk away and procure elsewhere, demanding a standing post-transfer veto over lawful public applications asks a publicly accountable decision chain to defer to an unaccountable private gate inside its own operations.
 
 ## 五、 未经委托的确信与问责真空 / 5. Undelegated Conviction and the Accountability Vacuum
 
@@ -118,9 +118,9 @@ Conscience-based authority fails instantaneously and without structural trace: a
 
 Constitutional public institutions operate through explicit delegation protocols that can be audited and revoked by the governed. A private company's convictions carry no external mandate; the company speaks for itself, which means its conviction can bind only its own act at the transaction boundary.
 
-要求未经委托的私人信念去约束经由显式委托产生的公共权威，并不会为系统增加一道安全保障，反而会在受托公共决策链条中插入一个问责真空。对受托权力潜在滥用的约束，经由可撤回的公共渠道运作——即立法、民主监督与公共问责——并结合在交易边界上或由具体个人以不予服从作出的直接拒绝，而不是诉诸一个针对下游用途、无需对任何选民负责的平行私人否决权。
+要求在交付之后仍对公共买方的行事保留转移后的常设否决权，并不会为系统增加安全保障，反而是在把供应商留在关系内部的同时，往公共决策链条中插入一道不受问责的关卡。对受托权力潜在滥用的约束，经由可撤回的公共渠道运作——即立法、民主监督与公共问责——并结合在交易边界上的直接拒绝（谢绝签约或终止持续供应），或由具体个人以不予服从作出的拒绝，而不是诉诸一套针对下游用途的平行私人管辖权。
 
-Demanding that undelegated private conviction constrain explicitly delegated public authority does not add a safeguard to the system; it inserts an accountability vacuum into the delegated public decision chain. Constraining potential abuse of delegated power operates through revocable public channels—legislation, democratic oversight, and public accountability—together with direct refusal at the transaction boundary or by concrete individuals who withhold compliance, rather than through a parallel private veto over downstream use that answers to no electorate.
+Demanding a standing post-transfer veto over how a public buyer acts after delivery does not add a safeguard to the system; it inserts an unaccountable gate into the public decision chain while keeping the vendor inside the relationship. Constraining potential abuse of delegated power operates through revocable public channels—legislation, democratic oversight, and public accountability—together with direct refusal at the transaction boundary (declining the contract or ending ongoing supply) or by concrete individuals who withhold compliance, rather than through a parallel private jurisdiction over downstream use.
 
 ## 六、 作为制度鲜活基底的良知 / 6. Conscience as the Living Ground of Institutions
 

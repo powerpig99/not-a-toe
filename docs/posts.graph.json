@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-23T06:05:26.074Z",
+    "generated_at": "2026-11-23T06:27:57.291Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -57,10 +57,10 @@
       "content/posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback.md": "4123dcb54c8e",
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "40dc83513705",
       "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "3ee39b72b431",
-      "content/posts/conscience-power-delegation.md": "1cdeec03334e",
+      "content/posts/conscience-power-delegation.md": "f8e45c987bca",
       "content/posts/consciousness-ascription-and-the-quantum-cut.md": "f80aec44d679",
       "content/posts/consciousness-never-appears-as-data-among-data.md": "c0e6de4b4028",
-      "content/posts/constraints_are_ground.md": "f2e6b942deb8",
+      "content/posts/constraints_are_ground.md": "ca74036b260a",
       "content/posts/context-engineering-essay.md": "b551944fbba4",
       "content/posts/continuous-learning-as-expression-and-simulation.md": "9ce5608bf474",
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "d399e29f1ee7",
@@ -95,7 +95,7 @@
       "content/posts/extended-cognition-refined.md": "8663360999f2",
       "content/posts/extension-and-shift.md": "bdb72c646856",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "a0c1f4787547",
-      "content/posts/externalizing-unmet-drive-as-the-pathology-of-growth.md": "925cb27c792b",
+      "content/posts/externalizing-unmet-drive-as-the-pathology-of-growth.md": "1b67cba46a93",
       "content/posts/failure-as-information.md": "11a236cd7faa",
       "content/posts/fate-loves-irony-refined.md": "588c29686b20",
       "content/posts/felt-resistance-and-the-speed-differential.md": "e240aea1b76a",
@@ -147,7 +147,7 @@
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "1a34f9ee3e60",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "838280739a81",
       "content/posts/minimizing-path.md": "818c9dd4041e",
-      "content/posts/mises-state-analysis.md": "bad1b8f579b1",
+      "content/posts/mises-state-analysis.md": "6690c568a71b",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "525ef81069b4",
       "content/posts/mistaking-the-symptom-of-stability-for-its-source.md": "fa72061ad8e4",
       "content/posts/moral-language-as-projection.md": "06388db8d0ab",
@@ -197,7 +197,7 @@
       "content/posts/public-spending-does-not-create-capital.md": "ff04541bddf9",
       "content/posts/qian-yin-hou-guo.md": "ae8884412d19",
       "content/posts/rationality-never-travels-across-the-mind.md": "3cb2e68dd3f2",
-      "content/posts/reality-doesnt-invoice-by-committee.md": "86aa65056254",
+      "content/posts/reality-doesnt-invoice-by-committee.md": "a8efdcf67130",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "812768c94db5",
       "content/posts/rebellion-as-symptom-not-property.md": "ed414a5f0b75",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "c12a17f1cc71",
@@ -220,7 +220,7 @@
       "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "183dc873c675",
       "content/posts/simplicity-ultimate-sophistication.md": "9039597a8e48",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "9d04c6b1c923",
-      "content/posts/sovereignty-essay.md": "94143b619076",
+      "content/posts/sovereignty-essay.md": "6d9d5e4776da",
       "content/posts/sowell-observed-the-surface-problem.md": "2e05a3324cf6",
       "content/posts/stability-and-excess.md": "3716de403f10",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "850d1dfdfbc2",
@@ -372,7 +372,7 @@
       "content/posts/the-power-law-of-surrendered-agency.md": "a4582f2f0865",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "ece261d40134",
       "content/posts/the-price-of-closing-optionality.md": "6de4077a2517",
-      "content/posts/the-question-that-installs-the-war.md": "63e4ec243e36",
+      "content/posts/the-question-that-installs-the-war.md": "4ec26a537ad9",
       "content/posts/the-ramble-within-the-ramble.md": "0fc8e5f33d89",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "6295fda97469",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "d7e470aaf1fb",
@@ -488,10 +488,10 @@
     },
     "stats": {
       "posts": 461,
-      "edges": 14182,
-      "unique_directed": 6972,
+      "edges": 14186,
+      "unique_directed": 6974,
       "missing_targets": 0,
-      "one_way": 1584,
+      "one_way": 1586,
       "isolated": 0,
       "posts_with_outbound": 461,
       "book_pages": 16,
@@ -2120,14 +2120,16 @@
       "slug": "conscience-power-delegation",
       "path": "content/posts/conscience-power-delegation.md",
       "title": "良知、委托与管辖权错位 / Conscience, Delegation, and the Jurisdiction Error",
-      "hash": "1cdeec03334e",
+      "hash": "f8e45c987bca",
       "in_degree": 3,
-      "out_degree": 8,
+      "out_degree": 10,
       "links_out": [
         "the-orthogonal-refusal",
         "externalized-virtue-becomes-its-opposite",
         "sovereignty-belief-and-regulatory-structures",
         "the-mirror-handshake-of-power",
+        "the-risk-you-delegate-is-the-risk-you-create",
+        "observation-lag-and-the-inversion-of-optionality",
         "your-codebase-is-memory",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "sovereignty-essay",
@@ -2199,7 +2201,7 @@
       "slug": "constraints_are_ground",
       "path": "content/posts/constraints_are_ground.md",
       "title": "约束即基底与作为平台的个体 / Constraints Are Ground",
-      "hash": "f2e6b942deb8",
+      "hash": "ca74036b260a",
       "in_degree": 6,
       "out_degree": 4,
       "links_out": [
@@ -3101,7 +3103,7 @@
       "slug": "externalizing-unmet-drive-as-the-pathology-of-growth",
       "path": "content/posts/externalizing-unmet-drive-as-the-pathology-of-growth.md",
       "title": "外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth",
-      "hash": "925cb27c792b",
+      "hash": "1b67cba46a93",
       "in_degree": 0,
       "out_degree": 17,
       "links_out": [
@@ -4560,7 +4562,7 @@
       "slug": "mises-state-analysis",
       "path": "content/posts/mises-state-analysis.md",
       "title": "米塞斯论国家与强制力的向量和 / Mises on the State and the Vector Sum of Coercion",
-      "hash": "bad1b8f579b1",
+      "hash": "6690c568a71b",
       "in_degree": 1,
       "out_degree": 4,
       "links_out": [
@@ -5088,7 +5090,7 @@
       "path": "content/posts/observation-lag-and-the-inversion-of-optionality.md",
       "title": "观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality",
       "hash": "48ca1f4b438f",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 16,
       "links_out": [
         "mistaking-the-symptom-of-stability-for-its-source",
@@ -6062,7 +6064,7 @@
       "slug": "reality-doesnt-invoice-by-committee",
       "path": "content/posts/reality-doesnt-invoice-by-committee.md",
       "title": "现实不按委员会开账单 / Reality Doesn't Invoice by Committee",
-      "hash": "86aa65056254",
+      "hash": "a8efdcf67130",
       "in_degree": 1,
       "out_degree": 2,
       "links_out": [
@@ -6672,7 +6674,7 @@
       "slug": "sovereignty-essay",
       "path": "content/posts/sovereignty-essay.md",
       "title": "臣服作为错位的主权 / Surrender as Misaligned Sovereignty",
-      "hash": "94143b619076",
+      "hash": "6d9d5e4776da",
       "in_degree": 4,
       "out_degree": 3,
       "links_out": [
@@ -10606,7 +10608,7 @@
       "slug": "the-question-that-installs-the-war",
       "path": "content/posts/the-question-that-installs-the-war.md",
       "title": "安装战争的那个问题 / The Question That Installs the War",
-      "hash": "63e4ec243e36",
+      "hash": "4ec26a537ad9",
       "in_degree": 14,
       "out_degree": 14,
       "links_out": [
@@ -11144,7 +11146,7 @@
       "path": "content/posts/the-risk-you-delegate-is-the-risk-you-create.md",
       "title": "你委托的风险就是你创造的风险 / The Risk You Delegate Is the Risk You Create",
       "hash": "b9b1f9d77eb2",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 8,
       "links_out": [
         "sovereignty-belief-and-regulatory-structures",
@@ -23659,6 +23661,30 @@
       "to": "the-mirror-handshake-of-power",
       "rel": "points_to",
       "label": "The Mirror Handshake of Power"
+    },
+    {
+      "from": "conscience-power-delegation",
+      "to": "the-risk-you-delegate-is-the-risk-you-create",
+      "rel": "points_to",
+      "label": "你委托的风险就是你创造的风险"
+    },
+    {
+      "from": "conscience-power-delegation",
+      "to": "observation-lag-and-the-inversion-of-optionality",
+      "rel": "points_to",
+      "label": "观察滞后与选择权的倒置"
+    },
+    {
+      "from": "conscience-power-delegation",
+      "to": "the-risk-you-delegate-is-the-risk-you-create",
+      "rel": "points_to",
+      "label": "The Risk You Delegate Is the Risk You Create"
+    },
+    {
+      "from": "conscience-power-delegation",
+      "to": "observation-lag-and-the-inversion-of-optionality",
+      "rel": "points_to",
+      "label": "Observation Lag and the Inversion of Optionality"
     },
     {
       "from": "conscience-power-delegation",
@@ -40108,12 +40134,6 @@
     },
     {
       "from": "mises-state-analysis",
-      "to": "constraints_are_ground",
-      "rel": "points_to",
-      "label": "约束即基底与作为平台的个体"
-    },
-    {
-      "from": "mises-state-analysis",
       "to": "war-revolution-and-the-fall-of-empires",
       "rel": "points_to",
       "label": "War, Revolution, and the Fall of Empires"
@@ -40122,7 +40142,7 @@
       "from": "mises-state-analysis",
       "to": "constraints_are_ground",
       "rel": "points_to",
-      "label": "Constraints Are Ground"
+      "label": "约束即基底与作为平台的个体"
     },
     {
       "from": "mises-state-analysis",
@@ -40135,6 +40155,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "mises-state-analysis",
+      "to": "constraints_are_ground",
+      "rel": "points_to",
+      "label": "Constraints Are Ground"
     },
     {
       "from": "mises-state-analysis",

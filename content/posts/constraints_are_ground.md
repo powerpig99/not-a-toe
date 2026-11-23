@@ -2,9 +2,9 @@
 
 *制度只是有限带宽下行为收敛的涌现描述，唯有活生生的个体才是生成变化的基底平台。 / Institutions describe convergence under finite bandwidth, while the individual remains the sole platform.*
 
-每一个活生生的个体都是一切因果行动与变化的唯一策源地。常规的社会叙事之所以遮蔽了这一事实，是因为它把制度、组织与运动当成了能够自行决断、协调与施压的独立实体，将个体行为在宏观上的收敛图样误认作了独立的因果源头。
+活生生的个体是因果行动与变化仅有的策源地。常规的社会叙事之所以遮蔽了这一事实，是因为它把制度、组织与运动当成了能够自行决断、协调与施压的独立实体，将个体行为在宏观上的收敛图样误认作了独立的因果源头。
 
-Every living individual is the sole locus of causal action and change. Conventional social narratives obscure this by treating institutions, organizations, and movements as autonomous entities that decide, coordinate, and compel, mistaking a macroscopic description of converged individual behavior for an independent causal source.
+Living individuals are the only loci of causal action and change. Conventional social narratives obscure this by treating institutions, organizations, and movements as autonomous entities that decide, coordinate, and compel, mistaking a macroscopic description of converged individual behavior for an independent causal source.
 
 ## 一、 制度的实体化与有限带宽下的行为收敛 / 1. The Reification of Institutions and Behavioral Convergence under Finite Bandwidth
 
