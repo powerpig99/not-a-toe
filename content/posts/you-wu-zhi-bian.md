@@ -61,11 +61,11 @@ flowchart TD
     style E_Return fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The two operations differ in form, yet share the same starting point: positing being begins from non-being. If a ready-made being were already on hand, there would be no need to posit it. To posit is to acknowledge that nothing holds prior entitlement to serve as origin—set a being in place, use it, dissolve it, and return. Being is the borrowed instrument; non-being is where the hand starts. Beginning from non-being simply borrows less, or skips that intermediate step altogether. [What Is Metaphysics? As the Cut That Names the Seeking as Destination](../what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination/) marks this same threshold in philosophical inquiry: setting out from non-being means starting at the unauthored edge before any posited being is enthroned as ground, whereas nominalizing "Nothing" or "Being" into a standing philosophical theme freezes the seeking into a destination.
+The two operations differ in form, yet share the same starting point: positing being begins from non-being. If a ready-made being were already on hand, there would be no need to posit it. To posit is to acknowledge that nothing holds prior entitlement to serve as origin—set a being in place, use it, dissolve it, and return. Being is the borrowed instrument; non-being is where the hand starts. Beginning from non-being simply borrows less, or skips that intermediate step altogether. [What Is Metaphysics? As the Cut That Names the Seeking as Destination](../what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination/) marks this same threshold in philosophical inquiry: setting out from non-being means starting at the edge without prior authorization before any posited being is enthroned as ground, whereas nominalizing "Nothing" or "Being" into a standing philosophical theme freezes the seeking into a destination.
 
 ```mermaid
 flowchart TD
-    subgraph S_Origin["The Same Starting Point: Unauthored Activity"]
+    subgraph S_Origin["The Same Starting Point: Activity Without Prior Authorization"]
         direction TB
         O_Act["This Step of Distinguishing: No Pre-Given Ground Assumed"]
         O_Borrow["Path One (Borrow and Return): Posit Being as a Provisional Instrument, Dissolve and Return"]
