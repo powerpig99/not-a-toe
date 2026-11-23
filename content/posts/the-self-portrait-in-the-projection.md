@@ -123,7 +123,7 @@ flowchart TD
     direction TB
     L_HIGH["High-Dimensional Capacity<br/>Individualized Resonance Across Loci"]
     L_FIELD["Multidimensional Perception Field<br/>Beauty in All but No Identical Takes"]
-    L_SOV["First-Person Sovereign Valuation<br/>No Mind Possesses Authority to Judge"]
+    L_SOV["First-Person Sovereign Valuation<br/>No Mind Possesses Authority to Judge Others"]
   end
   L_HIGH -.->|"Scalar Dimensional Compression"| H_PROJ
   H_PROJ --> H_FREEZE
@@ -218,10 +218,9 @@ flowchart TD
   end
   M_PUPPET --> M_BLIND
   M_BLIND --> M_JUDGE
-  M_JUDGE -.->|"认识论觉醒"| O_BOUNDARY
+  M_JUDGE ==>|"认识论觉醒：跨越镜像闭环"| O_BOUNDARY
   O_BOUNDARY --> O_DIFF
   O_DIFF --> O_EXPAND
-  O_EXPAND ===>|"跨越镜像闭环"| M_PUPPET
   style S_MIRROR fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
   style S_OPEN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
   style M_PUPPET fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -250,10 +249,9 @@ flowchart TD
   end
   M_PUPPET --> M_BLIND
   M_BLIND --> M_JUDGE
-  M_JUDGE -.->|"Epistemic Awakening"| O_BOUNDARY
+  M_JUDGE ==>|"Epistemic Awakening: Overcoming Mirror Closure"| O_BOUNDARY
   O_BOUNDARY --> O_DIFF
   O_DIFF --> O_EXPAND
-  O_EXPAND ===>|"Overcoming Mirror Closure"| M_PUPPET
   style S_MIRROR fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
   style S_OPEN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
   style M_PUPPET fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
