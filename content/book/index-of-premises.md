@@ -1727,7 +1727,7 @@ The simulation hypothesis extrapolates from formal and computational isomorphism
 
 The Second Law of Thermodynamics and the Past Hypothesis model macroscopic time asymmetry as statistical entropy growth from a posited low-entropy initial boundary condition over time-reversible micro-laws, which is of use in heat engines, statistical mechanics, and cosmological modeling; they reach their boundary when a symmetric phase-space bookkeeping rule plus a retrospectively fitted initial boundary is asked to derive the irreversible step-by-step direction of causality that every measurement and memory record already presupposes.
 
-→ [时间之箭的伪悖论与对称模拟的边界 / The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation](../../posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation/) · [当电子开始思考 / When Electrons Think](../../posts/when-electrons-think/) · [感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding](../../posts/the-boundary-of-perception-and-the-infinity-of-understanding/)
+→ [时间之箭的伪悖论与对称模拟的边界 / The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation](../../posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation/) · [当电子开始思考 / When Electrons Think](../../posts/when-electrons-think/) · [感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding](../../posts/the-boundary-of-perception-and-the-infinity-of-understanding/) · [隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open](../../posts/boundary-of-the-isolation-idealization-and-the-non-closable-open/)
 
 ### 社会契约论 / Social Contract Theory
 `哲学 / Philosophical`
@@ -1943,7 +1943,7 @@ Compatibilism redefines free will as action aligned with an agent's internal des
 
 Evolutionary adaptationism often speaks of natural selection as an active chooser sculpting traits toward fitness, which stays useful as compact shorthand for tracking differential survival and reproduction across generations; the metaphor reaches its boundary when a retrospective statistical filter—borrowed from intentional human breeding with the breeder removed—is read back as a forward-looking causal agent.
 
-→ [悬而未决是决定论的索求 / The Open Question Is Determinism's Demand](../../posts/the-open-question-is-determinisms-demand/)
+→ [悬而未决是决定论的索求 / The Open Question Is Determinism's Demand](../../posts/the-open-question-is-determinisms-demand/) · [隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open](../../posts/boundary-of-the-isolation-idealization-and-the-non-closable-open/)
 
 ### 联合嵌入预测架构（JEPA） / Joint-Embedding Predictive Architecture (JEPA)
 `技术 / Technological`
@@ -2350,7 +2350,7 @@ AGI and ASI narratives set human-level parity and superhuman capability as fixed
 
 Cosmological extrapolation presumes that a locally invariant observational frame fitted with the constants ħ, c, and G holds as a universal law across all space and time; within its local range the fit yields high-precision predictions in orbital mechanics, eclipse forecasting, and clock synchronization, and it reaches its boundary when that local tangent-space fit is stretched along a drawn time axis into a global block universe, a Big Bang singularity, or a final heat death, mistaking the resolution, refresh rate, and horizon compensation of the measuring frame for an observer-free cosmos.
 
-→ [黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe](../../posts/the-black-and-white-sample-frame-and-the-extrapolated-universe/) · [双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer](../../posts/the-twin-paradox-and-the-hidden-observer/)
+→ [黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe](../../posts/the-black-and-white-sample-frame-and-the-extrapolated-universe/) · [双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer](../../posts/the-twin-paradox-and-the-hidden-observer/) · [隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open](../../posts/boundary-of-the-isolation-idealization-and-the-non-closable-open/)
 
 ### 非对称意识推断 / Asymmetric Consciousness Inference
 `哲学 / Philosophical`
@@ -3916,7 +3916,7 @@ Objectivity registers what remains invariant across distinct observers, measurem
 
 The presumption that equates consistency with the absence of contradiction inside a closed set of axioms or rules is of use in checking whether steps inside a chosen hold follow from prior steps without contradiction; it reaches its boundary when that closed reference is forced to serve as the exhaustive ground of an activity that continues past it, where contradiction arises between the closed reference and continuing distinction; held instead as an instrument re-rendered as distinguishing continues, the structure stays open, and that continuation is the consistency.
 
-→ [开放即一致 / Openness Is Consistency](../../posts/openness-is-consistency/) · [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/) · [自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution](../../posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/)
+→ [开放即一致 / Openness Is Consistency](../../posts/openness-is-consistency/) · [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/) · [自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution](../../posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/) · [隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open](../../posts/boundary-of-the-isolation-idealization-and-the-non-closable-open/)
 
 ### 乐观与悲观的钟摆极性 / Optimism-Pessimism Polarity
 `哲学 / Philosophical`
@@ -4078,7 +4078,7 @@ Saying an essay was "written by AI", defining authorship by token share, gauging
 
 Reading measurement limits, cosmological and event horizons, and singularities as edges of reality is of use in marking where registration reaches its bound or where an extrapolated formalism stops holding; it reaches its boundary in that these are bounds of an observer's access or of a temporary description, not demonstrated edges of the field, and what exceeds a finite description cannot be confirmed or disconfirmed in any final sense.
 
-→ [选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/) · [框架的边界 / The Boundary of the Frame](../../posts/the-boundary-of-the-frame/) · [投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality](../../posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/) · [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
+→ [选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/) · [框架的边界 / The Boundary of the Frame](../../posts/the-boundary-of-the-frame/) · [投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality](../../posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/) · [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/) · [隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open](../../posts/boundary-of-the-isolation-idealization-and-the-non-closable-open/)
 
 ### 肉体永生 / Physical Immortality
 `哲学 / Philosophical`
@@ -5673,3 +5673,13 @@ Image lag distinguishes the constitutive minimum one-step lag—a directional bo
 Carbon chauvinism names the presumption that living or conscious systems elsewhere must be composed of carbon compounds, a critique coined by Carl Sagan in astrobiology that stays useful for separating elemental chemistry from independent evolutionary lineages; it reaches its boundary when imported into artificial intelligence debates to collapse substrate chemistry with manner of arising, mistaking a human-built silicon extension of an already-moving edge for an independently evolved lineage while treating carbon form as the generator of consciousness rather than the residual path left behind by ongoing differentiation.
 
 → [碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension](../../posts/carbon-form-as-residual-path-silicon-as-extension/)
+
+
+### 耗散结构 / Dissipative Structures
+`科学 / Scientific`
+
+耗散结构刻画远离热力学平衡的开放子系统如何跨过边界汲取自由能并导出熵，以此维系局部组织——从薛定谔的自由能框架到普里戈金的非平衡分岔——在无需悬置局部热力学的前提下解释对流胞、化学振荡器与生物新陈代谢时行之有效；一旦将局部开放系统的自组织抬升为迫使复杂性涌现的普遍物理定律，或将其与选择之下的事后差异存续割裂开来，这一框架便到达了边界。
+
+Dissipative structures model how open subsystems driven far from thermodynamic equilibrium sustain local organization by drawing free energy and exporting entropy across their boundaries—from Schrödinger's free-energy framing to Prigogine's non-equilibrium bifurcations—which is of use in accounting for convection cells, chemical oscillators, and biological metabolisms without invoking any suspension of local thermodynamics; the framing reaches its boundary when local open-system self-organization is elevated into a universal physical law forcing complexity to emerge or detached from retrospective differential persistence under selection.
+
+→ [隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open](../../posts/boundary-of-the-isolation-idealization-and-the-non-closable-open/)

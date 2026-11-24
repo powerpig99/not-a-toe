@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-24T06:59:51.039Z",
+    "generated_at": "2026-11-24T07:09:55.565Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -38,6 +38,7 @@
       "content/posts/beyond-the-projection.md": "8a8000a62e66",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "bc4af4be9924",
       "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "0ff597e3465b",
+      "content/posts/boundary-of-the-isolation-idealization-and-the-non-closable-open.md": "e567f0892878",
       "content/posts/carbon-form-as-residual-path-silicon-as-extension.md": "5138e0e52f61",
       "content/posts/causality-all-the-way.md": "335fcadee6b9",
       "content/posts/causality-and-the-irreducible-prior.md": "23039b57892e",
@@ -476,7 +477,7 @@
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "804fb1b514fc",
       "content/book/economics.md": "59f58b5d23c6",
-      "content/book/index-of-premises.md": "b8341f430a95",
+      "content/book/index-of-premises.md": "0627f71cc642",
       "content/book/intelligence.md": "ff7c08b8ecea",
       "content/book/knowledge-and-learning.md": "a885aa187e8e",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -484,23 +485,23 @@
       "content/book/meaning-and-transcendence.md": "85824b01375a",
       "content/book/method.md": "2f0a174477dc",
       "content/book/morality.md": "d7bed5438283",
-      "content/book/physics.md": "c9d233b55433",
+      "content/book/physics.md": "5b9b842c40ad",
       "content/book/preface.md": "09791dd76ace",
       "content/book/state-and-collective.md": "a1b57a68703f",
       "content/book/success-and-the-self.md": "58fce4f20c92",
       "content/book/tools-and-progress.md": "276037119294"
     },
     "stats": {
-      "posts": 465,
-      "edges": 14432,
-      "unique_directed": 7096,
+      "posts": 466,
+      "edges": 14454,
+      "unique_directed": 7107,
       "missing_targets": 0,
-      "one_way": 1628,
+      "one_way": 1639,
       "isolated": 0,
-      "posts_with_outbound": 465,
+      "posts_with_outbound": 466,
       "book_pages": 16,
-      "book_edges": 1665,
-      "posts_reached_by_book": 465
+      "book_edges": 1672,
+      "posts_reached_by_book": 466
     }
   },
   "hubs_in": [
@@ -518,7 +519,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 99
+      "in_degree": 100
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -530,7 +531,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 75
+      "in_degree": 76
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -1500,6 +1501,29 @@
         "the-density-of-judgment",
         "continuous-learning-as-expression-and-simulation",
         "intelligence-folding-back-on-itself"
+      ]
+    },
+    {
+      "id": "post:boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "kind": "post",
+      "slug": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "path": "content/posts/boundary-of-the-isolation-idealization-and-the-non-closable-open.md",
+      "title": "隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open",
+      "hash": "e567f0892878",
+      "in_degree": 0,
+      "out_degree": 11,
+      "links_out": [
+        "the-open-question-is-determinisms-demand",
+        "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+        "the-boundary-of-perception-and-the-infinity-of-understanding",
+        "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+        "infinity-within-the-seat",
+        "the-boundary-of-the-frame",
+        "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+        "selection-contradiction-and-open-reality",
+        "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+        "no-system-can-be-kept-closed",
+        "openness-is-consistency"
       ]
     },
     {
@@ -4062,7 +4086,7 @@
       "path": "content/posts/infinity-within-the-seat.md",
       "title": "座位之内的无限进程 / Infinity Within the Seat",
       "hash": "6232da05d87c",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 21,
       "links_out": [
         "one-cannot-escape-ones-own-mind",
@@ -4956,7 +4980,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "没有系统能被保持封闭 / No System Can Be Kept Closed",
       "hash": "8150a42b978a",
-      "in_degree": 75,
+      "in_degree": 76,
       "out_degree": 68,
       "links_out": [
         "openness-is-consistency",
@@ -5458,7 +5482,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
       "hash": "de9e7ea03986",
-      "in_degree": 99,
+      "in_degree": 100,
       "out_degree": 90,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -5874,7 +5898,7 @@
       "path": "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md",
       "title": "潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought",
       "hash": "970f15f5bad3",
-      "in_degree": 19,
+      "in_degree": 20,
       "out_degree": 22,
       "links_out": [
         "the-mirage-of-the-infinite-totality",
@@ -6471,7 +6495,7 @@
       "path": "content/posts/selection-contradiction-and-open-reality.md",
       "title": "选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality",
       "hash": "1101972968c9",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 12,
       "links_out": [
         "abstraction-boundaries-and-the-moving-edge-of-reality",
@@ -7378,7 +7402,7 @@
       "path": "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md",
       "title": "黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe",
       "hash": "f29f05fcc7c5",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 7,
       "links_out": [
         "the-twin-paradox-and-the-hidden-observer",
@@ -7464,7 +7488,7 @@
       "path": "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md",
       "title": "感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding",
       "hash": "798205f8689b",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 14,
       "links_out": [
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -7490,7 +7514,7 @@
       "path": "content/posts/the-boundary-of-the-frame.md",
       "title": "框架的边界 / The Boundary of the Frame",
       "hash": "5da9410329eb",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 22,
       "links_out": [
         "what-information-is",
@@ -10092,7 +10116,7 @@
       "path": "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md",
       "title": "时间之箭的伪悖论与对称模拟的边界 / The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation",
       "hash": "9c27ae82272e",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 20,
       "links_out": [
         "choice-itself-has-no-inherent-weight",
@@ -10460,7 +10484,7 @@
       "path": "content/posts/the-open-question-is-determinisms-demand.md",
       "title": "悬而未决是决定论的索求 / The Open Question Is Determinism's Demand",
       "hash": "670d76055718",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 10,
       "links_out": [
         "agency-does-not-arise",
@@ -11596,7 +11620,7 @@
       "path": "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md",
       "title": "“物理学才是定律”的障眼法 / The Sleight of Hand in \"Physics Is the Law\"",
       "hash": "5c9e970029f8",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 20,
       "links_out": [
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -19071,6 +19095,138 @@
       "to": "intelligence-folding-back-on-itself",
       "rel": "points_to",
       "label": "Intelligence Folding Back on Itself"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "the-open-question-is-determinisms-demand",
+      "rel": "points_to",
+      "label": "悬而未决是决定论的索求"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "the-open-question-is-determinisms-demand",
+      "rel": "points_to",
+      "label": "The Open Question Is Determinism's Demand"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "时间之箭的伪悖论与对称模拟的边界"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "感知的界限与理解的无限"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "The Boundary of Perception and the Infinity of Understanding"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+      "rel": "points_to",
+      "label": "黑白采样帧与外推宇宙"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+      "rel": "points_to",
+      "label": "The Black-and-White Sample Frame and the Extrapolated Universe"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "座位之内的无限进程"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "Infinity Within the Seat"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "框架的边界"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "The Boundary of the Frame"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "潜无限与数学思维的暂时闭合"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "选择、矛盾与开放的现实"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "“物理学才是定律”的障眼法"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "Selection, Contradiction, and Open Reality"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "The Sleight of Hand in \"Physics Is the Law\""
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "carbon-form-as-residual-path-silicon-as-extension",
@@ -99976,8 +100132,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "b8341f430a95",
-        "out_degree": 465
+        "hash": "0627f71cc642",
+        "out_degree": 466
       },
       {
         "id": "book:intelligence",
@@ -100048,8 +100204,8 @@
         "slug": "physics",
         "path": "content/book/physics.md",
         "title": "物理即定律的迷思 / The Myth of Physics Is the Law",
-        "hash": "c9d233b55433",
-        "out_degree": 21
+        "hash": "5b9b842c40ad",
+        "out_degree": 22
       },
       {
         "id": "book:preface",
@@ -103067,6 +103223,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+        "rel": "collects",
+        "label": "隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "freedom-as-ground",
         "rel": "collects",
         "label": "自由即地基 / Freedom as Ground"
@@ -103370,6 +103532,12 @@
         "to": "the-open-question-is-determinisms-demand",
         "rel": "collects",
         "label": "悬而未决是决定论的索求 / The Open Question Is Determinism's Demand"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+        "rel": "collects",
+        "label": "隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open"
       },
       {
         "from": "book:index-of-premises",
@@ -103838,6 +104006,12 @@
         "to": "the-twin-paradox-and-the-hidden-observer",
         "rel": "collects",
         "label": "双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+        "rel": "collects",
+        "label": "隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open"
       },
       {
         "from": "book:index-of-premises",
@@ -105461,6 +105635,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+        "rel": "collects",
+        "label": "隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "pessimism-is-the-shadow-of-optimism",
         "rel": "collects",
         "label": "悲观是乐观的阴影 / Pessimism Is the Shadow of Optimism"
@@ -105626,6 +105806,12 @@
         "to": "infinity-within-the-seat",
         "rel": "collects",
         "label": "座位之内的无限进程 / Infinity Within the Seat"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+        "rel": "collects",
+        "label": "隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open"
       },
       {
         "from": "book:index-of-premises",
@@ -107950,6 +108136,12 @@
         "label": "碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension"
       },
       {
+        "from": "book:index-of-premises",
+        "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+        "rel": "collects",
+        "label": "隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open"
+      },
+      {
         "from": "book:intelligence",
         "to": "agents_leia_ontological_clarity",
         "rel": "collects",
@@ -109328,6 +109520,12 @@
         "to": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
         "rel": "collects",
         "label": "算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records"
+      },
+      {
+        "from": "book:physics",
+        "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+        "rel": "collects",
+        "label": "隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open"
       },
       {
         "from": "book:preface",
