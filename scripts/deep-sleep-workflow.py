@@ -42,6 +42,17 @@ IGNORED_REPO_PREFIXES = (
     ".grok",
     "__pycache__",
 )
+PROTECTED_OUTER_ANCHOR_PATHS = (
+    "scripts/audit-post.py",
+    "scripts/audit-book.py",
+    "scripts/check-signoffs.py",
+    "scripts/interleave-post.py",
+    "scripts/deep-sleep-workflow.py",
+    "AGENTS.md",
+)
+PROTECTED_OUTER_ANCHOR_PREFIXES = (
+    "studio/kits/shared/checks/",
+)
 
 DRAFTER_SCHEMA = {
     "type": "object",
@@ -183,20 +194,248 @@ def normalize_repo_commit_paths(
     return candidates, skipped
 
 
+def _repo_rel_variants(raw_path: str, *, root: Path = ROOT) -> list[str]:
+    """Return unique normalized repo-relative POSIX path(s) (lexical and resolved) inside `root`."""
+    raw_str = str(raw_path).strip().replace("\\", "/")
+    if not raw_str:
+        return []
+    root_norm = Path(os.path.normpath(str(root.expanduser())))
+    if not root_norm.is_absolute():
+        root_norm = Path(os.path.normpath(str(Path.cwd() / root_norm)))
+    root_resolved = root.resolve()
+
+    expanded = Path(raw_str).expanduser()
+    cand_lex = expanded if expanded.is_absolute() else (root_norm / expanded)
+    cand_norm = Path(os.path.normpath(str(cand_lex)))
+
+    variants: list[str] = []
+    for base in (root_norm, root_resolved):
+        if cand_norm.is_relative_to(base):
+            rel = cand_norm.relative_to(base).as_posix()
+            if rel not in ("", ".") and rel not in variants:
+                variants.append(rel)
+            break
+    try:
+        cand_resolved = cand_norm.resolve()
+        if cand_resolved.is_relative_to(root_resolved):
+            rel_res = cand_resolved.relative_to(root_resolved).as_posix()
+            if rel_res not in ("", ".") and rel_res not in variants:
+                variants.append(rel_res)
+    except OSError:
+        pass
+    return variants
+
+
+def match_protected_outer_anchor(raw_path: str, *, root: Path = ROOT) -> str | None:
+    """Return canonical repo-relative path if `raw_path` targets a protected outer anchor, else None."""
+    exact_set = set(PROTECTED_OUTER_ANCHOR_PATHS)
+    exact_lower = {p.lower(): p for p in PROTECTED_OUTER_ANCHOR_PATHS}
+    clean_prefixes = [p.rstrip("/") for p in PROTECTED_OUTER_ANCHOR_PREFIXES]
+    clean_prefixes_lower = [p.lower() for p in clean_prefixes]
+
+    for rel in _repo_rel_variants(raw_path, root=root):
+        if rel in exact_set:
+            return rel
+        rel_lower = rel.lower()
+        if rel_lower in exact_lower:
+            return exact_lower[rel_lower]
+        for pref, pref_lower in zip(clean_prefixes, clean_prefixes_lower):
+            if rel == pref or rel.startswith(f"{pref}/"):
+                return rel
+            if rel_lower == pref_lower or rel_lower.startswith(f"{pref_lower}/"):
+                return rel
+    return None
+
+
+def is_protected_outer_anchor(raw_path: str, *, root: Path = ROOT) -> bool:
+    """Return True iff `raw_path` matches a protected outer-anchor path or prefix."""
+    return match_protected_outer_anchor(raw_path, root=root) is not None
+
+
+def find_protected_outer_anchors(
+    paths: list[str] | tuple[str, ...] | set[str] | None,
+    *,
+    root: Path = ROOT,
+) -> list[str]:
+    """Return sorted unique protected outer-anchor paths present in `paths`."""
+    hits: set[str] = set()
+    for raw in paths or ():
+        matched = match_protected_outer_anchor(raw, root=root)
+        if matched is not None:
+            hits.add(matched)
+    return sorted(hits)
+
+
+def snapshot_protected_prefixes(
+    *,
+    root: Path = ROOT,
+    prefixes: tuple[str, ...] = PROTECTED_OUTER_ANCHOR_PREFIXES,
+) -> dict[str, str]:
+    """Hash files under protected prefixes so edits to gitignored anchors are detected too."""
+    snap: dict[str, str] = {}
+    for pref in prefixes:
+        base = root / pref.rstrip("/")
+        if not base.exists():
+            continue
+        if base.is_file():
+            snap[base.relative_to(root).as_posix()] = sha256_file(base)
+            continue
+        for dirpath, dirnames, filenames in os.walk(base):
+            dirnames[:] = sorted(d for d in dirnames if d != "__pycache__")
+            for fname in sorted(filenames):
+                if fname == ".DS_Store" or fname.endswith(".pyc"):
+                    continue
+                fpath = Path(dirpath) / fname
+                if fpath.is_file():
+                    snap[fpath.relative_to(root).as_posix()] = sha256_file(fpath)
+    return snap
+
+
+def diff_snapshots(before: dict[str, str], after: dict[str, str]) -> list[str]:
+    """Return sorted repo-relative paths added, removed, or modified between two snapshots."""
+    return [
+        rel
+        for rel in sorted(set(before) | set(after))
+        if before.get(rel) != after.get(rel)
+    ]
+
+
 def parse_porcelain_z_paths(stdout: str) -> list[str]:
+    """Parse NUL-delimited `git status --porcelain -z` output into unique repo-relative paths.
+
+    For rename (`R`) and copy (`C`) entries (`XY dest\\0orig\\0`), both destination
+    and original paths are returned so guards catch moves touching protected anchors.
+    """
     tokens = stdout.split("\0")
     paths: list[str] = []
+    seen: set[str] = set()
     i = 0
     while i < len(tokens):
         entry = tokens[i]
         i += 1
-        if not entry or len(entry) < 4:
+        if not entry or len(entry) < 4 or entry[2] != " ":
             continue
         xy = entry[:2]
-        paths.append(entry[3:])
-        if xy[0] in ("R", "C"):
-            i += 1
+        dest = entry[3:]
+        if dest and dest not in seen:
+            seen.add(dest)
+            paths.append(dest)
+        if xy[0] in ("R", "C") or xy[1] in ("R", "C"):
+            if i < len(tokens):
+                orig = tokens[i]
+                i += 1
+                if orig and orig not in seen:
+                    seen.add(orig)
+                    paths.append(orig)
     return paths
+
+
+async def detect_protected_outer_anchor_changes(
+    reported_paths: list[str] | None = None,
+    *,
+    root: Path = ROOT,
+    prefix_snapshot_before: dict[str, str] | None = None,
+) -> list[str]:
+    """Inspect full-repo `git status --porcelain -z -uall`, reported paths, and protected prefix snapshots."""
+    status_proc = await run_cmd(
+        ["git", "status", "--porcelain", "-z", "-uall"],
+        cwd=root,
+        check=True,
+    )
+    candidates: list[str] = parse_porcelain_z_paths(status_proc.stdout)
+    if reported_paths:
+        candidates.extend(reported_paths)
+    if prefix_snapshot_before is not None:
+        prefix_snapshot_after = snapshot_protected_prefixes(root=root)
+        candidates.extend(diff_snapshots(prefix_snapshot_before, prefix_snapshot_after))
+    return find_protected_outer_anchors(candidates, root=root)
+
+
+def append_outer_anchor_guard_note(
+    batch_num: int,
+    protected_paths: list[str],
+    open_issues: int,
+    *,
+    log_path: str | None = None,
+    recap_log: str | None = None,
+    root: Path = ROOT,
+) -> None:
+    """Record an Outer-Anchor Guard halt in the batch log and recap log."""
+    block = "\n".join(
+        [
+            "",
+            "## Outer-Anchor Guard Halt (`STATUS: OPEN_ISSUES`)",
+            "",
+            f"- **Status:** `STATUS: OPEN_ISSUES` (`open_issues={open_issues}`, Batch `{batch_num}`)",
+            "- **Action:** Refused silent auto-commit/push; halted for Outer-Loop Operator ratification.",
+            "- **Protected Outer-Anchor Path(s):** " + ", ".join(f"`{p}`" for p in protected_paths),
+            "",
+        ]
+    )
+    if log_path:
+        batch_log_file = root / log_path
+        if batch_log_file.is_file():
+            with batch_log_file.open("a", encoding="utf-8") as fh:
+                fh.write(block)
+    if recap_log:
+        recap_log_file = root / recap_log
+        recap_log_file.parent.mkdir(parents=True, exist_ok=True)
+        mode = "a" if recap_log_file.is_file() else "w"
+        with recap_log_file.open(mode, encoding="utf-8") as fh:
+            if mode == "w":
+                fh.write(f"# Batch {batch_num} Recap — Outer-Anchor Guard Halt\n")
+            fh.write(block)
+
+
+async def finalize_batch_recap(
+    batch_num: int,
+    recap_res: dict,
+    *,
+    log_path: str | None = None,
+    recap_log: str | None = None,
+    prefix_snapshot_before: dict[str, str] | None = None,
+    root: Path = ROOT,
+    push: bool = True,
+) -> tuple[int, list[str], str | None]:
+    """Enforce the Outer-Anchor Guard on batch Recap outputs and commit allowed tracked edits."""
+    open_issues = int(recap_res["open_issues"])
+    reported_files = recap_res.get("modified_files")
+    protected_outer_anchors = await detect_protected_outer_anchor_changes(
+        reported_files,
+        root=root,
+        prefix_snapshot_before=prefix_snapshot_before,
+    )
+    if protected_outer_anchors:
+        open_issues = max(open_issues, 1)
+        guard_note = (
+            f"Outer-Anchor Guard refused silent auto-commit/push for Batch {batch_num} recap: "
+            f"protected outer-anchor path(s) touched: {', '.join(protected_outer_anchors)} "
+            f"(forced open_issues={open_issues}; awaiting Outer-Loop Operator ratification)."
+        )
+        if "log" in globals() and callable(globals()["log"]):
+            log(f"Batch {batch_num} recap: {guard_note}")
+        append_outer_anchor_guard_note(
+            batch_num,
+            protected_outer_anchors,
+            open_issues,
+            log_path=log_path,
+            recap_log=recap_log,
+            root=root,
+        )
+        return open_issues, protected_outer_anchors, guard_note
+
+    dirty_recap_files, skipped_recap_files = await filter_dirty_repo_commit_paths(
+        reported_files,
+        root=root,
+    )
+    if skipped_recap_files and "log" in globals() and callable(globals()["log"]):
+        log(f"Batch {batch_num} recap: skipped non-repo/excluded path(s): {', '.join(skipped_recap_files)}")
+    if open_issues == 0 and dirty_recap_files:
+        await run_cmd(["git", "add", "--", *dirty_recap_files], cwd=root, check=True)
+        await run_cmd(["git", "commit", "-m", f"Apply Deep Sleep Batch {batch_num} recap"], cwd=root, check=True)
+        if push:
+            await run_cmd(["git", "push", "origin", "main"], cwd=root, check=True)
+    return open_issues, [], None
 
 
 async def filter_dirty_repo_commit_paths(
@@ -754,8 +993,11 @@ async def run_batch_stage3(
 
     open_issues = 0
     recap_log = None
+    protected_outer_anchors: list[str] = []
+    guard_note: str | None = None
     if problems:
         recap_log = f"work/_logs/batch-{batch_num}-recap.md"
+        protected_prefix_before = snapshot_protected_prefixes()
         recap_res = await agent(
             prompt=(
                 f"Batch {batch_num} `/recap` in `{ROOT}` per `docs/charters/recap.md` and `docs/wave-refinement-plan.md` §4.5.\n"
@@ -771,16 +1013,13 @@ async def run_batch_stage3(
             workspace="inherit",
             model=agent_model,
         )
-        open_issues = int(recap_res["open_issues"])
-        dirty_recap_files, skipped_recap_files = await filter_dirty_repo_commit_paths(
-            recap_res.get("modified_files")
+        open_issues, protected_outer_anchors, guard_note = await finalize_batch_recap(
+            batch_num,
+            recap_res,
+            log_path=log_path,
+            recap_log=recap_log,
+            prefix_snapshot_before=protected_prefix_before,
         )
-        if skipped_recap_files:
-            log(f"Batch {batch_num} recap: skipped non-repo/excluded path(s): {', '.join(skipped_recap_files)}")
-        if open_issues == 0 and dirty_recap_files:
-            await run_cmd(["git", "add", "--", *dirty_recap_files], check=True)
-            await run_cmd(["git", "commit", "-m", f"Apply Deep Sleep Batch {batch_num} recap"], check=True)
-            await run_cmd(["git", "push", "origin", "main"], check=True)
 
     if open_issues == 0:
         for slug in completed_slugs:
@@ -797,6 +1036,8 @@ async def run_batch_stage3(
         "commit": commit_sha,
         "log": log_path,
         "recap_log": recap_log,
+        "protected_outer_anchors": protected_outer_anchors,
+        "guard_note": guard_note,
         "hold_nodes": hold_nodes,
         "failed_nodes": failed_nodes,
     }
@@ -870,7 +1111,8 @@ async def main() -> dict:
         batches_run += 1
 
         batch_status = (
-            "HOLD" if hold_nodes
+            "OPEN_ISSUES" if s3.get("protected_outer_anchors")
+            else "HOLD" if hold_nodes
             else "OPEN_ISSUES" if s3["open_issues"] > 0
             else "FAIL" if failed_nodes
             else "PAUSED_FOR_WAKE" if skipped_nodes
@@ -883,6 +1125,9 @@ async def main() -> dict:
             f"remaining={rem_display}, commit={s3['commit']})"
         )
 
+        if s3.get("protected_outer_anchors"):
+            stop_reason = "OPEN_ISSUES"
+            break
         if hold_nodes:
             stop_reason = "HOLD"
             break

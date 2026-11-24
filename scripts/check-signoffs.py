@@ -21,11 +21,13 @@ Checks for each `work/<slug>/` node:
   5. With `--clean-sleep [--dry-run]`, deterministically harvests any unrecorded
      open `### For work/todo.md` items (skipping `- [x]` resolved items) from the
      directories to be deleted into `work/todo.md` and deletes ONLY the completed `[x]` `/sleep` node and sweep directories recorded
-     in `work/wave.md` (`_plan-consolidation`, `_reverse-link-sweep`, `_post-wave-sweep`,
-     `_logs`, and `[x]` node slugs in `work/wave.md` whose post exists in
-     `content/posts/<slug>.md` and that have no pending `work/_wake/<slug>/handoff.md`),
-     explicitly preserving `work/_wake/`, `work/plan/`, and any concurrent `/first-draft`
-     or `/scout` handoff directory.
+     in `work/wave.md` (`_plan-consolidation`, `_reverse-link-sweep`, `_post-wave-sweep`
+     and `_post-wave-sweep-r*` round archives, `_logs` when at least one wave node or
+     sweep is checked and no unsettled `work/_logs/*-recap.md` with `open_issues > 0`
+     remains, and `[x]` node slugs—along with their `_l*-<slug>` and `_sp*-<slug>`
+     prior-pass archives—whose post exists in `content/posts/<slug>.md` and that have no
+     pending `work/_wake/<slug>/handoff.md`), explicitly preserving `work/_wake/`,
+     `work/plan/`, and any concurrent `/first-draft` or `/scout` handoff directory.
 
 Usage:
   python3 scripts/check-signoffs.py [--commit <sha>] <slug> [<slug2> ...]
@@ -1338,6 +1340,35 @@ def record_batch(
     return 0
 
 
+_RECAP_OPEN_ISSUES_RE = re.compile(
+    r"\bopen_issues\b[\*`]*\s*[:=][\*`]*\s*[\*`]*([1-9]\d*)\b",
+    flags=re.IGNORECASE,
+)
+_RECAP_STATUS_OPEN_RE = re.compile(
+    r"^\s*(?:[-*]\s+|#+\s+.*)?(?:(?:\*\*)?[Ss]tatus[\*`]*\s*[:=][\*`]*\s+)?[\*`]*STATUS:\s*OPEN_ISSUES\b",
+    flags=re.MULTILINE,
+)
+
+
+def find_unsettled_recap_logs(logs_dir: pathlib.Path) -> list[pathlib.Path]:
+    if not logs_dir.is_dir() or logs_dir.is_symlink():
+        return []
+    unsettled: list[pathlib.Path] = []
+    for entry in sorted(logs_dir.iterdir()):
+        if not entry.is_file() or entry.is_symlink():
+            continue
+        if not (entry.name == "recap.md" or entry.name.endswith("-recap.md")):
+            continue
+        try:
+            text = entry.read_text(encoding="utf-8", errors="replace")
+        except OSError:
+            unsettled.append(entry)
+            continue
+        if _RECAP_OPEN_ISSUES_RE.search(text) or _RECAP_STATUS_OPEN_RE.search(text):
+            unsettled.append(entry)
+    return unsettled
+
+
 def clean_sleep(dry_run: bool = False) -> int:
     wave_path = ROOT / "work" / "wave.md"
     if not wave_path.is_file():
@@ -1378,21 +1409,29 @@ def clean_sleep(dry_run: bool = False) -> int:
     skipped_wave_slugs: list[str] = []
 
     for sp in checked_specials:
-        eligible_names.append(sp)
+        if sp not in eligible_names:
+            eligible_names.append(sp)
+        if sp == "_post-wave-sweep":
+            for round_dir in sorted(work_root.glob("_post-wave-sweep-r*")):
+                if round_dir.is_dir() and not round_dir.is_symlink() and round_dir.name not in eligible_names:
+                    eligible_names.append(round_dir.name)
 
     for slug in checked_slugs:
         post_exists = (ROOT / "content" / "posts" / f"{slug}.md").is_file()
         handoff_exists = (work_root / "_wake" / slug / "handoff.md").exists()
         if post_exists and not handoff_exists:
             eligible_names.append(slug)
-            for layer_dir in sorted(work_root.glob(f"_l*-{slug}")):
-                if layer_dir.is_dir() and layer_dir.name not in eligible_names:
-                    eligible_names.append(layer_dir.name)
+            for pattern in (f"_l*-{slug}", f"_sp*-{slug}"):
+                for layer_dir in sorted(work_root.glob(pattern)):
+                    if layer_dir.is_dir() and not layer_dir.is_symlink() and layer_dir.name not in eligible_names:
+                        eligible_names.append(layer_dir.name)
         else:
             skipped_wave_slugs.append(slug)
 
-    if "_logs" not in eligible_names:
-        eligible_names.append("_logs")
+    unsettled_recaps = find_unsettled_recap_logs(work_root / "_logs")
+    if (checked_slugs or checked_specials) and not unsettled_recaps:
+        if "_logs" not in eligible_names:
+            eligible_names.append("_logs")
 
     protected_names = {"_wake", "plan"}
     dirs_to_delete: list[pathlib.Path] = []
@@ -1454,6 +1493,9 @@ def clean_sleep(dry_run: bool = False) -> int:
             print("WOULD_HARVEST_TODO: none")
         if skipped_wave_slugs:
             print(f"SKIPPED_WAVE_SLUGS: {', '.join(skipped_wave_slugs)}")
+        if unsettled_recaps:
+            unsettled_rel = [str(p.relative_to(ROOT)) for p in unsettled_recaps]
+            print(f"UNSETTLED_RECAP_LOGS: {', '.join(unsettled_rel)}")
         return 0
 
     if new_todo_lines:
