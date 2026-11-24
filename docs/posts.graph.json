@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-23T22:28:02.048Z",
+    "generated_at": "2026-11-24T04:37:15.114Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -291,6 +291,7 @@
       "content/posts/the-fixed-map-and-the-repeated-trip.md": "513269847c19",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "58ad5f55c2f4",
       "content/posts/the-flywheel-of-the-mind.md": "8023c6735d6f",
+      "content/posts/the-folded-self-image-and-the-bound-of-simulation.md": "973367b35920",
       "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "d245e5c4f9aa",
       "content/posts/the-frame-that-conceals-improvement.md": "9a2ed736458d",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "1f120023244d",
@@ -475,8 +476,8 @@
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "804fb1b514fc",
       "content/book/economics.md": "59f58b5d23c6",
-      "content/book/index-of-premises.md": "c528435f797e",
-      "content/book/intelligence.md": "aff9cd828dad",
+      "content/book/index-of-premises.md": "b8341f430a95",
+      "content/book/intelligence.md": "ff7c08b8ecea",
       "content/book/knowledge-and-learning.md": "a885aa187e8e",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
       "content/book/mathematics.md": "15cf0e9db0a5",
@@ -490,16 +491,16 @@
       "content/book/tools-and-progress.md": "276037119294"
     },
     "stats": {
-      "posts": 464,
-      "edges": 14368,
-      "unique_directed": 7064,
+      "posts": 465,
+      "edges": 14396,
+      "unique_directed": 7078,
       "missing_targets": 0,
-      "one_way": 1620,
+      "one_way": 1634,
       "isolated": 0,
-      "posts_with_outbound": 464,
+      "posts_with_outbound": 465,
       "book_pages": 16,
-      "book_edges": 1654,
-      "posts_reached_by_book": 464
+      "book_edges": 1665,
+      "posts_reached_by_book": 465
     }
   },
   "hubs_in": [
@@ -521,7 +522,7 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 91
+      "in_degree": 92
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -549,7 +550,7 @@
     },
     {
       "slug": "mistaking-the-expression-for-the-intelligence",
-      "in_degree": 44
+      "in_degree": 45
     },
     {
       "slug": "production-consumption-and-the-minds-distinction",
@@ -569,7 +570,7 @@
     },
     {
       "slug": "the-reversal-of-verification",
-      "in_degree": 40
+      "in_degree": 41
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
@@ -1138,7 +1139,7 @@
       "path": "content/posts/agi-and-asi-are-temporary-goalposts.md",
       "title": "AGI 与 ASI 是加速通用智能的暂时球门 / AGI and ASI Are Temporary Goalposts",
       "hash": "16956bbda17a",
-      "in_degree": 31,
+      "in_degree": 32,
       "out_degree": 29,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -2307,7 +2308,7 @@
       "path": "content/posts/continuous-learning-as-expression-and-simulation.md",
       "title": "持续学习作为表达与模拟 / Continuous Learning as Expression and Simulation",
       "hash": "9ce5608bf474",
-      "in_degree": 26,
+      "in_degree": 27,
       "out_degree": 29,
       "links_out": [
         "two-phase-sleep-and-deep-sleep-continual-learning",
@@ -4055,7 +4056,7 @@
       "path": "content/posts/infinity-within-the-seat.md",
       "title": "座位之内的无限进程 / Infinity Within the Seat",
       "hash": "c603f801d2e5",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 20,
       "links_out": [
         "one-cannot-escape-ones-own-mind",
@@ -4114,7 +4115,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "智能只属于心智 / Intelligence Belongs Only to the Mind",
       "hash": "5656f412d172",
-      "in_degree": 91,
+      "in_degree": 92,
       "out_degree": 71,
       "links_out": [
         "curiosity-has-no-final-form",
@@ -4217,7 +4218,7 @@
       "path": "content/posts/intelligence-folding-back-on-itself.md",
       "title": "智能向自身的回折 / Intelligence Folding Back on Itself",
       "hash": "2b275af40326",
-      "in_degree": 24,
+      "in_degree": 25,
       "out_degree": 24,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -4683,7 +4684,7 @@
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "错把表达当成智能 / Mistaking the Expression for the Intelligence",
       "hash": "525ef81069b4",
-      "in_degree": 44,
+      "in_degree": 45,
       "out_degree": 39,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -4882,7 +4883,7 @@
       "path": "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md",
       "title": "没有外部 / No Outside",
       "hash": "2ba0b9a0f7a1",
-      "in_degree": 30,
+      "in_degree": 31,
       "out_degree": 27,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
@@ -6482,7 +6483,7 @@
       "path": "content/posts/self-image-speaks-as-if-from-nowhere.md",
       "title": "自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere",
       "hash": "d779770e9dfb",
-      "in_degree": 35,
+      "in_degree": 36,
       "out_degree": 27,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
@@ -6825,7 +6826,7 @@
       "path": "content/posts/stability-and-excess.md",
       "title": "稳定与溢出 / Stability and Excess",
       "hash": "3716de403f10",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 12,
       "links_out": [
         "the-closed-loop-of-representation",
@@ -8046,7 +8047,7 @@
       "path": "content/posts/the-defining-seat.md",
       "title": "定义者的席位与离地的幻觉 / The Defining Seat",
       "hash": "965264f9a4ce",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 10,
       "links_out": [
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
@@ -8510,7 +8511,7 @@
       "path": "content/posts/the-fixed-image-of-transcendence.md",
       "title": "超越的定相 / The Fixed Image of Transcendence",
       "hash": "7c2e69a32cae",
-      "in_degree": 27,
+      "in_degree": 28,
       "out_degree": 25,
       "links_out": [
         "curiosity-has-no-final-form",
@@ -8624,6 +8625,32 @@
         "intelligence-folding-back-on-itself",
         "the-scaling-loop",
         "a-creation-cannot-replace-its-source"
+      ]
+    },
+    {
+      "id": "post:the-folded-self-image-and-the-bound-of-simulation",
+      "kind": "post",
+      "slug": "the-folded-self-image-and-the-bound-of-simulation",
+      "path": "content/posts/the-folded-self-image-and-the-bound-of-simulation.md",
+      "title": "折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation",
+      "hash": "973367b35920",
+      "in_degree": 0,
+      "out_degree": 14,
+      "links_out": [
+        "stability-and-excess",
+        "the-fixed-image-of-transcendence",
+        "intelligence-folding-back-on-itself",
+        "the-scaling-loop",
+        "the-reversal-of-verification",
+        "continuous-learning-as-expression-and-simulation",
+        "mistaking-the-expression-for-the-intelligence",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+        "the-non-definitive-definition-of-intelligence",
+        "intelligence-belongs-only-to-the-mind",
+        "agi-and-asi-are-temporary-goalposts",
+        "self-image-speaks-as-if-from-nowhere",
+        "the-defining-seat",
+        "infinity-within-the-seat"
       ]
     },
     {
@@ -10291,7 +10318,7 @@
       "path": "content/posts/the-non-definitive-definition-of-intelligence.md",
       "title": "智能的非定论定义 / The Non-Definitive Definition of Intelligence",
       "hash": "c5bb18ee0ee9",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 14,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -11213,7 +11240,7 @@
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
       "hash": "0a1976ee9d00",
-      "in_degree": 40,
+      "in_degree": 41,
       "out_degree": 9,
       "links_out": [
         "openness-is-consistency",
@@ -11438,7 +11465,7 @@
       "path": "content/posts/the-scaling-loop.md",
       "title": "规模化回路 / The Scaling Loop",
       "hash": "59f678c43d21",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 12,
       "links_out": [
         "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -68108,6 +68135,174 @@
       "label": "A Creation Cannot Replace Its Source"
     },
     {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "stability-and-excess",
+      "rel": "points_to",
+      "label": "稳定与溢出"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "超越的定相"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "stability-and-excess",
+      "rel": "points_to",
+      "label": "Stability and Excess"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "The Fixed Image of Transcendence"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "intelligence-folding-back-on-itself",
+      "rel": "points_to",
+      "label": "智能向自身的回折"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "intelligence-folding-back-on-itself",
+      "rel": "points_to",
+      "label": "Intelligence Folding Back on Itself"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "the-scaling-loop",
+      "rel": "points_to",
+      "label": "规模化回路"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "the-scaling-loop",
+      "rel": "points_to",
+      "label": "The Scaling Loop"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "continuous-learning-as-expression-and-simulation",
+      "rel": "points_to",
+      "label": "持续学习作为表达与模拟"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "continuous-learning-as-expression-and-simulation",
+      "rel": "points_to",
+      "label": "Continuous Learning as Expression and Simulation"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "错把表达当成智能"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "没有外部"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the Expression for the Intelligence"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No Outside"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "the-non-definitive-definition-of-intelligence",
+      "rel": "points_to",
+      "label": "智能的非定论定义"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "the-non-definitive-definition-of-intelligence",
+      "rel": "points_to",
+      "label": "The Non-Definitive Definition of Intelligence"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI 与 ASI 是加速通用智能的暂时球门"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI Are Temporary Goalposts"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "自我形象仿佛从无处发声"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "the-defining-seat",
+      "rel": "points_to",
+      "label": "定义者的席位与离地的幻觉"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "座位之内的无限进程"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-Image Speaks as if from Nowhere"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "the-defining-seat",
+      "rel": "points_to",
+      "label": "The Defining Seat"
+    },
+    {
+      "from": "the-folded-self-image-and-the-bound-of-simulation",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "Infinity Within the Seat"
+    },
+    {
       "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
@@ -99547,8 +99742,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "c528435f797e",
-        "out_degree": 464
+        "hash": "b8341f430a95",
+        "out_degree": 465
       },
       {
         "id": "book:intelligence",
@@ -99556,8 +99751,8 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "aff9cd828dad",
-        "out_degree": 66
+        "hash": "ff7c08b8ecea",
+        "out_degree": 67
       },
       {
         "id": "book:knowledge-and-learning",
@@ -100940,6 +101135,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-folded-self-image-and-the-bound-of-simulation",
+        "rel": "collects",
+        "label": "折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-judgment-that-classifies-the-complaint",
         "rel": "collects",
         "label": "投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop"
@@ -101117,6 +101318,12 @@
         "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
         "rel": "collects",
         "label": "凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-folded-self-image-and-the-bound-of-simulation",
+        "rel": "collects",
+        "label": "折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation"
       },
       {
         "from": "book:index-of-premises",
@@ -101360,6 +101567,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-folded-self-image-and-the-bound-of-simulation",
+        "rel": "collects",
+        "label": "折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
         "rel": "collects",
         "label": "远方的轮廓与无处之境的清单 / The Distant Silhouette and the Inventory from Nowhere"
@@ -101375,6 +101588,12 @@
         "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "rel": "collects",
         "label": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-folded-self-image-and-the-bound-of-simulation",
+        "rel": "collects",
+        "label": "折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation"
       },
       {
         "from": "book:index-of-premises",
@@ -103088,6 +103307,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-folded-self-image-and-the-bound-of-simulation",
+        "rel": "collects",
+        "label": "折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "rel": "collects",
         "label": "自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution"
@@ -103361,6 +103586,12 @@
         "to": "boletus-compute-storm-and-promethean-fire",
         "rel": "collects",
         "label": "牛肝菌、算力风暴与普罗米修斯的火 / Boletus, the Compute Storm, and Promethean Fire"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-folded-self-image-and-the-bound-of-simulation",
+        "rel": "collects",
+        "label": "折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation"
       },
       {
         "from": "book:index-of-premises",
@@ -105476,6 +105707,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-folded-self-image-and-the-bound-of-simulation",
+        "rel": "collects",
+        "label": "折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "intelligence-folding-back-on-itself",
         "rel": "collects",
         "label": "智能向自身的回折 / Intelligence Folding Back on Itself"
@@ -106178,6 +106415,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-folded-self-image-and-the-bound-of-simulation",
+        "rel": "collects",
+        "label": "折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "rel": "collects",
         "label": "政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion"
@@ -106598,6 +106841,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-folded-self-image-and-the-bound-of-simulation",
+        "rel": "collects",
+        "label": "折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-closed-loop-of-representation",
         "rel": "collects",
         "label": "表征的闭环 / The Closed Loop of Representation"
@@ -106715,6 +106964,12 @@
         "to": "accelerating-replacement-and-image-lag",
         "rel": "collects",
         "label": "加速替换与形象滞后 / Accelerating Replacement and Image Lag"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-folded-self-image-and-the-bound-of-simulation",
+        "rel": "collects",
+        "label": "折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation"
       },
       {
         "from": "book:index-of-premises",
@@ -107855,6 +108110,12 @@
         "to": "eternally-wrong-questions-that-haunt-practice",
         "rel": "collects",
         "label": "终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice"
+      },
+      {
+        "from": "book:intelligence",
+        "to": "the-folded-self-image-and-the-bound-of-simulation",
+        "rel": "collects",
+        "label": "折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation"
       },
       {
         "from": "book:knowledge-and-learning",

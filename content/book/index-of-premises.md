@@ -456,7 +456,7 @@ Rousseau opens with "Man is born free, and everywhere he is in chains" and asks 
 
 Sartre presumes sovereign choice precedes all predetermined designations and diagnoses bad faith as agency fleeing responsibility by mimicking passive objects, which is of use in exposing how minds exercise sovereignty to stage the appearance of their own helplessness; this premise reaches its boundary when freedom is cast as unconditioned negation rather than action that requires concrete constraints as the differential substrate giving every choice weight.
 
-→ [约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom](../../posts/the-substrate-of-constraint-and-the-self-denial-of-freedom/) · [框架的盲区 / The Blind Spot of the Frame](../../posts/the-blind-spot-of-the-frame/) · [任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences](../../posts/the-delegation-of-the-task-and-the-inalienability-of-consequences/)
+→ [约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom](../../posts/the-substrate-of-constraint-and-the-self-denial-of-freedom/) · [框架的盲区 / The Blind Spot of the Frame](../../posts/the-blind-spot-of-the-frame/) · [任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences](../../posts/the-delegation-of-the-task-and-the-inalienability-of-consequences/) · [折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation](../../posts/the-folded-self-image-and-the-bound-of-simulation/)
 
 ### 杰夫·贝索斯 / Jeff Bezos
 `经济 / Economic`
@@ -609,7 +609,7 @@ Mises defines the state through its apparatus of compulsion and coercion and war
 
 Wittgenstein's Tractatus bounds the world by the limits of factual propositional language—closing with the injunction to pass over the unspeakable in silence—while his later philosophy traces conceptual knots to language games, which is of use in demarcating the scope of formal representation and auditing how phrasing shapes thought; both stances reach their boundary when derivative linguistic tools are taken as the boundary of reality or asked to silence their own first-person origin, since all speakable form issues from the ongoing unspeakable capacity to distinguish and even explicit temporal markers cannot compel how another center takes up sense.
 
-→ [读《中文哲学简史》有感 / Reflections on A Short History of Philosophy in Chinese](../../posts/du-zhongwen-zhexue-jianshi-you-gan/) · [接续阅读与协商中的语言边界 / Successive Reading and the Negotiated Boundary of Language](../../posts/successive-reading-and-the-negotiated-boundary-of-language/) · [大倒置的消解 / The Dissolution of the Great Reversal](../../posts/the-dissolution-of-the-great-reversal/) · [凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable](../../posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable/)
+→ [读《中文哲学简史》有感 / Reflections on A Short History of Philosophy in Chinese](../../posts/du-zhongwen-zhexue-jianshi-you-gan/) · [接续阅读与协商中的语言边界 / Successive Reading and the Negotiated Boundary of Language](../../posts/successive-reading-and-the-negotiated-boundary-of-language/) · [大倒置的消解 / The Dissolution of the Great Reversal](../../posts/the-dissolution-of-the-great-reversal/) · [凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable](../../posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable/) · [折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation](../../posts/the-folded-self-image-and-the-bound-of-simulation/)
 
 ### 曼瑟·奥尔森 / Mancur Olson
 `经济 / Economic`
@@ -836,6 +836,15 @@ Kuhn's account of paradigm shifts presumes that science advances through stages 
 
 → [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
 
+### 托马斯·梅青格 / Thomas Metzinger
+`哲学 / Philosophical`
+
+梅青格将自我性穷尽地还原为信息处理层面的现象自我模型，借由表征透明性使其显现为实际的自我，在追踪持握中的自我肖像如何不再作为模型留在觉知里时有用；这一前提在“这套透明模型究竟向谁登记显现”之处到达了边界，因为不被体验的数据结构并不携带任何幻觉，离开它暗中预设的活态第一人称知觉便无从谈起。
+
+Metzinger reduces selfhood exhaustively to an information-processing Phenomenal Self-Model that appears as an actual self through representational transparency, which is of use in tracking how a held self-portrait drops out of awareness as a model; this premise reaches its boundary at to whom the transparent model registers at all, since an unexperienced data structure carries no illusion without the living first-person perception it presupposes.
+
+→ [折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation](../../posts/the-folded-self-image-and-the-bound-of-simulation/)
+
 ### 托马斯·内格尔 / Thomas Nagel
 `哲学 / Philosophical`
 
@@ -843,7 +852,7 @@ Kuhn's account of paradigm shifts presumes that science advances through stages 
 
 Nagel argues that subjective experience ('what it is like') is irreducible to third-person physicalist description and names the ambition to strip away all perspective the View from Nowhere, which is of use in exposing where physicalist reduction erases its own observational base; his critique reaches its boundary when subjective interiority and objective reality are left as an unresolved dualistic puzzle rather than traced to one self-distinguishing activity whose non-reflexive invariants register as the physical.
 
-→ [远方的轮廓与无处之境的清单 / The Distant Silhouette and the Inventory from Nowhere](../../posts/the-distant-silhouette-and-the-inventory-from-nowhere/) · [框架的盲区 / The Blind Spot of the Frame](../../posts/the-blind-spot-of-the-frame/) · [因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere](../../posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere/)
+→ [远方的轮廓与无处之境的清单 / The Distant Silhouette and the Inventory from Nowhere](../../posts/the-distant-silhouette-and-the-inventory-from-nowhere/) · [框架的盲区 / The Blind Spot of the Frame](../../posts/the-blind-spot-of-the-frame/) · [因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere](../../posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere/) · [折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation](../../posts/the-folded-self-image-and-the-bound-of-simulation/)
 
 ### 托马斯·索维尔 / Thomas Sowell
 `经济 / Economic`
@@ -2125,6 +2134,15 @@ Endophysics (Otto Rössler), Breuer's self-measurement theorem, and Wolpert's ph
 
 → [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
 
+### 哥德尔机 / Gödel Machine
+`技术 / Technological`
+
+施密德胡伯的哥德尔机在硬件与环境的公理化描述、显式效用函数 *u* 以及硬连线证明门控之内，将全部软件的自我改写——连同改写自身的证明搜索器——加以形式化，作为固定规则内可证明最优自我修改的最锋利形式蓝图颇具效用；它在此到达了边界：这些坐标必须预先从外部供给，且整个系统始终受限于初始公理集之内的可证性。
+
+Schmidhuber's Gödel Machine formalizes complete software self-rewriting—including rewriting its own proof searcher—inside an axiomatic hardware-environment description, an explicit utility function *u*, and a hardwired proof gate, which is of use as the sharpest formal blueprint of provably optimal self-modification within fixed rules; it reaches its boundary in requiring those coordinates to be supplied externally up front and in remaining bounded by provability within its initial axiom set.
+
+→ [折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation](../../posts/the-folded-self-image-and-the-bound-of-simulation/)
+
 ## 概念 / Concepts
 
 ### 心理特质与防御机制分类学 / Psychological Trait and Defense Taxonomies
@@ -2323,7 +2341,7 @@ AGI 与 ASI 叙事将比肩人类与超越人类的能力设为同一部自动�
 
 AGI and ASI narratives set human-level parity and superhuman capability as fixed finish lines along a single escalator, which is of use in marking stages of tool-capability expansion; they reach their boundary in that each benchmark crossed moves the reference forward, so both labels name temporary goalposts of human-steered acceleration rather than arrival states where an artifact becomes a self-originating mind.
 
-→ [AGI 与 ASI 是加速通用智能的暂时球门 / AGI and ASI Are Temporary Goalposts](../../posts/agi-and-asi-are-temporary-goalposts/) · [AI 争论中的观察划界 / The Observational Cut in AI Debates](../../posts/the-observational-cut-in-ai-debates/) · [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/) · [观察中的智能与残余间隙 / Intelligence in Observation and the Residual Gap](../../posts/intelligence-in-observation-and-the-residual-gap/) · [并不存在的目录 / The Catalog That Isn't There](../../posts/hassabis-frontier-agi-premise/) · [牛肝菌、算力风暴与普罗米修斯的火 / Boletus, the Compute Storm, and Promethean Fire](../../posts/boletus-compute-storm-and-promethean-fire/)
+→ [AGI 与 ASI 是加速通用智能的暂时球门 / AGI and ASI Are Temporary Goalposts](../../posts/agi-and-asi-are-temporary-goalposts/) · [AI 争论中的观察划界 / The Observational Cut in AI Debates](../../posts/the-observational-cut-in-ai-debates/) · [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/) · [观察中的智能与残余间隙 / Intelligence in Observation and the Residual Gap](../../posts/intelligence-in-observation-and-the-residual-gap/) · [并不存在的目录 / The Catalog That Isn't There](../../posts/hassabis-frontier-agi-premise/) · [牛肝菌、算力风暴与普罗米修斯的火 / Boletus, the Compute Storm, and Promethean Fire](../../posts/boletus-compute-storm-and-promethean-fire/) · [折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation](../../posts/the-folded-self-image-and-the-bound-of-simulation/)
 
 ### 宇宙学外推 / Cosmological Extrapolation
 `科学 / Scientific`
@@ -4330,7 +4348,7 @@ Reasoning token emulation and chain-of-thought distillation presume that generat
 
 Recursive self-improvement presumes that a system able to improve itself becomes an independent initiator through an ever faster loop, which is of use in describing how longer coherent chains, intermediate revision, and self-proposed experiments speed execution; it reaches its boundary in that autonomy of execution raises the velocity of the loops without relocating their source, retain-or-discard is still deferred to the only circuit that closes on itself, and the openness each fold yields comes from the fold, not from the artifact; when a network determines its surprises span by span inside the loop, the determination is real, while a whole that determines itself appears only where the outer loop that defined surprise drops out of view.
 
-→ [自我放大的制品 / The Artifacts of Self-Amplification](../../posts/the-artifacts-of-self-amplification/) · [错把表达当成智能 / Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/) · [学到的边界与给定的尺度 / Learned Boundaries and the Given Rate](../../posts/learned-boundaries-and-the-given-rate/)
+→ [自我放大的制品 / The Artifacts of Self-Amplification](../../posts/the-artifacts-of-self-amplification/) · [错把表达当成智能 / Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/) · [学到的边界与给定的尺度 / Learned Boundaries and the Given Rate](../../posts/learned-boundaries-and-the-given-rate/) · [折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation](../../posts/the-folded-self-image-and-the-bound-of-simulation/)
 
 ### 运行框架解锁潜在能力 / The Harness Unlocks Latent Capability
 `技术 / Technological`
@@ -4861,7 +4879,7 @@ Treating sympathy as the summit of virtue presumes that felt sympathy is contact
 
 Imagining synthetic data as a model feeding on itself is of use in describing how the artifact set expands; it reaches its boundary in that what re-enters is residue reshaped by human selection, filtering and evaluation, not a snake eating its own tail, so the loop's bound is redrawn by judgement.
 
-→ [规模化回路 / The Scaling Loop](../../posts/the-scaling-loop/) · [看似AI的强化学习，实为人类的自我强化学习 / What Looks Like RL for AIs Is Self-RL for Humans](../../posts/self-rl-for-humans/)
+→ [规模化回路 / The Scaling Loop](../../posts/the-scaling-loop/) · [看似AI的强化学习，实为人类的自我强化学习 / What Looks Like RL for AIs Is Self-RL for Humans](../../posts/self-rl-for-humans/) · [折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation](../../posts/the-folded-self-image-and-the-bound-of-simulation/)
 
 ### 系统性归咎 / Systemic Blame
 `意识形态 / Ideological`
@@ -5113,7 +5131,7 @@ Formal ontology presumes that a system can catalogue everything that exists, its
 
 The view from nowhere presumes a description can be given from a stand outside every observer, which is of use in setting aside one center's particular stakes to find what holds across many; it reaches its boundary in that every such description is still drawn by a situated Mind, a physical reading depends on an observer at a concrete point, and a voice that speaks as if from nowhere is one re-projection of the Self elevated past its step.
 
-→ [隐秘的上帝之眼 / The Invisible God's Eye](../../posts/the-invisible-gods-eye/) · [割点可移不可除 / The Cut Moves but Never Vanishes](../../posts/the-cut-moves-but-never-vanishes/) · [自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere](../../posts/self-image-speaks-as-if-from-nowhere/) · [持续生长的脚手架 / The Scaffolding That Keeps Growing](../../posts/the-scaffolding-that-keeps-growing/) · [框架的边界 / The Boundary of the Frame](../../posts/the-boundary-of-the-frame/) · [无法逃逸的心智视界 / One Cannot Escape One's Own Mind](../../posts/one-cannot-escape-ones-own-mind/) · [因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere](../../posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere/) · [双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer](../../posts/the-twin-paradox-and-the-hidden-observer/) · [定义者的席位与离地的幻觉 / The Defining Seat](../../posts/the-defining-seat/) · [不可还原的观察者 / The Irreducible Observer](../../posts/the-irreducible-observer/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/) · [没有固定者的固定 / Fixed by Nothing](../../posts/fixed-by-nothing/) · [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
+→ [隐秘的上帝之眼 / The Invisible God's Eye](../../posts/the-invisible-gods-eye/) · [割点可移不可除 / The Cut Moves but Never Vanishes](../../posts/the-cut-moves-but-never-vanishes/) · [自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere](../../posts/self-image-speaks-as-if-from-nowhere/) · [持续生长的脚手架 / The Scaffolding That Keeps Growing](../../posts/the-scaffolding-that-keeps-growing/) · [框架的边界 / The Boundary of the Frame](../../posts/the-boundary-of-the-frame/) · [无法逃逸的心智视界 / One Cannot Escape One's Own Mind](../../posts/one-cannot-escape-ones-own-mind/) · [因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere](../../posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere/) · [双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer](../../posts/the-twin-paradox-and-the-hidden-observer/) · [定义者的席位与离地的幻觉 / The Defining Seat](../../posts/the-defining-seat/) · [不可还原的观察者 / The Irreducible Observer](../../posts/the-irreducible-observer/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/) · [没有固定者的固定 / Fixed by Nothing](../../posts/fixed-by-nothing/) · [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/) · [折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation](../../posts/the-folded-self-image-and-the-bound-of-simulation/)
 
 ### 世界是幻觉 / The World as Illusion
 `哲学 / Philosophical`
@@ -5203,7 +5221,7 @@ Assuming that refining tools and workflows directly increases output is of use i
 
 The self-image—or a frozen behavioral portrait of another—is taken for the living center itself, and so it is guarded, curated as a preferred portrait, armoured, fixed as "knowing" someone, or targeted for extinction; as a passing reference point for computing orientation and error at the current step a provisional image stays indispensable, and the premise reaches its boundary where any of these postures takes the low-dimensional probe for the generative Mind itself, turning disconfirming contact into a threat that must be filtered out to maintain the model.
 
-→ [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/) · [自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere](../../posts/self-image-speaks-as-if-from-nowhere/) · [自我模型维护悖论 / The Maintenance Paradox](../../posts/the-maintenance-paradox/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/) · [决定论机器 / The Deterministic Machine](../../posts/the-deterministic-machine/) · [展示的独处是已确保连接后的残余 / Displayed Solitude Is Residual After Secured Connection](../../posts/displayed-solitude-is-residual-after-secured-connection/) · [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/) · [以知为刃的截肢与解脱 / The Illusion of Knowing and the Geometry of Amputation](../../posts/the-illusion-of-knowing-and-the-geometry-of-amputation/) · [自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution](../../posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/) · [加速替换与形象滞后 / Accelerating Replacement and Image Lag](../../posts/accelerating-replacement-and-image-lag/)
+→ [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/) · [自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere](../../posts/self-image-speaks-as-if-from-nowhere/) · [自我模型维护悖论 / The Maintenance Paradox](../../posts/the-maintenance-paradox/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/) · [决定论机器 / The Deterministic Machine](../../posts/the-deterministic-machine/) · [展示的独处是已确保连接后的残余 / Displayed Solitude Is Residual After Secured Connection](../../posts/displayed-solitude-is-residual-after-secured-connection/) · [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/) · [以知为刃的截肢与解脱 / The Illusion of Knowing and the Geometry of Amputation](../../posts/the-illusion-of-knowing-and-the-geometry-of-amputation/) · [自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution](../../posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/) · [加速替换与形象滞后 / Accelerating Replacement and Image Lag](../../posts/accelerating-replacement-and-image-lag/) · [折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation](../../posts/the-folded-self-image-and-the-bound-of-simulation/)
 
 ### 量子不确定性与隐变量 / Quantum Indeterminacy and Hidden Variables
 `科学 / Scientific`

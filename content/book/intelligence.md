@@ -78,3 +78,4 @@ The essays in this part trace the category boundaries of the Turing and Einstein
 - [清洁的平均与残余的抉择 / Clean Averaging and Residual Choice](../../posts/clean-averaging-and-residual-choice/)
 - [限制即自我限制 / Every Limitation Is Self-Limitation](../../posts/every-limitation-is-self-limitation/)
 - [终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice](../../posts/eternally-wrong-questions-that-haunt-practice/)
+- [折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation](../../posts/the-folded-self-image-and-the-bound-of-simulation/)
