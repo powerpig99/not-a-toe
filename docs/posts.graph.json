@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-24T10:04:40.469Z",
+    "generated_at": "2026-11-24T12:22:47.874Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -38,7 +38,7 @@
       "content/posts/beyond-the-projection.md": "8a8000a62e66",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "bc4af4be9924",
       "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "0ff597e3465b",
-      "content/posts/boundary-of-the-isolation-idealization-and-the-non-closable-open.md": "e567f0892878",
+      "content/posts/boundary-of-the-isolation-idealization-and-the-non-closable-open.md": "95c06a2a301e",
       "content/posts/carbon-form-as-residual-path-silicon-as-extension.md": "5138e0e52f61",
       "content/posts/causality-all-the-way.md": "335fcadee6b9",
       "content/posts/causality-and-the-irreducible-prior.md": "23039b57892e",
@@ -493,10 +493,10 @@
     },
     "stats": {
       "posts": 466,
-      "edges": 14476,
-      "unique_directed": 7118,
+      "edges": 14478,
+      "unique_directed": 7119,
       "missing_targets": 0,
-      "one_way": 1634,
+      "one_way": 1635,
       "isolated": 0,
       "posts_with_outbound": 466,
       "book_pages": 16,
@@ -1509,15 +1509,16 @@
       "slug": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
       "path": "content/posts/boundary-of-the-isolation-idealization-and-the-non-closable-open.md",
       "title": "隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open",
-      "hash": "e567f0892878",
+      "hash": "95c06a2a301e",
       "in_degree": 9,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "the-open-question-is-determinisms-demand",
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "the-boundary-of-perception-and-the-infinity-of-understanding",
         "the-black-and-white-sample-frame-and-the-extrapolated-universe",
         "infinity-within-the-seat",
+        "demanding-a-toe-freezes-time-into-a-catalog",
         "the-boundary-of-the-frame",
         "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
         "selection-contradiction-and-open-reality",
@@ -2589,7 +2590,7 @@
       "path": "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md",
       "title": "索求万物理论是在将当下冻结为清单 / Demanding a Theory of Everything Freezes Time into a Catalog",
       "hash": "8b0479c7311d",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 9,
       "links_out": [
         "the-cut-moves-but-never-vanishes",
@@ -19169,9 +19170,21 @@
     },
     {
       "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "demanding-a-toe-freezes-time-into-a-catalog",
+      "rel": "points_to",
+      "label": "索求万物理论是在将当下冻结为清单"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
       "to": "the-boundary-of-the-frame",
       "rel": "points_to",
       "label": "框架的边界"
+    },
+    {
+      "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "to": "demanding-a-toe-freezes-time-into-a-catalog",
+      "rel": "points_to",
+      "label": "Demanding a Theory of Everything Freezes Time into a Catalog"
     },
     {
       "from": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
