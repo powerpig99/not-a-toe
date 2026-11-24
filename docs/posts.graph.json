@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-24T07:33:26.714Z",
+    "generated_at": "2026-11-24T09:43:25.606Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -131,7 +131,7 @@
       "content/posts/immortality-final.md": "2bbeb6b8ed55",
       "content/posts/incompleteness-exhibited-twice.md": "87f45601a359",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "e5e1fcd23570",
-      "content/posts/infinity-within-the-seat.md": "6232da05d87c",
+      "content/posts/infinity-within-the-seat.md": "cf3a8bc167af",
       "content/posts/inheritance-as-residue-and-the-need-for-extraction.md": "0c7ba216c8ac",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "5153fb0eac11",
       "content/posts/intelligence-crisis-response.md": "ae3e106cc101",
@@ -212,7 +212,7 @@
       "content/posts/restriction-is-a-selective-tax.md": "bfdd4ca0b587",
       "content/posts/scaffolds-or-specialized-contexts.md": "2b7375e218aa",
       "content/posts/school_essay_final.md": "f18cabb10f9c",
-      "content/posts/selection-contradiction-and-open-reality.md": "1101972968c9",
+      "content/posts/selection-contradiction-and-open-reality.md": "30ca26c67aeb",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "bb259ec074c9",
       "content/posts/self-rl-for-humans.md": "bba5dd51c82e",
       "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "5bdf03fd7397",
@@ -242,12 +242,12 @@
       "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "6804cff7b14a",
       "content/posts/the-bank-shot-and-the-magic-trick.md": "48ef2c7bd8f8",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "880c1d6f1f18",
-      "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "f29f05fcc7c5",
+      "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "76e67a662733",
       "content/posts/the-blind-cut-and-the-naming-mind.md": "5d1da39f48d6",
       "content/posts/the-blind-spot-of-the-frame.md": "82abd27922b6",
       "content/posts/the-boundary-crossing-of-choice.md": "f23183dd7dd7",
-      "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "798205f8689b",
-      "content/posts/the-boundary-of-the-frame.md": "5da9410329eb",
+      "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "91eb49ab18cf",
+      "content/posts/the-boundary-of-the-frame.md": "4961d7b8da4c",
       "content/posts/the-brain-does-not-backprop.md": "e1886dd17252",
       "content/posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice.md": "988bf37e7a02",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "a8a4ce29b72b",
@@ -352,7 +352,7 @@
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "9a266ff69ee5",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "af784b26392a",
       "content/posts/the-mirage-of-the-infinite-totality.md": "c4a6527c3311",
-      "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "9c27ae82272e",
+      "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "4147a4df244f",
       "content/posts/the-mirror-handshake-of-power.md": "3fdbf6e17ecc",
       "content/posts/the-misallocation-of-agency.md": "cff23eba5d72",
       "content/posts/the-model-never-becomes-a-second-edge.md": "508ba7e870a3",
@@ -365,7 +365,7 @@
       "content/posts/the-observational-cut-in-ai-debates.md": "7df2fc299ebb",
       "content/posts/the-only-coherent-uncaused-effect.md": "305f2f69cada",
       "content/posts/the-opacity-of-production-and-the-weight-of-consumption.md": "9d5edc313265",
-      "content/posts/the-open-question-is-determinisms-demand.md": "670d76055718",
+      "content/posts/the-open-question-is-determinisms-demand.md": "7763644bf9c7",
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "dc29182803e7",
       "content/posts/the-orthogonal-refusal.md": "68eddc931d5a",
       "content/posts/the-other-coherence.md": "8dac9149aa79",
@@ -406,7 +406,7 @@
       "content/posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts.md": "97fa53f31ce5",
       "content/posts/the-shadow-and-the-infinite.md": "53e82672e13d",
       "content/posts/the-shadow-has-no-loss.md": "a936fb748b1a",
-      "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "5c9e970029f8",
+      "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "15b1c1ed9fa0",
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "2705c7c2f0ad",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "bd0a5b0d1537",
       "content/posts/the-source-of-all-harm.md": "67e9c861c682",
@@ -420,7 +420,7 @@
       "content/posts/the-surface-that-registers.md": "935d5f757c76",
       "content/posts/the-three-shadows-of-the-cut.md": "fcb032465d92",
       "content/posts/the-tightening-loop.md": "ea908523f5d5",
-      "content/posts/the-twin-paradox-and-the-hidden-observer.md": "1efcfef4bee3",
+      "content/posts/the-twin-paradox-and-the-hidden-observer.md": "c962d81df066",
       "content/posts/the-two-readings-of-shared-and-the-observational-bound.md": "1199b3c1f13f",
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "06b70b068131",
       "content/posts/the-unclosable-trace.md": "12bf152789c6",
@@ -493,10 +493,10 @@
     },
     "stats": {
       "posts": 466,
-      "edges": 14458,
-      "unique_directed": 7109,
+      "edges": 14476,
+      "unique_directed": 7118,
       "missing_targets": 0,
-      "one_way": 1641,
+      "one_way": 1634,
       "isolated": 0,
       "posts_with_outbound": 466,
       "book_pages": 16,
@@ -1510,7 +1510,7 @@
       "path": "content/posts/boundary-of-the-isolation-idealization-and-the-non-closable-open.md",
       "title": "隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open",
       "hash": "e567f0892878",
-      "in_degree": 0,
+      "in_degree": 9,
       "out_degree": 11,
       "links_out": [
         "the-open-question-is-determinisms-demand",
@@ -4086,14 +4086,15 @@
       "slug": "infinity-within-the-seat",
       "path": "content/posts/infinity-within-the-seat.md",
       "title": "座位之内的无限进程 / Infinity Within the Seat",
-      "hash": "6232da05d87c",
+      "hash": "cf3a8bc167af",
       "in_degree": 17,
-      "out_degree": 21,
+      "out_degree": 22,
       "links_out": [
         "one-cannot-escape-ones-own-mind",
         "the-defining-seat",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "the-boundary-of-the-frame",
+        "boundary-of-the-isolation-idealization-and-the-non-closable-open",
         "individual-choices-as-the-only-causal-levers",
         "the-invisible-gods-eye",
         "the-two-readings-of-shared-and-the-observational-bound",
@@ -6496,12 +6497,13 @@
       "slug": "selection-contradiction-and-open-reality",
       "path": "content/posts/selection-contradiction-and-open-reality.md",
       "title": "选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality",
-      "hash": "1101972968c9",
+      "hash": "30ca26c67aeb",
       "in_degree": 12,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "abstraction-boundaries-and-the-moving-edge-of-reality",
         "causality-and-the-irreducible-prior",
+        "boundary-of-the-isolation-idealization-and-the-non-closable-open",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "nobody-has-seen-anything-yet",
         "the-generative-contradiction",
@@ -7403,13 +7405,14 @@
       "slug": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "path": "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md",
       "title": "黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe",
-      "hash": "f29f05fcc7c5",
+      "hash": "76e67a662733",
       "in_degree": 8,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "the-twin-paradox-and-the-hidden-observer",
         "the-illusion-of-the-shared-sandbox",
         "time-is-causality-not-a-dimension",
+        "boundary-of-the-isolation-idealization-and-the-non-closable-open",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "the-continuum-is-a-modeling-convenience",
         "when-electrons-think",
@@ -7489,9 +7492,9 @@
       "slug": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "path": "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md",
       "title": "感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding",
-      "hash": "798205f8689b",
+      "hash": "91eb49ab18cf",
       "in_degree": 12,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
@@ -7502,6 +7505,7 @@
         "fixed-by-nothing",
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "the-explanatory-trap-of-the-ordinary-perspective",
+        "boundary-of-the-isolation-idealization-and-the-non-closable-open",
         "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
         "abstract-pain-and-living-hunger",
         "dimensions-are-projections",
@@ -7515,13 +7519,14 @@
       "slug": "the-boundary-of-the-frame",
       "path": "content/posts/the-boundary-of-the-frame.md",
       "title": "框架的边界 / The Boundary of the Frame",
-      "hash": "5da9410329eb",
+      "hash": "4961d7b8da4c",
       "in_degree": 24,
-      "out_degree": 22,
+      "out_degree": 23,
       "links_out": [
         "what-information-is",
         "time-is-causality-not-a-dimension",
         "the-three-shadows-of-the-cut",
+        "boundary-of-the-isolation-idealization-and-the-non-closable-open",
         "the-scaffolding-we-forget",
         "an-observation-by-its-own-standard",
         "the-geometry-of-mind",
@@ -10117,9 +10122,9 @@
       "slug": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "path": "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md",
       "title": "时间之箭的伪悖论与对称模拟的边界 / The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation",
-      "hash": "9c27ae82272e",
+      "hash": "4147a4df244f",
       "in_degree": 14,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "choice-itself-has-no-inherent-weight",
         "agency-does-not-arise",
@@ -10127,6 +10132,7 @@
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
         "the-explanatory-trap-of-the-ordinary-perspective",
         "the-summary-first-reversal-and-the-command-of-yields",
+        "boundary-of-the-isolation-idealization-and-the-non-closable-open",
         "openness-is-consistency",
         "beyond-the-projection",
         "the-boundary-of-perception-and-the-infinity-of-understanding",
@@ -10485,9 +10491,9 @@
       "slug": "the-open-question-is-determinisms-demand",
       "path": "content/posts/the-open-question-is-determinisms-demand.md",
       "title": "悬而未决是决定论的索求 / The Open Question Is Determinism's Demand",
-      "hash": "670d76055718",
+      "hash": "7763644bf9c7",
       "in_degree": 6,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "agency-does-not-arise",
         "the-model-never-becomes-a-second-edge",
@@ -10495,6 +10501,7 @@
         "fixed-by-nothing",
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
         "observation-distinguishing-activity-and-the-open-ground-of-mind",
+        "boundary-of-the-isolation-idealization-and-the-non-closable-open",
         "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
         "the-residue-and-the-free-variable",
         "your-codebase-is-memory",
@@ -11621,9 +11628,9 @@
       "slug": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "path": "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md",
       "title": "“物理学才是定律”的障眼法 / The Sleight of Hand in \"Physics Is the Law\"",
-      "hash": "5c9e970029f8",
+      "hash": "15b1c1ed9fa0",
       "in_degree": 21,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
@@ -11639,6 +11646,7 @@
         "the-ladder-of-abstraction-and-the-executable-entity",
         "the-cut-moves-but-never-vanishes",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "boundary-of-the-isolation-idealization-and-the-non-closable-open",
         "individual-choices-as-the-only-causal-levers",
         "mei-you-pu-du-zhi-you-zi-du",
         "beyond-the-projection",
@@ -11974,9 +11982,9 @@
       "slug": "the-twin-paradox-and-the-hidden-observer",
       "path": "content/posts/the-twin-paradox-and-the-hidden-observer.md",
       "title": "双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer",
-      "hash": "1efcfef4bee3",
+      "hash": "c962d81df066",
       "in_degree": 13,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-illusion-of-the-shared-sandbox",
@@ -11990,6 +11998,7 @@
         "the-free-variable-and-the-retrospective-illusion-of-power",
         "the-irreducible-observer",
         "no-system-can-be-kept-closed",
+        "boundary-of-the-isolation-idealization-and-the-non-closable-open",
         "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
         "causality-all-the-way",
         "the-myth-of-the-four-dimensional-deer-and-the-present-model"
@@ -36890,9 +36899,21 @@
     },
     {
       "from": "infinity-within-the-seat",
+      "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "rel": "points_to",
+      "label": "隔离理想化的边界与不可闭合的开放"
+    },
+    {
+      "from": "infinity-within-the-seat",
       "to": "the-boundary-of-the-frame",
       "rel": "points_to",
       "label": "The Boundary of the Frame"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "rel": "points_to",
+      "label": "Boundary of the Isolation Idealization and the Non-Closable Open"
     },
     {
       "from": "infinity-within-the-seat",
@@ -54332,6 +54353,18 @@
     },
     {
       "from": "selection-contradiction-and-open-reality",
+      "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "rel": "points_to",
+      "label": "隔离理想化的边界与不可闭合的开放"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
+      "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "rel": "points_to",
+      "label": "Boundary of the Isolation Idealization and the Non-Closable Open"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
       "label": "复杂性遮蔽了涌现之为心智的行动"
@@ -60272,6 +60305,18 @@
     },
     {
       "from": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+      "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "rel": "points_to",
+      "label": "隔离理想化的边界与不可闭合的开放"
+    },
+    {
+      "from": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+      "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "rel": "points_to",
+      "label": "Boundary of the Isolation Idealization and the Non-Closable Open"
+    },
+    {
+      "from": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
       "label": "“物理学才是定律”的障眼法"
@@ -60830,9 +60875,21 @@
     },
     {
       "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "rel": "points_to",
+      "label": "隔离理想化的边界与不可闭合的开放"
+    },
+    {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "to": "the-explanatory-trap-of-the-ordinary-perspective",
       "rel": "points_to",
       "label": "The Explanatory Trap of the \"Ordinary Perspective\""
+    },
+    {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "rel": "points_to",
+      "label": "Boundary of the Isolation Idealization and the Non-Closable Open"
     },
     {
       "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
@@ -60929,6 +60986,18 @@
       "to": "the-three-shadows-of-the-cut",
       "rel": "points_to",
       "label": "The Three Shadows of the Cut"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "rel": "points_to",
+      "label": "隔离理想化的边界与不可闭合的开放"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "rel": "points_to",
+      "label": "Boundary of the Isolation Idealization and the Non-Closable Open"
     },
     {
       "from": "the-boundary-of-the-frame",
@@ -77516,6 +77585,12 @@
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "rel": "points_to",
+      "label": "隔离理想化的边界与不可闭合的开放"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "开放即一致"
@@ -77531,6 +77606,12 @@
       "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "rel": "points_to",
       "label": "感知的界限与理解的无限"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "rel": "points_to",
+      "label": "Boundary of the Isolation Idealization and the Non-Closable Open"
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
@@ -80090,9 +80171,21 @@
     },
     {
       "from": "the-open-question-is-determinisms-demand",
+      "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "rel": "points_to",
+      "label": "隔离理想化的边界与不可闭合的开放"
+    },
+    {
+      "from": "the-open-question-is-determinisms-demand",
       "to": "observation-distinguishing-activity-and-the-open-ground-of-mind",
       "rel": "points_to",
       "label": "Observation, Distinguishing Activity, and the Open Ground of Mind"
+    },
+    {
+      "from": "the-open-question-is-determinisms-demand",
+      "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "rel": "points_to",
+      "label": "Boundary of the Isolation Idealization and the Non-Closable Open"
     },
     {
       "from": "the-open-question-is-determinisms-demand",
@@ -88100,6 +88193,18 @@
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "rel": "points_to",
+      "label": "隔离理想化的边界与不可闭合的开放"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "rel": "points_to",
+      "label": "Boundary of the Isolation Idealization and the Non-Closable Open"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "个体抉择是唯一的因果杠杆"
@@ -90365,6 +90470,18 @@
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
       "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "rel": "points_to",
+      "label": "隔离理想化的边界与不可闭合的开放"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
+      "rel": "points_to",
+      "label": "Boundary of the Isolation Idealization and the Non-Closable Open"
     },
     {
       "from": "the-twin-paradox-and-the-hidden-observer",
