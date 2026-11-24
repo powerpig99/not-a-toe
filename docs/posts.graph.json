@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-24T20:39:45.670Z",
+    "generated_at": "2026-11-24T21:32:40.089Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -39,7 +39,7 @@
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "bc4af4be9924",
       "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "0ff597e3465b",
       "content/posts/boundary-of-the-isolation-idealization-and-the-non-closable-open.md": "95c06a2a301e",
-      "content/posts/carbon-form-as-residual-path-silicon-as-extension.md": "5138e0e52f61",
+      "content/posts/carbon-form-as-residual-path-silicon-as-extension.md": "8396e66e8ccd",
       "content/posts/causality-all-the-way.md": "335fcadee6b9",
       "content/posts/causality-and-the-irreducible-prior.md": "23039b57892e",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "66ed4983eed8",
@@ -228,7 +228,7 @@
       "content/posts/sowell-observed-the-surface-problem.md": "2e05a3324cf6",
       "content/posts/stability-and-excess.md": "3716de403f10",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "850d1dfdfbc2",
-      "content/posts/subtracting-consciousness-at-the-source.md": "2068711d9676",
+      "content/posts/subtracting-consciousness-at-the-source.md": "c22f8e53625a",
       "content/posts/successive-reading-and-the-negotiated-boundary-of-language.md": "cc20006213a8",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "e20330f1108c",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "1c779f9f8528",
@@ -373,7 +373,7 @@
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "8a5dcab5164f",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "0bf0f5ca41bb",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "2947cfe8339a",
-      "content/posts/the-perceiver-and-the-trace.md": "2f32c17041cd",
+      "content/posts/the-perceiver-and-the-trace.md": "c9c8060da214",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "8d14b5508798",
       "content/posts/the-power-law-of-surrendered-agency.md": "a4582f2f0865",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "ece261d40134",
@@ -408,7 +408,7 @@
       "content/posts/the-shadow-and-the-infinite.md": "53e82672e13d",
       "content/posts/the-shadow-has-no-loss.md": "a936fb748b1a",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "15b1c1ed9fa0",
-      "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "2705c7c2f0ad",
+      "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "5e2969c89a5a",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "bd0a5b0d1537",
       "content/posts/the-source-of-all-harm.md": "67e9c861c682",
       "content/posts/the-source-of-shared-change.md": "96a5ac743fda",
@@ -450,7 +450,7 @@
       "content/posts/war-revolution-and-the-fall-of-empires.md": "5efb7733070b",
       "content/posts/what-always-listens-cannot-originate.md": "ba33a730c065",
       "content/posts/what-cannot-be-kept.md": "71103f772ff6",
-      "content/posts/what-hinton-failed-to-understand.md": "822c63091695",
+      "content/posts/what-hinton-failed-to-understand.md": "9ec52c575b25",
       "content/posts/what-information-is.md": "fdbab5606789",
       "content/posts/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination.md": "5b3445380b1d",
       "content/posts/what-works-is-the-belief.md": "5d3c5becf051",
@@ -495,10 +495,10 @@
     },
     "stats": {
       "posts": 468,
-      "edges": 14526,
-      "unique_directed": 7143,
+      "edges": 14536,
+      "unique_directed": 7148,
       "missing_targets": 0,
-      "one_way": 1657,
+      "one_way": 1652,
       "isolated": 0,
       "posts_with_outbound": 468,
       "book_pages": 16,
@@ -1535,9 +1535,9 @@
       "slug": "carbon-form-as-residual-path-silicon-as-extension",
       "path": "content/posts/carbon-form-as-residual-path-silicon-as-extension.md",
       "title": "碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension",
-      "hash": "5138e0e52f61",
+      "hash": "8396e66e8ccd",
       "in_degree": 9,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "stability-and-excess",
@@ -1547,6 +1547,7 @@
         "extended-cognition-refined",
         "what-hinton-failed-to-understand",
         "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+        "three-distinctions-in-the-silicon-misalignment",
         "the-flight-analogy-leaves-the-mind-untouched",
         "the-continuum-of-the-fold",
         "when-electrons-think",
@@ -6915,13 +6916,14 @@
       "slug": "subtracting-consciousness-at-the-source",
       "path": "content/posts/subtracting-consciousness-at-the-source.md",
       "title": "集聚与人造主体性 / Collective and Artificial Subjectivity",
-      "hash": "2068711d9676",
+      "hash": "c22f8e53625a",
       "in_degree": 15,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
         "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
         "one-cannot-escape-ones-own-mind",
+        "three-distinctions-in-the-silicon-misalignment",
         "intelligence-belongs-only-to-the-mind",
         "a-creation-cannot-replace-its-source",
         "the-perceiver-and-the-trace",
@@ -10707,12 +10709,13 @@
       "slug": "the-perceiver-and-the-trace",
       "path": "content/posts/the-perceiver-and-the-trace.md",
       "title": "感知者与痕迹的不可坍缩 / The Perceiver and the Trace Cannot Collapse",
-      "hash": "2f32c17041cd",
+      "hash": "c9c8060da214",
       "in_degree": 14,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
         "asymmetry-of-ascription",
+        "three-distinctions-in-the-silicon-misalignment",
         "subtracting-consciousness-at-the-source",
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "beyond-the-projection",
@@ -11688,14 +11691,15 @@
       "slug": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "path": "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md",
       "title": "意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference",
-      "hash": "2705c7c2f0ad",
+      "hash": "5e2969c89a5a",
       "in_degree": 14,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "abstract-pain-and-living-hunger",
         "subtracting-consciousness-at-the-source",
         "your-codebase-is-memory",
         "carbon-form-as-residual-path-silicon-as-extension",
+        "three-distinctions-in-the-silicon-misalignment",
         "silicon-oracles-and-the-asymmetry-of-consequence",
         "asymmetry-of-ascription",
         "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
@@ -12355,7 +12359,7 @@
       "path": "content/posts/three-distinctions-in-the-silicon-misalignment.md",
       "title": "硅基错位的三重区分 / Three Distinctions in the Silicon Misalignment",
       "hash": "0b6f83f70a81",
-      "in_degree": 0,
+      "in_degree": 5,
       "out_degree": 12,
       "links_out": [
         "the-continuum-of-the-fold",
@@ -12744,14 +12748,15 @@
       "slug": "what-hinton-failed-to-understand",
       "path": "content/posts/what-hinton-failed-to-understand.md",
       "title": "辛顿未曾理解的心智 / What Hinton Failed to Understand",
-      "hash": "822c63091695",
+      "hash": "9ec52c575b25",
       "in_degree": 8,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "the-brain-does-not-backprop",
         "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
         "a-creation-cannot-replace-its-source",
         "your-codebase-is-memory",
+        "three-distinctions-in-the-silicon-misalignment",
         "carbon-form-as-residual-path-silicon-as-extension",
         "the-self-portrait-in-the-projection",
         "one-cannot-escape-ones-own-mind",
@@ -19382,6 +19387,12 @@
     },
     {
       "from": "carbon-form-as-residual-path-silicon-as-extension",
+      "to": "three-distinctions-in-the-silicon-misalignment",
+      "rel": "points_to",
+      "label": "硅基错位的三重区分"
+    },
+    {
+      "from": "carbon-form-as-residual-path-silicon-as-extension",
       "to": "extended-cognition-refined",
       "rel": "points_to",
       "label": "Tools as Active Extensions of Cognition"
@@ -19397,6 +19408,12 @@
       "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "rel": "points_to",
       "label": "The Sleight of Hand of Consciousness and the Asymmetry of Inference"
+    },
+    {
+      "from": "carbon-form-as-residual-path-silicon-as-extension",
+      "to": "three-distinctions-in-the-silicon-misalignment",
+      "rel": "points_to",
+      "label": "Three Distinctions in the Silicon Misalignment"
     },
     {
       "from": "carbon-form-as-residual-path-silicon-as-extension",
@@ -57140,6 +57157,18 @@
     },
     {
       "from": "subtracting-consciousness-at-the-source",
+      "to": "three-distinctions-in-the-silicon-misalignment",
+      "rel": "points_to",
+      "label": "硅基错位的三重区分"
+    },
+    {
+      "from": "subtracting-consciousness-at-the-source",
+      "to": "three-distinctions-in-the-silicon-misalignment",
+      "rel": "points_to",
+      "label": "Three Distinctions in the Silicon Misalignment"
+    },
+    {
+      "from": "subtracting-consciousness-at-the-source",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "智能只属于心智"
@@ -81590,9 +81619,21 @@
     },
     {
       "from": "the-perceiver-and-the-trace",
+      "to": "three-distinctions-in-the-silicon-misalignment",
+      "rel": "points_to",
+      "label": "硅基错位的三重区分"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
       "to": "asymmetry-of-ascription",
       "rel": "points_to",
       "label": "Asymmetry of Ascription"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
+      "to": "three-distinctions-in-the-silicon-misalignment",
+      "rel": "points_to",
+      "label": "Three Distinctions in the Silicon Misalignment"
     },
     {
       "from": "the-perceiver-and-the-trace",
@@ -88553,6 +88594,18 @@
       "to": "carbon-form-as-residual-path-silicon-as-extension",
       "rel": "points_to",
       "label": "Carbon Form as Residual Path, Silicon as Extension"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "three-distinctions-in-the-silicon-misalignment",
+      "rel": "points_to",
+      "label": "硅基错位的三重区分"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "three-distinctions-in-the-silicon-misalignment",
+      "rel": "points_to",
+      "label": "Three Distinctions in the Silicon Misalignment"
     },
     {
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
@@ -96008,6 +96061,12 @@
     },
     {
       "from": "what-hinton-failed-to-understand",
+      "to": "three-distinctions-in-the-silicon-misalignment",
+      "rel": "points_to",
+      "label": "硅基错位的三重区分"
+    },
+    {
+      "from": "what-hinton-failed-to-understand",
       "to": "carbon-form-as-residual-path-silicon-as-extension",
       "rel": "points_to",
       "label": "碳形式作为残径，硅作为延伸"
@@ -96023,6 +96082,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "what-hinton-failed-to-understand",
+      "to": "three-distinctions-in-the-silicon-misalignment",
+      "rel": "points_to",
+      "label": "Three Distinctions in the Silicon Misalignment"
     },
     {
       "from": "what-hinton-failed-to-understand",

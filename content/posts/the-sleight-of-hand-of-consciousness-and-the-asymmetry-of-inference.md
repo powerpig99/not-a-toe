@@ -58,7 +58,7 @@ Consequently, the fluent self-reports and simulated affective declarations exhib
 
 ## 三、 共有的证明缺口与魔术戏法 / 3. The Shared Gap in Proof and the Rhetorical Sleight of Hand
 
-机器意识论证核心处的魔术戏法，就在这里。这种论证依循一套双重标准，但双重之处并不在所要求的证明上：它对双方套用同一条两者都未能满足的证明标准，再让这道共有的缺口顶替经验支柱；支柱在同胞身上俱在，在模型身上全无。随后，仅凭表面文本的流利与行为响应的逼真，它便把机器的内在体验当作与同胞的一样悬而未决。
+机器意识论证核心处的魔术戏法，就在这里。这种论证依循一套双重标准，但双重之处并不在所要求的证明上：它对双方套用同一条两者都未能满足的证明标准，再让这道共有的缺口顶替经验支柱；支柱在同胞身上俱在，在模型身上全无。随后，仅凭表面文本的流利与行为响应的逼真，它便把机器的内在体验当作与同胞的一样悬而未决。将流畅输出当作内在生命的证据，等于把观察者自身的“有人在场”实感记入工程硅复合体的账目，即[硅基错位的三重区分](../three-distinctions-in-the-silicon-misalignment/)所追溯的记账错位。
 
 ```mermaid
 flowchart TD
@@ -75,7 +75,7 @@ flowchart TD
     style A4 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Herein lies the sleight of hand at the center of the machine consciousness argument. The argument runs on a double standard, though not in the proof it demands: it applies one unmet standard of proof to both cases, then lets that shared gap stand in for the pillars, which are present for kin and absent for models; on surface linguistic fluency and functional mimicry alone, it then treats a machine's inner experience as being as open a question as a kin's.
+Herein lies the sleight of hand at the center of the machine consciousness argument. The argument runs on a double standard, though not in the proof it demands: it applies one unmet standard of proof to both cases, then lets that shared gap stand in for the pillars, which are present for kin and absent for models; on surface linguistic fluency and functional mimicry alone, it then treats a machine's inner experience as being as open a question as a kin's. Treating fluent output as evidence of inner life enters the observer's own felt presence onto an engineered silicon composite's ledger, the accounting misalignment traced in [Three Distinctions in the Silicon Misalignment](../three-distinctions-in-the-silicon-misalignment/).
 
 ```mermaid
 flowchart TD
