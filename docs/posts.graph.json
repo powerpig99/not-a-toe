@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-24T04:37:15.114Z",
+    "generated_at": "2026-11-24T05:42:57.985Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -24,7 +24,7 @@
       "content/posts/agency-does-not-arise.md": "9b991f48fb54",
       "content/posts/agency-relocated-into-the-formal-model.md": "3e1fa31e14a3",
       "content/posts/agents_leia_ontological_clarity.md": "c9f0ffd4dcee",
-      "content/posts/agi-and-asi-are-temporary-goalposts.md": "16956bbda17a",
+      "content/posts/agi-and-asi-are-temporary-goalposts.md": "c3f1f84df152",
       "content/posts/ai-as-augmentation.md": "b2d79fbb1120",
       "content/posts/ai-wont-kill-software-engineering.md": "cc0137e82426",
       "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "e1052154972b",
@@ -64,7 +64,7 @@
       "content/posts/consciousness-never-appears-as-data-among-data.md": "c0e6de4b4028",
       "content/posts/constraints_are_ground.md": "ca74036b260a",
       "content/posts/context-engineering-essay.md": "b551944fbba4",
-      "content/posts/continuous-learning-as-expression-and-simulation.md": "9ce5608bf474",
+      "content/posts/continuous-learning-as-expression-and-simulation.md": "c2aa6e42e3d8",
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "d399e29f1ee7",
       "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "a305cbdeb8dd",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "63bff49ee35f",
@@ -130,11 +130,11 @@
       "content/posts/immortality-final.md": "2bbeb6b8ed55",
       "content/posts/incompleteness-exhibited-twice.md": "87f45601a359",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "e5e1fcd23570",
-      "content/posts/infinity-within-the-seat.md": "c603f801d2e5",
+      "content/posts/infinity-within-the-seat.md": "6232da05d87c",
       "content/posts/inheritance-as-residue-and-the-need-for-extraction.md": "0c7ba216c8ac",
-      "content/posts/intelligence-belongs-only-to-the-mind.md": "5656f412d172",
+      "content/posts/intelligence-belongs-only-to-the-mind.md": "5153fb0eac11",
       "content/posts/intelligence-crisis-response.md": "ae3e106cc101",
-      "content/posts/intelligence-folding-back-on-itself.md": "2b275af40326",
+      "content/posts/intelligence-folding-back-on-itself.md": "df71f387f49b",
       "content/posts/intelligence-in-observation-and-the-residual-gap.md": "eb38ddf77c2e",
       "content/posts/intelligence-traps-itself.md": "39bc773f79e9",
       "content/posts/judgment-is-not-a-stock.md": "6e02392bd145",
@@ -151,7 +151,7 @@
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "838280739a81",
       "content/posts/minimizing-path.md": "818c9dd4041e",
       "content/posts/mises-state-analysis.md": "6690c568a71b",
-      "content/posts/mistaking-the-expression-for-the-intelligence.md": "525ef81069b4",
+      "content/posts/mistaking-the-expression-for-the-intelligence.md": "197756d74a84",
       "content/posts/mistaking-the-symptom-of-stability-for-its-source.md": "fa72061ad8e4",
       "content/posts/moral-language-as-projection.md": "06388db8d0ab",
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "116d97ed1a9a",
@@ -159,7 +159,7 @@
       "content/posts/name-negation-tendency.md": "b41eab911376",
       "content/posts/naval-separation-analysis.md": "093c5de72c75",
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "4a0587004f8d",
-      "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "2ba0b9a0f7a1",
+      "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "bc72af5cb77a",
       "content/posts/no-outside-scorekeeper.md": "a277241c4ccd",
       "content/posts/no-system-can-be-kept-closed.md": "8150a42b978a",
       "content/posts/nobody-has-seen-anything-yet.md": "697311f53c01",
@@ -212,7 +212,7 @@
       "content/posts/scaffolds-or-specialized-contexts.md": "2b7375e218aa",
       "content/posts/school_essay_final.md": "f18cabb10f9c",
       "content/posts/selection-contradiction-and-open-reality.md": "1101972968c9",
-      "content/posts/self-image-speaks-as-if-from-nowhere.md": "d779770e9dfb",
+      "content/posts/self-image-speaks-as-if-from-nowhere.md": "bb259ec074c9",
       "content/posts/self-rl-for-humans.md": "bba5dd51c82e",
       "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "5bdf03fd7397",
       "content/posts/sensing-before-interpretation.md": "5d3d5257f316",
@@ -269,7 +269,7 @@
       "content/posts/the-continuum-of-the-fold.md": "dc9ba2141c6b",
       "content/posts/the-coordinators-category-error.md": "6faf06748f9f",
       "content/posts/the-cut-moves-but-never-vanishes.md": "f64a6a74cf6b",
-      "content/posts/the-defining-seat.md": "965264f9a4ce",
+      "content/posts/the-defining-seat.md": "da67e82244e3",
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "a7f27b8dde6e",
       "content/posts/the-density-of-judgment.md": "617d36bce730",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4bce45f3540d",
@@ -287,7 +287,7 @@
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "1dab3fa9644a",
       "content/posts/the-fallacy-of-post-success-parenting.md": "6c2609181de2",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "421e27d0cbc1",
-      "content/posts/the-fixed-image-of-transcendence.md": "7c2e69a32cae",
+      "content/posts/the-fixed-image-of-transcendence.md": "58d0b7c71f92",
       "content/posts/the-fixed-map-and-the-repeated-trip.md": "513269847c19",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "58ad5f55c2f4",
       "content/posts/the-flywheel-of-the-mind.md": "8023c6735d6f",
@@ -359,7 +359,7 @@
       "content/posts/the-myth-of-population-collapse-explained.md": "4117d5bf3cab",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "8a7e42b480b4",
       "content/posts/the-name-revolution-files-a-life-as-evidence.md": "28675c00f6af",
-      "content/posts/the-non-definitive-definition-of-intelligence.md": "c5bb18ee0ee9",
+      "content/posts/the-non-definitive-definition-of-intelligence.md": "3f5ac44b93cc",
       "content/posts/the-npc-impression-is-structural.md": "4ac951ad5341",
       "content/posts/the-observational-cut-in-ai-debates.md": "7df2fc299ebb",
       "content/posts/the-only-coherent-uncaused-effect.md": "305f2f69cada",
@@ -400,7 +400,7 @@
       "content/posts/the-scaffolding-that-keeps-growing.md": "df17e8a60163",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "784859b75696",
       "content/posts/the-scaffolding-we-forget.md": "c1628ffd356a",
-      "content/posts/the-scaling-loop.md": "59f678c43d21",
+      "content/posts/the-scaling-loop.md": "048ddcc8bb43",
       "content/posts/the-self-portrait-in-the-projection.md": "a51b01b918a2",
       "content/posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts.md": "97fa53f31ce5",
       "content/posts/the-shadow-and-the-infinite.md": "53e82672e13d",
@@ -492,10 +492,10 @@
     },
     "stats": {
       "posts": 465,
-      "edges": 14396,
-      "unique_directed": 7078,
+      "edges": 14420,
+      "unique_directed": 7090,
       "missing_targets": 0,
-      "one_way": 1634,
+      "one_way": 1622,
       "isolated": 0,
       "posts_with_outbound": 465,
       "book_pages": 16,
@@ -596,7 +596,7 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "out_degree": 71
+      "out_degree": 72
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -635,11 +635,11 @@
       "out_degree": 40
     },
     {
-      "slug": "causality-all-the-way",
-      "out_degree": 39
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "out_degree": 40
     },
     {
-      "slug": "mistaking-the-expression-for-the-intelligence",
+      "slug": "causality-all-the-way",
       "out_degree": 39
     },
     {
@@ -1138,9 +1138,9 @@
       "slug": "agi-and-asi-are-temporary-goalposts",
       "path": "content/posts/agi-and-asi-are-temporary-goalposts.md",
       "title": "AGI 与 ASI 是加速通用智能的暂时球门 / AGI and ASI Are Temporary Goalposts",
-      "hash": "16956bbda17a",
+      "hash": "c3f1f84df152",
       "in_degree": 32,
-      "out_degree": 29,
+      "out_degree": 30,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
@@ -1152,6 +1152,7 @@
         "your-codebase-is-memory",
         "the-observational-cut-in-ai-debates",
         "mistaking-the-expression-for-the-intelligence",
+        "the-folded-self-image-and-the-bound-of-simulation",
         "the-non-definitive-definition-of-intelligence",
         "why-mathematics-can-never-be-solved",
         "escaping-the-sandbox-stays-inside-the-hold",
@@ -2307,9 +2308,9 @@
       "slug": "continuous-learning-as-expression-and-simulation",
       "path": "content/posts/continuous-learning-as-expression-and-simulation.md",
       "title": "持续学习作为表达与模拟 / Continuous Learning as Expression and Simulation",
-      "hash": "9ce5608bf474",
+      "hash": "c2aa6e42e3d8",
       "in_degree": 27,
-      "out_degree": 29,
+      "out_degree": 30,
       "links_out": [
         "two-phase-sleep-and-deep-sleep-continual-learning",
         "openness-is-consistency",
@@ -2334,6 +2335,7 @@
         "what-always-listens-cannot-originate",
         "the-orthogonal-refusal",
         "token-efficiency-emulation-and-the-unclosable-gap",
+        "the-folded-self-image-and-the-bound-of-simulation",
         "two-failures-of-trace",
         "mistaking-the-expression-for-the-intelligence",
         "self-rl-for-humans",
@@ -4055,9 +4057,9 @@
       "slug": "infinity-within-the-seat",
       "path": "content/posts/infinity-within-the-seat.md",
       "title": "座位之内的无限进程 / Infinity Within the Seat",
-      "hash": "c603f801d2e5",
+      "hash": "6232da05d87c",
       "in_degree": 16,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "one-cannot-escape-ones-own-mind",
         "the-defining-seat",
@@ -4075,6 +4077,7 @@
         "the-cut-moves-but-never-vanishes",
         "self-image-speaks-as-if-from-nowhere",
         "accelerating-replacement-and-image-lag",
+        "the-folded-self-image-and-the-bound-of-simulation",
         "the-mirage-of-the-infinite-totality",
         "reality-is-the-minds-ongoing-realization",
         "the-reality-distortion-field-inverts-the-baseline",
@@ -4114,9 +4117,9 @@
       "slug": "intelligence-belongs-only-to-the-mind",
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "智能只属于心智 / Intelligence Belongs Only to the Mind",
-      "hash": "5656f412d172",
+      "hash": "5153fb0eac11",
       "in_degree": 92,
-      "out_degree": 71,
+      "out_degree": 72,
       "links_out": [
         "curiosity-has-no-final-form",
         "why-mathematics-can-never-be-solved",
@@ -4162,6 +4165,7 @@
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
+        "the-folded-self-image-and-the-bound-of-simulation",
         "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
         "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
         "mistaking-the-expression-for-the-intelligence",
@@ -4217,9 +4221,9 @@
       "slug": "intelligence-folding-back-on-itself",
       "path": "content/posts/intelligence-folding-back-on-itself.md",
       "title": "智能向自身的回折 / Intelligence Folding Back on Itself",
-      "hash": "2b275af40326",
+      "hash": "df71f387f49b",
       "in_degree": 25,
-      "out_degree": 24,
+      "out_degree": 25,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "two-failures-of-trace",
@@ -4234,6 +4238,7 @@
         "the-model-never-becomes-a-second-edge",
         "self-rl-for-humans",
         "ontos-is-a-method-agent",
+        "the-folded-self-image-and-the-bound-of-simulation",
         "the-reversal-of-verification",
         "the-density-of-judgment",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
@@ -4683,9 +4688,9 @@
       "slug": "mistaking-the-expression-for-the-intelligence",
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "错把表达当成智能 / Mistaking the Expression for the Intelligence",
-      "hash": "525ef81069b4",
+      "hash": "197756d74a84",
       "in_degree": 45,
-      "out_degree": 39,
+      "out_degree": 40,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
         "the-unobservable-driver-of-learning",
@@ -4701,6 +4706,7 @@
         "data-is-local-intelligence-is-allocated",
         "the-presumption-of-agi-and-the-view-from-outside",
         "the-ladder-of-abstraction-and-the-executable-entity",
+        "the-folded-self-image-and-the-bound-of-simulation",
         "the-density-of-judgment",
         "agi-and-asi-are-temporary-goalposts",
         "a-creation-cannot-replace-its-source",
@@ -4882,9 +4888,9 @@
       "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "path": "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md",
       "title": "没有外部 / No Outside",
-      "hash": "2ba0b9a0f7a1",
+      "hash": "bc72af5cb77a",
       "in_degree": 31,
-      "out_degree": 27,
+      "out_degree": 28,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
         "what-always-listens-cannot-originate",
@@ -4905,6 +4911,7 @@
         "reality-is-the-minds-ongoing-realization",
         "the-strongest-belief-of-the-mind",
         "complexity-obscures-emergence-as-the-act-of-mind",
+        "the-folded-self-image-and-the-bound-of-simulation",
         "the-fixed-image-of-transcendence",
         "agi-and-asi-are-temporary-goalposts",
         "self-image-speaks-as-if-from-nowhere",
@@ -6482,9 +6489,9 @@
       "slug": "self-image-speaks-as-if-from-nowhere",
       "path": "content/posts/self-image-speaks-as-if-from-nowhere.md",
       "title": "自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere",
-      "hash": "d779770e9dfb",
+      "hash": "bb259ec074c9",
       "in_degree": 36,
-      "out_degree": 27,
+      "out_degree": 28,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
         "writing-without-the-image",
@@ -6505,6 +6512,7 @@
         "the-npc-impression-is-structural",
         "hierarchy-from-individual-difference",
         "shared-humanity-is-never-shared",
+        "the-folded-self-image-and-the-bound-of-simulation",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "the-illusion-of-free-intelligence",
         "data-is-local-intelligence-is-allocated",
@@ -8046,9 +8054,9 @@
       "slug": "the-defining-seat",
       "path": "content/posts/the-defining-seat.md",
       "title": "定义者的席位与离地的幻觉 / The Defining Seat",
-      "hash": "965264f9a4ce",
+      "hash": "da67e82244e3",
       "in_degree": 5,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "claudes-constitution-analysis",
@@ -8056,6 +8064,7 @@
         "the-collapsed-debate",
         "intelligence-traps-itself",
         "self-image-speaks-as-if-from-nowhere",
+        "the-folded-self-image-and-the-bound-of-simulation",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "infinity-within-the-seat",
         "your-codebase-is-memory",
@@ -8510,13 +8519,14 @@
       "slug": "the-fixed-image-of-transcendence",
       "path": "content/posts/the-fixed-image-of-transcendence.md",
       "title": "超越的定相 / The Fixed Image of Transcendence",
-      "hash": "7c2e69a32cae",
+      "hash": "58d0b7c71f92",
       "in_degree": 28,
-      "out_degree": 25,
+      "out_degree": 26,
       "links_out": [
         "curiosity-has-no-final-form",
         "intelligence-belongs-only-to-the-mind",
         "agi-and-asi-are-temporary-goalposts",
+        "the-folded-self-image-and-the-bound-of-simulation",
         "the-model-never-becomes-a-second-edge",
         "mistaking-the-expression-for-the-intelligence",
         "hierarchy-from-individual-difference",
@@ -8634,7 +8644,7 @@
       "path": "content/posts/the-folded-self-image-and-the-bound-of-simulation.md",
       "title": "折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation",
       "hash": "973367b35920",
-      "in_degree": 0,
+      "in_degree": 12,
       "out_degree": 14,
       "links_out": [
         "stability-and-excess",
@@ -10317,14 +10327,15 @@
       "slug": "the-non-definitive-definition-of-intelligence",
       "path": "content/posts/the-non-definitive-definition-of-intelligence.md",
       "title": "智能的非定论定义 / The Non-Definitive Definition of Intelligence",
-      "hash": "c5bb18ee0ee9",
+      "hash": "3f5ac44b93cc",
       "in_degree": 13,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "you-cant-benchmark-the-fluid",
         "the-presumption-of-agi-and-the-view-from-outside",
         "agi-and-asi-are-temporary-goalposts",
+        "the-folded-self-image-and-the-bound-of-simulation",
         "the-path-drawn-one-step-at-a-time",
         "intelligence-in-observation-and-the-residual-gap",
         "no-system-can-be-kept-closed",
@@ -11464,15 +11475,16 @@
       "slug": "the-scaling-loop",
       "path": "content/posts/the-scaling-loop.md",
       "title": "规模化回路 / The Scaling Loop",
-      "hash": "59f678c43d21",
+      "hash": "048ddcc8bb43",
       "in_degree": 11,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "context-engineering-essay",
         "two-phase-sleep-and-deep-sleep-continual-learning",
         "self-rl-for-humans",
         "data-is-local-intelligence-is-allocated",
+        "the-folded-self-image-and-the-bound-of-simulation",
         "the-fixed-map-and-the-repeated-trip",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "beyond-the-projection",
@@ -16908,6 +16920,12 @@
     },
     {
       "from": "agi-and-asi-are-temporary-goalposts",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "折返的自我形象与模拟的上界"
+    },
+    {
+      "from": "agi-and-asi-are-temporary-goalposts",
       "to": "the-non-definitive-definition-of-intelligence",
       "rel": "points_to",
       "label": "智能的非定论定义"
@@ -16923,6 +16941,12 @@
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
       "label": "Mistaking the Expression for the Intelligence"
+    },
+    {
+      "from": "agi-and-asi-are-temporary-goalposts",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "The Folded Self-Image and the Bound of Simulation"
     },
     {
       "from": "agi-and-asi-are-temporary-goalposts",
@@ -25206,6 +25230,12 @@
     },
     {
       "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "折返的自我形象与模拟的上界"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
       "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "rel": "points_to",
       "label": "The Real Scarcity Is Not Memory, But Continuous Re-Tracing"
@@ -25233,6 +25263,12 @@
       "to": "token-efficiency-emulation-and-the-unclosable-gap",
       "rel": "points_to",
       "label": "Token Efficiency, Emulation, and the Unclosable Gap"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "The Folded Self-Image and the Bound of Simulation"
     },
     {
       "from": "continuous-learning-as-expression-and-simulation",
@@ -36768,6 +36804,12 @@
     },
     {
       "from": "infinity-within-the-seat",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "折返的自我形象与模拟的上界"
+    },
+    {
+      "from": "infinity-within-the-seat",
       "to": "the-mirage-of-the-infinite-totality",
       "rel": "points_to",
       "label": "无穷总体的海市蜃楼"
@@ -36783,6 +36825,12 @@
       "to": "accelerating-replacement-and-image-lag",
       "rel": "points_to",
       "label": "Accelerating Replacement and Image Lag"
+    },
+    {
+      "from": "infinity-within-the-seat",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "The Folded Self-Image and the Bound of Simulation"
     },
     {
       "from": "infinity-within-the-seat",
@@ -37548,6 +37596,12 @@
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "折返的自我形象与模拟的上界"
+    },
+    {
+      "from": "intelligence-belongs-only-to-the-mind",
       "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
       "rel": "points_to",
       "label": "从形式迷思到逻辑闭环"
@@ -37557,6 +37611,12 @@
       "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
       "rel": "points_to",
       "label": "错置的因果与心智编译器"
+    },
+    {
+      "from": "intelligence-belongs-only-to-the-mind",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "The Folded Self-Image and the Bound of Simulation"
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
@@ -38121,6 +38181,18 @@
       "to": "ontos-is-a-method-agent",
       "rel": "points_to",
       "label": "Presenting Ontos, a Method Agent"
+    },
+    {
+      "from": "intelligence-folding-back-on-itself",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "折返的自我形象与模拟的上界"
+    },
+    {
+      "from": "intelligence-folding-back-on-itself",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "The Folded Self-Image and the Bound of Simulation"
     },
     {
       "from": "intelligence-folding-back-on-itself",
@@ -41292,6 +41364,18 @@
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "折返的自我形象与模拟的上界"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "The Folded Self-Image and the Bound of Simulation"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
       "to": "the-density-of-judgment",
       "rel": "points_to",
       "label": "判断的密度"
@@ -42606,6 +42690,12 @@
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "折返的自我形象与模拟的上界"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
       "label": "超越的定相"
@@ -42621,6 +42711,12 @@
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
       "label": "Complexity Obscures Emergence as the Act of Mind"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "The Folded Self-Image and the Bound of Simulation"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
@@ -54336,6 +54432,12 @@
     },
     {
       "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "折返的自我形象与模拟的上界"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
       "label": "没有外部"
@@ -54345,6 +54447,12 @@
       "to": "the-illusion-of-free-intelligence",
       "rel": "points_to",
       "label": "免费智能的幻觉"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "The Folded Self-Image and the Bound of Simulation"
     },
     {
       "from": "self-image-speaks-as-if-from-nowhere",
@@ -64170,9 +64278,21 @@
     },
     {
       "from": "the-defining-seat",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "折返的自我形象与模拟的上界"
+    },
+    {
+      "from": "the-defining-seat",
       "to": "self-image-speaks-as-if-from-nowhere",
       "rel": "points_to",
       "label": "Self-Image Speaks as if from Nowhere"
+    },
+    {
+      "from": "the-defining-seat",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "The Folded Self-Image and the Bound of Simulation"
     },
     {
       "from": "the-defining-seat",
@@ -67260,6 +67380,12 @@
     },
     {
       "from": "the-fixed-image-of-transcendence",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "折返的自我形象与模拟的上界"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "Intelligence Belongs Only to the Mind"
@@ -67269,6 +67395,12 @@
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
       "label": "AGI and ASI Are Temporary Goalposts"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "The Folded Self-Image and the Bound of Simulation"
     },
     {
       "from": "the-fixed-image-of-transcendence",
@@ -78864,6 +78996,18 @@
     },
     {
       "from": "the-non-definitive-definition-of-intelligence",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "折返的自我形象与模拟的上界"
+    },
+    {
+      "from": "the-non-definitive-definition-of-intelligence",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "The Folded Self-Image and the Bound of Simulation"
+    },
+    {
+      "from": "the-non-definitive-definition-of-intelligence",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
       "label": "一步一步绘制出的路径"
@@ -86880,6 +87024,12 @@
     },
     {
       "from": "the-scaling-loop",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "折返的自我形象与模拟的上界"
+    },
+    {
+      "from": "the-scaling-loop",
       "to": "self-rl-for-humans",
       "rel": "points_to",
       "label": "What Looks Like RL for AIs Is Self-RL for Humans"
@@ -86889,6 +87039,12 @@
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
       "label": "Data Is Local, Intelligence Is Allocated"
+    },
+    {
+      "from": "the-scaling-loop",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "The Folded Self-Image and the Bound of Simulation"
     },
     {
       "from": "the-scaling-loop",
