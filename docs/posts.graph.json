@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-24T07:09:55.565Z",
+    "generated_at": "2026-11-24T07:33:26.714Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -72,7 +72,7 @@
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "de3299fb5449",
       "content/posts/curiosity-has-no-final-form.md": "100335def2de",
       "content/posts/cybersecurity-arms-race.md": "be1bf3d1f44c",
-      "content/posts/data-is-local-intelligence-is-allocated.md": "020cfd693da3",
+      "content/posts/data-is-local-intelligence-is-allocated.md": "0c76fdfe5721",
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "96ad76ec209c",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "8b0479c7311d",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "9f8bcbd44c69",
@@ -139,7 +139,7 @@
       "content/posts/intelligence-in-observation-and-the-residual-gap.md": "eb38ddf77c2e",
       "content/posts/intelligence-traps-itself.md": "39bc773f79e9",
       "content/posts/judgment-is-not-a-stock.md": "6e02392bd145",
-      "content/posts/learned-boundaries-and-the-given-rate.md": "7d1044bd75be",
+      "content/posts/learned-boundaries-and-the-given-rate.md": "221afc9b0a2c",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "b5bfd1bca0dc",
       "content/posts/looping-and-graphing.md": "84a49b152718",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "e03ae51209c7",
@@ -493,10 +493,10 @@
     },
     "stats": {
       "posts": 466,
-      "edges": 14454,
-      "unique_directed": 7107,
+      "edges": 14458,
+      "unique_directed": 7109,
       "missing_targets": 0,
-      "one_way": 1639,
+      "one_way": 1641,
       "isolated": 0,
       "posts_with_outbound": 466,
       "book_pages": 16,
@@ -2522,9 +2522,9 @@
       "slug": "data-is-local-intelligence-is-allocated",
       "path": "content/posts/data-is-local-intelligence-is-allocated.md",
       "title": "数据是局部的，智能是分配的 / Data Is Local, Intelligence Is Allocated",
-      "hash": "020cfd693da3",
+      "hash": "0c76fdfe5721",
       "in_degree": 25,
-      "out_degree": 30,
+      "out_degree": 31,
       "links_out": [
         "preference-clusters-and-the-language-of-judgment",
         "hierarchy-from-individual-difference",
@@ -2541,6 +2541,7 @@
         "on-demand-contexts-keep-coherence-at-one-step",
         "dynamic-resnet-of-skill-loops",
         "mistaking-the-symptom-of-stability-for-its-source",
+        "the-folded-self-image-and-the-bound-of-simulation",
         "production-consumption-and-the-minds-distinction",
         "no-system-can-be-kept-closed",
         "the-scaling-loop",
@@ -4352,9 +4353,9 @@
       "slug": "learned-boundaries-and-the-given-rate",
       "path": "content/posts/learned-boundaries-and-the-given-rate.md",
       "title": "学到的边界与给定的尺度 / Learned Boundaries and the Given Rate",
-      "hash": "7d1044bd75be",
+      "hash": "221afc9b0a2c",
       "in_degree": 19,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "precision-and-resolution",
         "tokens-and-the-observational-boundary",
@@ -4366,6 +4367,7 @@
         "the-model-never-becomes-a-second-edge",
         "architecture-of-recursive-distinction",
         "dynamic-resnet-of-skill-loops",
+        "the-folded-self-image-and-the-bound-of-simulation",
         "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "the-fixed-map-and-the-repeated-trip",
         "handing-off-residue",
@@ -8673,7 +8675,7 @@
       "path": "content/posts/the-folded-self-image-and-the-bound-of-simulation.md",
       "title": "折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation",
       "hash": "973367b35920",
-      "in_degree": 18,
+      "in_degree": 20,
       "out_degree": 14,
       "links_out": [
         "stability-and-excess",
@@ -26628,6 +26630,12 @@
     },
     {
       "from": "data-is-local-intelligence-is-allocated",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "折返的自我形象与模拟的上界"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
@@ -26655,6 +26663,12 @@
       "to": "mistaking-the-symptom-of-stability-for-its-source",
       "rel": "points_to",
       "label": "Mistaking the Symptom of Stability for Its Source"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "The Folded Self-Image and the Bound of Simulation"
     },
     {
       "from": "data-is-local-intelligence-is-allocated",
@@ -39024,6 +39038,12 @@
     },
     {
       "from": "learned-boundaries-and-the-given-rate",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "折返的自我形象与模拟的上界"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
       "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
       "rel": "points_to",
       "label": "递归形式系统中作为记忆与控制的边界条件图"
@@ -39033,6 +39053,12 @@
       "to": "dynamic-resnet-of-skill-loops",
       "rel": "points_to",
       "label": "Modular Feedback Loops and Dynamic Residual Networks"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "The Folded Self-Image and the Bound of Simulation"
     },
     {
       "from": "learned-boundaries-and-the-given-rate",
