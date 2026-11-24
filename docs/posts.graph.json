@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-24T12:22:47.874Z",
+    "generated_at": "2026-11-24T13:18:12.408Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -348,6 +348,7 @@
       "content/posts/the-maintenance-paradox.md": "3f1f65a8893d",
       "content/posts/the-map-after-the-territory.md": "7c4c6f4b27cf",
       "content/posts/the-mark-and-the-act.md": "98b48747d562",
+      "content/posts/the-market-repricing-of-productive-base.md": "0a0ff0e0856a",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "104d4d3b68bc",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "9a266ff69ee5",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "af784b26392a",
@@ -476,8 +477,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "804fb1b514fc",
-      "content/book/economics.md": "59f58b5d23c6",
-      "content/book/index-of-premises.md": "0627f71cc642",
+      "content/book/economics.md": "d8d9ef589145",
+      "content/book/index-of-premises.md": "590a2ec0ed1c",
       "content/book/intelligence.md": "ff7c08b8ecea",
       "content/book/knowledge-and-learning.md": "a885aa187e8e",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -492,16 +493,16 @@
       "content/book/tools-and-progress.md": "276037119294"
     },
     "stats": {
-      "posts": 466,
-      "edges": 14478,
-      "unique_directed": 7119,
+      "posts": 467,
+      "edges": 14500,
+      "unique_directed": 7130,
       "missing_targets": 0,
-      "one_way": 1635,
+      "one_way": 1646,
       "isolated": 0,
-      "posts_with_outbound": 466,
+      "posts_with_outbound": 467,
       "book_pages": 16,
-      "book_edges": 1672,
-      "posts_reached_by_book": 466
+      "book_edges": 1678,
+      "posts_reached_by_book": 467
     }
   },
   "hubs_in": [
@@ -515,7 +516,7 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 117
+      "in_degree": 118
     },
     {
       "slug": "openness-is-consistency",
@@ -555,7 +556,7 @@
     },
     {
       "slug": "production-consumption-and-the-minds-distinction",
-      "in_degree": 43
+      "in_degree": 44
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
@@ -1400,7 +1401,7 @@
       "path": "content/posts/beyond-the-hundred-trillion-horizon.md",
       "title": "百万亿地平线之外 / Beyond the Hundred-Trillion Horizon",
       "hash": "243174a770ad",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 11,
       "links_out": [
         "when-abundance-looks-like-scarcity",
@@ -3973,7 +3974,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers",
       "hash": "e5e1fcd23570",
-      "in_degree": 117,
+      "in_degree": 118,
       "out_degree": 103,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -4233,7 +4234,7 @@
       "path": "content/posts/intelligence-crisis-response.md",
       "title": "度量时滞与智能成本通缩 / The Measurement Lag",
       "hash": "ae3e106cc101",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 8,
       "links_out": [
         "huberman-winners-losers",
@@ -6045,7 +6046,7 @@
       "path": "content/posts/price-as-utterance-understanding-as-trade.md",
       "title": "价格是言说，理解是交易 / Price as Utterance, Understanding as Trade",
       "hash": "11deadd7c5d2",
-      "in_degree": 25,
+      "in_degree": 26,
       "out_degree": 21,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -6078,7 +6079,7 @@
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "生产、消费与心智的区分 / Production, Consumption, and the Mind's Distinction",
       "hash": "a4228e0e32b6",
-      "in_degree": 43,
+      "in_degree": 44,
       "out_degree": 41,
       "links_out": [
         "openness-is-consistency",
@@ -6131,7 +6132,7 @@
       "path": "content/posts/public-spending-does-not-create-capital.md",
       "title": "公共支出不创造资本 / Public Spending Does Not Create Capital",
       "hash": "ff04541bddf9",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 19,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -7287,7 +7288,7 @@
       "path": "content/posts/the-average-is-residue-not-the-engine.md",
       "title": "平均值是残余，不是引擎 / The Average Is Residue, Not the Engine",
       "hash": "b881dcae3e7d",
-      "in_degree": 33,
+      "in_degree": 34,
       "out_degree": 25,
       "links_out": [
         "the-rational-choice-postulate-is-the-original-sin",
@@ -7744,7 +7745,7 @@
       "path": "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md",
       "title": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus",
       "hash": "ea14066b3ea8",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 13,
       "links_out": [
         "having-more-is-never-the-cause",
@@ -8824,7 +8825,7 @@
       "path": "content/posts/the-frontier-lifts-the-floor.md",
       "title": "前沿抬升底线 / The Frontier Lifts the Floor",
       "hash": "8247d376babf",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 15,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -8948,7 +8949,7 @@
       "path": "content/posts/the-generative-mechanics-of-value-money-and-wealth.md",
       "title": "价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth",
       "hash": "f93d20ddacf1",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 20,
       "links_out": [
         "price-as-utterance-understanding-as-trade",
@@ -10009,6 +10010,29 @@
         "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
         "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
         "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi"
+      ]
+    },
+    {
+      "id": "post:the-market-repricing-of-productive-base",
+      "kind": "post",
+      "slug": "the-market-repricing-of-productive-base",
+      "path": "content/posts/the-market-repricing-of-productive-base.md",
+      "title": "生产性基础的市场重定价 / The Market Repricing of Productive Base",
+      "hash": "0a0ff0e0856a",
+      "in_degree": 0,
+      "out_degree": 11,
+      "links_out": [
+        "price-as-utterance-understanding-as-trade",
+        "the-generative-mechanics-of-value-money-and-wealth",
+        "the-causal-order-of-private-residuals-and-social-surplus",
+        "beyond-the-hundred-trillion-horizon",
+        "public-spending-does-not-create-capital",
+        "intelligence-crisis-response",
+        "the-frontier-lifts-the-floor",
+        "production-consumption-and-the-minds-distinction",
+        "the-average-is-residue-not-the-engine",
+        "individual-choices-as-the-only-causal-levers",
+        "the-summary-first-reversal-and-the-command-of-yields"
       ]
     },
     {
@@ -11876,7 +11900,7 @@
       "path": "content/posts/the-summary-first-reversal-and-the-command-of-yields.md",
       "title": "宏观参数、微观抉择与利率的命令 / Macro Parameters, Micro Choices, and the Command of Yields",
       "hash": "45683f1cde48",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 10,
       "links_out": [
         "the-causal-inversion-of-partnership",
@@ -76805,6 +76829,138 @@
       "label": "Investigating Things and the Nature of Information Complexity"
     },
     {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "价格是言说，理解是交易"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as Utterance, Understanding as Trade"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "价值、货币与财富的生成机制"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "The Generative Mechanics of Value, Money, and Wealth"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "私人残差与社会剩余的因果次序"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "beyond-the-hundred-trillion-horizon",
+      "rel": "points_to",
+      "label": "百万亿地平线之外"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "The Causal Order of Private Residuals and Social Surplus"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "beyond-the-hundred-trillion-horizon",
+      "rel": "points_to",
+      "label": "Beyond the Hundred-Trillion Horizon"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "公共支出不创造资本"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public Spending Does Not Create Capital"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "intelligence-crisis-response",
+      "rel": "points_to",
+      "label": "度量时滞与智能成本通缩"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "intelligence-crisis-response",
+      "rel": "points_to",
+      "label": "The Measurement Lag"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "the-frontier-lifts-the-floor",
+      "rel": "points_to",
+      "label": "前沿抬升底线"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "the-frontier-lifts-the-floor",
+      "rel": "points_to",
+      "label": "The Frontier Lifts the Floor"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind's Distinction"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "平均值是残余，不是引擎"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "the-summary-first-reversal-and-the-command-of-yields",
+      "rel": "points_to",
+      "label": "宏观参数、微观抉择与利率的命令"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "The Average Is Residue, Not the Engine"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "the-summary-first-reversal-and-the-command-of-yields",
+      "rel": "points_to",
+      "label": "Macro Parameters, Micro Choices, and the Command of Yields"
+    },
+    {
       "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "when-observation-becomes-performance",
       "rel": "points_to",
@@ -100279,8 +100435,8 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "59f58b5d23c6",
-        "out_degree": 36
+        "hash": "d8d9ef589145",
+        "out_degree": 37
       },
       {
         "id": "book:index-of-premises",
@@ -100288,8 +100444,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "0627f71cc642",
-        "out_degree": 466
+        "hash": "590a2ec0ed1c",
+        "out_degree": 467
       },
       {
         "id": "book:intelligence",
@@ -101084,6 +101240,12 @@
         "to": "apparent-regulation-and-the-primacy-of-choice",
         "rel": "collects",
         "label": "表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice"
+      },
+      {
+        "from": "book:economics",
+        "to": "the-market-repricing-of-productive-base",
+        "rel": "collects",
+        "label": "生产性基础的市场重定价 / The Market Repricing of Productive Base"
       },
       {
         "from": "book:index-of-premises",
@@ -102083,6 +102245,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-market-repricing-of-productive-base",
+        "rel": "collects",
+        "label": "生产性基础的市场重定价 / The Market Repricing of Productive Base"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-reality-distortion-field-names-the-closed-map",
         "rel": "collects",
         "label": "现实扭曲力场指认的是封闭的地图 / The Reality Distortion Field Names the Closed Map"
@@ -102200,6 +102368,12 @@
         "to": "externalizing-unmet-drive-as-the-pathology-of-growth",
         "rel": "collects",
         "label": "外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-market-repricing-of-productive-base",
+        "rel": "collects",
+        "label": "生产性基础的市场重定价 / The Market Repricing of Productive Base"
       },
       {
         "from": "book:index-of-premises",
@@ -104309,6 +104483,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-market-repricing-of-productive-base",
+        "rel": "collects",
+        "label": "生产性基础的市场重定价 / The Market Repricing of Productive Base"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "guan-yu-gui-yin",
         "rel": "collects",
         "label": "关于归因 / On Attribution"
@@ -105479,6 +105659,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-market-repricing-of-productive-base",
+        "rel": "collects",
+        "label": "生产性基础的市场重定价 / The Market Repricing of Productive Base"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-path-drawn-one-step-at-a-time",
         "rel": "collects",
         "label": "一步一步绘制出的路径 / The Path Drawn One Step at a Time"
@@ -106436,6 +106622,12 @@
         "to": "the-rational-choice-postulate-is-the-original-sin",
         "rel": "collects",
         "label": "理性选择公设是原罪 / The Rational Choice Postulate Is the Original Sin"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-market-repricing-of-productive-base",
+        "rel": "collects",
+        "label": "生产性基础的市场重定价 / The Market Repricing of Productive Base"
       },
       {
         "from": "book:index-of-premises",

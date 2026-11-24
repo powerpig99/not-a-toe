@@ -800,6 +800,15 @@ Nadella frames enterprise frontier-AI failures as an 'insider risk' to be solved
 
 → [任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences](../../posts/the-delegation-of-the-task-and-the-inalienability-of-consequences/)
 
+### 西蒙·库兹涅茨 / Simon Kuznets
+`经济 / Economic`
+
+库兹涅茨构建了现代国民收入核算体系，同时警示国民福祉无法由货币总收入账目推知，且行政、军事与城市摩擦支出实为维系社会组织的中间成本而非净最终产品，在区分总支出汇总与增量生产性能力时有用；每当后来分析者舍弃库兹涅茨本人的这一区分，将账面名义 GDP 总额直接读作净生产性财富的度量或驱动微观产出的上游引擎时，国民收入核算便到达了边界。
+
+Kuznets constructed the modern national income accounts while cautioning that national welfare cannot be inferred from gross monetary income tallies and that administrative, military, and urban-friction outlays function as intermediate costs of social organization rather than net final product, which is of use in separating gross expenditure aggregates from incremental productive capacity; national-income accounting reaches its boundary whenever subsequent analysts drop Kuznets's own distinction and read gross nominal GDP as a direct measure of net productive wealth or an upstream engine driving microscopic output.
+
+→ [生产性基础的市场重定价 / The Market Repricing of Productive Base](../../posts/the-market-repricing-of-productive-base/)
+
 ### 史蒂夫·乔布斯 / Steve Jobs
 `技术 / Technological`
 
@@ -893,11 +902,11 @@ Gibson's Neuromancer imagines cyberspace as a consensual hallucination and digit
 ### 威廉·诺德豪斯 / William Nordhaus
 `经济 / Economic`
 
-诺德豪斯度量了战后技术变革的剩余分配，记录下创新者仅捕获微小的私人残差而绝大部分收益耗散为广泛的社会红利，作为反驳零和财富叙事的宏观实证遥测时有用；一旦事后的统计核算被当成因果律本身的地基，而非在先风险承担行动留下的下游印迹，该计量模型便到达了边界。
+诺德豪斯度量了战后技术变革的剩余分配——记录下创新者仅捕获微小的私人残差而绝大部分收益耗散为广泛的社会红利——并与詹姆斯·托宾共同将防御性“遗憾性支出”与折旧从净经济福利中剥离，作为揭示零和财富叙事与非增量 GDP 膨胀的宏观实证遥测时有用；一旦事后的统计核算被当成因果律本身的地基，而非在先风险承担行动留下的下游印迹，这些计量模型便到达了边界。
 
-Nordhaus measured the postwar surplus distribution of technological change, documenting that innovators capture only a tiny private residual while the vast majority dissipates into broad social dividends, which is of use as macro-scale empirical telemetry refuting zero-sum wealth narratives; the econometric model reaches its boundary where retrospective statistical accounting is treated as the ground of causality rather than the downstream footprint of antecedent risk-bearing action.
+Nordhaus measured the postwar surplus distribution of technological change—documenting that innovators capture only a tiny private residual while the vast majority dissipates into broad social dividends—and with James Tobin separated defensive "regrettables" and depreciation from net economic welfare, which is of use as macro-scale empirical telemetry exposing zero-sum wealth narratives and non-incremental GDP padding; the econometric models reach their boundary where retrospective statistical accounting is treated as the ground of causality rather than the downstream footprint of antecedent risk-bearing action.
 
-→ [私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus](../../posts/the-causal-order-of-private-residuals-and-social-surplus/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/) · [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/)
+→ [私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus](../../posts/the-causal-order-of-private-residuals-and-social-surplus/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/) · [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/) · [生产性基础的市场重定价 / The Market Repricing of Productive Base](../../posts/the-market-repricing-of-productive-base/)
 
 ### 朱熹 / Zhu Xi
 `哲学 / Philosophical`
@@ -2508,11 +2517,11 @@ Calls to pause AI take slowing down as a guard against risk, which is of use in 
 ### 名义生产率核算 / Nominal Productivity Accounting
 `经济 / Economic`
 
-名义 GDP 与利润率核算通过货币收入与支出汇总指标度量经济健康度，在稳定价格区间内追踪现金流偿付能力、税基与部门份额时有用；在跨行业 AI 成本急速通缩之下它便到达了边界——单位认知与生产价格的陡降在名义仪表盘上会被登记为停滞或危机，而非真实产能的扩张。
+名义 GDP 与利润率核算通过货币收入与支出汇总指标度量经济健康度，在稳定价格区间内追踪现金流偿付能力、税基与部门份额时有用；它从两侧到达边界——既包括跨行业 AI 成本急速通缩时，单位认知与生产价格的陡降在名义仪表盘上被登记为停滞或危机而非物理产能的扩张，也包括按投入成本计价的政府消费、所有权转移与金融中介周转、防御性的“遗憾性支出”、固定资本折旧以及未扣减的消费将账面总额推高至远超净增量剩余之处。
 
-Nominal GDP and margin accounting measures economic health through monetary revenue and expenditure aggregates, which is of use for tracking cash-flow solvency, tax bases, and sector shares inside stable price regimes; it reaches its boundary under rapid cross-sector AI cost deflation when steep drops in unit cognitive and production prices register on nominal gauges as stagnation or crisis rather than expanding real capacity.
+Nominal GDP and margin accounting measures economic health through monetary revenue and expenditure aggregates, which is of use for tracking cash-flow solvency, tax bases, and sector shares inside stable price regimes; it reaches its boundary both under rapid cross-sector AI cost deflation—when steep drops in unit cognitive and production prices register on nominal gauges as stagnation or crisis rather than expanding physical capacity—and where input-cost-valued government consumption, ownership-transfer and financial-intermediation churn, defensive regrettables, fixed-capital depreciation, and unsubtracted consumption pad headline gross totals well past net incremental surplus.
 
-→ [度量时滞与智能成本通缩 / The Measurement Lag](../../posts/intelligence-crisis-response/)
+→ [度量时滞与智能成本通缩 / The Measurement Lag](../../posts/intelligence-crisis-response/) · [生产性基础的市场重定价 / The Market Repricing of Productive Base](../../posts/the-market-repricing-of-productive-base/)
 
 ### 以时间顺序推断因果 / Causal Attribution from Temporal Sequence
 `哲学 / Philosophical`
@@ -3648,6 +3657,15 @@ Unscheduled-time heuristics presume that clearing the calendar produces serendip
 
 → [追求机缘中的封闭现实 / Closed Reality in the Pursuit of Serendipity](../../posts/closed-reality-in-the-pursuit-of-serendipity/)
 
+### 市场资本化估值 / Market Capitalization Valuation
+`经济 / Economic`
+
+市场资本化对归属上市普通股股东的预期净自由现金流剩余现值进行定价，作为即时出清投影、用以登记分散中心如何跨行业重定价生产性能力的连续性时有用；当纸面股权索取权被误作活生生的生产性能力本身，或上市股东的狭窄私人残差被读作自主的市场裁决而非分散心智更新预期后的后随出清痕迹时，这一估值尺度便到达了边界。
+
+Market capitalization prices the present value of expected net free-cash-flow surplus accruing to listed common shareholders, which is of use as an instantaneous clearing projection registering how dispersed centers reprice the continuity of productive capacity across sectors; it reaches its boundary when paper equity claims are mistaken for living productive capability itself, or when listed shareholders' narrow private residual is read as an autonomous market verdict rather than the trailing clearing trace of dispersed minds updating expectations.
+
+→ [生产性基础的市场重定价 / The Market Repricing of Productive Base](../../posts/the-market-repricing-of-productive-base/)
+
 ### 人生总图规划论 / Master Life Blueprint
 `哲学 / Philosophical`
 
@@ -4438,7 +4456,7 @@ A line at 50 percent of median income presumes comparability across countries, w
 
 Averaging presumes a mean preference or mean response can stand as the independent variable that generates the pattern, which is of use in summarizing totals already produced; it reaches its boundary in that the mean is the collective symptom divided by headcount, and the differences it cancels are the ones that drive change.
 
-→ [理性选择公设是原罪 / The Rational Choice Postulate Is the Original Sin](../../posts/the-rational-choice-postulate-is-the-original-sin/)
+→ [理性选择公设是原罪 / The Rational Choice Postulate Is the Original Sin](../../posts/the-rational-choice-postulate-is-the-original-sin/) · [生产性基础的市场重定价 / The Market Repricing of Productive Base](../../posts/the-market-repricing-of-productive-base/)
 
 ### 底层所有权即控制 / Substrate Ownership as Control
 `技术 / Technological`

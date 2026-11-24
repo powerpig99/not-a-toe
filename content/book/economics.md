@@ -48,3 +48,4 @@ The essays in this part examine the closed premises of the rational choice postu
 - [边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement](../../posts/generation-beyond-the-boundary-and-internal-rearrangement/)
 - [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/)
 - [表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice](../../posts/apparent-regulation-and-the-primacy-of-choice/)
+- [生产性基础的市场重定价 / The Market Repricing of Productive Base](../../posts/the-market-repricing-of-productive-base/)
