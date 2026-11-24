@@ -220,7 +220,7 @@ The Planck constant is the pixel resolution of the sample frame. The continuity 
 
 The speed of light is the calibrating ruler and highest refresh rate of the sample frame. To describe relative motion and interaction among pixels inside a slice held still, a highest speed must be chosen as the benchmark, or relative distances and timings cannot be calibrated on one drawing. Special relativity takes the speed of light as the one speed that reads the same in every frame of reference, and light is the fastest signal that can be captured in immediate perception; only with the fastest phenomenon as reference can everything slower be surveyed. What it marks is the response bandwidth of the canvas of perception, the highest refresh rate at which signals complete their causal handshake.
 
-引力常数与时空的弯曲，是宏观视界上的投影畸变。把这张局部平坦的采样帧扩展到整个宇宙时，外部的参照物用尽了，广义相对论以宇宙整体作为最终的参照背景。这相当于把一个球面的感知边界压平在一张纸面上。正如墨卡托地图把格陵兰拉得比南美洲还大，把平坦的采样帧投到宏观视界的边缘时，方程须引入空间的弯曲与度规张量来补偿投影的失真。空间的弯曲便是把局部平坦的坐标外推到全宇宙视界时的几何代偿。
+引力常数与时空的弯曲，是采样帧的局部几何补偿。局部平坦的坐标切片只在很小的邻域内成立；一旦把这张平坦的帧延展到一片临时划定边界、承载质能的引力片区——行星周围、恒星周围，或伸向有限的观测视界——平坦坐标便会扭曲相对轨道、光线与时钟速率。广义相对论把这一延展锚定在度规张量 gμν 与应力-能量张量 Tμν 的局部耦合上，由 G 标定比例，并配以渐近平坦等明确的边界条件；爱因斯坦场方程支配局部曲率，既不固定全局拓扑，也不从有限的过去光锥之内把宇宙整体证实为最终的参照背景。正如墨卡托地图把曲面压平在一张纸面上时，会将格陵兰拉得比南美洲还大；把平坦的采样帧延展到弯曲的引力片区，也须引入时空的弯曲与度规张量来补偿投影的失真。时空的弯曲便是在临时划界片区上铺展平坦坐标、直至可观测视界边缘时的局部几何补偿。
 
 ```mermaid
 flowchart TD
@@ -229,8 +229,8 @@ flowchart TD
         Mind["测量的心智：数据的原点、边界与解读者"]
         Planck["普朗克常数：网格的像素大小"]
         Light["光速：帧内的校准标尺与最高刷新率"]
-        Gravity["引力常数：视界边缘的投影畸变"]
-        Unify["把三者合一：像素间距、刷新率与边框写进一个方程"]
+        Gravity["引力常数：有界片区内的局部曲率耦合与投影畸变"]
+        Unify["把三者合一：像素间距、刷新率与屏幕曲率写进一个方程"]
         Mind --> Planck
         Mind --> Light
         Mind --> Gravity
@@ -246,7 +246,7 @@ flowchart TD
     style Unify fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-The gravitational constant and the curvature of spacetime are projection distortion at the macroscopic horizon. When this locally flat sample frame is extended to the entire universe, outside objects of reference are used up, and general relativity takes the universe as a whole for the final background of reference. This amounts to pressing a spherical boundary of perception flat on a sheet of paper. Just as a Mercator map stretches Greenland larger than South America, when a flat sample frame is cast to the edge of the macroscopic horizon the equations must bring in spatial curvature and a metric tensor to compensate for the distortion of projection. The curvature of space is thus the geometric compensation made when locally flat coordinates are extrapolated to the horizon of the whole universe.
+The gravitational constant and the curvature of spacetime are the local geometric compensation of the sample frame. A locally flat coordinate slice holds only within a small neighborhood; once that flat frame is extended across a provisionally bounded gravitational patch carrying mass-energy—around a planet, a star, or out toward a finite observational horizon—flat coordinates distort relative orbits, light rays and clock rates. General relativity anchors that extension in the local coupling of the metric tensor gμν and the stress-energy tensor Tμν scaled by G, paired with explicit boundary conditions such as asymptotic flatness; Einstein's field equations govern local curvature without fixing global topology or certifying the universe as a whole as a final background of reference from inside a finite past light cone. Just as a Mercator map stretches Greenland larger than South America when pressing a curved surface onto a flat sheet of paper, extending a flat sample frame across a curved gravitational patch requires spacetime curvature and a metric tensor to compensate for the distortion of projection. The curvature of spacetime is thus the local geometric compensation made whenever flat coordinates are carried across a provisionally bounded patch and out to the edge of an observable horizon.
 
 ```mermaid
 flowchart TD
@@ -255,8 +255,8 @@ flowchart TD
         Mind["The measuring Mind: origin, boundary and interpreter of the data"]
         Planck["Planck constant: the pixel size of the grid"]
         Light["Speed of light: the calibrating ruler and highest refresh rate within the frame"]
-        Gravity["Gravitational constant: projection distortion at the edge of the horizon"]
-        Unify["The three combined: pixel pitch, refresh rate and bezel written into one equation"]
+        Gravity["Gravitational constant: local curvature coupling and projection distortion across a bounded patch"]
+        Unify["The three combined: pixel pitch, refresh rate and screen curvature written into one equation"]
         Mind --> Planck
         Mind --> Light
         Mind --> Gravity
@@ -272,9 +272,9 @@ flowchart TD
     style Unify fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-用弦理论或圈量子引力写出一个把 ħ、c 与 G 合在一起的万物理论，好比写出一个把显示器的像素间距、刷新频率与外壳边框融为一体的方程，并期望由它推出正在播放的电影的情节。三个常数是测量工具的技术边界，电影的内容不在其中。
+用弦理论或圈量子引力写出一个把 ħ、c 与 G 合在一起的万物理论，好比写出一个把显示器的像素间距、刷新频率与屏幕曲率融为一体的方程，并期望由它推出正在播放的电影的情节。三个常数是测量工具的技术边界，电影的内容不在其中。
 
-Writing a theory of everything that joins ħ, c and G through string theory or loop quantum gravity is like writing an equation that fuses a monitor's pixel pitch, its refresh frequency and the bezel of its casing, and expecting to derive from it the plot of the film now playing. The three constants are the technical limits of the measuring tool, and the content of the film is not in them.
+Writing a theory of everything that joins ħ, c and G through string theory or loop quantum gravity is like writing an equation that fuses a monitor's pixel pitch, its refresh frequency and the curvature of its screen, and expecting to derive from it the plot of the film now playing. The three constants are the technical limits of the measuring tool, and the content of the film is not in them.
 
 ## 五、 外推出的大爆炸、热寂与块状宇宙 / 5. The Big Bang, Heat Death and Block Universe as Extrapolations
 
@@ -348,7 +348,7 @@ flowchart TD
 
 The practical use of science needs no denying. Relativity and quantum mechanics are like two-dimensional maps drawn with great accuracy. The Mercator projection stretches the poles to infinity and distorts the comparison of land areas, yet a navigator who sails by the angles on the map reaches the far shore, because the map keeps the relative relations that navigation needs. The boundary appears when it is forgotten that this is a map: pointing to the endlessly extended northern edge of the map and saying the end of the Earth is an infinitely wide wall of ice, or pointing to the origin stretched into a point and saying time was born in an infinitesimal pixel.
 
-宇宙一直是用心智在测量的。一切测量始于心智，留于心智，终于心智。被称为客观世界的“物理常数”的，是心智展开感知与理性的探查时，测量仪器自身的分辨率与带宽：光速是感知现实的最高刷新率，普朗克尺度是数字化的网格像素，引力场与时空的弯曲是把有限的视界投到全局背景时的几何补偿。[当电子开始思考](../when-electrons-think/)在电子的尺度上追溯了同一渲染速率与观测边界：慢速的宏观结构显得平稳，而结果只在接触时才被登记。
+宇宙一直是用心智在测量的。一切测量始于心智，留于心智，终于心智。被称为客观世界的“物理常数”的，是心智展开感知与理性的探查时，测量仪器自身的分辨率与带宽：光速是感知现实的最高刷新率，普朗克尺度是数字化的网格像素，引力场与时空的弯曲是在临时划界片区上铺展平坦坐标时的局部几何补偿。[当电子开始思考](../when-electrons-think/)在电子的尺度上追溯了同一渲染速率与观测边界：慢速的宏观结构显得平稳，而结果只在接触时才被登记。
 
 ```mermaid
 flowchart TD
@@ -369,7 +369,7 @@ flowchart TD
     style Step fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The universe has been measured with Mind all along. All measurement begins with Mind, stays with Mind and ends with Mind. What are called the "physical constants" of an objective world are the resolution and bandwidth of the measuring instrument itself as a Mind unfolds perception and rational inquiry: the speed of light is the highest refresh rate of perceiving reality, the Planck scale is the grid pixel of digitization, and the gravitational field and the curvature of spacetime are the geometric compensation for casting a finite horizon onto a global background. [When Electrons Think](../when-electrons-think/) traces that same rendering rate and observational boundary at the scale of electrons, where slow macroscopic structures appear steady while outcomes register only at contact.
+The universe has been measured with Mind all along. All measurement begins with Mind, stays with Mind and ends with Mind. What are called the "physical constants" of an objective world are the resolution and bandwidth of the measuring instrument itself as a Mind unfolds perception and rational inquiry: the speed of light is the highest refresh rate of perceiving reality, the Planck scale is the grid pixel of digitization, and the gravitational field and the curvature of spacetime are the local geometric compensation for carrying flat coordinates across a provisionally bounded patch. [When Electrons Think](../when-electrons-think/) traces that same rendering rate and observational boundary at the scale of electrons, where slow macroscopic structures appear steady while outcomes register only at contact.
 
 ```mermaid
 flowchart TD
