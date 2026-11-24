@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-24T13:18:12.408Z",
+    "generated_at": "2026-11-24T14:36:03.164Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -303,7 +303,7 @@
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "7288595bbdaf",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "1d8808809a45",
       "content/posts/the-generative-contradiction.md": "3b39d0a43e8c",
-      "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "f93d20ddacf1",
+      "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "4fe3a0ef9161",
       "content/posts/the-generative-topology-of-free-variables.md": "ec996ff7dc93",
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "5dd6c762a993",
       "content/posts/the-geometry-of-emergence.md": "2d50769c9847",
@@ -494,10 +494,10 @@
     },
     "stats": {
       "posts": 467,
-      "edges": 14500,
-      "unique_directed": 7130,
+      "edges": 14502,
+      "unique_directed": 7131,
       "missing_targets": 0,
-      "one_way": 1646,
+      "one_way": 1645,
       "isolated": 0,
       "posts_with_outbound": 467,
       "book_pages": 16,
@@ -8948,15 +8948,16 @@
       "slug": "the-generative-mechanics-of-value-money-and-wealth",
       "path": "content/posts/the-generative-mechanics-of-value-money-and-wealth.md",
       "title": "价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth",
-      "hash": "f93d20ddacf1",
+      "hash": "4fe3a0ef9161",
       "in_degree": 15,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "price-as-utterance-understanding-as-trade",
         "production-consumption-and-the-minds-distinction",
         "your-codebase-is-memory",
         "intelligence-crisis-response",
         "beyond-the-hundred-trillion-horizon",
+        "the-market-repricing-of-productive-base",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "ownership-and-self-worthiness",
         "having-more-is-never-the-cause",
@@ -10019,7 +10020,7 @@
       "path": "content/posts/the-market-repricing-of-productive-base.md",
       "title": "生产性基础的市场重定价 / The Market Repricing of Productive Base",
       "hash": "0a0ff0e0856a",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 11,
       "links_out": [
         "price-as-utterance-understanding-as-trade",
@@ -70308,6 +70309,12 @@
     },
     {
       "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "the-market-repricing-of-productive-base",
+      "rel": "points_to",
+      "label": "生产性基础的市场重定价"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
@@ -70323,6 +70330,12 @@
       "to": "beyond-the-hundred-trillion-horizon",
       "rel": "points_to",
       "label": "Beyond the Hundred-Trillion Horizon"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "the-market-repricing-of-productive-base",
+      "rel": "points_to",
+      "label": "The Market Repricing of Productive Base"
     },
     {
       "from": "the-generative-mechanics-of-value-money-and-wealth",
