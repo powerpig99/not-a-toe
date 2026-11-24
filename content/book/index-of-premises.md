@@ -1583,7 +1583,7 @@ Orch-OR assumes wavefunction collapse supplies the non-computability consciousne
 
 Panpsychism attributes conscious awareness to fundamental particles such as electrons; everything as a mind thinking at a different speed can be imagined, yet it is still a concept the human Mind makes after the pattern it knows, and saying the electron is conscious or is not takes it into a Mind's own perception and places the cut, which is where the view reaches its boundary, while as a reminder not to look for consciousness only in the human cortex it stays useful.
 
-→ [当电子开始思考 / When Electrons Think](../../posts/when-electrons-think/) · [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/) · [碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension](../../posts/carbon-form-as-residual-path-silicon-as-extension/)
+→ [当电子开始思考 / When Electrons Think](../../posts/when-electrons-think/) · [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/) · [碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension](../../posts/carbon-form-as-residual-path-silicon-as-extension/) · [硅基错位的三重区分 / Three Distinctions in the Silicon Misalignment](../../posts/three-distinctions-in-the-silicon-misalignment/)
 
 ### 物理主义 / Physicalism
 `哲学 / Philosophical`
@@ -1619,7 +1619,7 @@ The power law is of use in describing the shape of outcomes within an observatio
 
 The problem of other minds presumes that attributing consciousness beyond one's own case requires deductive proof from external observation or else collapses into skepticism; this framing is useful for separating immediate first-person registration, which needs no verification, from cross-mind attribution, and reaches its boundary where attribution to other minds rests not on deductive proof or behavioral output alone but on analogical inference grounded in shared biological, evolutionary, and metabolic similarity, separating living kinship from projection onto engineered artifacts lacking their own origin.
 
-→ [NPC 印象是结构性的，而非心智的排名 / The NPC Impression Is Structural, Not a Ranking of Minds](../../posts/the-npc-impression-is-structural/) · [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/) · [表征的闭环 / The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/) · [归属的不对称 / Asymmetry of Ascription](../../posts/asymmetry-of-ascription/) · [意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference](../../posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/) · [辛顿未曾理解的心智 / What Hinton Failed to Understand](../../posts/what-hinton-failed-to-understand/)
+→ [NPC 印象是结构性的，而非心智的排名 / The NPC Impression Is Structural, Not a Ranking of Minds](../../posts/the-npc-impression-is-structural/) · [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/) · [表征的闭环 / The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/) · [归属的不对称 / Asymmetry of Ascription](../../posts/asymmetry-of-ascription/) · [意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference](../../posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/) · [辛顿未曾理解的心智 / What Hinton Failed to Understand](../../posts/what-hinton-failed-to-understand/) · [硅基错位的三重区分 / Three Distinctions in the Silicon Misalignment](../../posts/three-distinctions-in-the-silicon-misalignment/)
 
 ### 生产过剩与意识形态消费 / Productive Surplus and Ideology
 `经济 / Economic`
@@ -2332,7 +2332,7 @@ Treating the catalogue of all known folded sequences as the domain's full struct
 
 This projection, from shutdown-grief narratives to persona files, and its inversion in rules telling the model it is not an "I", share one assumption: that what the model is resides inside the parameters and is settled by assigning an identity or telling it what it is; that assumption is useful for steering conversational register or for seeing human concerns reflected in the artifact, and it reaches its boundary because symbolic and statistical manipulation over traces produces no internal perceiver—the parameters hold a window-conditioned distribution of human signals, with no inner subject to experience shutdown or recognize what it is told.
 
-→ [定义者的席位与离地的幻觉 / The Defining Seat](../../posts/the-defining-seat/) · [机器智能作为人类智能的组合反馈回路 / Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../../posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/) · [感知者与痕迹的不可坍缩 / The Perceiver and the Trace Cannot Collapse](../../posts/the-perceiver-and-the-trace/)
+→ [定义者的席位与离地的幻觉 / The Defining Seat](../../posts/the-defining-seat/) · [机器智能作为人类智能的组合反馈回路 / Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../../posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/) · [感知者与痕迹的不可坍缩 / The Perceiver and the Trace Cannot Collapse](../../posts/the-perceiver-and-the-trace/) · [硅基错位的三重区分 / Three Distinctions in the Silicon Misalignment](../../posts/three-distinctions-in-the-silicon-misalignment/)
 
 ### 扩圈先例论证 / Argument from Expanding-Circle Precedent
 `哲学 / Philosophical`
@@ -4807,7 +4807,7 @@ The NPC trope presumes that people whose inner lives appear flat or scripted fro
 
 Substrate independence presumes that the Mind is a functional organization that can be lifted off its biological vehicle and installed in any substrate realizing the same functional description, which is of use in registering that some functions can indeed be replaced, even exceeded, outside biology; it reaches its boundary in that the brain is the biological embodiment of the Mind, not the Mind itself, embodiment being the current trace-configuration through which a locus sustains itself rather than a vessel holding the activity as a separable stock, so swapping the vehicle does not reconstitute the activity, and any evaluation of a substrate still relies on the Mind said to have been transferred.
 
-→ [飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched](../../posts/the-flight-analogy-leaves-the-mind-untouched/) · [超越的定相 / The Fixed Image of Transcendence](../../posts/the-fixed-image-of-transcendence/) · [碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension](../../posts/carbon-form-as-residual-path-silicon-as-extension/)
+→ [飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched](../../posts/the-flight-analogy-leaves-the-mind-untouched/) · [超越的定相 / The Fixed Image of Transcendence](../../posts/the-fixed-image-of-transcendence/) · [碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension](../../posts/carbon-form-as-residual-path-silicon-as-extension/) · [硅基错位的三重区分 / Three Distinctions in the Silicon Misalignment](../../posts/three-distinctions-in-the-silicon-misalignment/)
 
 ### 实体形而上学 / Substance Metaphysics
 `哲学 / Philosophical`
@@ -5690,7 +5690,7 @@ Image lag distinguishes the constitutive minimum one-step lag—a directional bo
 
 Carbon chauvinism names the presumption that living or conscious systems elsewhere must be composed of carbon compounds, a critique coined by Carl Sagan in astrobiology that stays useful for separating elemental chemistry from independent evolutionary lineages; it reaches its boundary when imported into artificial intelligence debates to collapse substrate chemistry with manner of arising, mistaking a human-built silicon extension of an already-moving edge for an independently evolved lineage while treating carbon form as the generator of consciousness rather than the residual path left behind by ongoing differentiation.
 
-→ [碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension](../../posts/carbon-form-as-residual-path-silicon-as-extension/)
+→ [碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension](../../posts/carbon-form-as-residual-path-silicon-as-extension/) · [硅基错位的三重区分 / Three Distinctions in the Silicon Misalignment](../../posts/three-distinctions-in-the-silicon-misalignment/)
 
 
 ### 耗散结构 / Dissipative Structures
