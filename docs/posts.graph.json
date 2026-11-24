@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-24T06:16:22.300Z",
+    "generated_at": "2026-11-24T06:47:19.559Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -114,7 +114,7 @@
       "content/posts/grok-420-framework-drift.md": "8bdca7e537fb",
       "content/posts/guan-yu-gui-yin.md": "da039a5a5061",
       "content/posts/guidance-is-not-ownership.md": "4bd9a73e2d08",
-      "content/posts/handing-off-residue.md": "10fb7b657112",
+      "content/posts/handing-off-residue.md": "1c487ff6ad91",
       "content/posts/happiness-is-the-relation-of-desire-to-state.md": "cb2d29e8cb0d",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "327b78ac3374",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "227726d75809",
@@ -338,7 +338,7 @@
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "745702a73ded",
       "content/posts/the-ledger-of-the-unencountered.md": "ffcdbfc26a69",
       "content/posts/the-limitation-is-doing-work.md": "bdf4b71e4176",
-      "content/posts/the-living-context.md": "f48e41a1b31f",
+      "content/posts/the-living-context.md": "3b355897ab0d",
       "content/posts/the-local-shield-and-the-residual-lag.md": "344110f3b769",
       "content/posts/the-local-trap-of-technological-change.md": "05cdabe9b869",
       "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "a4b2df46f59c",
@@ -492,10 +492,10 @@
     },
     "stats": {
       "posts": 465,
-      "edges": 14428,
-      "unique_directed": 7094,
+      "edges": 14432,
+      "unique_directed": 7096,
       "missing_targets": 0,
-      "one_way": 1626,
+      "one_way": 1628,
       "isolated": 0,
       "posts_with_outbound": 465,
       "book_pages": 16,
@@ -3595,9 +3595,9 @@
       "slug": "handing-off-residue",
       "path": "content/posts/handing-off-residue.md",
       "title": "交接残余 / Handing Off Residue",
-      "hash": "10fb7b657112",
+      "hash": "1c487ff6ad91",
       "in_degree": 11,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "beyond-the-projection",
         "on-demand-contexts-keep-coherence-at-one-step",
@@ -3610,6 +3610,7 @@
         "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "dynamic-resnet-of-skill-loops",
         "learned-boundaries-and-the-given-rate",
+        "the-folded-self-image-and-the-bound-of-simulation",
         "two-phase-sleep-and-deep-sleep-continual-learning",
         "architecture-of-recursive-distinction",
         "mistaking-the-symptom-of-stability-for-its-source",
@@ -8648,7 +8649,7 @@
       "path": "content/posts/the-folded-self-image-and-the-bound-of-simulation.md",
       "title": "折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation",
       "hash": "973367b35920",
-      "in_degree": 16,
+      "in_degree": 18,
       "out_degree": 14,
       "links_out": [
         "stability-and-excess",
@@ -9781,9 +9782,9 @@
       "slug": "the-living-context",
       "path": "content/posts/the-living-context.md",
       "title": "活的语境 / The Living Context",
-      "hash": "f48e41a1b31f",
+      "hash": "3b355897ab0d",
       "in_degree": 8,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "a-living-external-cortex",
         "precision-and-resolution",
@@ -9797,6 +9798,7 @@
         "on-demand-contexts-keep-coherence-at-one-step",
         "dynamic-resnet-of-skill-loops",
         "mistaking-the-symptom-of-stability-for-its-source",
+        "the-folded-self-image-and-the-bound-of-simulation",
         "the-surface-that-registers",
         "your-codebase-is-memory"
       ]
@@ -33496,9 +33498,21 @@
     },
     {
       "from": "handing-off-residue",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "折返的自我形象与模拟的上界"
+    },
+    {
+      "from": "handing-off-residue",
       "to": "two-phase-sleep-and-deep-sleep-continual-learning",
       "rel": "points_to",
       "label": "睡眠与深度睡眠的双阶段持续学习"
+    },
+    {
+      "from": "handing-off-residue",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "The Folded Self-Image and the Bound of Simulation"
     },
     {
       "from": "handing-off-residue",
@@ -75526,9 +75540,21 @@
     },
     {
       "from": "the-living-context",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "折返的自我形象与模拟的上界"
+    },
+    {
+      "from": "the-living-context",
       "to": "mistaking-the-symptom-of-stability-for-its-source",
       "rel": "points_to",
       "label": "Mistaking the Symptom of Stability for Its Source"
+    },
+    {
+      "from": "the-living-context",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "The Folded Self-Image and the Bound of Simulation"
     },
     {
       "from": "the-living-context",
