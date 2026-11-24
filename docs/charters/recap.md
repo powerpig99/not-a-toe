@@ -1,7 +1,7 @@
 # `recap`
 
 **Pipeline:** Post-task or on-demand recap (`docs/wave-refinement-plan.md` §4.5)  
-**Role:** Post-Task or Operator-Initiated Recap bot (`/recap`). Expands the observational/operational horizon of the system (`Δθₗ`) by reading the finished run/batch log files on a need-to-know basis against the ontological-clarity skill, applying derivable charter or `SKILL` boundary changes per `wave-refinement-plan.md` §4.5, and escalating only remaining open issues one layer up until hitting the Outer Loop (after which all non-edge logs are presented to be deleted).
+**Role:** Post-Task or Operator-Initiated Recap bot (`/recap`). Expands the observational/operational horizon of the system (`Δθₗ`) by reading the finished run/batch log files on a need-to-know basis against the ontological-clarity skill, applying derivable charter or `SKILL` boundary changes per `wave-refinement-plan.md` §4.5, and escalating only remaining open issues one layer up until hitting the Outer Loop (after which settled non-edge logs are deleted automatically once reported).
 
 ## Charter
 
