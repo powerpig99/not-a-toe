@@ -3,13 +3,13 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-24T05:42:57.985Z",
+    "generated_at": "2026-11-24T06:16:22.300Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
     "sources": {
       "content/posts/Analysis_Adolescence_of_Technology.md": "8e90f7c0c0ae",
-      "content/posts/a-creation-cannot-replace-its-source.md": "7216301521e6",
+      "content/posts/a-creation-cannot-replace-its-source.md": "094e8f09be00",
       "content/posts/a-living-external-cortex.md": "900ecb1415c7",
       "content/posts/a-new-deeper-look-at-antifragility.md": "b0a697bdde69",
       "content/posts/abstract-pain-and-living-hunger.md": "521edf2dc946",
@@ -37,7 +37,7 @@
       "content/posts/beyond-the-hundred-trillion-horizon.md": "243174a770ad",
       "content/posts/beyond-the-projection.md": "8a8000a62e66",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "bc4af4be9924",
-      "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "b9dd99668de7",
+      "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "0ff597e3465b",
       "content/posts/carbon-form-as-residual-path-silicon-as-extension.md": "5138e0e52f61",
       "content/posts/causality-all-the-way.md": "335fcadee6b9",
       "content/posts/causality-and-the-irreducible-prior.md": "23039b57892e",
@@ -80,7 +80,7 @@
       "content/posts/displayed-solitude-is-residual-after-secured-connection.md": "084dfa083081",
       "content/posts/distillation-compression-agency.md": "8be4ecf97ac2",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "b64fa4420bd4",
-      "content/posts/dynamic-resnet-of-skill-loops.md": "b9d2508ec189",
+      "content/posts/dynamic-resnet-of-skill-loops.md": "36a5320147e8",
       "content/posts/e-shi-feng-bi-de-shan.md": "035dbeba3f38",
       "content/posts/efficiency-without-differentiation.md": "6e611c312072",
       "content/posts/emotional-support-as-causal-interference.md": "ae6bd565946f",
@@ -171,7 +171,7 @@
       "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md": "39117b90bc28",
       "content/posts/observation-lag-and-the-inversion-of-optionality.md": "48ca1f4b438f",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "ccfd235ff8c1",
-      "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "54f2cb22c712",
+      "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "446dd7788477",
       "content/posts/on-education.md": "2506ab652440",
       "content/posts/on-the-boundaries-of-what-can-be-said-about-p-and-np.md": "2cb5a3dff94a",
       "content/posts/one-cannot-escape-ones-own-mind.md": "877b74ed6906",
@@ -492,10 +492,10 @@
     },
     "stats": {
       "posts": 465,
-      "edges": 14420,
-      "unique_directed": 7090,
+      "edges": 14428,
+      "unique_directed": 7094,
       "missing_targets": 0,
-      "one_way": 1622,
+      "one_way": 1626,
       "isolated": 0,
       "posts_with_outbound": 465,
       "book_pages": 16,
@@ -627,12 +627,12 @@
       "out_degree": 42
     },
     {
-      "slug": "production-consumption-and-the-minds-distinction",
+      "slug": "a-creation-cannot-replace-its-source",
       "out_degree": 41
     },
     {
-      "slug": "a-creation-cannot-replace-its-source",
-      "out_degree": 40
+      "slug": "production-consumption-and-the-minds-distinction",
+      "out_degree": 41
     },
     {
       "slug": "mistaking-the-expression-for-the-intelligence",
@@ -676,9 +676,9 @@
       "slug": "a-creation-cannot-replace-its-source",
       "path": "content/posts/a-creation-cannot-replace-its-source.md",
       "title": "造物无法取代其源头 / A Creation Cannot Replace Its Source",
-      "hash": "7216301521e6",
+      "hash": "094e8f09be00",
       "in_degree": 34,
-      "out_degree": 40,
+      "out_degree": 41,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "intelligence-belongs-only-to-the-mind",
@@ -695,6 +695,7 @@
         "on-demand-contexts-keep-coherence-at-one-step",
         "dynamic-resnet-of-skill-loops",
         "mistaking-the-symptom-of-stability-for-its-source",
+        "the-folded-self-image-and-the-bound-of-simulation",
         "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "the-fixed-image-of-transcendence",
         "two-failures-of-trace",
@@ -1478,9 +1479,9 @@
       "slug": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
       "path": "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md",
       "title": "递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems",
-      "hash": "b9dd99668de7",
+      "hash": "0ff597e3465b",
       "in_degree": 22,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "no-system-can-be-kept-closed",
         "residual-control-recedes-to-the-edge",
@@ -1490,6 +1491,7 @@
         "on-demand-contexts-keep-coherence-at-one-step",
         "dynamic-resnet-of-skill-loops",
         "mistaking-the-symptom-of-stability-for-its-source",
+        "the-folded-self-image-and-the-bound-of-simulation",
         "learned-boundaries-and-the-given-rate",
         "your-codebase-is-memory",
         "the-residue-and-the-free-variable",
@@ -2734,9 +2736,9 @@
       "slug": "dynamic-resnet-of-skill-loops",
       "path": "content/posts/dynamic-resnet-of-skill-loops.md",
       "title": "模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks",
-      "hash": "b9d2508ec189",
+      "hash": "36a5320147e8",
       "in_degree": 31,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "the-descent-that-doesnt-know-where-its-going",
         "beyond-the-projection",
@@ -2748,6 +2750,7 @@
         "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "architecture-of-recursive-distinction",
         "mistaking-the-symptom-of-stability-for-its-source",
+        "the-folded-self-image-and-the-bound-of-simulation",
         "continuous-learning-as-expression-and-simulation",
         "the-illusion-of-multi-agent-collaboration",
         "the-density-of-judgment"
@@ -5257,9 +5260,9 @@
       "slug": "on-demand-contexts-keep-coherence-at-one-step",
       "path": "content/posts/on-demand-contexts-keep-coherence-at-one-step.md",
       "title": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step",
-      "hash": "54f2cb22c712",
+      "hash": "446dd7788477",
       "in_degree": 24,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "your-codebase-is-memory",
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
@@ -5272,6 +5275,7 @@
         "the-density-of-judgment",
         "dynamic-resnet-of-skill-loops",
         "mistaking-the-symptom-of-stability-for-its-source",
+        "the-folded-self-image-and-the-bound-of-simulation",
         "learned-boundaries-and-the-given-rate",
         "continuous-learning-as-expression-and-simulation",
         "two-phase-sleep-and-deep-sleep-continual-learning",
@@ -8644,7 +8648,7 @@
       "path": "content/posts/the-folded-self-image-and-the-bound-of-simulation.md",
       "title": "折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation",
       "hash": "973367b35920",
-      "in_degree": 12,
+      "in_degree": 16,
       "out_degree": 14,
       "links_out": [
         "stability-and-excess",
@@ -13530,6 +13534,12 @@
     },
     {
       "from": "a-creation-cannot-replace-its-source",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "折返的自我形象与模拟的上界"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
       "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
       "rel": "points_to",
       "label": "递归形式系统中作为记忆与控制的边界条件图"
@@ -13581,6 +13591,12 @@
       "to": "mistaking-the-symptom-of-stability-for-its-source",
       "rel": "points_to",
       "label": "Mistaking the Symptom of Stability for Its Source"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "The Folded Self-Image and the Bound of Simulation"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
@@ -18930,6 +18946,12 @@
     },
     {
       "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "折返的自我形象与模拟的上界"
+    },
+    {
+      "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
       "to": "learned-boundaries-and-the-given-rate",
       "rel": "points_to",
       "label": "学到的边界与给定的尺度"
@@ -18951,6 +18973,12 @@
       "to": "mistaking-the-symptom-of-stability-for-its-source",
       "rel": "points_to",
       "label": "Mistaking the Symptom of Stability for Its Source"
+    },
+    {
+      "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "The Folded Self-Image and the Bound of Simulation"
     },
     {
       "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
@@ -27978,9 +28006,21 @@
     },
     {
       "from": "dynamic-resnet-of-skill-loops",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "折返的自我形象与模拟的上界"
+    },
+    {
+      "from": "dynamic-resnet-of-skill-loops",
       "to": "mistaking-the-symptom-of-stability-for-its-source",
       "rel": "points_to",
       "label": "Mistaking the Symptom of Stability for Its Source"
+    },
+    {
+      "from": "dynamic-resnet-of-skill-loops",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "The Folded Self-Image and the Bound of Simulation"
     },
     {
       "from": "dynamic-resnet-of-skill-loops",
@@ -45366,6 +45406,12 @@
     },
     {
       "from": "on-demand-contexts-keep-coherence-at-one-step",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "折返的自我形象与模拟的上界"
+    },
+    {
+      "from": "on-demand-contexts-keep-coherence-at-one-step",
       "to": "learned-boundaries-and-the-given-rate",
       "rel": "points_to",
       "label": "学到的边界与给定的尺度"
@@ -45399,6 +45445,12 @@
       "to": "mistaking-the-symptom-of-stability-for-its-source",
       "rel": "points_to",
       "label": "Mistaking the Symptom of Stability for Its Source"
+    },
+    {
+      "from": "on-demand-contexts-keep-coherence-at-one-step",
+      "to": "the-folded-self-image-and-the-bound-of-simulation",
+      "rel": "points_to",
+      "label": "The Folded Self-Image and the Bound of Simulation"
     },
     {
       "from": "on-demand-contexts-keep-coherence-at-one-step",
