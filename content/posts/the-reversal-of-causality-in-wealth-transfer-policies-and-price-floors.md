@@ -36,9 +36,9 @@ Only successive acts at particular centers are causal levers. Aggregates, market
 
 A price floor or transfer does not itself intervene as an independent power. It is densified residue of the choices that demand it, enact it, administer it, and treat it as causal. By those choices the measured price of labor is raised or an external payment is substituted for the market outcome. The relative signal is thereby suppressed or distorted. Once the feedback link is broken, the corrective adjustments that the signal would have induced are impeded. Workers whose marginal product lies below the floor face zero employment rather than a higher wage: no first job, no initial skill accumulation, no compounding of experience under real stakes. A transfer works by another route: it does not bar anyone from the first job, but it softens that exclusion and lifts the pressure that would have reorganized capability. That exclusion is everything for those priced out of the opportunity to gain a first footing of competence.
 
-在那些后果不会作为自己的东西重新进入的地方，支持这项政策最容易。原因的错置，仍局限在做出它的那些中心。
+在那些后果不会作为自己的东西重新进入的地方，支持这项政策最容易——这正是[建造者的缺席与解释的自洽循环](../the-builders-absence-and-the-self-consistent-cycle-of-explanation/)所追溯的缓冲处境：以症状为中心的解释无需恶意便在局部理性中自我巩固。原因的错置，仍局限在做出它的那些中心。
 
-Support for the policy is easiest where those consequences do not re-enter as one’s own. The misallocation of cause remains local to the centers that performed it.
+Support for the policy is easiest where those consequences do not re-enter as one’s own—the buffered setting in which symptom-centered accounts self-reinforce within local rationality without malice, as [The Builder's Absence and the Self-Consistent Cycle of Explanation](../the-builders-absence-and-the-self-consistent-cycle-of-explanation/) traces. The misallocation of cause remains local to the centers that performed it.
 
 [疗愈打开反馈回路](../therapy-opens-the-feedback-loop/)说的是同一种几何在第三个所在出现时的衰减：对登记的管理，降低了重新追溯生成条件的压力。[公共支出不创造资本](../public-spending-does-not-create-capital/)是转移支付的一面，换成了预算的场景：先取走、再分配，由私人产出来支付，然后被记成像是一个集体的所在撰写了创造。[人口崩溃神话的拆解](../the-myth-of-population-collapse-explained/)是同一个序列落在人口的负荷上：积累的富余让转移支付显得负担得起，转移支付又替代了被展示出来的能动性，加固了原因的外置，经过一代代的筛选，最后在生育率上登记下来。[能动性、复利与 AI 封建之争](../agency-compounding-and-the-argument-over-ai-feudalism/)在资本上看到同一种误认：把静态的存量当作生成的回路，而只有活的能动性回路才会复利。
 

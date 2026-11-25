@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-25T07:10:04.831Z",
+    "generated_at": "2026-11-25T08:05:11.834Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -132,7 +132,7 @@
       "content/posts/incompleteness-exhibited-twice.md": "87f45601a359",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "e5e1fcd23570",
       "content/posts/infinity-within-the-seat.md": "f5aea96eb65b",
-      "content/posts/inheritance-as-residue-and-the-need-for-extraction.md": "5aa03242cfbc",
+      "content/posts/inheritance-as-residue-and-the-need-for-extraction.md": "ebe6d635ba92",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "5153fb0eac11",
       "content/posts/intelligence-crisis-response.md": "ae3e106cc101",
       "content/posts/intelligence-folding-back-on-itself.md": "df71f387f49b",
@@ -304,7 +304,7 @@
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "7288595bbdaf",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "1d8808809a45",
       "content/posts/the-generative-contradiction.md": "3b39d0a43e8c",
-      "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "4fe3a0ef9161",
+      "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "b865f05ce439",
       "content/posts/the-generative-topology-of-free-variables.md": "ec996ff7dc93",
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "5dd6c762a993",
       "content/posts/the-geometry-of-emergence.md": "2d50769c9847",
@@ -349,7 +349,7 @@
       "content/posts/the-maintenance-paradox.md": "3f1f65a8893d",
       "content/posts/the-map-after-the-territory.md": "7c4c6f4b27cf",
       "content/posts/the-mark-and-the-act.md": "98b48747d562",
-      "content/posts/the-market-repricing-of-productive-base.md": "8ca7afddde6a",
+      "content/posts/the-market-repricing-of-productive-base.md": "0952106c7e56",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "104d4d3b68bc",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "9a266ff69ee5",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "af784b26392a",
@@ -381,7 +381,7 @@
       "content/posts/the-price-of-closing-optionality.md": "6de4077a2517",
       "content/posts/the-question-that-installs-the-war.md": "4ec26a537ad9",
       "content/posts/the-ramble-within-the-ramble.md": "334a81eee6ce",
-      "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "6295fda97469",
+      "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "194665515dc5",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "d7e470aaf1fb",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "e5b4c6a665d6",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "8839d7542261",
@@ -394,7 +394,7 @@
       "content/posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations.md": "ac21f41166ae",
       "content/posts/the-returning-signal-and-its-claim.md": "973ad49b2d21",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "eac491539bc9",
-      "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "c8f2a7bc8d03",
+      "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "c4b334e54d9b",
       "content/posts/the-reversal-of-education-and-science.md": "79d30fed4db1",
       "content/posts/the-reversal-of-the-bystander-commentators.md": "06d3872dfad7",
       "content/posts/the-reversal-of-verification.md": "0a1976ee9d00",
@@ -496,10 +496,10 @@
     },
     "stats": {
       "posts": 469,
-      "edges": 14574,
-      "unique_directed": 7166,
+      "edges": 14584,
+      "unique_directed": 7171,
       "missing_targets": 0,
-      "one_way": 1670,
+      "one_way": 1665,
       "isolated": 0,
       "posts_with_outbound": 469,
       "book_pages": 16,
@@ -4125,9 +4125,9 @@
       "slug": "inheritance-as-residue-and-the-need-for-extraction",
       "path": "content/posts/inheritance-as-residue-and-the-need-for-extraction.md",
       "title": "继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction",
-      "hash": "5aa03242cfbc",
+      "hash": "ebe6d635ba92",
       "in_degree": 7,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "your-codebase-is-memory",
         "having-more-is-never-the-cause",
@@ -4142,6 +4142,7 @@
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "the-opacity-of-production-and-the-weight-of-consumption",
         "agency-compounding-and-the-argument-over-ai-feudalism",
+        "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
         "the-frontier-lifts-the-floor",
         "ownership-and-self-worthiness"
       ]
@@ -7586,7 +7587,7 @@
       "path": "content/posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation.md",
       "title": "建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation",
       "hash": "68935c7ab950",
-      "in_degree": 0,
+      "in_degree": 5,
       "out_degree": 18,
       "links_out": [
         "price-as-utterance-understanding-as-trade",
@@ -8982,9 +8983,9 @@
       "slug": "the-generative-mechanics-of-value-money-and-wealth",
       "path": "content/posts/the-generative-mechanics-of-value-money-and-wealth.md",
       "title": "价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth",
-      "hash": "4fe3a0ef9161",
+      "hash": "b865f05ce439",
       "in_degree": 16,
-      "out_degree": 21,
+      "out_degree": 22,
       "links_out": [
         "price-as-utterance-understanding-as-trade",
         "production-consumption-and-the-minds-distinction",
@@ -8997,6 +8998,7 @@
         "having-more-is-never-the-cause",
         "public-spending-does-not-create-capital",
         "order-surplus-and-the-moral-intercept",
+        "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
         "individual-choices-as-the-only-causal-levers",
         "agency-compounding-and-the-argument-over-ai-feudalism",
         "the-causal-order-of-private-residuals-and-social-surplus",
@@ -10053,9 +10055,9 @@
       "slug": "the-market-repricing-of-productive-base",
       "path": "content/posts/the-market-repricing-of-productive-base.md",
       "title": "生产性基础的市场重定价 / The Market Repricing of Productive Base",
-      "hash": "8ca7afddde6a",
+      "hash": "0952106c7e56",
       "in_degree": 2,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "price-as-utterance-understanding-as-trade",
         "the-generative-mechanics-of-value-money-and-wealth",
@@ -10065,6 +10067,7 @@
         "intelligence-crisis-response",
         "the-frontier-lifts-the-floor",
         "production-consumption-and-the-minds-distinction",
+        "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
         "the-average-is-residue-not-the-engine",
         "individual-choices-as-the-only-causal-levers",
         "the-summary-first-reversal-and-the-command-of-yields"
@@ -10921,12 +10924,13 @@
       "slug": "the-rational-choice-postulate-is-the-original-sin",
       "path": "content/posts/the-rational-choice-postulate-is-the-original-sin.md",
       "title": "理性选择公设是原罪 / The Rational Choice Postulate Is the Original Sin",
-      "hash": "6295fda97469",
+      "hash": "194665515dc5",
       "in_degree": 21,
-      "out_degree": 22,
+      "out_degree": 23,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "price-as-utterance-understanding-as-trade",
+        "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
         "the-average-is-residue-not-the-engine",
         "studying-the-effect-of-ai-relocates-causality",
         "closed-assumptions-squeeze-compounding-into-s-curves",
@@ -11282,9 +11286,9 @@
       "slug": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "path": "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md",
       "title": "财富转移政策与价格下限中的原因错置 / The Misallocation of Cause in Wealth-Transfer Policies and Price Floors",
-      "hash": "c8f2a7bc8d03",
+      "hash": "c4b334e54d9b",
       "in_degree": 19,
-      "out_degree": 17,
+      "out_degree": 18,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
@@ -11293,6 +11297,7 @@
         "your-codebase-is-memory",
         "individual-choices-as-the-only-causal-levers",
         "ownership-and-self-worthiness",
+        "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
         "therapy-opens-the-feedback-loop",
         "public-spending-does-not-create-capital",
         "the-myth-of-population-collapse-explained",
@@ -37394,9 +37399,21 @@
     },
     {
       "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "rel": "points_to",
+      "label": "建造者的缺席与解释的自洽循环"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
       "to": "agency-compounding-and-the-argument-over-ai-feudalism",
       "rel": "points_to",
       "label": "Agency, Compounding, and the Argument Over AI Feudalism"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "rel": "points_to",
+      "label": "The Builder's Absence and the Self-Consistent Cycle of Explanation"
     },
     {
       "from": "inheritance-as-residue-and-the-need-for-extraction",
@@ -70700,6 +70717,12 @@
     },
     {
       "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "rel": "points_to",
+      "label": "建造者的缺席与解释的自洽循环"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
       "label": "Public Spending Does Not Create Capital"
@@ -70709,6 +70732,12 @@
       "to": "order-surplus-and-the-moral-intercept",
       "rel": "points_to",
       "label": "Order, Surplus, and the Moral Intercept"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "rel": "points_to",
+      "label": "The Builder's Absence and the Self-Consistent Cycle of Explanation"
     },
     {
       "from": "the-generative-mechanics-of-value-money-and-wealth",
@@ -77252,6 +77281,18 @@
     },
     {
       "from": "the-market-repricing-of-productive-base",
+      "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "rel": "points_to",
+      "label": "建造者的缺席与解释的自洽循环"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
+      "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "rel": "points_to",
+      "label": "The Builder's Absence and the Self-Consistent Cycle of Explanation"
+    },
+    {
+      "from": "the-market-repricing-of-productive-base",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
       "label": "平均值是残余，不是引擎"
@@ -83096,6 +83137,18 @@
     },
     {
       "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "rel": "points_to",
+      "label": "建造者的缺席与解释的自洽循环"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "rel": "points_to",
+      "label": "The Builder's Absence and the Self-Consistent Cycle of Explanation"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
       "to": "price-as-utterance-understanding-as-trade",
       "rel": "points_to",
       "label": "价格是言说，理解是交易"
@@ -85697,6 +85750,18 @@
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "rel": "points_to",
+      "label": "建造者的缺席与解释的自洽循环"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "rel": "points_to",
+      "label": "The Builder's Absence and the Self-Consistent Cycle of Explanation"
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
