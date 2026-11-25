@@ -1642,20 +1642,11 @@ Public choice theory applies behavioral symmetry across markets and politics—t
 ### 理性选择理论 / Rational Choice Theory
 `经济 / Economic`
 
-理性选择理论预设偏好结构足够一致、足够共享，可以为加总、均衡与政策处方奠基，在对已发生的选择作事后重构及局部比较静态分析时有用；它在此到了边界：信息不完整条件下私人且变动的前提给不出可移植的齐一性——反而既在不假恶意的情况下稳固自我证实的症状解释，也为转向澄清模型的开放重画留出路径——同时累积的偏好始终只是过往选择的惰性残余，而非生成下一次切割的引擎，于是这套形式装置解释过去很强，预见未来很弱。
+理性选择理论预设偏好结构足够一致、足够共享，可以为加总、均衡与政策处方奠基，在对已发生的选择作事后重构及局部比较静态分析时有用；它在此到了边界：信息不完整条件下私人且变动的前提给不出可移植的齐一性——反而既在不假恶意的情况下稳固自我加固的症状解释，也为转向澄清模型的开放重画留出路径——同时累积的偏好始终只是过往选择的惰性残余，而非生成下一次切割的引擎，于是这套形式装置解释过去很强，预见未来很弱。
 
-Rational choice theory presumes preference structures consistent and shared enough to ground aggregation, equilibrium, and policy prescription, which is of use in reconstructing choices already made and local comparative statics; it reaches its boundary in that private, shifting premises under incomplete information cannot supply portable uniformity—instead stabilizing both self-confirming symptom explanations without malice and the open re-draw toward clarifying models—while accumulated preferences remain inert residue of past choices rather than an engine generating the next cut, so the formal apparatus fits the past well and foresees poorly.
+Rational choice theory presumes preference structures consistent and shared enough to ground aggregation, equilibrium, and policy prescription, which is of use in reconstructing choices already made and local comparative statics; it reaches its boundary in that private, shifting premises under incomplete information cannot supply portable uniformity—instead stabilizing both self-reinforcing symptom explanations without malice and the open re-draw toward clarifying models—while accumulated preferences remain inert residue of past choices rather than an engine generating the next cut, so the formal apparatus fits the past well and foresees poorly.
 
 → [理性选择公设是原罪 / The Rational Choice Postulate Is the Original Sin](../../posts/the-rational-choice-postulate-is-the-original-sin/) · [表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice](../../posts/apparent-regulation-and-the-primacy-of-choice/) · [建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation](../../posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation/)
-
-### 理性无知与理性非理性 / Rational Ignorance and Rational Irrationality
-`经济 / Economic`
-
-理性无知与理性非理性追溯了高昂的认知开销与微乎其微的私人政策撬动力，如何使不对结构经济学作投入以及消费令人宽慰的公共叙事在个体层面保持融贯，在无需援引恶意假设便能说明生产函数何以因低显著性而被略去时有用；当教科书式的经济学共识被安设为外部法庭、将局部一致的分歧模型归类为非理性时，二者便到达了边界。
-
-Rational ignorance and rational irrationality trace how steep cognitive overhead and negligible private policy leverage make non-investment in structural economics and consumption of comforting public narratives individually coherent, which is of use in accounting for low-salience omission of production functions without invoking malice; they reach their boundary when textbook economic consensus is installed as an exterior tribunal classifying locally consistent divergent models as irrational.
-
-→ [建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation](../../posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation/)
 
 ### 强化学习 / Reinforcement Learning (RL)
 `技术 / Technological`
@@ -1719,15 +1710,6 @@ Realism assumes mind-independent reality precedes and produces the mind; every d
 The second-mover story says the patient follower waits for the market to clear and then collects the spoils, which is of use in describing how some latecomers do lower their costs on the pioneers' trial and error; it reaches its boundary in that it reads history by launch dates and misses that the winners committed to a higher-leverage architecture while consensus still dismissed the direction, so the unvalidated compounding only surfaces late, a reading that is itself taken backward from the outcome.
 
 → [看不见的第一步 / The Invisible First Move](../../posts/the-invisible-first-move/) · [本地屏障与残余滞后 / The Local Shield and the Residual Lag](../../posts/the-local-shield-and-the-residual-lag/)
-
-### 自我证实均衡与伯克-纳什均衡 / Self-Confirming and Berk-Nash Equilibrium
-`经济 / Economic`
-
-自我证实均衡与伯克-纳什均衡形式化地刻画了，在不完整或误设的模型内部进行局部理性更新，如何收敛至一个由路径上症状不断加固的内生不动点，同时令路径外反事实始终不被抽样，在无需假设恶意或认知失灵便能解释自洽的解释循环时有用；当候选模型族或注意力过滤器被持守为外生固定集合、而非活的心智在无缓冲摩擦下可置于险境并重新绘制的开放器具时，二者便到达了边界。
-
-Self-confirming and Berk-Nash equilibrium formalize how locally rational updating inside an incomplete or misspecified model converges to an endogenous fixed point reinforced by on-path symptoms while off-path counterfactuals stay unsampled, which is of use in explaining self-consistent explanatory cycles without malice or cognitive breakdown; they reach their boundary where the candidate model class or attention filter is held as an exogenous fixed set rather than an open instrument a living Mind can put at risk and re-draw under unbuffered friction.
-
-→ [建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation](../../posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation/)
 
 ### 香农信息论 / Shannon Information Theory
 `数学 / Mathematical`
@@ -3369,15 +3351,6 @@ Presumes that delegating a task to an automated system also transfers the conseq
 
 → [任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences](../../posts/the-delegation-of-the-task-and-the-inalienability-of-consequences/) · [判断的密度 / The Density of Judgment](../../posts/the-density-of-judgment/) · [能动性与模式 / Agency and the Pattern](../../posts/agency-and-the-pattern/) · [投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop](../../posts/the-judgment-that-classifies-the-complaint/)
 
-### 人力资本的不可让渡性 / Inalienability of Human Capital
-`经济 / Economic`
-
-人力资本的不可让渡性指出，法律产权赋予的是对可让渡资产的剩余控制权，而持续运转的企业家判断无法被强行绑定或划转，在解释为何打断活跃建造者的控制权会使企业持续价值跌向清算价值时有用；当这一洞察被局限于双边债务契约，或不加区分地外推至掌管本身只带来零或负向未来价值的被动持仓与固守权位资产时，便到达了边界。
-
-The inalienability of human capital holds that legal title confers residual control over alienable assets while ongoing entrepreneurial judgment cannot be forcibly bound or transferred, which is of use in explaining why disrupting an active builder's control collapses ongoing enterprise value toward liquidation value; it reaches its boundary when confined to bilateral debt contracting or extended indiscriminately to passive and entrenched holdings whose stewardship adds zero or negative forward value.
-
-→ [建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation](../../posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation/)
-
 ### 激励机制设计 / Incentive Design
 `经济 / Economic`
 
@@ -3687,9 +3660,9 @@ Unscheduled-time heuristics presume that clearing the calendar produces serendip
 ### 市场资本化估值 / Market Capitalization Valuation
 `经济 / Economic`
 
-市场资本化对归属上市普通股股东的预期净自由现金流剩余现值进行定价，作为即时出清投影、用以登记分散中心如何跨行业重定价生产性能力的连续性时有用；当边际出清估值被误作一座可流通、可划转的金库或活生生的生产性能力本身，或上市股东的狭窄私人残差被读作自主的市场裁决而非一种后随出清痕迹——其隐含持续价值会在非弹性强制资金流出与活跃建造者不可让渡判断撤出之下坍塌——这一估值尺度便到达了边界。
+市场资本化对归属上市普通股股东的预期净自由现金流剩余现值进行定价，作为即时出清投影、用以登记分散中心如何跨行业重定价生产性能力的连续性时有用；当边际出清估值被误作一座可流通、可划转的金库或活生生的生产性能力本身，或上市股东的狭窄私人残差被读作自主的市场裁决而非一种后随出清痕迹——其隐含未来价值会因强制抛售与活跃建造者的活态判断撤出而坍塌——这一估值尺度便到达了边界。
 
-Market capitalization prices the present value of expected net free-cash-flow surplus accruing to listed common shareholders, which is of use as an instantaneous clearing projection registering how dispersed centers reprice the continuity of productive capacity across sectors; it reaches its boundary when marginal clearing valuation is mistaken for a liquid, transferable vault or living productive capability itself, or when listed shareholders' narrow private residual is read as an autonomous market verdict rather than a trailing clearing trace whose implied ongoing value collapses under inelastic forced outflow and withdrawal of an active builder's inalienable judgment.
+Market capitalization prices the present value of expected net free-cash-flow surplus accruing to listed common shareholders, which is of use as an instantaneous clearing projection registering how dispersed centers reprice the continuity of productive capacity across sectors; it reaches its boundary when marginal clearing valuation is mistaken for a liquid, transferable vault or living productive capability itself, or when listed shareholders' narrow private residual is read as an autonomous market verdict rather than a trailing clearing trace whose implied future value collapses under forced selling and the withdrawal of an active builder's living judgment.
 
 → [生产性基础的市场重定价 / The Market Repricing of Productive Base](../../posts/the-market-repricing-of-productive-base/) · [建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation](../../posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation/)
 
@@ -5379,18 +5352,18 @@ Waiting for clarity assumes clarity descends on an industry of its own accord, w
 ### 财富税 / Wealth Tax
 `经济 / Economic`
 
-财富税预设他人资产的剩余控制权可以由政治之手导向既定目的，在为公共项目筹集资金或对低回报被动持仓征税时有用；它在此到了边界：它使所有权的回路变薄，而后果依旧落在每个人身上，并且一旦课征于活跃建造者不可让渡、与控制权绑定的股权，便会经由人力资本撤出与非弹性清算令隐含未来价值坍塌，而非划转一份完好无损的存量。
+财富税预设他人资产的剩余控制权可以由政治之手导向既定目的，在为公共项目筹集资金或对掌管不增添未来价值的被动持仓征税时有用；它在此到了边界：它使所有权的回路变薄，而后果依旧落在每个人身上，并且一旦课征于活跃建造者的股权，便会经由活态判断的撤出与强制抛售令隐含未来价值坍塌，而非划转一份完好无损的存量。
 
-A wealth tax presumes residual control over others’ assets can be directed toward chosen ends by political hands, which is of use in raising funds for public programs or taxing passive, low-return holdings; it reaches its boundary in that it thins the ownership loop whose consequences still land with individuals and, when levied on active builders' inalienable control-linked equity, collapses implied future value through human-capital withdrawal and inelastic liquidation rather than transferring an intact stock.
+A wealth tax presumes residual control over others’ assets can be directed toward chosen ends by political hands, which is of use in raising funds for public programs or taxing passive holdings whose stewardship adds no forward value; it reaches its boundary in that it thins the ownership loop whose consequences still land with individuals and, when levied on an active builder's equity, collapses implied future value through the withdrawal of living judgment and forced selling rather than transferring an intact stock.
 
 → [政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/) · [建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation](../../posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation/)
 
 ### 财富转移政策 / Wealth-Transfer Policies
 `经济 / Economic`
 
-转移支付以看得见的短期缓解为依据，在缓解眼前困境时有用；它在此到了边界：以支付替代市场结果会压制本可弥合差距的相对信号，转移支付移动的只是既有可供消费的过往残余、经由后续支出仍会流回净生产者手中，而夺取活跃建造者与控制权绑定的股权则会令庞大得多的隐含未来社会剩余坍塌，且由于前沿扩张设定了生产性存量的上限、再分配在该上限之内起稳定作用，在低产能经济体中压缩相对份额在抵达充足之前便撞上算术天花板，而封顶前沿选项则会在更低的总量上限内均等化。
+转移支付以看得见的短期缓解为依据，在缓解眼前困境时有用；它在此到了边界：以支付替代市场结果会压制本可弥合差距的相对信号，转移支付移动的只是既有可供消费的过往残余、经由后续支出仍会流回净生产者手中，而夺取或打断活跃建造者的控制权则会令庞大得多的隐含未来社会剩余坍塌，且由于前沿扩张设定了生产性存量的上限、再分配在该上限之内起稳定作用，在低产能经济体中压缩相对份额在抵达充足之前便撞上算术天花板，而封顶前沿选项则会在更低的总量上限内均等化。
 
-Transfers are justified by visible short-term relief, which is of use in easing immediate hardship; it reaches its boundary in that substituting payment for market outcomes suppresses the relative signal that closes gaps, transfers move only existing consumable past residuals that flow back toward net producers through subsequent spending while seizing active builders' control-linked equity collapses far larger implied future societal surplus, and because frontier expansion sets the ceiling of the productive stock while redistribution stabilizes within it, compressing relative shares in low-capacity economies hits an arithmetic ceiling before adequacy while capping frontier options equalizes under a lower absolute ceiling.
+Transfers are justified by visible short-term relief, which is of use in easing immediate hardship; it reaches its boundary in that substituting payment for market outcomes suppresses the relative signal that closes gaps, transfers move only existing consumable past residuals that flow back toward net producers through subsequent spending while seizing or disrupting an active builder's control collapses far larger implied future societal surplus, and because frontier expansion sets the ceiling of the productive stock while redistribution stabilizes within it, compressing relative shares in low-capacity economies hits an arithmetic ceiling before adequacy while capping frontier options equalizes under a lower absolute ceiling.
 
 → [财富转移政策与价格下限中的原因错置 / The Misallocation of Cause in Wealth-Transfer Policies and Price Floors](../../posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors/) · [前沿抬升底线 / The Frontier Lifts the Floor](../../posts/the-frontier-lifts-the-floor/) · [私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus](../../posts/the-causal-order-of-private-residuals-and-social-surplus/) · [价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth](../../posts/the-generative-mechanics-of-value-money-and-wealth/) · [福利国家的幻象 / The Welfare State Illusion](../../posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy/) · [建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation](../../posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation/)
 

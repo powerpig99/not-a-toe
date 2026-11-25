@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-25T04:42:46.328Z",
+    "generated_at": "2026-11-25T06:26:58.422Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -249,7 +249,7 @@
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "91eb49ab18cf",
       "content/posts/the-boundary-of-the-frame.md": "4961d7b8da4c",
       "content/posts/the-brain-does-not-backprop.md": "e1886dd17252",
-      "content/posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation.md": "e43711bd6bad",
+      "content/posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation.md": "68935c7ab950",
       "content/posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice.md": "988bf37e7a02",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "a8a4ce29b72b",
       "content/posts/the-carry-that-cannot-be-named-inside-the-register.md": "c9d4f62e603a",
@@ -480,7 +480,7 @@
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "5f302d15f373",
       "content/book/economics.md": "30efde803853",
-      "content/book/index-of-premises.md": "d404f64d9ded",
+      "content/book/index-of-premises.md": "3ac44c8bf586",
       "content/book/intelligence.md": "ff7c08b8ecea",
       "content/book/knowledge-and-learning.md": "a885aa187e8e",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -496,14 +496,14 @@
     },
     "stats": {
       "posts": 469,
-      "edges": 14572,
+      "edges": 14574,
       "unique_directed": 7166,
       "missing_targets": 0,
       "one_way": 1670,
       "isolated": 0,
       "posts_with_outbound": 469,
       "book_pages": 16,
-      "book_edges": 1692,
+      "book_edges": 1689,
       "posts_reached_by_book": 469
     }
   },
@@ -7585,7 +7585,7 @@
       "slug": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
       "path": "content/posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation.md",
       "title": "建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation",
-      "hash": "e43711bd6bad",
+      "hash": "68935c7ab950",
       "in_degree": 0,
       "out_degree": 18,
       "links_out": [
@@ -61556,6 +61556,12 @@
     },
     {
       "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "the-market-repricing-of-productive-base",
+      "rel": "points_to",
+      "label": "生产性基础的市场重定价"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
       "to": "the-generative-mechanics-of-value-money-and-wealth",
       "rel": "points_to",
       "label": "价值、货币与财富的生成机制"
@@ -61565,6 +61571,12 @@
       "to": "inheritance-as-residue-and-the-need-for-extraction",
       "rel": "points_to",
       "label": "继承的残余与索取的必要"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "the-market-repricing-of-productive-base",
+      "rel": "points_to",
+      "label": "The Market Repricing of Productive Base"
     },
     {
       "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
@@ -100938,7 +100950,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "d404f64d9ded",
+        "hash": "3ac44c8bf586",
         "out_degree": 469
       },
       {
@@ -103951,12 +103963,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
-        "rel": "collects",
-        "label": "建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "self-rl-for-humans",
         "rel": "collects",
         "label": "看似AI的强化学习，实为人类的自我强化学习 / What Looks Like RL for AIs Is Self-RL for Humans"
@@ -104020,12 +104026,6 @@
         "to": "the-local-shield-and-the-residual-lag",
         "rel": "collects",
         "label": "本地屏障与残余滞后 / The Local Shield and the Residual Lag"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
-        "rel": "collects",
-        "label": "建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation"
       },
       {
         "from": "book:index-of-premises",
@@ -105868,12 +105868,6 @@
         "to": "the-judgment-that-classifies-the-complaint",
         "rel": "collects",
         "label": "投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
-        "rel": "collects",
-        "label": "建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation"
       },
       {
         "from": "book:index-of-premises",
