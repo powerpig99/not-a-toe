@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-25T12:54:30.918Z",
+    "generated_at": "2026-11-25T13:35:11.705Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -139,7 +139,7 @@
       "content/posts/intelligence-folding-back-on-itself.md": "df71f387f49b",
       "content/posts/intelligence-in-observation-and-the-residual-gap.md": "eb38ddf77c2e",
       "content/posts/intelligence-traps-itself.md": "39bc773f79e9",
-      "content/posts/judgment-is-not-a-stock.md": "6e02392bd145",
+      "content/posts/judgment-is-not-a-stock.md": "b1cff2455d94",
       "content/posts/learned-boundaries-and-the-given-rate.md": "221afc9b0a2c",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "b5bfd1bca0dc",
       "content/posts/looping-and-graphing.md": "84a49b152718",
@@ -265,7 +265,7 @@
       "content/posts/the-closed-n-and-the-open-reality.md": "6161d52f8a3f",
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "fa44653e18ca",
       "content/posts/the-collapsed-debate.md": "0c94fa396c05",
-      "content/posts/the-comment-is-not-the-code.md": "2d48ce3cb037",
+      "content/posts/the-comment-is-not-the-code.md": "2328fa9f9f97",
       "content/posts/the-comparison-that-relocates-the-cause.md": "17566a8c91a9",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "4dcacc9479a0",
       "content/posts/the-continuum-is-a-modeling-convenience.md": "73d5986ffc82",
@@ -296,7 +296,7 @@
       "content/posts/the-flywheel-of-the-mind.md": "8023c6735d6f",
       "content/posts/the-folded-self-image-and-the-bound-of-simulation.md": "83b3d284d028",
       "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "d245e5c4f9aa",
-      "content/posts/the-frame-that-conceals-improvement.md": "9a2ed736458d",
+      "content/posts/the-frame-that-conceals-improvement.md": "bba2aee36db5",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "1f120023244d",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "fc14c3de534d",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "24aae37b4569",
@@ -457,7 +457,7 @@
       "content/posts/what-information-is.md": "fdbab5606789",
       "content/posts/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination.md": "5b3445380b1d",
       "content/posts/what-works-is-the-belief.md": "5d3c5becf051",
-      "content/posts/whatever-is-one-prompt-away.md": "45eaa8e917c4",
+      "content/posts/whatever-is-one-prompt-away.md": "51d373eda38d",
       "content/posts/when-abundance-looks-like-scarcity.md": "e9da391398e9",
       "content/posts/when-electrons-think.md": "828aea06a9d0",
       "content/posts/when-malfunction-is-scored-as-intelligence.md": "dfa53464d480",
@@ -498,10 +498,10 @@
     },
     "stats": {
       "posts": 471,
-      "edges": 14674,
-      "unique_directed": 7216,
+      "edges": 14682,
+      "unique_directed": 7220,
       "missing_targets": 0,
-      "one_way": 1682,
+      "one_way": 1678,
       "isolated": 0,
       "posts_with_outbound": 471,
       "book_pages": 16,
@@ -563,6 +563,10 @@
       "in_degree": 45
     },
     {
+      "slug": "the-reversal-of-verification",
+      "in_degree": 45
+    },
+    {
       "slug": "the-allocation-of-causal-power-in-validation",
       "in_degree": 43
     },
@@ -572,10 +576,6 @@
     },
     {
       "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "in_degree": 41
-    },
-    {
-      "slug": "the-reversal-of-verification",
       "in_degree": 41
     },
     {
@@ -4370,14 +4370,15 @@
       "slug": "judgment-is-not-a-stock",
       "path": "content/posts/judgment-is-not-a-stock.md",
       "title": "判断力不是可囤积的存量 / Judgment Is Not a Stock",
-      "hash": "6e02392bd145",
+      "hash": "b1cff2455d94",
       "in_degree": 12,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "the-scaffolding-we-forget",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "expertise-as-reference-not-replacement",
         "the-aesthetic-escalator-and-the-melancholy-of-the-balcony",
+        "the-reversal-of-verification",
         "the-tightening-loop",
         "the-density-of-judgment",
         "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
@@ -7979,9 +7980,9 @@
       "slug": "the-comment-is-not-the-code",
       "path": "content/posts/the-comment-is-not-the-code.md",
       "title": "注释不是代码 / The Comment Is Not the Code",
-      "hash": "2d48ce3cb037",
+      "hash": "2328fa9f9f97",
       "in_degree": 10,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "your-codebase-is-memory",
         "trusting-the-reader-is-the-last-overstep",
@@ -7994,6 +7995,7 @@
         "on-demand-contexts-keep-coherence-at-one-step",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "precision-and-resolution",
+        "the-reversal-of-verification",
         "continuous-learning-as-expression-and-simulation"
       ]
     },
@@ -8804,11 +8806,12 @@
       "slug": "the-frame-that-conceals-improvement",
       "path": "content/posts/the-frame-that-conceals-improvement.md",
       "title": "遮蔽进步的框架 / The Frame That Conceals Improvement",
-      "hash": "9a2ed736458d",
+      "hash": "bba2aee36db5",
       "in_degree": 8,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+        "the-reversal-of-verification",
         "dynamic-resnet-of-skill-loops",
         "hierarchy-from-individual-difference",
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -11394,7 +11397,7 @@
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
       "hash": "1b33f27dfc6f",
-      "in_degree": 41,
+      "in_degree": 45,
       "out_degree": 12,
       "links_out": [
         "openness-is-consistency",
@@ -12987,9 +12990,9 @@
       "slug": "whatever-is-one-prompt-away",
       "path": "content/posts/whatever-is-one-prompt-away.md",
       "title": "一个提示词之遥 / Whatever Is One Prompt Away",
-      "hash": "45eaa8e917c4",
+      "hash": "51d373eda38d",
       "in_degree": 22,
-      "out_degree": 23,
+      "out_degree": 24,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "the-scaffolding-we-forget",
@@ -13009,6 +13012,7 @@
         "beyond-the-projection",
         "your-codebase-is-memory",
         "production-consumption-and-the-minds-distinction",
+        "the-reversal-of-verification",
         "abstraction-boundaries-and-the-moving-edge-of-reality",
         "the-scaffolding-that-keeps-growing",
         "residual-control-recedes-to-the-edge",
@@ -39270,6 +39274,12 @@
     },
     {
       "from": "judgment-is-not-a-stock",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "judgment-is-not-a-stock",
       "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "rel": "points_to",
       "label": "The Real Scarcity Is Not Memory, But Continuous Re-Tracing"
@@ -39285,6 +39295,12 @@
       "to": "the-aesthetic-escalator-and-the-melancholy-of-the-balcony",
       "rel": "points_to",
       "label": "The Aesthetic Escalator and the Melancholy of the Balcony"
+    },
+    {
+      "from": "judgment-is-not-a-stock",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "judgment-is-not-a-stock",
@@ -64146,9 +64162,21 @@
     },
     {
       "from": "the-comment-is-not-the-code",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "the-comment-is-not-the-code",
       "to": "precision-and-resolution",
       "rel": "points_to",
       "label": "Precision and Resolution"
+    },
+    {
+      "from": "the-comment-is-not-the-code",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "the-comment-is-not-the-code",
@@ -69630,9 +69658,21 @@
     },
     {
       "from": "the-frame-that-conceals-improvement",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "the-frame-that-conceals-improvement",
       "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "rel": "points_to",
       "label": "The Distaste for “AI Slop” Is a Recurring Pattern"
+    },
+    {
+      "from": "the-frame-that-conceals-improvement",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "the-frame-that-conceals-improvement",
@@ -98193,6 +98233,18 @@
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
       "label": "Production, Consumption, and the Mind's Distinction"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "whatever-is-one-prompt-away",
