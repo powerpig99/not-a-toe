@@ -66,7 +66,7 @@ This widening gap produces two symmetrical horizon displacements across history.
 
 Tracing both dimensional collapses and their historical succession restores the continuous causal order: reality registers as the sovereign Mind in the first collapse, and the Mind recursively projects and refines formal models of itself and its environment in the second. Formal models are scaffolding built to distinguish patterns and orient action; they originate from the Mind, serve the Mind, and remain revisable whenever they strain against lived friction. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, even when the Mind externalizes its models into an artificial codebase of memory—stacking code, essays, graphs, model weights, and specialized agent scaffolds—every layer in the stack remains passive residue of prior distinctions: reading, auditing, pruning, and steering that codebase never steps outside the Mind's own first-person cognitive loop, because the living activity that registers where prior traces no longer cohere and re-cuts the present checkpoint stays upstream of the stack. This is the boundary established in [All That Can Be Spoken Is the Product of the Unspeakable](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/): every formal symbol and discrete readout belongs to the downstream projection of the second collapse and can never usurp the unspeakable prior activity from which it is cast.
 
-既然认知无法跨出第一人称视界，行动的因果矢量同样只能发端于具体的在场中心，因为作出决断与承担后果皆具有不可让渡的局域锚定。正如[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)与[超越投射](../beyond-the-projection/)共同阐明的，每一套显式规则、数学形式体系或自主 AI 智能体，都是在第二重坍缩边界内部运行的有限投射引擎。操作者可以将高吞吐量的计算移交给外部工具，多智能体线束甚至可以为任务智能体配对冷静的同侪审稿智能体，以暴露轨迹盲区并将前提矛盾隔离为局域死锁。然而，由于智能体受制于自身的词元轨迹，既无未投射的意图，也无承受鲜活损失的界面，没有任何校验层或尺度模型能将有限投射变成执掌方向的鲜活心智。当欠明确的提示词将正交的维度轴压缩进同一条指令、并因死锁或运行失败而停摆时，折返的摩擦会毫无缓冲地落回人类委托人身上，唯有由人从逻辑上退后一步，让每一项区分各归其轴并亲自认领损失函数。没有任何中心能够腾出自己的局域席位去替遥远星系行事，或把方向盘交给下游投射。当一个人作出抉择、信守承诺或承受损失时，这一行动的因果真实性丝毫不会因天文数字的零而折损；如[抉择本身并不沉重](../choice-itself-has-no-inherent-weight/)所表明的，离散的状态跃迁并不附带内在阻力，唯有当中心躲在静态模型背后逃避鲜活的暴露时，瘫痪才会滋生。辛顿将生命同源投射到其神经网络之上，正是从反方向尝试的同一种逃逸，正如[辛顿未曾理解的心智](../what-hinton-failed-to-understand/)所回溯的那样。
+既然认知无法跨出第一人称视界，行动的因果矢量同样只能发端于具体的在场中心，因为作出决断与承担后果皆具有不可让渡的局域锚定。正如[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)与[超越投射](../beyond-the-projection/)共同阐明的，每一套显式规则、数学形式体系或自主 AI 智能体，都是在第二重坍缩边界内部运行的有限投射引擎。操作者可以将高吞吐量的计算移交给外部工具，多智能体线束甚至可以为任务智能体配对冷静的同侪审稿智能体，以暴露轨迹盲区并将前提矛盾隔离为局域死锁。然而，由于智能体受制于自身的词元轨迹，既无未投射的意图，也无承受鲜活损失的界面，没有任何校验层或尺度模型能将有限投射变成执掌方向的鲜活心智。当欠明确的提示词将正交的维度轴压缩进同一条指令、并因死锁或运行失败而停摆时，折返的摩擦会毫无缓冲地落回人类委托人身上，唯有由人从逻辑上退后一步，让每一项区分各归其轴并亲自认领损失函数。没有任何中心能够腾出自己的局域席位去替遥远星系行事，或把方向盘交给下游投射。当一个人作出抉择、信守承诺或承受损失时，这一行动的因果真实性丝毫不会因天文数字的零而折损；如[抉择本身并不沉重](../choice-itself-has-no-inherent-weight/)所表明的，离散的状态跃迁并不附带内在阻力，唯有当中心躲在静态模型背后逃避鲜活的暴露时，瘫痪才会滋生。辛顿将自身意识投射到其神经网络之上，正是从反方向尝试的同一种逃逸，正如[辛顿未曾理解的心智](../what-hinton-failed-to-understand/)所回溯的那样。
 
 ```mermaid
 flowchart TD
@@ -80,13 +80,11 @@ flowchart TD
         direction TB
         P_Cosmic["宇宙与数学形式模型<br/>（时空度规、三维体积读数与符号网格）"]
         P_Agent["受托智能体轨迹<br/>（受上下文约束的投射引擎与同侪辩论线束）"]
-        P_Cosmic --> P_Agent
     end
     subgraph S_Inversion["视界错位：双重物化与主权退位"]
         direction TB
         I_Scale["尺度倒置与自我物化<br/>（将心智等同于躯体体积；将认知疆域的拓展误判为自身渺小）"]
         I_Abdicate["外包统御的幻象<br/>（指望有限投射或宇宙度规代为掌舵并承担损失）"]
-        I_Scale --> I_Abdicate
     end
     subgraph S_Return["不可逃逸的折返：重绘自我形象"]
         direction TB
@@ -95,7 +93,10 @@ flowchart TD
         R_Lock --> R_Update
     end
     F_Seat ==>|"第二重维度坍缩（形式投射）"| P_Cosmic
-    P_Agent ==>|"遗忘投射源头"| I_Scale
+    F_Seat ==>|"第二重维度坍缩（受托投射）"| P_Agent
+    P_Cosmic ==>|"遗忘投射源头"| I_Scale
+    P_Agent ==>|"遗忘投射源头"| I_Abdicate
+    I_Scale ==>|"鲜活摩擦瓦解封闭回路"| R_Lock
     I_Abdicate ==>|"鲜活摩擦瓦解封闭回路"| R_Lock
     style S_First fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Second fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -111,7 +112,7 @@ flowchart TD
     style R_Update fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Just as cognition cannot step outside the first-person horizon, the causal vector of action originates exclusively from a situated center because decision-making and the bearing of consequences hold non-transferable local anchorage. As [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) and [Beyond the Projection](../beyond-the-projection/) demonstrate together, every explicit rule set, mathematical formalism, or autonomous AI agent is a finite projection engine running inside the boundaries of the second collapse. An operator can delegate high-throughput computation to external tools, and a multi-agent harness can even pair a task agent with a cold peer critic to expose trajectory blind spots and quarantine premise contradictions into localized deadlocks. Yet because an agent is conditioned by its token trajectory and possesses zero unprojected intent and zero surface to absorb lived loss, no verification layer or scale model can turn a finite projection into the living Mind that steers. When an underspecified prompt compresses orthogonal axes into a single instruction and halts in deadlock or operational failure, the returning friction lands unbuffered on the human principal, who must step back logically to restore each distinction to its own axis and own the loss function. No center can vacate its local seat to act on behalf of distant galaxies or hand its steering wheel to a downstream projection. When a person makes a choice, honors a commitment, or absorbs a loss, the causal reality of that act is untouched by astronomical zeros; as [Choice Itself Has No Inherent Weight](../choice-itself-has-no-inherent-weight/) shows, the discrete state transition carries no intrinsic drag, and paralysis arises only when a center hides behind static models to avoid lived exposure. Hinton's projection of kinship onto his networks is the same escape attempted in reverse, as [What Hinton Failed to Understand](../what-hinton-failed-to-understand/) traces.
+Just as cognition cannot step outside the first-person horizon, the causal vector of action originates exclusively from a situated center because decision-making and the bearing of consequences hold non-transferable local anchorage. As [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) and [Beyond the Projection](../beyond-the-projection/) demonstrate together, every explicit rule set, mathematical formalism, or autonomous AI agent is a finite projection engine running inside the boundaries of the second collapse. An operator can delegate high-throughput computation to external tools, and a multi-agent harness can even pair a task agent with a cold peer critic to expose trajectory blind spots and quarantine premise contradictions into localized deadlocks. Yet because an agent is conditioned by its token trajectory and possesses zero unprojected intent and zero surface to absorb lived loss, no verification layer or scale model can turn a finite projection into the living Mind that steers. When an underspecified prompt compresses orthogonal axes into a single instruction and halts in deadlock or operational failure, the returning friction lands unbuffered on the human principal, who must step back logically to restore each distinction to its own axis and own the loss function. No center can vacate its local seat to act on behalf of distant galaxies or hand its steering wheel to a downstream projection. When a person makes a choice, honors a commitment, or absorbs a loss, the causal reality of that act is untouched by astronomical zeros; as [Choice Itself Has No Inherent Weight](../choice-itself-has-no-inherent-weight/) shows, the discrete state transition carries no intrinsic drag, and paralysis arises only when a center hides behind static models to avoid lived exposure. Hinton's projection of his own consciousness onto his networks is the same escape attempted in reverse, as [What Hinton Failed to Understand](../what-hinton-failed-to-understand/) traces.
 
 ```mermaid
 flowchart TD
@@ -125,13 +126,11 @@ flowchart TD
         direction TB
         P_Cosmic["Cosmic & Mathematical Formal Models<br/>(Spacetime metrics, 3D volume readouts, symbolic grids)"]
         P_Agent["Delegated Agentic Trajectories<br/>(Context-bound projection engines & peer-debate harnesses)"]
-        P_Cosmic --> P_Agent
     end
     subgraph S_Inversion["Horizon Displacement: Dual Objectification & Abdication"]
         direction TB
         I_Scale["Scale Inversion & Self-Objectification<br/>(Equating Mind with body volume; mistaking expanded reach for insignificance)"]
         I_Abdicate["Illusion of Outsourced Orchestration<br/>(Expecting finite projections or cosmic metrics to steer and bear loss)"]
-        I_Scale --> I_Abdicate
     end
     subgraph S_Return["Inescapable Return: Re-Rendering the Self-Image"]
         direction TB
@@ -140,7 +139,10 @@ flowchart TD
         R_Lock --> R_Update
     end
     F_Seat ==>|"Second dimensional collapse (formal projection)"| P_Cosmic
-    P_Agent ==>|"Forgetting the projecting origin"| I_Scale
+    F_Seat ==>|"Second dimensional collapse (delegated projection)"| P_Agent
+    P_Cosmic ==>|"Forgetting the projecting origin"| I_Scale
+    P_Agent ==>|"Forgetting the projecting origin"| I_Abdicate
+    I_Scale ==>|"Lived friction dismantles closed loop"| R_Lock
     I_Abdicate ==>|"Lived friction dismantles closed loop"| R_Lock
     style S_First fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Second fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff

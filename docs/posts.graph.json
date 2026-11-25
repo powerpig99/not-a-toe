@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-25T20:47:31.130Z",
+    "generated_at": "2026-11-25T21:10:34.343Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -21,7 +21,7 @@
       "content/posts/agency-and-the-pattern.md": "b02ee5b125ec",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "ae5b6e28af81",
       "content/posts/agency-contradiction-and-the-relocation-of-power.md": "275043c4033b",
-      "content/posts/agency-does-not-arise.md": "9b991f48fb54",
+      "content/posts/agency-does-not-arise.md": "9408ef08d93f",
       "content/posts/agency-relocated-into-the-formal-model.md": "3e1fa31e14a3",
       "content/posts/agents_leia_ontological_clarity.md": "c9f0ffd4dcee",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "c3f1f84df152",
@@ -176,7 +176,7 @@
       "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "a6f6e3dbca2b",
       "content/posts/on-education.md": "2506ab652440",
       "content/posts/on-the-boundaries-of-what-can-be-said-about-p-and-np.md": "8ca0fa7b48c9",
-      "content/posts/one-cannot-escape-ones-own-mind.md": "877b74ed6906",
+      "content/posts/one-cannot-escape-ones-own-mind.md": "071fb6ec2fe6",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "9c5c682f7464",
       "content/posts/only-if-it-is-not-kept-empty.md": "0ca65862b0fc",
       "content/posts/ontos-is-a-method-agent.md": "4224657b580a",
@@ -229,7 +229,7 @@
       "content/posts/sowell-observed-the-surface-problem.md": "2e05a3324cf6",
       "content/posts/stability-and-excess.md": "3716de403f10",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "850d1dfdfbc2",
-      "content/posts/subtracting-consciousness-at-the-source.md": "c22f8e53625a",
+      "content/posts/subtracting-consciousness-at-the-source.md": "755f983f64a4",
       "content/posts/successive-reading-and-the-negotiated-boundary-of-language.md": "cc20006213a8",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "e20330f1108c",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "1c779f9f8528",
@@ -309,7 +309,7 @@
       "content/posts/the-generative-topology-of-free-variables.md": "ac9ed94f924d",
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "5dd6c762a993",
       "content/posts/the-geometry-of-emergence.md": "c9919c5ca265",
-      "content/posts/the-geometry-of-mind.md": "6c2c9b3f9747",
+      "content/posts/the-geometry-of-mind.md": "8ce4b596dcc9",
       "content/posts/the-geometry-of-success.md": "7e595bd2dce9",
       "content/posts/the-geometry-of-the-cut.md": "1fc2cc0a5e0c",
       "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "2cb811198b30",
@@ -321,7 +321,7 @@
       "content/posts/the-illusion-of-free-intelligence.md": "c37832b57b84",
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "28d2c9ecb890",
       "content/posts/the-illusion-of-multi-agent-collaboration.md": "861aa47fe3ce",
-      "content/posts/the-illusion-of-the-shared-sandbox.md": "bc033de6677c",
+      "content/posts/the-illusion-of-the-shared-sandbox.md": "7ee1a3a906bf",
       "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "5fcb9da98a3d",
       "content/posts/the-illusion-of-the-unmediated.md": "6167af604584",
       "content/posts/the-imagining-of-ai-risk.md": "94a3c0af210d",
@@ -405,7 +405,7 @@
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "784859b75696",
       "content/posts/the-scaffolding-we-forget.md": "c1628ffd356a",
       "content/posts/the-scaling-loop.md": "048ddcc8bb43",
-      "content/posts/the-self-portrait-in-the-projection.md": "a51b01b918a2",
+      "content/posts/the-self-portrait-in-the-projection.md": "6424b0173770",
       "content/posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts.md": "44b7bf380730",
       "content/posts/the-shadow-and-the-infinite.md": "53e82672e13d",
       "content/posts/the-shadow-has-no-loss.md": "a936fb748b1a",
@@ -498,10 +498,10 @@
     },
     "stats": {
       "posts": 471,
-      "edges": 14682,
-      "unique_directed": 7220,
+      "edges": 14684,
+      "unique_directed": 7221,
       "missing_targets": 0,
-      "one_way": 1678,
+      "one_way": 1679,
       "isolated": 0,
       "posts_with_outbound": 471,
       "book_pages": 16,
@@ -1067,7 +1067,7 @@
       "slug": "agency-does-not-arise",
       "path": "content/posts/agency-does-not-arise.md",
       "title": "主体性不曾涌现 / Agency Does Not Arise",
-      "hash": "9b991f48fb54",
+      "hash": "9408ef08d93f",
       "in_degree": 21,
       "out_degree": 20,
       "links_out": [
@@ -5396,7 +5396,7 @@
       "slug": "one-cannot-escape-ones-own-mind",
       "path": "content/posts/one-cannot-escape-ones-own-mind.md",
       "title": "无法逃逸的心智视界 / One Cannot Escape One's Own Mind",
-      "hash": "877b74ed6906",
+      "hash": "071fb6ec2fe6",
       "in_degree": 16,
       "out_degree": 20,
       "links_out": [
@@ -6953,7 +6953,7 @@
       "slug": "subtracting-consciousness-at-the-source",
       "path": "content/posts/subtracting-consciousness-at-the-source.md",
       "title": "集聚与人造主体性 / Collective and Artificial Subjectivity",
-      "hash": "c22f8e53625a",
+      "hash": "755f983f64a4",
       "in_degree": 15,
       "out_degree": 15,
       "links_out": [
@@ -9126,7 +9126,7 @@
       "slug": "the-geometry-of-mind",
       "path": "content/posts/the-geometry-of-mind.md",
       "title": "心智的几何学 / The Geometry of Mind",
-      "hash": "6c2c9b3f9747",
+      "hash": "8ce4b596dcc9",
       "in_degree": 21,
       "out_degree": 23,
       "links_out": [
@@ -9428,9 +9428,9 @@
       "slug": "the-illusion-of-the-shared-sandbox",
       "path": "content/posts/the-illusion-of-the-shared-sandbox.md",
       "title": "共享沙盒的幻象 / The Illusion of the Shared Sandbox",
-      "hash": "bc033de6677c",
+      "hash": "7ee1a3a906bf",
       "in_degree": 13,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "the-causal-inversion-of-partnership",
         "the-twin-paradox-and-the-hidden-observer",
@@ -9440,6 +9440,7 @@
         "demanding-a-toe-freezes-time-into-a-catalog",
         "your-codebase-is-memory",
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
+        "the-shadow-and-the-infinite",
         "the-black-and-white-sample-frame-and-the-extrapolated-universe",
         "the-residue-and-the-free-variable"
       ]
@@ -11649,7 +11650,7 @@
       "slug": "the-self-portrait-in-the-projection",
       "path": "content/posts/the-self-portrait-in-the-projection.md",
       "title": "投射中的自画像 / The Self-Portrait in the Projection",
-      "hash": "a51b01b918a2",
+      "hash": "6424b0173770",
       "in_degree": 9,
       "out_degree": 10,
       "links_out": [
@@ -11695,7 +11696,7 @@
       "path": "content/posts/the-shadow-and-the-infinite.md",
       "title": "阴影与无限 / The Shadow and the Infinite",
       "hash": "53e82672e13d",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 9,
       "links_out": [
         "your-codebase-is-memory",
@@ -73666,6 +73667,12 @@
     },
     {
       "from": "the-illusion-of-the-shared-sandbox",
+      "to": "the-shadow-and-the-infinite",
+      "rel": "points_to",
+      "label": "阴影与无限"
+    },
+    {
+      "from": "the-illusion-of-the-shared-sandbox",
       "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "rel": "points_to",
       "label": "黑白采样帧与外推宇宙"
@@ -73675,6 +73682,12 @@
       "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "rel": "points_to",
       "label": "Determinism is the Statistical Signature of Micro-Indeterminism"
+    },
+    {
+      "from": "the-illusion-of-the-shared-sandbox",
+      "to": "the-shadow-and-the-infinite",
+      "rel": "points_to",
+      "label": "The Shadow and the Infinite"
     },
     {
       "from": "the-illusion-of-the-shared-sandbox",
