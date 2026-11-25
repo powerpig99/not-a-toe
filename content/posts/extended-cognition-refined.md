@@ -16,12 +16,13 @@ In the classic thought experiment, Otto consults his notebook constantly—updat
 
 ```mermaid
 flowchart TD
-    subgraph S_Coupling["主动耦合与边界投射"]
+    subgraph S_Coupling["持续的主动耦合"]
         direction TB
         Mind["活生生的心智：持续发起区分与主动耦合的源头"]
         Tool["外在认知器物：可重塑、可拆卸的笔记本、模型与代码库"]
-        Bound["边界投射选择：紧贴生物个体则显疏离，放宽包裹则显延伸"]
-        Mind --> Tool --> Bound
+        Coupling["主动耦合回路：持续延伸仅在耦合期间存续，从不融合身份"]
+        Mind -->|"发起并驾驭"| Coupling
+        Tool -.->|"可拆卸痕迹参与耦合"| Coupling
     end
     subgraph S_Align["方向对齐与由此产生的容量"]
         direction TB
@@ -29,13 +30,13 @@ flowchart TD
         Target["对准问题求解 (+1)：在紧密耦合下扩展容量与触及范围"]
         Comfort -.->|"在摩擦下重定耦合方向"| Target
     end
-    Bound ==>|"对准舒适与熟悉"| Comfort
-    Bound ==>|"对准当下的问题求解"| Target
+    Coupling ==>|"对准舒适与熟悉"| Comfort
+    Coupling ==>|"对准当下的问题求解"| Target
     style S_Coupling fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Align fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Mind fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Tool fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Bound fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Coupling fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style Comfort fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Target fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
@@ -44,12 +45,13 @@ Cognitive coupling is already underway before any new tool arrives: people coupl
 
 ```mermaid
 flowchart TD
-    subgraph S_Coupling["Active Coupling and Boundary Projection"]
+    subgraph S_Coupling["Ongoing Active Coupling"]
         direction TB
         Mind["Living Mind: Source of ongoing distinction and active coupling"]
         Tool["External Cognitive Artifact: Reshapeable, detachable notebook, model, and codebase"]
-        Bound["Boundary Projection Choice: Tight around biology yields alienation, wide yields extension"]
-        Mind --> Tool --> Bound
+        Coupling["Active Coupling Loop: Ongoing extension persisting only while coupled, never merging identity"]
+        Mind -->|"Initiates and steers"| Coupling
+        Tool -.->|"Detachable traces engaged in coupling"| Coupling
     end
     subgraph S_Align["Directional Alignment and Resulting Capacity"]
         direction TB
@@ -57,13 +59,13 @@ flowchart TD
         Target["Aligned to Problem Resolution (+1): Expands capacity and reach under tight coupling"]
         Comfort -.->|"Re-orient coupling under friction"| Target
     end
-    Bound ==>|"Aligned to comfort and familiarity"| Comfort
-    Bound ==>|"Aligned to live problem resolution"| Target
+    Coupling ==>|"Aligned to comfort and familiarity"| Comfort
+    Coupling ==>|"Aligned to live problem resolution"| Target
     style S_Coupling fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Align fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Mind fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Tool fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Bound fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Coupling fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style Comfort fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Target fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
