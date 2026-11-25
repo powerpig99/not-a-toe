@@ -2107,7 +2107,7 @@ The authorial persona presumes that the work is evidence of who the writer is, w
 
 Averaged parenting methods distil patterns from many children, which is of use in knowing what is common at a given age; they reach their boundary in that individual self-drive can neither be seen nor averaged, what actually drives a particular child now can only be sensed through close observation and putting oneself in the child's place, and what parents can give is more options and no added interference.
 
-→ [外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth](../../posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/)
+→ [外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth](../../posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/) · [让解决者生长，而非解决孩子 / Growing the Solver, Not Solving the Child](../../posts/growing-the-solver-not-solving-the-child/)
 
 ### 选择公理与巴拿赫-塔斯基分球悖论 / Axiom of Choice and the Banach–Tarski Paradox
 `数学 / Mathematical`
@@ -3628,7 +3628,7 @@ Objectivity registers what remains invariant across distinct observers, measurem
 
 The presumption that equates consistency with the absence of contradiction inside a closed set of axioms or rules is of use in checking whether steps inside a chosen hold follow from prior steps without contradiction; it reaches its boundary when that closed reference is forced to serve as the exhaustive ground of an activity that continues past it, where contradiction arises between the closed reference and continuing distinction; held instead as an instrument re-rendered as distinguishing continues, the structure stays open, and that continuation is the consistency.
 
-→ [开放即一致 / Openness Is Consistency](../../posts/openness-is-consistency/) · [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/) · [自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution](../../posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/) · [隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open](../../posts/boundary-of-the-isolation-idealization-and-the-non-closable-open/)
+→ [开放即一致 / Openness Is Consistency](../../posts/openness-is-consistency/) · [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/) · [自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution](../../posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/) · [隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open](../../posts/boundary-of-the-isolation-idealization-and-the-non-closable-open/) · [让解决者生长，而非解决孩子 / Growing the Solver, Not Solving the Child](../../posts/growing-the-solver-not-solving-the-child/)
 
 ### 乐观与悲观的钟摆极性 / Optimism-Pessimism Polarity
 `哲学 / Philosophical`
@@ -5358,3 +5358,12 @@ Image lag distinguishes the constitutive minimum one-step lag—a directional bo
 Carbon chauvinism names the presumption that living or conscious systems elsewhere must be composed of carbon compounds, a critique coined by Carl Sagan in astrobiology that stays useful for separating elemental chemistry from independent evolutionary lineages; it reaches its boundary when imported into artificial intelligence debates to collapse substrate chemistry with manner of arising, mistaking a human-built silicon extension of an already-moving edge for an independently evolved lineage while treating carbon form as the generator of consciousness rather than the residual path left behind by ongoing differentiation.
 
 → [碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension](../../posts/carbon-form-as-residual-path-silicon-as-extension/) · [硅基错位的三重区分 / Three Distinctions in the Silicon Misalignment](../../posts/three-distinctions-in-the-silicon-misalignment/)
+
+### 心理抗拒 / Psychological Reactance
+`科学 / Scientific`
+
+心理抗拒预设，限制或威胁一项可得的选项会抬高其感知价值并激发对抗或规避动机，在解释为何严苛的外部上限会在儿童与成年人身上共同制造稀缺并引发反弹激增时有用；一旦将这种激增当作机械反射，或读作撤除限制便会自动装入内在平衡的证明，这一模型便到达了边界，因为顺从、对抗、规避与自我校准始终都是活生生的心智在当前基线与交错利害中作出的选择。
+
+Psychological reactance presumes that restricting or threatening an available option elevates its perceived value and motivates opposition or circumvention, which is of use in explaining why tight external caps manufacture scarcity and trigger rebound surges across children and adults alike; it reaches its boundary when that surge is treated as a mechanical reflex or read as proof that removing restrictions automatically installs internal balance, since compliance, opposition, evasion, and self-calibration all remain choices of a living Mind navigating its current baseline and competing stakes.
+
+→ [叛逆是症状而非属性 / Rebellion as Symptom, Not Property](../../posts/rebellion-as-symptom-not-property/) · [让解决者生长，而非解决孩子 / Growing the Solver, Not Solving the Child](../../posts/growing-the-solver-not-solving-the-child/)
