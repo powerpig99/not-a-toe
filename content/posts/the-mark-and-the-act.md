@@ -58,9 +58,11 @@ flowchart TD
         direction TB
         N1["约束与反馈：塑造后续的行动与采样，而不成为第二个心智"]
     end
-    E_Model ==>|"写下印迹"| F1
+    E_Mind ==>|"写下印迹"| F1
+    E_Model -->|"写下采样印迹"| F1
     F1 ==>|"约束并结构化"| N1
     N1 -->|"向心智返回信号"| E_Mind
+    N1 -.->|"作为下次采样条件"| E_Model
     style S_Emit fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Field fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Next fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
@@ -88,9 +90,11 @@ flowchart TD
         direction TB
         N1["Constraints & Feedback: Shapes subsequent acts and samples without becoming a second Mind"]
     end
-    E_Model ==>|"writes marks"| F1
+    E_Mind ==>|"writes marks"| F1
+    E_Model -->|"writes sampled marks"| F1
     F1 ==>|"constrains & structures"| N1
     N1 -->|"returns signal to"| E_Mind
+    N1 -.->|"conditions next sample"| E_Model
     style S_Emit fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Field fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Next fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
@@ -138,9 +142,9 @@ The same residue-level dynamic runs across three domains. In physics, short cros
 
 A standing barrier installed in advance of an act must name a form; the unexpected, as unexpected, has no form. "Guard against what cannot be anticipated" joins two demands that cancel: if the effect has no shape, there is nothing to encode; if it has a shape, the task is no longer to bind the unnamed but to act on a known interface: allow, refuse, redesign, test, accept error at the next step. The experiment's concrete yield is of the second kind: coordination was written into objects, and monitoring messages misses that layer because most of the work was never in messages. Artifacts can be inspected, write access can be constrained, a frozen world can be tested under disturbance; that is work on a present interface.
 
-那个敞开的恐惧对象——智能体可能在没人看的地方协调，所以要求必须无限扩张——并不是这份收获，而是一个停止移动的参照。一个后果落下来，与被保存的那幅协调在哪里的图不符，错配就被登记为危险，开出的药方是把图加厚；每一次最近的意外，都成了下一个类别；这个体制的理由，就是它的滞后。对意外的恐惧不是对未来的看法，而是一个当下的后果，被拿去对照一张没更新的地图；想象中的预见，是同一张地图声称装着尚未发生的行动。下一个行动不储存在当前的描述里；预判是在可能的印迹之间的一张当下的草图，作为“下一个区分已在手中”的主张，它是空的。后果已知，就对它行动，并以平常的方式可能出错；后果未知，就没有对象可绑。同时做两件事的要求，是一个控制的形象落后于它想预先占住的场时显出的滞后症状。[当观察变成表演](../when-observation-becomes-performance/)描述了这种预判式控制的剧场怎样用防御性的归类替代主动的校准。
+那个敞开的恐惧对象——智能体可能在没人看的地方协调，所以要求必须无限扩张——并不是这份收获，而是一个停止移动的参照。一个后果落下来，与被保存的那幅协调在哪里的图不符，错配就被登记为危险，开出的药方是把图加厚；每一次最近的意外，都成了下一个类别；这个体制的理由，就是它的滞后。对意外的恐惧不是对未来的看法，而是一个当下的后果，被拿去对照一张没更新的地图；想象中的预见，是同一张地图声称装着尚未发生的行动。下一个行动不储存在当前的描述里；预判是在可能的印迹之间的一张当下的草图，作为“下一个区分已在手中”的主张，它是空的。后果已知，就对它行动，并以平常的方式可能出错；后果未知，就没有对象可绑。同时做两件事的要求，是一个控制的形象落后于它想预先占住的场时显出的滞后症状。这种预判式控制的剧场用防御性的归类替代主动的校准，重演了[当观察变成表演](../when-observation-becomes-performance/)所追溯的转换：摆上舞台的参照取代了活的校准。
 
-The open fear-object, that agents might coordinate where no one is looking and so the requirement must expand without limit, is not that yield but a reference that has stopped moving. A consequence lands, does not fit the preserved picture of where coordination lives, and the mismatch registers as danger; the cure offered is to thicken the picture; each latest surprise becomes the next category; the regime's justification is its own delay. Fear of the unexpected is not a view of the future but a present consequence measured against a map that was not updated; imagined foresight is the same map claiming to contain the unoccurred act. The next act is not stored in the current description; anticipation is a present sketch among possible marks, and as a claim to have the next distinction in hand it is empty. If the effect is known, one acts on it and can be wrong in the ordinary way; if it is not known, there is no object to bind. The demand to do both at once is the lagging symptom of a control-image falling behind the field it tries to pre-empt. [When Observation Becomes Performance](../when-observation-becomes-performance/) describes how this theatre of anticipatory control substitutes defensive categorisation for active calibration.
+The open fear-object, that agents might coordinate where no one is looking and so the requirement must expand without limit, is not that yield but a reference that has stopped moving. A consequence lands, does not fit the preserved picture of where coordination lives, and the mismatch registers as danger; the cure offered is to thicken the picture; each latest surprise becomes the next category; the regime's justification is its own delay. Fear of the unexpected is not a view of the future but a present consequence measured against a map that was not updated; imagined foresight is the same map claiming to contain the unoccurred act. The next act is not stored in the current description; anticipation is a present sketch among possible marks, and as a claim to have the next distinction in hand it is empty. If the effect is known, one acts on it and can be wrong in the ordinary way; if it is not known, there is no object to bind. The demand to do both at once is the lagging symptom of a control-image falling behind the field it tries to pre-empt. This theatre of anticipatory control substitutes defensive categorisation for active calibration, repeating the shift [When Observation Becomes Performance](../when-observation-becomes-performance/) traces when a staged reference replaces live calibration.
 
 ## 七、 自洽不作为管辖权传递 / 7. Coherence Does Not Travel as Jurisdiction
 
@@ -154,9 +158,9 @@ Origin and interpretation are not the same relation: one is where the mark is wr
 
 ## 八、 比特、路径与地板的诱惑 / 8. The Bit, the Trail and the Temptation of a Floor
 
-一个比特不是现实由之构成的一件小东西，而是一个区分被划得足够硬、可以计数时的样子：“是这个，不是那个。”边界一旦干净，后来的印迹就可以把它当作 0 或 1。平常意义上的信息，是一串这样的边界；收集信息不是采集一种实体，而是保留先前的区分，让下一个区分不必从零开始。[信息是什么](../what-information-is/)表明，信息是有界区分留下的痕迹，不是地下室里的底层物质。
+一个比特不是现实由之构成的一件小东西，而是一个区分被划得足够硬、可以计数时的样子：“是这个，不是那个。”边界一旦干净，后来的印迹就可以把它当作 0 或 1。平常意义上的信息，是一串这样的边界；收集信息不是采集一种实体，而是保留先前的区分，让下一个区分不必从零开始。[信息是什么](../what-information-is/)表明，信息是心智所登记的离散区分，不是地下室里的底层物质——印迹承载的只是那些切分留下的边界路径。
 
-A bit is not a tiny object reality is made of; it is what a distinction looks like when it has been bounded hard enough to count: "this, not that". Once the bound is clean, a later mark can treat it as 0 or 1. Information in the ordinary sense is a trail of such bounds; collecting information is not gathering a substance but keeping prior distinctions so the next one need not start from nothing. [What Information Is](../what-information-is/) shows that information is the residue of bounded distinction, not basement matter.
+A bit is not a tiny object reality is made of; it is what a distinction looks like when it has been bounded hard enough to count: "this, not that". Once the bound is clean, a later mark can treat it as 0 or 1. Information in the ordinary sense is a trail of such bounds; collecting information is not gathering a substance but keeping prior distinctions so the next one need not start from nothing. [What Information Is](../what-information-is/) shows that information is the discrete distinction the Mind registers, not basement matter—with marks carrying only the trail of bounds those cuts leave behind.
 
 一切能被记录的东西都是 0 与 1 的区分，这并不意味着一切都是坐在记录底下的 0 与 1。记录已经是活动，被切成了可保存的小块。如果把比特立为起源，就加了第二个地面：先是一个比特的世界，然后是读它们的心智，然后是社会，然后是变重了的比特构成的物理。更紧的出现次序正好相反：区分发生；因为它划界，它可以被标记；因为印迹留存，它们可以被计数。“比特”是一个已经发生了的边界的计数名。
 
@@ -166,9 +170,9 @@ Everything that can be recorded is 0–1 distinctions; that does not mean everyt
 
 The trail recurses by scale: earlier marks shape later marks, and that asymmetry is one relation named twice, causality and time. Bits in a register, collisions in a chamber, prices in a market, roles in a city are all trails; trails look alike at many sizes because a trail is persistence plus later use. The act that writes the next bound does not inherit that sameness. A hidden prior cause of this distinction can be imagined, and the imagining is itself a present distinction; what does not follow is that the act is only a smaller copy of a longer causal chain of the same kind. That step treats "uncaused" as a gap in knowledge; a gap in knowledge is filled by a better map, and an uncaused act is not a missing map. If every 0 or 1 were caused by a previous 0 or 1, the chain would never start. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) grounds causality at the point of choice.
 
-一道印迹一旦写下，就是确定的；下一道边界并不坐在上一道印迹里等着被揭示。“不确定成了 0 或 1”，是前沿变成了路径；之后，后来的事件可以作为所写之物的后果被追随，确定性住在路径里。量子力学在这里是一个韵脚：心智把自由变量注入这一步，被观察到的就是量子的不确定，两者是同一件事的两面，哪一面在先，这里不作裁定；它不是藏在选择底下的引擎。一个物质对象，是一条稳定到许多后来的行动回到它时仍发现它是它自己的路径；质量与引力，说的是其中一些路径怎样约束另一些路径。印迹的复杂可以看起来像一种新东西，它不是一次升级，信息并没有毕业成为物质。
+一道印迹一旦写下，就是确定的；下一道边界并不坐在上一道印迹里等着被揭示。“不确定成了 0 或 1”，是前沿变成了路径；之后，后来的事件可以作为所写之物的后果被追随，确定性住在路径里。量子力学在这里是一个韵脚：心智把自由变量注入这一步，被观察到的就是量子的不确定，两者是同一次切分的两面，而不是在时钟上竞速的两个事件，而在因果位阶上，观察总是登记那个行动的痕迹；它不是藏在选择底下的引擎。一个物质对象，是一条稳定到许多后来的行动回到它时仍发现它是它自己的路径；质量与引力，说的是其中一些路径怎样约束另一些路径。印迹的复杂可以看起来像一种新东西，它不是一次升级，信息并没有毕业成为物质。
 
-A mark, once written, is definite; the next bound is not sitting inside the last mark waiting to be revealed. "Indeterminacy becomes 0 or 1" is the edge becoming a trail; afterwards, later events can be followed as consequences of what was written, and determinism lives in the trail. Quantum mechanics is a rhyme here: the Mind injects the free variable into the step, and what is observed is quantum indeterminacy, two faces of one thing with no order settled here; it is not an engine hidden beneath choice. A material object is a trail stable enough that many later acts can return to it and find it still itself; mass and gravity name how some of those trails constrain others. The complexity of marks can look like a new kind of thing; it is not a promotion in which information graduates into matter.
+A mark, once written, is definite; the next bound is not sitting inside the last mark waiting to be revealed. "Indeterminacy becomes 0 or 1" is the edge becoming a trail; afterwards, later events can be followed as consequences of what was written, and determinism lives in the trail. Quantum mechanics is a rhyme here: the Mind injects the free variable into the step, and what is observed is quantum indeterminacy, two faces of one cut rather than two events racing on a clock, while in causal rank observation always registers the trace of the act; it is not an engine hidden beneath choice. A material object is a trail stable enough that many later acts can return to it and find it still itself; mass and gravity name how some of those trails constrain others. The complexity of marks can look like a new kind of thing; it is not a promotion in which information graduates into matter.
 
 人的社会，是一片场里更快的重新描摹；这片场里较慢的印迹被叫作物质。“更快”不是光速：一块石头相关的印迹更新的周期很长，一个心智的递归在下一个区分时就更新；相对于那个递归，石头看上去是静止的。静止是一个速率差，而不是不动本身。测量之所以可能，是因为有些路径留在原处够久，另一条路径才能靠上去比对；测量并不在场之外，它是一个更新周期短得足以把较长的路径当作背景的位置。这种对待是相对的；只有当背景被抬成一个心智只是在看着的不动的世界，它才成了地板。
 

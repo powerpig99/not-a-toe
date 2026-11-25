@@ -58,15 +58,15 @@ Unfortunately and fortunately, everything starts with the mind, stays within the
 
 不幸的是，第一人称界面无法撤销，因果责任不可转让。心智无法跳出自身的界面去占据一个脱离观察者的全知视角；所有的恐惧、焦虑与内在动荡，都是在自身画布中回响的投影。没有任何终极理论或外部权威能够替人活完一生；哪怕是盲目的臣服，依然是这个心智在当下亲手执行的选择。
 
-Unfortunately, the first-person interface is irrevocable and causal responsibility cannot be transferred. The mind cannot step outside its own interface to attain an unobserved, omniscient vantage point; all dread, anxiety, and inner turmoil are projections reverberating within its own canvas. No ultimate theory or external authority can live a life on one's behalf; even blind surrender remains a choice executed by this mind in the immediate present.
+Unfortunately, the first-person interface is irrevocable and causal responsibility cannot be transferred. The mind cannot step outside its own interface to attain an observer-free, omniscient vantage point; all dread, anxiety, and inner turmoil are projections reverberating within its own canvas. No ultimate theory or external authority can live a life on one's behalf; even blind surrender remains a choice executed by this mind in the immediate present.
 
 万幸的是，正因为一切始于心智并留于心智，主权便握在自己手中。正如 [现实的边界](../xian-shi-de-bian-jie/) 与 [个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 所呈现的：既然概念的藩篱与心造的牢笼仅由心智自身的投影所维系，一旦不再向概念的暗影下跪，心智便在当下重获自由。
 
 Fortunately, because everything starts and remains within the mind, sovereignty rests in one's own hands. As shown in [The Boundary of Reality](../xian-shi-de-bian-jie/) and [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/), since conceptual barriers and mental cages are sustained solely by the mind's own projections, the moment one stops kneeling before conceptual shadows, the mind reclaims its freedom in the immediate present.
 
-一切认知上的不连贯，皆由将第一人称视角与因果割裂所制造：要么想象一种脱离观察者的客观机械，落入决定论与封闭的万物之理；要么想象一种脱离物理摩擦的主观意志，落入唯我论与元情绪的内耗。一旦将二者作为一体持守，连贯性便在当下自行恢复。[宏观现象的生成图谱](../the-generative-atlas-of-macroscopic-phenomena/) 描绘了这同一条因果如何从量子、比特一直贯通到人的抉择。
+一切认知上的不连贯，皆由将第一人称视角与因果割裂所制造：要么想象一种脱离观察者的客观机械，落入决定论与封闭的万物之理；要么想象一种脱离物理摩擦的主观意志，落入唯我论与元情绪的内耗。一旦将二者作为一体持守，连贯性便在当下自行恢复。[宏观现象的生成图谱](../the-generative-atlas-of-macroscopic-phenomena/) 描绘了这同一条因果如何贯通量子不确定性、人的抉择，以及由人选定的比特逻辑。
 
-All incoherence is created by the separation of the first-person perspective from causality: either imagining an objective mechanism devoid of an observer, falling into determinism and a closed Theory of Everything; or imagining a subjective will unmoored from physical friction, falling into solipsism and meta-emotional turmoil. Once held as one, coherence restores itself in the immediate present. [The Generative Atlas of Macroscopic Phenomena](../the-generative-atlas-of-macroscopic-phenomena/) maps how this one causality runs from quantum to bit to human choice.
+All incoherence is created by the separation of the first-person perspective from causality: either imagining an objective mechanism devoid of an observer, falling into determinism and a closed Theory of Everything; or imagining a subjective will unmoored from physical friction, falling into solipsism and meta-emotional turmoil. Once held as one, coherence restores itself in the immediate present. [The Generative Atlas of Macroscopic Phenomena](../the-generative-atlas-of-macroscopic-phenomena/) maps how this one causality spans quantum indeterminacy, human choice, and human-chosen bit logic.
 
 ## 四、 纸面上的 1+1 与现实中的 +1 / 4. The Formula 1 + 1 = 2 vs. The Physical Act +1
 
