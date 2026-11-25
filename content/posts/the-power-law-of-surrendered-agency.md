@@ -242,11 +242,11 @@ flowchart TD
 
 A center is a node in a network. No position is found there that bears consequences on anyone's behalf. This brings out an asymmetry in handing sovereignty over: a decision can be given to the center, and the consequences of action are still borne by the individual at the origin. When centralized planning wrecks an economy, it is particular bodies that go hungry. When the instructions of an algorithm lead attention into decline, it is a particular Mind that bears it.
 
-这种不对称说明，让渡主权换不来“安全”。把责任推给外部，现实的反冲并不减轻，输入与输出之间的因果链条倒被割开，在挫折里学习的通道也随之关闭。
+这种不对称说明，让渡主权换不来“安全”。把责任推给外部，现实的反冲并不减轻；被割开的倒是将输出传回自身输入的反馈回路，在挫折里学习的通道也随之关闭。
 
-This asymmetry shows that handing sovereignty over does not buy "safety." With responsibility pushed outside, the recoil of reality is no lighter, the causal chain between input and output is cut instead, and the channel for learning within setbacks closes with it.
+This asymmetry shows that handing sovereignty over does not buy "safety." With responsibility pushed outside, the recoil of reality is no lighter; what is cut instead is the feedback loop returning output to one's own input, and the channel for learning within setbacks closes with it.
 
-切入点在自身的第一人称原点上：对处境承担全部的结构性责任，把自己在其中的每一次让渡，包括让所受的操纵与欺骗得以左右自己行动的那几次，都认作自己的抉择。代价可以极重，这份重量并不因这样的认领而减轻，认领所改变的是回路：归因全部收回的那一刻，代价便不再是“别无他选”的理由，重新成为标在看得见的其他选项上的价格，行动与反馈之间的误差信号重新接通，学习的曲线重新变陡。人口统计只在事后记下这种让渡，行动发生在第一人称的收益差中，[观察的因果僭越与第一人称的收益差](../the-causal-overstep-of-observation-and-the-first-person-surplus/)说明了这一点；与外部中枢一致的群体模式是过往抉择留下的记录，不是剥夺能动性、替人定下下一次决定的力量，这正是[能动性与模式](../agency-and-the-pattern/)所追溯的。
+切入点在自身的第一人称原点上：对处境承担全部的结构性责任，把自己在其中的每一次让渡，包括让所受的操纵与欺骗得以左右自己行动的那几次，都认作自己的抉择。代价可以极重，这份重量并不因这样的认领而减轻，认领所改变的是回路：归因全部收回的那一刻，代价便不再是“别无他选”的理由，重新成为标在看得见的其他选项上的价格，行动与反馈之间的误差信号重新接通，学习的曲线重新变陡。群体统计只在事后记下这种让渡，行动发生在第一人称的收益差中，[观察的因果僭越与第一人称的收益差](../the-causal-overstep-of-observation-and-the-first-person-surplus/)说明了这一点；与外部中枢一致的群体模式是过往抉择留下的记录，不是剥夺能动性、替人定下下一次决定的力量，这正是[能动性与模式](../agency-and-the-pattern/)所追溯的。
 
 ```mermaid
 flowchart TD

@@ -12,9 +12,9 @@ To get through the haze woven layer upon layer from concepts and symbols means r
 
 ## 一、 形式逻辑与数学：静态的切片 / 1. Formal Logic and Mathematics: Static Slices
 
-人引以为傲的科学体系，不是对现实的直接复刻，而是一套不断叠加人为公理假设、以换取局部度量能力的符号工具箱。形式逻辑之所以严禁自相矛盾，是因为它先验地抽掉了时间维度，把动态演化的现实压平成一个静态的命题空间；而在离散推进的因果递归里，一切区分都依赖时间的不对称持续地演进。就像电子振荡电路里的反相器，借时间延迟下持续的自我否定，0 → 1 → 0，产生时钟脉冲，因果系统正是在连绵的动态更新里推进的。逻辑本身没有边界，所谓的边界，是形式系统为了局部静态的自洽而划定的定义域。
+人引以为傲的科学体系，不是对现实的直接复刻，而是一套不断叠加人为公理假设、以换取局部度量能力的符号工具箱。形式逻辑之所以严禁自相矛盾，是因为它先验地抽掉了时间，把动态演化的现实压平成一个静态的命题空间；而在离散推进的因果递归里，一切区分都依赖时间的不对称持续地演进。就像电子振荡电路里的反相器，借时间延迟下持续的自我否定，0 → 1 → 0，产生时钟脉冲，因果系统正是在连绵的动态更新里推进的。逻辑本身没有边界，所谓的边界，是形式系统为了局部静态的自洽而划定的定义域。
 
-The scientific systems people are proud of are not direct copies of reality but a symbolic toolbox that keeps adding human axioms to buy local power of measurement. Formal logic forbids self-contradiction because it removes the time dimension in advance, flattening dynamically evolving reality into a static space of propositions; yet as causal recursion unfolds across discrete steps, every distinction keeps evolving through the asymmetry of time. Just as an inverter in an electronic oscillator produces a clock pulse through continuous self-negation under a time delay, 0 → 1 → 0, a causal system advances through continuous dynamic updating. Logic itself has no boundary; the so-called boundary is the domain a formal system draws for the sake of local static consistency.
+The scientific systems people are proud of are not direct copies of reality but a symbolic toolbox that keeps adding human axioms to buy local power of measurement. Formal logic forbids self-contradiction because it removes time in advance, flattening dynamically evolving reality into a static space of propositions; yet as causal recursion unfolds across discrete steps, every distinction keeps evolving through the asymmetry of time. Just as an inverter in an electronic oscillator produces a clock pulse through continuous self-negation under a time delay, 0 → 1 → 0, a causal system advances through continuous dynamic updating. Logic itself has no boundary; the so-called boundary is the domain a formal system draws for the sake of local static consistency.
 
 数学体系同样契合逻辑因果的推演法则，却立在等价公理 1 = 1 这个心智的抽象之上。[信息是什么](../what-information-is/)确立过，信息是心智完成离散划界后留下的可记录痕迹。在被经验的世界里，写在纸左边的“1”与右边的“1”占着不同的时空坐标，消耗着不同的能量与微观粒子，找不到两个等价的实体。数学是心智认同了一套等价公理之后展开的高阶符号工具，公理一变，局部的推演形态就随之重构。
 
@@ -54,8 +54,8 @@ flowchart TD
         R1["大地的尽头、奇点、热寂"]
         R2["被误读为现实的边界"]
     end
-    L1 --> L2
-    L2 ==>|"外推"| E1
+    L1 ~~~ L2
+    S_Local ==>|"外推"| E1
     E1 ==>|"失效"| R1
     R1 --> R2
     style S_Local fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -86,8 +86,8 @@ flowchart TD
         R1["The edge of the earth, singularity, heat death"]
         R2["Misread as the boundary of reality"]
     end
-    L1 --> L2
-    L2 ==>|"extrapolated"| E1
+    L1 ~~~ L2
+    S_Local ==>|"extrapolated"| E1
     E1 ==>|"fails"| R1
     R1 --> R2
     style S_Local fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -102,15 +102,15 @@ flowchart TD
 
 ## 四、 熵增与封闭的沙盘 / 4. Entropy and the Closed Sandbox
 
-主流的叙事常把熵增当作时间之箭的物理定义，这也是一种因果颠倒。热力学第二定律说的是孤立系统，前提是假定系统与外部隔绝；在一个固定位宽的封闭寄存器里持续运算，每一次溢出都让信息被丢弃，缺少外部信息吞吐的孤立沙盘里，微观状态在反复截断之下滑向无序。时间的单向来自因果递归的不可逆，而不是来自孤立系统的熵增；在敞开的因果里，系统可以借持续地与外部交换信息与能量，实现局部的自组织与熵减，生命就是这样。[复杂性遮蔽了涌现之为心智的行动](../complexity-obscures-emergence-as-the-act-of-mind/)追溯了在选定前提下搭起的脚手架，其自身的极限如何被误认成对象本身的属性；放到宇宙学与热力学里看，奇点、外推出来的宇宙起点与热寂，正是被高度压缩的封闭模型在被推去穷尽敞开现实时遇到的定义域失效。
+主流的叙事常把熵增当作时间之箭的物理定义，这也是一种因果颠倒。热力学第二定律说的是孤立系统，前提是假定系统与外部隔绝；在密封持守之内，以有限分辨率的划分来读取——就像在固定位宽的封闭寄存器里记账，舍弃细于窗口的区分——制备于狭窄构型的轨迹散布到宽阔得多的粗粒化状态之中，并被记录为熵增。时间的单向来自因果递归的不可逆，而不是来自孤立系统的熵增；在敞开的因果里，系统可以借持续地与外部交换信息与能量，实现局部的自组织与熵减，生命就是这样。[复杂性遮蔽了涌现之为心智的行动](../complexity-obscures-emergence-as-the-act-of-mind/)追溯了在选定前提下搭起的脚手架，其自身的极限如何被误认成对象本身的属性；放到宇宙学与热力学里看，奇点、外推出来的宇宙起点与热寂，正是被高度压缩的封闭模型在被推去穷尽敞开现实时遇到的定义域失效。
 
-Mainstream narratives often take increasing entropy as the physical definition of the arrow of time, which is also a causal reversal. The second law of thermodynamics speaks of isolated systems, on the premise that the system is cut off from the outside; computing continually in a closed register of fixed width, every overflow discards information, and in an isolated sandbox without outside throughput of information, micro states slide toward disorder under repeated truncation. The one-way direction of time comes from the irreversibility of causal recursion, not from entropy increasing in an isolated system; in open causality a system can achieve local self-organisation and falling entropy by continually exchanging information and energy with the outside, as life does. [Complexity Obscures Emergence as the Act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) traces how the limit of a scaffolding built under chosen premises gets mistaken for a property of the object itself; applied to cosmology and thermodynamics, singularities, the extrapolated cosmic origin and heat death are failures of domain met by highly compressed closed models when pushed to exhaust open reality.
+Mainstream narratives often take increasing entropy as the physical definition of the arrow of time, which is also a causal reversal. The second law of thermodynamics speaks of isolated systems, on the premise that the system is cut off from the outside; inside a sealed hold read through a finite-resolution partition—like accounting in a closed register of fixed width that drops distinctions finer than its window—trajectories prepared in a narrow configuration disperse across vastly wider coarse-grained states and are recorded as rising entropy. The one-way direction of time comes from the irreversibility of causal recursion, not from entropy increasing in an isolated system; in open causality a system can achieve local self-organisation and falling entropy by continually exchanging information and energy with the outside, as life does. [Complexity Obscures Emergence as the Act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) traces how the limit of a scaffolding built under chosen premises gets mistaken for a property of the object itself; applied to cosmology and thermodynamics, singularities, the extrapolated cosmic origin and heat death are failures of domain met by highly compressed closed models when pushed to exhaust open reality.
 
 ## 五、 日常评判的降维 / 5. The Dimensional Reduction of Everyday Judgment
 
-把这台认识论的显微镜对准日常的价值评判，世俗排序里未经审视的上帝标尺与迷思也一样显露出来。在任何一个微观瞬间，一个人的决策输出，都是这个人的心智系统根据自己登记的全部历史痕迹、当下的约束与有限的算力，在第一人称之内推出的局部自洽解。[止步于评判，是认知的歧途](../zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/)指出，甲判定乙“犯了错”时，并不是甲掌握了客观的真理，而是甲以自己的坐标系为原点，发现乙的输出与自己的因果模型之间有投影上的差异。双方都坚信自己对、对方愚蠢，是因为双方都设想有一把超出第一人称视界的上帝标尺。
+把这台认识论的显微镜对准日常的价值评判，世俗排序里未经审视的上帝标尺与迷思也一样显露出来。在任何一个微观瞬间，一个人的决策，是在第一人称之内、在当下所持前提下作出的离散选择，受自己已登记的历史痕迹、当下的约束与有限容量塑形，在那个坐标系之内局部融贯。[止步于评判，是认知的歧途](../zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/)指出，甲判定乙“犯了错”时，并不是甲掌握了客观的真理，而是甲以自己的坐标系为原点，发现乙的输出与自己的因果模型之间有投影上的差异。双方都坚信自己对、对方愚蠢，是因为双方都设想有一把超出第一人称视界的上帝标尺。
 
-Turning this epistemic microscope on everyday value judgments shows the unexamined God's-eye ruler and myths of worldly ranking just as plainly. At any micro moment, a person's decision output is the locally consistent solution their Mind derives within the first person from all the historical traces it has registered, present constraints and finite computing power. As [Stopping at Judgment Is a Wrong Turn of Cognition](../zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/) points out, when A judges that B "made a mistake", it is not that A holds objective truth, but that A, taking its own coordinate system as origin, finds a projected difference between B's output and its own causal model. Both are sure they are right and the other foolish, because both imagine a God's-eye ruler beyond the first-person horizon.
+Turning this epistemic microscope on everyday value judgments shows the unexamined God's-eye ruler and myths of worldly ranking just as plainly. At any micro moment, a person's decision is a discrete choice made within the first person under the premises they currently hold, shaped by the historical traces they have registered, present constraints and finite capacity, locally coherent inside that coordinate system. As [Stopping at Judgment Is a Wrong Turn of Cognition](../zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/) points out, when A judges that B "made a mistake", it is not that A holds objective truth, but that A, taking its own coordinate system as origin, finds a projected difference between B's output and its own causal model. Both are sure they are right and the other foolish, because both imagine a God's-eye ruler beyond the first-person horizon.
 
 世俗公认的“成功”与“优秀”，同样是社会为了降低协作与筛选的成本，从一个人多维的因果状态里人为指定的一条低维投影轴（财富、权力或声望）；决定排序高低的，只是观察者把哪一个维度设为最高的权重。用单一标量轴的读数去定性一个生命的优劣，就像用直尺量不出温度就断言热量不存在。
 
