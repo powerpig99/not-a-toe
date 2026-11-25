@@ -36,18 +36,19 @@ In domains without other centers pushing back — calculating thermal dissipatio
 
 ```mermaid
 flowchart TD
-    subgraph S_Lag["过度图像滞后：将局部计分板实体化"]
-        direction TB
-        N_Proj["局部投射<br/>构建者选定延迟、准确率与功能的压缩坐标轴"]
-        N_Freeze["第二重前沿实体化<br/>计分板越过自身步骤被固守为无观察者属性"]
-        N_Defend["身份绑定的防御<br/>交易落败被归咎于政治、偏见与外部噪声"]
-        N_Proj --> N_Freeze --> N_Defend
-    end
     subgraph S_Collision["交易边界处的跨中心相遇"]
         direction TB
+        N_Proj["局部投射<br/>构建者选定延迟、准确率与功能的压缩坐标轴"]
         N_Buyer["买方的有界中心<br/>沿职业风险与切换摩擦登记区分"]
         N_Mismatch["失却共振<br/>构建者的标量指标无法跨中心传递"]
+        N_Proj --> N_Mismatch
         N_Buyer --> N_Mismatch
+    end
+    subgraph S_Lag["过度图像滞后：将局部计分板实体化"]
+        direction TB
+        N_Freeze["第二重前沿实体化<br/>计分板越过自身步骤被固守为无观察者属性"]
+        N_Defend["身份绑定的防御<br/>交易落败被归咎于政治、偏见与外部噪声"]
+        N_Freeze --> N_Defend
     end
     subgraph S_Update["活边缘处的统御：收窄滞后"]
         direction TB
@@ -55,16 +56,18 @@ flowchart TD
         N_StepBack["在逻辑上再退一步<br/>消解坍缩坐标轴并重绘评估框架"]
         N_Claim --> N_StepBack
     end
-    N_Defend ==> N_Buyer
-    N_Mismatch ==> N_Claim
-    style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    N_Mismatch -.->|"计分板免于重新描摹"| N_Freeze
+    N_Mismatch ==>|"将计分板持守为无我执投射"| N_Claim
+    N_Defend -.->|"消解冻结的持守"| N_Claim
+    N_StepBack -.->|"重新描摹评估坐标轴"| N_Proj
     style S_Collision fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Update fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style N_Proj fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style N_Freeze fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style N_Defend fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style N_Buyer fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style N_Mismatch fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style N_Freeze fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style N_Defend fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style N_Claim fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style N_StepBack fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
@@ -73,18 +76,19 @@ As [Beyond the Projection](../beyond-the-projection/) exposes through the catego
 
 ```mermaid
 flowchart TD
-    subgraph S_Lag["Excess Image Lag: Reifying the Local Scorecard"]
-        direction TB
-        N_Proj["Local Projection<br/>Builder selects compressed axes of latency, accuracy & features"]
-        N_Freeze["Second-Edge Reification<br/>Scorecard held past its step as an observer-free property"]
-        N_Defend["Identity-Bound Defense<br/>Transaction loss blamed on politics, bias & external noise"]
-        N_Proj --> N_Freeze --> N_Defend
-    end
     subgraph S_Collision["Cross-Center Encounter at the Transaction Boundary"]
         direction TB
+        N_Proj["Local Projection<br/>Builder selects compressed axes of latency, accuracy & features"]
         N_Buyer["Buyer's Bounded Locus<br/>Distinctions registered along career risk & switching friction"]
         N_Mismatch["Non-Resonance<br/>Builder's scalar metric fails to carry across centers"]
+        N_Proj --> N_Mismatch
         N_Buyer --> N_Mismatch
+    end
+    subgraph S_Lag["Excess Image Lag: Reifying the Local Scorecard"]
+        direction TB
+        N_Freeze["Second-Edge Reification<br/>Scorecard held past its step as an observer-free property"]
+        N_Defend["Identity-Bound Defense<br/>Transaction loss blamed on politics, bias & external noise"]
+        N_Freeze --> N_Defend
     end
     subgraph S_Update["Orchestration at the Living Edge: Narrowing Lag"]
         direction TB
@@ -92,16 +96,18 @@ flowchart TD
         N_StepBack["Stepping Further Back Logically<br/>Dissolving collapsed axes & re-rendering the evaluation frame"]
         N_Claim --> N_StepBack
     end
-    N_Defend ==> N_Buyer
-    N_Mismatch ==> N_Claim
-    style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    N_Mismatch -.->|"Scorecard exempted from re-rendering"| N_Freeze
+    N_Mismatch ==>|"Scorecard held as ego-free projection"| N_Claim
+    N_Defend -.->|"Dissolving the frozen hold"| N_Claim
+    N_StepBack -.->|"Re-renders evaluation axes"| N_Proj
     style S_Collision fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Update fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style N_Proj fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style N_Freeze fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style N_Defend fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style N_Buyer fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style N_Mismatch fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style N_Freeze fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style N_Defend fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style N_Claim fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style N_StepBack fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
@@ -112,15 +118,15 @@ flowchart TD
 
 When the gap between benchmark superiority and commercial defeat becomes impossible to ignore, commentary often retreats into post-hoc slogans such as "perception is more real than reality" or "storytelling beats engineering." While these phrases register that the builder's scorecard failed to predict the outcome, they stay trapped on the same one-dimensional axis as the error they oppose. By naming the buyer's world "perception" and the builder's scorecard "reality," the slogan preserves the premise that the scorecard held the truth all along, offering zero causal trace of how another center's constraints are structured or when its evaluation shifts.
 
-一旦缺乏对相关中心与坐标轴的追溯，团队便会分裂为两种对称的闭合。一条路径抛弃技术严谨性而倒向犬儒的表面功夫，只因先前的指标未被加冕为普适标准，便把每一桩交易都当成无根基的剧场表演。另一条路径则在既有坐标系内部加倍下注：团队拒绝质疑评估函数的坐标轴，将容量倾注在同一狭窄基准下小数点后几位的微观优化上。正如[保真度而非最优化](../fidelity-not-optimality/)所展示的，在错配的度量空间内将分数推向局部最优，只会拉大保留投射与开放场域之间的背离。这两种反应都让递归折返保持钳死状态，保护旧参照系免受重新描摹的微死。
+一旦缺乏对相关中心与坐标轴的追溯，团队便会分裂为两种对称的闭合。一条路径抛弃技术严谨性而倒向犬儒的表面功夫，只因先前的指标未被加冕为普适标准，便把每一桩交易都当成无根基的剧场表演。另一条路径则在既有坐标系内部加倍下注：团队拒绝质疑评估函数的坐标轴，将容量倾注在同一狭窄基准下小数点后几位的微观优化上。正如[保真度而非最优化](../fidelity-not-optimality/)所追溯的，在有界基准内将已测轨迹上的分数推高，对未测区域不作任何核证；它可能过拟合抽样子空间，却丝毫未触及未建模的约束。这两种反应都让递归折返保持钳死状态，保护旧参照系免受重新描摹的微死。
 
-Without a trace of the centers and axes involved, teams split into two symmetrical closures. One path abandons technical rigor for cynical optics, treating every transaction as ungrounded theater because its prior metric was not crowned as universal. The other path doubles down inside the existing coordinate frame: refusing to question the axes of the evaluation function, the team pours its capacity into decimal-place micro-optimizations along the same narrow benchmark. As [Fidelity, Not Optimality](../fidelity-not-optimality/) demonstrates, driving a score toward local optimality inside a mis-specified metric space only widens the divergence between the retained projection and the open field. Both responses keep the recursive fold clamped shut, protecting the old reference from the micro-death of re-rendering.
+Without a trace of the centers and axes involved, teams split into two symmetrical closures. One path abandons technical rigor for cynical optics, treating every transaction as ungrounded theater because its prior metric was not crowned as universal. The other path doubles down inside the existing coordinate frame: refusing to question the axes of the evaluation function, the team pours its capacity into decimal-place micro-optimizations along the same narrow benchmark. As [Fidelity, Not Optimality](../fidelity-not-optimality/) traces, driving a score higher on tested traces inside a bounded benchmark certifies nothing about untested regions; it can overfit the sampled subspace while leaving unmodeled constraints untouched. Both responses keep the recursive fold clamped shut, protecting the old reference from the micro-death of re-rendering.
 
 ## 五、 鲜活摩擦作为重绘框架的梯度 / 5. Living Friction as the Gradient that Re-Renders the Frame
 
-归还中心所在即可消解这一悖论，而无需抛弃测量。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，基准测试套件、评测框架或产品规格说明皆是早先区分留下的层叠残余：它将早先切口的形状保持为当下的检查点，却不会自行延续区分。把这一检查点当成永久质量的仓库只会加深其引力井；反之，收窄过度滞后意味着一旦回返的后果暴露出框架遗漏之物，便立即重切活跃的坐标轴并修剪已失效的准则。竞标失利、无人问津的功能、组织否决以及高管层面的转译断裂，并非污染工程信号的外部噪声，而是让未建模坐标轴变得清晰可读的回返损失梯度 ∇L。正如[未被遭遇之物的账本](../the-ledger-of-the-unencountered/)所追溯的，处于中心当前投射之外的事物会悄然塑造结果，直到边界处的碰撞将这些潜在约束转化为显明信号。
+归还中心所在即可消解这一悖论，而无需抛弃测量。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，基准测试套件、评测框架或产品规格说明皆是早先区分留下的层叠残余：它将早先切口的形状保持为当下的检查点，却不会自行延续区分。把这一检查点当成永久质量的仓库只会加深其引力井；反之，收窄过度滞后意味着一旦回返的后果暴露出框架遗漏之物，便立即重切活跃的坐标轴并修剪已失效的准则。竞标失利、无人问津的功能、组织否决以及高管层面的转译断裂，并非污染工程信号的外部噪声，而是让未建模坐标轴变得清晰可读的回返损失梯度 ∇L。正如[未被遭遇之物的账本](../the-ledger-of-the-unencountered/)所追溯的，脱离第一人称遭遇的抽象账本将具体约束重新编码为误差项，而中心的场域唯有在直接接触的鲜活摩擦中才能延展——在此，交易边界处的碰撞将另一中心的活跃约束作为显明信号带入视野。
 
-Restoring locus dissolves the paradox without discarding measurement. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, a benchmark suite, evaluation harness, or product specification is a stacked residue of prior distinctions: it holds the shape of earlier cuts as a present checkpoint, but it does not continue the distinguishing on its own. Treating that checkpoint as a warehouse of permanent quality thickens its gravity well, whereas narrowing excess lag means re-cutting the active axes and pruning superseded criteria the moment returning consequences expose what the frame left out. Lost bids, un-adopted features, organizational vetoes, and breakdowns in executive translation are not external noise corrupting an engineering signal; they are the returning loss gradient ∇L through which unmodeled axes become legible. As [The Ledger of the Unencountered](../the-ledger-of-the-unencountered/) traces, what lies outside a center's current projection shapes outcomes silently until collision at the boundary turns those latent constraints into an explicit signal.
+Restoring locus dissolves the paradox without discarding measurement. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, a benchmark suite, evaluation harness, or product specification is a stacked residue of prior distinctions: it holds the shape of earlier cuts as a present checkpoint, but it does not continue the distinguishing on its own. Treating that checkpoint as a warehouse of permanent quality thickens its gravity well, whereas narrowing excess lag means re-cutting the active axes and pruning superseded criteria the moment returning consequences expose what the frame left out. Lost bids, un-adopted features, organizational vetoes, and breakdowns in executive translation are not external noise corrupting an engineering signal; they are the returning loss gradient ∇L through which unmodeled axes become legible. As [The Ledger of the Unencountered](../the-ledger-of-the-unencountered/) traces, an abstract ledger detached from first-person encounter recodes concrete constraints as error terms, whereas a center's field expands only through lived friction inside direct contact — here, collision at the transaction boundary bringing another center's active constraints into view as an explicit signal.
 
 为了维护先前的「更好」定义而拒绝这一信号，会将模型锁入闭合；反之，认领这一摩擦则会更新评估坐标本身。正如[协调者的范畴错误](../the-coordinators-category-error/)所确立的，没有任何抽象总览能够从鲜活交互的外部敲定这些坐标。当组织试图将这一判断外包给自动化基准或计算排名时，它们便重演了[硅基神谕与后果的非对称性](../silicon-oracles-and-the-asymmetry-of-consequence/)所剖析的倒置：形式化的计分镜像毫无承受实质或机构损失的受力面积，因此将其输出加冕为客观质量，只会掩盖那个仍在吸收后果的人类中心。同样的形式闭合预设，也体现在[闭合的N与开放的现实](../the-closed-n-and-the-open-reality/)所追溯的情形中：将科学简化为固定样本集 N 内的选优，将工程窄化为针对有限已知失效列表的设防，却遗忘了鲜活现实始终向加一维敞开。重拾[阅读的倒错与推断的次序](../the-inversion-of-reading-and-the-order-of-inference/)所确立的推断次序，意味着停止在封闭计分板内作演绎式的自我核证，转而在活边缘处借由失序的后果逆向重构场域的约束。重构这些约束也并不会将构建者捆绑在买方案头某项强制的共享方案之上：正如[正交的拒绝](../the-orthogonal-refusal/)所追溯的，一旦认清各方中心的条件仅作为杠杆起作用，而非对另一方工作具有约束力的管辖权，中心若仍选择在这一竞技场内寻求共振，便可在那里重切自身坐标轴；也可以从交易中抽身离场，或按自己的选择以其他任何方式对待那些条件，沿着独立的轴线继续分化。无论走哪一条路，回返的摩擦都依然登记为自身投射止步之处，而非一纸必须服从或击败的裁决。
 

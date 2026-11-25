@@ -33,7 +33,7 @@ flowchart TD
         H_Freeze["冻结的果：被保留的位置豁免于重新渲染"]
         H_Track["预铺的轨道：把前提误当作公理、法则或固定道路"]
         H_Modes["维持 / 纠正 / 强加：演绎穷尽或强行对齐"]
-        H_Gap["过量的图像滞后：后果登记为外来的惊愕或倒置"]
+        H_Gap["过剩形象滞后：后果登记为外来的惊愕或倒置"]
         H_Freeze --> H_Track --> H_Modes --> H_Gap
     end
     L_Premise -.->|"遗忘自身的选择"| H_Freeze
@@ -86,9 +86,9 @@ flowchart TD
 
 ## 二、 维持、纠正与强加 / 2. Maintain, Correct, Impose
 
-当一个被保留的位置豁免于重新渲染、被当作一条预先存在的道路时，这一步便会以三种反复出现的方式发生扭曲。第一种方式，是把当前位置当作需要维持的正轨来持守。因为参照在它所服务的那一步之后仍被保留下来，新的后果虽然继续落入场域，登记时对照的却是一幅陈旧的图像。移动的场域与冻结的参照之间不断拉大的间隙，便登记为刺耳的惊愕。把“自身为善”的自我形象死死锁住，便会冻结所保留的参照、令其不再重画，而行动依然在这套固定的二元对立之内继续，如[恶是心智自己的造物](../evil-as-the-minds-own-creation/)所示；而其他中心的路径之所以显得像写好的剧本般机械，也只是因为被拿来对照自身冻结的坐标系计分，如[NPC 印象是结构性的，而非心智的排名](../the-npc-impression-is-structural/)所阐明的。
+当一个被保留的位置豁免于重新渲染、被当作一条预先存在的道路时，这一步便会以三种反复出现的方式发生扭曲。第一种方式，是把当前位置当作需要维持的正轨来持守。因为参照在它所服务的那一步之后仍被保留下来，新的后果虽然继续落入场域，登记时对照的却是一幅陈旧的意象。移动的场域与冻结的参照之间不断拉大的间隙，便登记为刺耳的惊愕。把“自身为善”的自我形象死死锁住，便会冻结所保留的参照、令其不再重画，而行动依然在这套固定的二元对立之内继续，如[恶是心智自己的造物](../evil-as-the-minds-own-creation/)所示；而对照自身冻结的坐标系，为其他中心经过中介的痕迹计分，便会把观察的结构不对称转化为剧本化心智的排名，如[NPC 印象是结构性的，而非心智的排名](../the-npc-impression-is-structural/)所阐明的。
 
-When a retained position is exempted from re-rendering and treated as a pre-existing road, the step distorts in three recurring ways. In the first mode, the position is held as the right path to maintain. Because the reference is preserved past the step it served, fresh consequences still land in the field, but they register against a stale image. That widening gap between the moving field and the frozen reference registers as jarring surprise. Clamping a self-image of goodness shut freezes the retained reference against re-drawing while acts continue within that fixed dualism, as [Evil as the Mind's Own Creation](../evil-as-the-minds-own-creation/) shows, and other centers' paths appear scripted and mechanical only when scored against one's own frozen coordinates, as [The NPC Impression Is Structural, Not a Ranking of Minds](../the-npc-impression-is-structural/) explains.
+When a retained position is exempted from re-rendering and treated as a pre-existing road, the step distorts in three recurring ways. In the first mode, the position is held as the right path to maintain. Because the reference is preserved past the step it served, fresh consequences still land in the field, but they register against a stale image. That widening gap between the moving field and the frozen reference registers as jarring surprise. Clamping a self-image of goodness shut freezes the retained reference against re-drawing while acts continue within that fixed dualism, as [Evil as the Mind's Own Creation](../evil-as-the-minds-own-creation/) shows, and scoring other centers' mediated traces against one's own frozen coordinates converts the structural asymmetry of observation into a ranking of scripted minds, as [The NPC Impression Is Structural, Not a Ranking of Minds](../the-npc-impression-is-structural/) explains.
 
 第二种方式，是把当前位置当作需要纠正的歧途来持守。在这里，当下的位置对照着别处另一座冻结的纪念碑被判定为缺陷。因为行动的梯度指向修复或抵达那座纪念碑，从当下这个选定的前提实际可以迈出的下一步反而被排挤了。一条从外部看去仿佛能扭曲现实的路径，是心智不向共识的纪念碑低头而径直迈出的步子，并被拿去对照一张错把自身边界当成疆域的地图来计分，如[现实扭曲力场指认的是封闭的地图](../the-reality-distortion-field-names-the-closed-map/)所示。
 
