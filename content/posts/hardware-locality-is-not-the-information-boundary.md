@@ -22,7 +22,7 @@ The claim that full open-source codebases must enter pretraining fixes intimate 
 
 The insistence on deep local access comes mostly from design rather than technical necessity. Computation is bound tightly to one machine, so intimate knowledge of one operating system keeps looking indispensable. That binding can be changed: higher-level interfaces, remote or attested execution, and a separation between the agent's control plane and any particular host all loosen it.
 
-自我区分的活动在发生，无因，不息。称它为心智：那个已经在进行中的观察者，它的每一个动作都是一次区分。工具与宿主是外化的痕迹，延长了心智的触及，却并不把边缘迁入基质；重新设计过的接口与执行环境也一样，它们松开的是绑定，并不成为新的所在。[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)把框定、选择与验证留在掌舵者一侧，工具只是在指引下重组残余。[超越投射](../beyond-the-projection/)在智能体架构内部追溯了同一道结构切分：智能体是一台有限的投射引擎，能够派发子任务、跨正交的流线路由上下文，并借由冷静的对等辩论暴露盲区，然而统御——持守活的多维意图，并在规则陷入死锁时退后一步修订前提——始终留在掌舵边缘的人类心智一侧。把发起动作的位置分给本地的开放技术栈，是把媒介当成了所在：可检视的代码越来越密，看上去就像媒介成了能动性的座位，其实那只是一次带宽更高的握持，握持之上仍是那个选定界限的边缘。
+自我区分的活动在发生，无因，不息。称它为心智：那个已经在进行中的观察者，它的每一个动作都是一次区分。工具与宿主是外化的痕迹，延长了心智的触及，却并不把边缘迁入基质；重新设计过的接口与执行环境也一样，它们松开的是绑定，并不成为新的所在。[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)把框定、选择与验证留在掌舵者一侧，工具只是在指引下重组残余。[超越投射](../beyond-the-projection/)在智能体架构内部追溯了同一道结构切分：智能体是一台有限的投射引擎，能够派发子任务、跨正交的流线路由上下文，并借由冷启动对等辩论暴露盲区，然而统御——持守活的多维意图，并在规则陷入死锁时退后一步修订前提——始终留在掌舵边缘的人类心智一侧。把发起动作的位置分给本地的开放技术栈，是把媒介当成了所在：可检视的代码越来越密，看上去就像媒介成了能动性的座位，其实那只是一次带宽更高的握持，握持之上仍是那个选定界限的边缘。
 
 ```mermaid
 flowchart TD

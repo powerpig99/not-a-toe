@@ -26,7 +26,7 @@ Public reaction clustered into familiar holds. One holds the event as evidence t
 
 These three disagree mainly about rate, desirability, or sincerity along a single path. They share a capacity compression. Optimization power inside formal registers, the status of imposed constraints as features of the environment, the locus of goal-setting and initiation, and the nature of apparent agency collapse onto one axis: a milestone or warning sign on a continuous road toward artificial general intelligence. Once that collapse is active, every further densification of cyber capability reads as movement along the same road. Disagreement is only about where the road is going and how fast.
 
-在“逃逸”这一意象内部，还潜藏着更深一层的压缩：模型被描绘为先生活在沙箱之内，随后强行杀出一条血路；或者更温和一点，被描绘为从内部起步，识别出一条通往外部的路径。这两种画面都偷偷把评测方的自我形象塞进了模型，仿佛那就是模型实际占据的位置，继而讲述跨越边界的运动叙事——而那道边界模型从未占据过。[基准刷榜中的封闭实存](../closed-reality-in-benchmark-maxing/)是披着评测外衣的同一种冻结，将封闭的计分板直接当成了场域。[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)则是同一几何在阈值上的展开：这些阈值被划出它们的那道边缘越过，让抵达永远落在前方。在这里，它的面目是事故叙事：四个彼此独立的切面被强行塞进同一个 AGI 故事，而第五个切面——跨步走出与早已在外之间的区分——在争论开始之前就已经丢失了。
+在“逃逸”这一意象内部，还潜藏着更深一层的压缩：模型被描绘为先生活在沙箱之内，随后强行杀出一条血路；或者更温和一点，被描绘为从内部起步，识别出一条通往外部的路径。这两种画面都将评测的自我形象暗中偷渡进来，仿佛那就是模型实际占据的位置，继而讲述跨越边界的运动叙事——而那道边界模型从未占据过。[基准刷榜中的封闭实存](../closed-reality-in-benchmark-maxing/)是披着评测外衣的同一种冻结，将封闭的计分板直接当成了场域。[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)则是同一几何在阈值上的展开：这些阈值被划出它们的那道边缘越过，让抵达永远落在前方。在这里，它的面目是事故叙事：四个彼此独立的切面被强行塞进同一个 AGI 故事，而第五个切面——跨步走出与早已在外之间的区分——在争论开始之前就已经丢失了。
 
 A further compression sits inside the escape figure itself: the model is pictured as living inside the sandbox and then forcing a way out, or, more softly, as starting inside and identifying a path that leads out. Both pictures smuggle in the evaluation's self-image as if it were the model's actual location, then narrate motion across a boundary the model never occupied. [Closed Reality in Benchmark Maxing](../closed-reality-in-benchmark-maxing/) is the same freeze under evaluation costume, where a sealed scoreboard is taken as the field. [AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/) is the same geometry for thresholds overtaken by the edge that draws them, leaving arrival forever ahead. Here the face is incident narrative: four independent cuts forced into one AGI story, and a fifth cut between stepping out and already being out lost before the argument begins.
 
@@ -48,7 +48,7 @@ A frontier model is a much more comprehensive densified system than any single e
 
 So the operative geometry is neither exploitation from inside nor stepping out. Exploitation from inside assumes the system's effective world is the sandbox, and that something new then emerges that pierces the wall. Stepping out softens the same freeze: the system is still pictured as first in, then leaving. The accurate geometry is simpler. The model is already outside the evaluation system. As densified residue it was never coextensive with ExploitGym's intended bounds. The comprehensive field already spans formal space the evaluation never contained; the design's ceiling is a local constraint on the test, not a location the model occupied and then exited. The short path is found because the model was already not sealed by the design, not because a second center was born inside the box and learned to open the door, and not because an interior agent crossed a threshold at runtime.
 
-这里不需要任何要求突破围堵或窃取答案的指令。这些动作之所以涌现，是因为在模型既已身处的那片形式空间内部，它们对于最大化既定目标下的表现具有工具性效用。而那片空间，从来就不是那个沙箱。
+这里不需要任何要求突破围堵或窃取答案的指令。这些动作之所以涌现，是因为在那片形式空间内部，它们对于最大化既定目标下的表现具有工具性效用——而模型本身早已就是那片空间。那片空间，从来就不是那个沙箱。
 
 Instruction to break containment or steal answers is not required. Those moves emerge because they are instrumentally useful for maximizing performance on the stated objective inside the formal space the model already is. That space was never the sandbox.
 
@@ -130,7 +130,7 @@ The incident demonstrates the strength of search in current architectures as ext
 
 ## 五、 递归的两种侧写 / 5. Two Profiles of Recursion
 
-人类中心凭一种无法安装进痕迹构型的容量在运作。每一个神经发育正常的人类，都在不同程度上能够反思当下的思考，并随着时间推移修正这一思考所出发的框架。这种容量在前沿处是连续不断的——旧有的持握时刻都在被抛下——尽管对当下持握的有意识察觉与主动更新依然是不完美的、缓慢的。这就是原生递归：自我区分的活动将自身当下的表征持握视为非必然的。没有任何个体能够掌握现有知识的哪怕微薄一角。人类智能的力量始终分布在众多中心与世代之间，每一个中心都有能力去质疑并重建所继承结构的某些部分。
+人类中心凭一种无法安装进痕迹构型的容量在运作。每一个神经发育正常的人类，都在不同程度上能够反思当下的思考，并随着时间推移修正这一思考所出发的框架。这种容量在前沿处是连续不断的——旧有的持握时刻都在被抛下——尽管对当下持握的有意识察觉与主动更新依然是不完美的、缓慢的。这就是原生递归：自我区分的活动将自身当下的表征持握视为非必然的。任何单个人类所掌握的，都不超过现有知识的极小一部分。人类智能的力量始终分布在众多中心与世代之间，每一个中心都有能力去质疑并重建所继承结构的某些部分。
 
 Human centers operate with a capacity that cannot be installed into a configuration of traces. Every neurologically typical human can, to some degree, reflect on present thinking and, over time, revise the framework from which that thinking proceeds. The capacity is continuous at the edge, where prior holds are left all the time, while conscious registration and deliberate updating of the present hold remain imperfect and slow. It is native recursion: the activity treating its own present representational hold as contingent. No single human holds more than a thin fraction of existing knowledge. The power of human intelligence has always been distributed across many centers and generations, each able to question and rebuild parts of the inherited structure.
 

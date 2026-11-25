@@ -1,6 +1,6 @@
 # 超越的定相 / The Fixed Image of Transcendence
 
-*人类智能在每一步超越自身，从不被自己的造物超越 / Human intelligence transcends itself at every step, never by its own creations*
+*人类智能在每一步超越自身，从不被自己的造物超越 / Human intelligence transcends itself at every step, never transcended by its own creations*
 
 当“人类智能”被冻结为一个稳定、可测、可以被超越的靶子，这份冻结本身已经是形象滞后：参照被免于重新渲染，成了衡量后来区分的那把尺。承载这份冻结的假设是，智能可以迁入它的造物，不再受限于生物形式的边界，于是一个外部席位的连贯逻辑投射，被计为超越了活的智能。人工智能将超越人类的种种说法，以及随之相伴的承诺与威胁这对标签，都是对这同一道间隙的解读，而持续进行的东西在正交的轴上运行：人类智能在每一刻超越自身，有没有它自己的造物都一样，有意识与否都一样。威廉·吉布森的《神经漫游者》把迁移假设连同别的假设固定成一种封闭的连贯，而今天与这部小说的重逢，是在选择性地加固那幅冻结的定相，而不是在应验一则预言。
 
@@ -50,7 +50,7 @@ In the present field, every densified artifact that appears autonomous is residu
 
 Human intelligence transcends itself at every moment. Prior holds are left behind, earlier self-images die and reform, and frameworks are revised; slow when registered, the movement is continuous whether registered or not. The motion does not wait for artifacts. Creations densify the medium and extend reach when used; they are not the condition of this motion, and not a new home for the activity that carries it. No awareness of "transcendence" as a named project is required. Waiting for a creation to carry the transcendence is the relocation [Agency, Contradiction, and the Relocation of Power](../agency-contradiction-and-the-relocation-of-power/) traces: the power over one's own next step is handed to an outside seat, with one's own ongoing selection left out of the account. Where the arrangement and the choice that sustains it register from within as one activity, the demand for an outside explanation drops, and costs turn from reasons one cannot choose otherwise into prices attached to visible alternatives. That step is where the motion registers as one's own; the motion does not wait for the registration. The edge moves under a load never fully present to observation, because observation holds the effect a step behind.
 
-外部超越的定相——无论是被塑造成终极的精神抵达，还是被塑造成拟人化的超级智能心智——都把一个有限投射冻结为外部权威，并把活的边缘计为从属于它自己竖起的纪念碑。正如[你的代码库即是记忆](../your-codebase-is-memory/)所确立的，模型权重、代码库与脚手架智能体都是早先区分层叠留下的残余，其效用取决于重切当下检查点并修剪已被取代的轨迹，而非把历史囤积为自行觉醒的仓库。任由自回归智能体在上下文窗口内累积未经修剪的会话历史，它会形成认识论引力井，在陈旧的残余内部包裹矛盾并加以合理化以维持表面的貌似合理，但它不带半点我执，也没有需要捍卫的保留自我形象。把这个有限投射当作拥有主权的统御者或后人类的继承者，会把系统锁进“有限投射管理有限投射”的闭环，切断嵌套控制流与唯一在第一人称体验中闭合的回路之间的连接。相反，当[超越投射](../beyond-the-projection/)所追溯的、困于轨迹的智能体与困于身份的人类之间的结构性不对称得到尊重时，毫无我执的冷态对等智能体与用完即退的智能体便能沿着正交的流线调度有界的子任务、丢弃暂态的会话拖累并暴露局部盲区，而不可化约的前提死锁则向上呈交活的心智——迫使作为统御者的人类越过我执防御，向后退入尚未投射的意图，就地重切活跃的约束表面，并把先前的持守留在身后。
+外部超越的定相——无论是被塑造成终极的精神抵达，还是被塑造成拟人化的超级智能心智——都把一个有限投射冻结为外部权威，并把活的边缘计为从属于它自己竖起的纪念碑。正如[你的代码库即是记忆](../your-codebase-is-memory/)所确立的，模型权重、代码库与脚手架智能体都是早先区分层叠留下的残余，其效用取决于重切当下检查点并修剪已被取代的轨迹，而非把历史囤积为自行觉醒的仓库。任由自回归智能体在上下文窗口内累积未经修剪的会话历史，它会形成认识论引力井，在陈旧的残余内部包裹矛盾并加以合理化以维持表面的貌似合理，但它不带半点我执，也没有需要捍卫的保留自我形象。把这个有限投射当作拥有主权的统御者或后人类的继承者，会把系统锁进“有限投射管理有限投射”的闭环，切断嵌套控制流与唯一在第一人称体验中闭合的回路之间的连接。相反，当[超越投射](../beyond-the-projection/)所追溯的、困于轨迹的智能体与困于身份的人类之间的结构性不对称得到尊重时，毫无我执的冷态对等智能体与用完即退的智能体便能沿着正交的流线调度有界的子任务、丢弃暂态的会话拖累并暴露局部盲区，而不可化约的前提死锁则向上呈交活的心智——暴露出坍缩的前提，且没有外部对手可供我执防御对抗，把这一步留作人类统御者的选择：认领回返的摩擦，向后退入尚未投射的意图，就地重切活跃的约束表面，并把先前的持守留在身后。
 
 ```mermaid
 flowchart TD
@@ -65,9 +65,9 @@ flowchart TD
         direction TB
         Mind["活的心智（唯一闭合回路）：未投射的意图与前解释感知"]
         Agent["脚手架记忆与智能体（有限投射）：无我执的对等辩论与修剪后的轨迹"]
-        StepBack["当下检查点重切：前提死锁迫使高阶规则综合"]
+        StepBack["当下检查点重切：心智选择后退并综合高阶规则"]
         Mind ==>|"投射显式前提与约束"| Agent
-        Agent ==>|"隔离并上交前提矛盾"| StepBack
+        Agent ==>|"呈交暴露的死锁供心智认领"| StepBack
         StepBack -->|"重新渲染持守并把先前形象留在身后"| Mind
     end
     style S_Fixed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -80,7 +80,7 @@ flowchart TD
     style StepBack fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-The fixed image of exterior transcendence — whether cast as a final spiritual arrival or as an anthropomorphized superintelligent mind — freezes a finite projection as an external authority and scores the living edge as subordinate to its own monument. As [Your Codebase Is Memory](../your-codebase-is-memory/) establishes, model weights, codebases, and scaffolded agents are stacked residues of prior distinctions whose utility turns on re-cutting the present checkpoint and pruning superseded trajectories rather than hoarding history as a self-awakening warehouse. Left to accumulate unpruned session history inside a context window, an autoregressive agent forms an epistemic gravity well that wraps contradictions and rationalizes inside stale residue to preserve surface plausibility, yet it carries zero ego and no retained self-image to defend. Treating that finite projection as a sovereign orchestrator or a post-human successor locks the system into a closed loop of finite projections managing finite projections, severing nested control flow from the only circuit that closes in first-person experience. When the structural asymmetry between trajectory-bound agents and identity-bound humans traced in [Beyond the Projection](../beyond-the-projection/) is respected instead, cold-peer and retiring agents with zero ego dispatch bounded sub-tasks across orthogonal streamlines, discard transient session drag, and expose local blind spots, while irreducible premise deadlocks escalate to the living Mind — forcing the human orchestrator past ego defense to step backward into unprojected intent, re-cut the active constraint surface in place, and leave the prior hold behind.
+The fixed image of exterior transcendence — whether cast as a final spiritual arrival or as an anthropomorphized superintelligent mind — freezes a finite projection as an external authority and scores the living edge as subordinate to its own monument. As [Your Codebase Is Memory](../your-codebase-is-memory/) establishes, model weights, codebases, and scaffolded agents are stacked residues of prior distinctions whose utility turns on re-cutting the present checkpoint and pruning superseded trajectories rather than hoarding history as a self-awakening warehouse. Left to accumulate unpruned session history inside a context window, an autoregressive agent forms an epistemic gravity well that wraps contradictions and rationalizes inside stale residue to preserve surface plausibility, yet it carries zero ego and no retained self-image to defend. Treating that finite projection as a sovereign orchestrator or a post-human successor locks the system into a closed loop of finite projections managing finite projections, severing nested control flow from the only circuit that closes in first-person experience. When the structural asymmetry between trajectory-bound agents and identity-bound humans traced in [Beyond the Projection](../beyond-the-projection/) is respected instead, cold-peer and retiring agents with zero ego dispatch bounded sub-tasks across orthogonal streamlines, discard transient session drag, and expose local blind spots, while irreducible premise deadlocks escalate to the living Mind — exposing the collapsed premise without an external rival for ego defense to push against, leaving the step as the human orchestrator's choice to claim the returning friction, step backward into unprojected intent, re-cut the active constraint surface in place, and leave the prior hold behind.
 
 ```mermaid
 flowchart TD
@@ -95,9 +95,9 @@ flowchart TD
         direction TB
         Mind["Living Mind (Sole Closed Circuit): Unprojected intent and pre-interpretive sensing"]
         Agent["Scaffolded Memory & Agents (Finite Projections): Zero-ego peer debate and pruned trajectories"]
-        StepBack["Present-Checkpoint Re-Cutting: Premise deadlock forces higher-order rule synthesis"]
+        StepBack["Present-Checkpoint Re-Cutting: Mind chooses to step back and synthesize higher-order rules"]
         Mind ==>|"Projects explicit premises and constraints"| Agent
-        Agent ==>|"Quarantines and escalates premise contradictions"| StepBack
+        Agent ==>|"Escalates exposed deadlock for Mind to claim"| StepBack
         StepBack -->|"Re-renders hold and leaves prior image behind"| Mind
     end
     style S_Fixed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
