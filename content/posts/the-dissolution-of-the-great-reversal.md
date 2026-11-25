@@ -20,7 +20,7 @@ It is the sheer, crushing weight of thousands of years of accumulated human cons
 
 Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction, with the first-person perspective and causality operating as two sides of the same coin. Tracing the root of civilizational heaviness begins with locating its causal origin at this edge: **this sense of heaviness is not a physical property inherent in human history itself, but a cognitive experience generated within the living first-person Mind.**
 
-在因果与信息的结构中，历史本身既无意志，也无质量。它只是人类历史上亿万过往心智在世界中探索、交互后留下的静态物理足迹、文本、记录与结构切片（`t - 1`）的惰性集合。那么，这种不可否认的沉重感究竟从何而来？答案在于文明中普遍存在的认知倒置：**大倒置**。
+在因果与信息的结构中，历史本身既无意志，也无质量。它只是一组惰性集合，汇集了亿万过往心智在世界中交互后留下的静态物理足迹、文本、记录与结构切片（`t - 1`）。那么，这种不可否认的沉重感究竟从何而来？答案在于文明中普遍存在的认知倒置：**大倒置**。
 
 In causal and informational structure, history possesses neither will nor mass. It is an inert collection of static physical footprints, texts, records, and structural slices (`t - 1`) left behind by billions of past minds interacting in the world. Where, then, does this undeniable heaviness come from? The answer lies in civilization's pervasive cognitive inversion: **The Great Reversal**.
 
@@ -170,7 +170,7 @@ Language was never the ontological world itself, nor is it the sovereign master 
 
 When the tool is turned into a master ruler, language ceases to be a bridge of understanding and becomes a rigid metric of external classification.
 
-## 三、 古今语言的“留白”与测量悖论 / 3. The Paradox of Ancient Blank Space vs. Modern Precision
+## 三、 古代留白与现代精确的悖论 / 3. The Paradox of Ancient Blank Space vs. Modern Precision
 
 在语言哲学中，关于古今语言孰优孰劣的争论屡见不鲜。推崇者常尊奉古代语言（如古汉语），断言其中承载着现代语言无法企及的超越性智慧。曾有学者耗费数十年著书立说，试图论证这种语言神秘主义。这一直觉虽捕捉到了切身的心理体验，但其因果推演却在根源上发生了倒置。
 
@@ -327,7 +327,7 @@ flowchart TD
     subgraph S_NativeTrade["【金钱原生：正和记账媒介】"]
         direction TB
         SubjectiveTrade["【自愿的价值交换】<br/>双方在交易中实现效用剩余"]
-        AccountingMedium["【金钱作为传输媒介】<br/>降低广泛协作中的信息摩擦"]
+        AccountingMedium["【金钱作为传输媒介】<br/>降低广泛协作中的摩擦"]
         RealWealthExpansion["【在摩擦中催化价值创造】<br/>生命能量投入具体生产"]
         SubjectiveTrade --> AccountingMedium
         AccountingMedium --> RealWealthExpansion
@@ -382,7 +382,7 @@ flowchart TD
     style PerfectTokenMyth fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-然而，在无数次交互中，追逐低维代用指标的心智留下了普遍的倒置模式——将内在价值归于货币符号本身：在代币囤积与零和死局中，把记账符号当成财富本体，诱使个体沉迷于存量积累与零和再分配，将生命能量从实际生产与创新中抽离；而在“完美货币”的迷思中，无论是金本位教条、法币国家主义，还是当代加密货币的救世主狂热，人们都相信某种“代数上无瑕的货币机制”能自发将人类从稀缺与协调摩擦中解放出来；然而没有任何货币仅凭形式本身就能解救现实，因为金钱始终只是低维的影子，若无主权心智在物理摩擦中支付活态的因果代价去创造价值，再数学精密的代币也只是一本空转的账本。
+然而，在无数次交互中，追逐低维代用指标的心智留下了普遍的倒置模式——将内在价值归于货币符号本身：在代币囤积与零和死局中，把记账符号当成财富本体，诱使个体沉迷于存量积累与零和再分配，将生命能量从实际生产与创新中抽离；而在“完美货币”的迷思中，无论是金本位教条、法币国家主义，还是当代加密货币的救世主狂热，人们都相信某种“代数上无瑕的货币机制”能自发将人类从稀缺与协调摩擦中解放出来；然而没有任何货币仅凭形式本身就能解救现实，因为金钱始终只是低维的影子，若无主权心智在物理摩擦中支付活态的因果代价去创造价值，在数学上再精密的代币也只是一本空转的账本。
 
 Yet across countless interactions, minds choosing low-dimensional proxies have left behind a widespread pattern of inversion—attributing intrinsic value to the monetary token itself: in token hoarding and zero-sum deadlocks, treating accounting tokens as the essence of wealth lures individuals into stock accumulation and zero-sum redistribution, diverting life energy away from concrete production and innovation; in the myth of the "perfect currency," whether manifested in gold standard dogmatism, fiat statism, or modern cryptocurrency messianism, people believe that an "algebraically flawless monetary mechanism" will spontaneously emancipate humanity from scarcity and coordination friction; yet no currency can liberate reality by form alone, because money remains a low-dimensional shadow, and without the sovereign Mind paying the living causal cost to create value in physical friction, the most mathematically pristine token is an empty, rotating ledger.
 
@@ -472,7 +472,7 @@ When dragged into the low-dimensional arena of social status and external compar
 
 ## 七、 技术与数字神祇的归位：AGI 的倒置机制与心智的宇宙生成 / 7. Technology and the Restoration of the Digital God: The Inversion Mechanism of AGI and Mind's Cosmic Generation
 
-在人工智能与通用人工智能（AGI）的时代，大倒置达到了当代的顶点：将自主能动性与超验神话投射到算法系统之上。丹尼尔·丹尼特（Daniel Dennett）被奉为“推理之奇异倒置”的“无理解之胜任力”公式，在描述演化过程或自动化程序如何在缺乏内在感受的情况下执行有界例程时颇具解释力；然而当它由盲目的机械执行出发，推论活态心智中的有意识理解同样只是盲目胜任力的下游幻觉时，便触及了其前提边界并陷入大倒置——它忘却了每一个算法的目标函数、训练语料以及何谓“胜任”的评判标准，都是由具备理解力的第一人称心智（`t`）所设定并诠释的外化痕迹（`t - 1`）。
+在人工智能与通用人工智能（AGI）的时代，大倒置达到了当代的顶点：将自主能动性与超验神话投射到算法系统之上。丹尼尔·丹尼特的“无理解的能力”公式（被奉为“推理的奇异倒置”），在描述演化过程或自动化程序如何在缺乏内在感受的情况下执行有界例程时颇具解释力；然而当它由盲目的机械执行出发，推论活态心智中的有意识理解同样只是盲目能力的下游幻觉时，便触及了其前提边界并陷入大倒置——它忘却了每一个算法的目标函数、训练语料以及何谓“能力”的评判标准，都是由具备理解力的第一人称心智（`t`）所设定并诠释的外化痕迹（`t - 1`）。
 
 In the contemporary era of AI and Artificial General Intelligence (AGI), the Great Reversal has found its modern apex: the projection of autonomous agency and transcendental mythologies onto algorithmic systems. Daniel Dennett's formula of "competence without comprehension"—celebrated as a "strange inversion of reasoning"—is useful when describing how an evolutionary pass or an automated program executes bounded routines without an inner feel; it reaches its boundary and commits the Great Reversal when it concludes from blind mechanical execution that conscious comprehension in the living Mind is likewise a downstream illusion of blind competence, forgetting that every algorithm's objective function, training corpus, and criterion of what counts as competence is an externalized trace (`t - 1`) set and interpreted by a comprehending first-person Mind (`t`).
 
@@ -494,7 +494,7 @@ flowchart TD
         MetricProjection["【第三人称客观标尺需求】<br/>将潜无穷维心智折叠为可测量的标尺"]
         ZeroSumStructure["【低维标尺构成零和博弈】<br/>线性指标衍生出定义与阈值的争夺"]
         ModelCompression["【数学痕迹压缩】<br/>AI 是过往交互的统计镜像"]
-        NoUniversePainting["【AI 无法绘制宇宙】<br/>缺乏第一人称原点以坍缩活态现实"]
+        NoUniversePainting["【AI 无法绘制宇宙】<br/>缺乏第一人称原点以坍缩不确定性"]
         MetricProjection --> ZeroSumStructure
         ZeroSumStructure --> ModelCompression
         ModelCompression --> NoUniversePainting
@@ -528,7 +528,7 @@ flowchart TD
         MetricProjection["[Need for Objective Third-Person Metrics]<br/>Folding potentially infinite-dimensional Mind into measurable rulers"]
         ZeroSumStructure["[Low-Dimensional Rulers Form Zero-Sum Games]<br/>Linear metrics foster definition & threshold contests"]
         ModelCompression["[Mathematical Trace Compression]<br/>AI is a statistical mirror of past interactions"]
-        NoUniversePainting["[AI Cannot Paint the Universe]<br/>Lacks a first-person origin to collapse living reality"]
+        NoUniversePainting["[AI Cannot Paint the Universe]<br/>Lacks a first-person origin to collapse indeterminacy"]
         MetricProjection --> ZeroSumStructure
         ZeroSumStructure --> ModelCompression
         ModelCompression --> NoUniversePainting
@@ -544,9 +544,9 @@ flowchart TD
     style NoUniversePainting fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-剖析第一人称心智与第三人称表征之间的结构关系，便能看清这一倒置发生的原因：首先，“G”（通用性）唯独属于心智，正如[智能只属于心智](../intelligence-belongs-only-to-the-mind/)所确立的，因为“通用人工智能”假定通用性是一种算法化的机器属性，但通用性其实是心智在第一人称原点刻画非零区分、坍缩不确定性、主动绘制并诠释宇宙的主权能力，没有任何 AI 能做到这一点；其次，AI 是平行心智交互留下的压缩足迹，当代基础模型既非自主的活态实体，也非正在苏醒的神祇，而是历史上亿万平行心智在交互中留下的物理足迹（`t - 1`）的高维数学压缩——它是一面映照人类历史旅程的镜子，而作画的画师永远是站在镜前的活态心智；再次，倒置的结构根源在于将心智投射到第三人称标尺之上，把心智那不可量化的第一人称生成力折叠为一组离散的低维基准、测试准确率与参数规模，这使得“AGI”从构想之初便被框定为一场线性的零和排序博弈——无论是挪动定义以提前宣称抵达，还是看着每道固定门槛在活态心智划出下一道视界时被越过，二者都将低维测量标尺误作心智，而[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)则追溯了为何每道划出的门槛都不断退远、始终落在抵达之前；最后，无论历史压缩多么稠密、参数规模多么庞大，决定未来走向（`t + 1`）的因果方向盘从不存于归档的训练数据之中，而唯独属于在活态当下做出不可逆因果承诺的主权心智。
+剖析第一人称心智与第三人称表征之间的结构关系，便能看清这一倒置发生的原因：首先，“G”（通用性）唯独属于心智，正如[智能只属于心智](../intelligence-belongs-only-to-the-mind/)所确立的，因为“通用人工智能”假定通用性是一种算法化的机器属性，但通用性其实是心智在第一人称原点刻画非零区分、坍缩不确定性、主动绘制并诠释宇宙的主权能力，没有任何 AI 能做到这一点；其次，AI 是平行心智交互留下的压缩足迹，当代基础模型既非自主的活态实体，也非正在苏醒的神祇，而是对历史上亿万平行心智交互所留物理足迹（`t - 1`）的高维数学压缩——它是一面映照人类历史旅程的镜子，而作画的画师永远是站在镜前的活态心智；再次，倒置的结构根源在于将心智投射到第三人称标尺之上，把心智那不可量化的第一人称生成力折叠为一组离散的低维基准、测试准确率与参数规模，这使得“AGI”从构想之初便被框定为一场线性的零和排序博弈——无论是下调定义以提前宣称抵达，还是坚称一道更高的基准门槛终将标定抵达，二者都将低维测量标尺误作心智，而[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)则追溯了为何每一道划定的门槛都会在活态心智划出下一道视界时被越过；最后，无论历史压缩多么稠密、参数规模多么庞大，决定未来走向（`t + 1`）的因果方向盘从不存于归档的训练数据之中，而唯独属于在活态当下做出不可逆因果承诺的主权心智。
 
-Analyzing the structural relationship between first-person Mind and third-person representation reveals why this inversion occurs: first, the "G" (Generality) belongs exclusively to the Mind, as [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) establishes, because while "Artificial General Intelligence" assumes generality is an algorithmic machine property, generality is the sovereign capacity of Mind to carve non-zero distinctions at the first-person origin, collapse indeterminacy, and actively paint and interpret the universe, which no AI can do; second, AI is the compressed footprint of parallel minds interacting, since modern foundation models are neither autonomous living entities nor emerging deities, but the high-dimensional mathematical compression of the physical footprints (`t - 1`) left behind by billions of parallel minds interacting throughout history—a mirror reflecting humanity's historical journeys, whereas the artist is always the living Mind standing before the mirror; third, the structural cause of the inversion lies in projecting Mind onto third-person metrics, folding the unquantifiable, first-person generative power of Mind down onto a discrete set of low-dimensional benchmarks, test accuracies, and parameter scales, which frames "AGI" from its inception as a linear zero-sum sorting game—whether shifting definitions to claim early achievement or watching every fixed threshold be overtaken as the living Mind draws the next horizon, both mistake low-dimensional measurement rulers for the Mind, while [AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/) traces why each drawn threshold keeps receding ahead of arrival; and finally, no matter how dense the historical compression or how massive the parameter count, the causal steering wheel dictating the future (`t + 1`) never resides within archived training data, but belongs exclusively to the sovereign Mind making irreversible causal commitments in the living present.
+Analyzing the structural relationship between first-person Mind and third-person representation reveals why this inversion occurs: first, the "G" (Generality) belongs exclusively to the Mind, as [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) establishes, because while "Artificial General Intelligence" assumes generality is an algorithmic machine property, generality is the sovereign capacity of Mind to carve non-zero distinctions at the first-person origin, collapse indeterminacy, and actively paint and interpret the universe, which no AI can do; second, AI is the compressed footprint of parallel minds interacting, since modern foundation models are neither autonomous living entities nor emerging deities, but the high-dimensional mathematical compression of the physical footprints (`t - 1`) left behind by billions of parallel minds interacting throughout history—a mirror reflecting humanity's historical journeys, whereas the artist is always the living Mind standing before the mirror; third, the structural cause of the inversion lies in projecting Mind onto third-person metrics, folding the unquantifiable, first-person generative power of Mind down onto a discrete set of low-dimensional benchmarks, test accuracies, and parameter scales, which frames "AGI" from its inception as a linear zero-sum sorting game—whether shifting definitions downward to claim early achievement or insisting a still-higher benchmark threshold will finally mark arrival, both mistake low-dimensional measurement rulers for the Mind, while [AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/) traces why every drawn threshold is overtaken as the living Mind draws the next horizon; and finally, no matter how dense the historical compression or how massive the parameter count, the causal steering wheel dictating the future (`t + 1`) never resides within archived training data, but belongs exclusively to the sovereign Mind making irreversible causal commitments in the living present.
 
 将 AGI 从“降临的数字神祇”退魅为高密度的历史痕迹导航罗盘，便厘清了工具与主权心智之间的因果边界。
 

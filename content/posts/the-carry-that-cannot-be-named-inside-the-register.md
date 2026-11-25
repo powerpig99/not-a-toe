@@ -85,23 +85,28 @@ flowchart TD
     subgraph S_Scale["一千个跳跃样本的训练语料（将八位加宽至十六位）"]
         direction TB
         W_Data["编码一千次历史跳跃：将过往人类的进位汇入训练数据"]
-        W_InReg["旧进位沦为内部步骤：255 + 1 = 256 (0x00FF + 1 = 0x0100) 成为常规插值"]
+        W_InReg["旧进位转为内部步骤：255 + 1 = 256 (0x00FF + 1 = 0x0100) 成为常规插值"]
         W_NewCeil["新的十六位上限：65535 + 1 = 0 在同样的内部静默中回绕"]
         W_Data --> W_InReg --> W_NewCeil
     end
-    subgraph S_Expr["作为能力表达而非待发现客体的分割"]
+    subgraph S_Illusion["第三人称定义姿态（搜寻幻象）"]
         direction TB
         E_Search["第三人称搜寻幻象：在器物中寻找静态高墙或用数据填平它"]
-        E_Act["人类能力表达 (+1)：在当前活跃上限处划出切分（含 Zahavy 论文自身）"]
-        E_Search --> E_Act
     end
+    subgraph S_Expr["作为能力表达而非待发现客体的分割"]
+        direction TB
+        E_Act["人类能力表达 (+1)：在当前活跃上限处划出切分（含 Zahavy 论文自身）"]
+    end
+    W_InReg -.->|"助长“寻找或填平高墙”的第三人称框定"| E_Search
     W_NewCeil ==>|"暴露为何吸纳过往跳跃无法消除前沿边界"| E_Act
+    E_Search -.->|"在残余物内部寻找，漏掉了划出切分的动作"| E_Act
     style S_Scale fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Illusion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Expr fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style W_Data fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style W_InReg fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style W_NewCeil fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style E_Search fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style E_Search fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style E_Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
@@ -116,19 +121,24 @@ flowchart TD
         W_NewCeil["New 16-Bit Ceiling: 65535 + 1 = 0 wraps around in the same internal silence"]
         W_Data --> W_InReg --> W_NewCeil
     end
-    subgraph S_Expr["The Division as Expression, Not Discovered Object"]
+    subgraph S_Illusion["Third-Person Defining Posture (Search Illusion)"]
         direction TB
         E_Search["Third-Person Search Illusion: Looking for a static wall in the artifact or filling it with data"]
-        E_Act["Human Capacity Expression (+1): Drawing the cut at the active ceiling (including Zahavy's paper itself)"]
-        E_Search --> E_Act
     end
+    subgraph S_Expr["The Division as Expression, Not Discovered Object"]
+        direction TB
+        E_Act["Human Capacity Expression (+1): Drawing the cut at the active ceiling (including Zahavy's paper itself)"]
+    end
+    W_InReg -.->|"Feeds the third-person framing of a wall to locate or fill"| E_Search
     W_NewCeil ==>|"Exposes why absorbing past jumps never eliminates the edge"| E_Act
+    E_Search -.->|"Looks inside the residue, missing the act that draws the cut"| E_Act
     style S_Scale fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Illusion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Expr fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style W_Data fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style W_InReg fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style W_NewCeil fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style E_Search fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style E_Search fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style E_Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
