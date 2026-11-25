@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-24T21:32:40.089Z",
+    "generated_at": "2026-11-25T04:42:46.328Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -249,6 +249,7 @@
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "91eb49ab18cf",
       "content/posts/the-boundary-of-the-frame.md": "4961d7b8da4c",
       "content/posts/the-brain-does-not-backprop.md": "e1886dd17252",
+      "content/posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation.md": "e43711bd6bad",
       "content/posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice.md": "988bf37e7a02",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "a8a4ce29b72b",
       "content/posts/the-carry-that-cannot-be-named-inside-the-register.md": "c9d4f62e603a",
@@ -478,8 +479,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "5f302d15f373",
-      "content/book/economics.md": "d8d9ef589145",
-      "content/book/index-of-premises.md": "f605a46f67d6",
+      "content/book/economics.md": "30efde803853",
+      "content/book/index-of-premises.md": "d404f64d9ded",
       "content/book/intelligence.md": "ff7c08b8ecea",
       "content/book/knowledge-and-learning.md": "a885aa187e8e",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -494,16 +495,16 @@
       "content/book/tools-and-progress.md": "276037119294"
     },
     "stats": {
-      "posts": 468,
-      "edges": 14536,
-      "unique_directed": 7148,
+      "posts": 469,
+      "edges": 14572,
+      "unique_directed": 7166,
       "missing_targets": 0,
-      "one_way": 1652,
+      "one_way": 1670,
       "isolated": 0,
-      "posts_with_outbound": 468,
+      "posts_with_outbound": 469,
       "book_pages": 16,
-      "book_edges": 1684,
-      "posts_reached_by_book": 468
+      "book_edges": 1692,
+      "posts_reached_by_book": 469
     }
   },
   "hubs_in": [
@@ -517,11 +518,11 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 118
+      "in_degree": 119
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 100
+      "in_degree": 101
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -541,7 +542,7 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 60
+      "in_degree": 61
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
@@ -580,11 +581,11 @@
       "in_degree": 38
     },
     {
-      "slug": "causality-all-the-way",
-      "in_degree": 37
+      "slug": "symptom-and-cause-in-the-narratives-of-progress",
+      "in_degree": 38
     },
     {
-      "slug": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "slug": "causality-all-the-way",
       "in_degree": 37
     }
   ],
@@ -3749,7 +3750,7 @@
       "path": "content/posts/having-more-is-never-the-cause.md",
       "title": "拥有更多从不是原因 / Having More Is Never the Cause",
       "hash": "fff7b1e393f6",
-      "in_degree": 30,
+      "in_degree": 31,
       "out_degree": 22,
       "links_out": [
         "not-predicting-is-predicting-without-awareness",
@@ -3849,7 +3850,7 @@
       "path": "content/posts/how-belief-actually-changes.md",
       "title": "信念如何真正改变 / How Belief Actually Changes",
       "hash": "6e1f9f8d6f3b",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 23,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -3976,7 +3977,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers",
       "hash": "e5e1fcd23570",
-      "in_degree": 118,
+      "in_degree": 119,
       "out_degree": 103,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -4125,7 +4126,7 @@
       "path": "content/posts/inheritance-as-residue-and-the-need-for-extraction.md",
       "title": "继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction",
       "hash": "0c7ba216c8ac",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 15,
       "links_out": [
         "your-codebase-is-memory",
@@ -4668,7 +4669,7 @@
       "path": "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md",
       "title": "幂律是结果的表象 / Power Law Is the Surface of Outcomes",
       "hash": "838280739a81",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 10,
       "links_out": [
         "qian-yin-hou-guo",
@@ -5489,7 +5490,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
       "hash": "de9e7ea03986",
-      "in_degree": 100,
+      "in_degree": 101,
       "out_degree": 90,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -5640,7 +5641,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "自我价值感与所有权 / Ownership and Self-Worthiness",
       "hash": "d1790373edbf",
-      "in_degree": 60,
+      "in_degree": 61,
       "out_degree": 57,
       "links_out": [
         "the-meaning-of-life-is-in-the-drafting",
@@ -6048,7 +6049,7 @@
       "path": "content/posts/price-as-utterance-understanding-as-trade.md",
       "title": "价格是言说，理解是交易 / Price as Utterance, Understanding as Trade",
       "hash": "11deadd7c5d2",
-      "in_degree": 26,
+      "in_degree": 27,
       "out_degree": 21,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -6197,7 +6198,7 @@
       "path": "content/posts/rationality-never-travels-across-the-mind.md",
       "title": "理性从不跨越心智 / Rationality Never Travels Across the Mind",
       "hash": "3cb2e68dd3f2",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 8,
       "links_out": [
         "the-rational-choice-postulate-is-the-original-sin",
@@ -6987,7 +6988,7 @@
       "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
       "title": "进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress",
       "hash": "1c779f9f8528",
-      "in_degree": 37,
+      "in_degree": 38,
       "out_degree": 33,
       "links_out": [
         "when-the-effect-authors-the-frame",
@@ -7291,7 +7292,7 @@
       "path": "content/posts/the-average-is-residue-not-the-engine.md",
       "title": "平均值是残余，不是引擎 / The Average Is Residue, Not the Engine",
       "hash": "b881dcae3e7d",
-      "in_degree": 34,
+      "in_degree": 35,
       "out_degree": 25,
       "links_out": [
         "the-rational-choice-postulate-is-the-original-sin",
@@ -7579,6 +7580,36 @@
       ]
     },
     {
+      "id": "post:the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "kind": "post",
+      "slug": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "path": "content/posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation.md",
+      "title": "建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation",
+      "hash": "e43711bd6bad",
+      "in_degree": 0,
+      "out_degree": 18,
+      "links_out": [
+        "price-as-utterance-understanding-as-trade",
+        "having-more-is-never-the-cause",
+        "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+        "the-market-repricing-of-productive-base",
+        "the-generative-mechanics-of-value-money-and-wealth",
+        "inheritance-as-residue-and-the-need-for-extraction",
+        "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+        "the-rational-choice-postulate-is-the-original-sin",
+        "rationality-never-travels-across-the-mind",
+        "the-opacity-of-production-and-the-weight-of-consumption",
+        "symptom-and-cause-in-the-narratives-of-progress",
+        "the-causal-order-of-private-residuals-and-social-surplus",
+        "mi-lv-shi-jie-guo-de-biao-xiang",
+        "the-average-is-residue-not-the-engine",
+        "individual-choices-as-the-only-causal-levers",
+        "how-belief-actually-changes",
+        "ownership-and-self-worthiness",
+        "openness-is-consistency"
+      ]
+    },
+    {
       "id": "post:the-built-in-infinity-of-integers-and-the-backgrounded-choice",
       "kind": "post",
       "slug": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
@@ -7748,7 +7779,7 @@
       "path": "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md",
       "title": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus",
       "hash": "ea14066b3ea8",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 13,
       "links_out": [
         "having-more-is-never-the-cause",
@@ -8952,7 +8983,7 @@
       "path": "content/posts/the-generative-mechanics-of-value-money-and-wealth.md",
       "title": "价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth",
       "hash": "4fe3a0ef9161",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 21,
       "links_out": [
         "price-as-utterance-understanding-as-trade",
@@ -10023,7 +10054,7 @@
       "path": "content/posts/the-market-repricing-of-productive-base.md",
       "title": "生产性基础的市场重定价 / The Market Repricing of Productive Base",
       "hash": "0a0ff0e0856a",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 11,
       "links_out": [
         "price-as-utterance-understanding-as-trade",
@@ -10496,7 +10527,7 @@
       "path": "content/posts/the-opacity-of-production-and-the-weight-of-consumption.md",
       "title": "生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption",
       "hash": "9d5edc313265",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 13,
       "links_out": [
         "the-frontier-lifts-the-floor",
@@ -10891,7 +10922,7 @@
       "path": "content/posts/the-rational-choice-postulate-is-the-original-sin.md",
       "title": "理性选择公设是原罪 / The Rational Choice Postulate Is the Original Sin",
       "hash": "6295fda97469",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 22,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -11172,7 +11203,7 @@
       "path": "content/posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations.md",
       "title": "排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations",
       "hash": "5e9e6f5dcd66",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 12,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -11252,7 +11283,7 @@
       "path": "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md",
       "title": "财富转移政策与价格下限中的原因错置 / The Misallocation of Cause in Wealth-Transfer Policies and Price Floors",
       "hash": "c8f2a7bc8d03",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 17,
       "links_out": [
         "when-the-effect-authors-the-frame",
@@ -61476,6 +61507,222 @@
       "label": "What Hinton Failed to Understand"
     },
     {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "价格是言说，理解是交易"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "拥有更多从不是原因"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "财富转移政策与价格下限中的原因错置"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as Utterance, Understanding as Trade"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having More Is Never the Cause"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "the-market-repricing-of-productive-base",
+      "rel": "points_to",
+      "label": "生产性基础的市场重定价"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "the-market-repricing-of-productive-base",
+      "rel": "points_to",
+      "label": "The Market Repricing of Productive Base"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "价值、货币与财富的生成机制"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "inheritance-as-residue-and-the-need-for-extraction",
+      "rel": "points_to",
+      "label": "继承的残余与索取的必要"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "The Generative Mechanics of Value, Money, and Wealth"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "inheritance-as-residue-and-the-need-for-extraction",
+      "rel": "points_to",
+      "label": "Inheritance as Residue and the Need for Extraction"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "rel": "points_to",
+      "label": "排序的残余与解释的非等效"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "rel": "points_to",
+      "label": "The Residue of Sorting and the Non-Equivalence of Interpretations"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "理性选择公设是原罪"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "rationality-never-travels-across-the-mind",
+      "rel": "points_to",
+      "label": "理性从不跨越心智"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "the-opacity-of-production-and-the-weight-of-consumption",
+      "rel": "points_to",
+      "label": "生产的不透明与消费的权重"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The Rational Choice Postulate Is the Original Sin"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "rationality-never-travels-across-the-mind",
+      "rel": "points_to",
+      "label": "Rationality Never Travels Across the Mind"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "the-opacity-of-production-and-the-weight-of-consumption",
+      "rel": "points_to",
+      "label": "The Opacity of Production and the Weight of Consumption"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "私人残差与社会剩余的因果次序"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "rel": "points_to",
+      "label": "幂律是结果的表象"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "平均值是残余，不是引擎"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "The Causal Order of Private Residuals and Social Surplus"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "rel": "points_to",
+      "label": "Power Law Is the Surface of Outcomes"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "The Average Is Residue, Not the Engine"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "信念如何真正改变"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How Belief Actually Changes"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
       "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
       "to": "precision-and-resolution",
       "rel": "points_to",
@@ -100682,8 +100929,8 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "d8d9ef589145",
-        "out_degree": 37
+        "hash": "30efde803853",
+        "out_degree": 38
       },
       {
         "id": "book:index-of-premises",
@@ -100691,8 +100938,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "f605a46f67d6",
-        "out_degree": 468
+        "hash": "d404f64d9ded",
+        "out_degree": 469
       },
       {
         "id": "book:intelligence",
@@ -101499,6 +101746,12 @@
         "to": "the-market-repricing-of-productive-base",
         "rel": "collects",
         "label": "生产性基础的市场重定价 / The Market Repricing of Productive Base"
+      },
+      {
+        "from": "book:economics",
+        "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+        "rel": "collects",
+        "label": "建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation"
       },
       {
         "from": "book:index-of-premises",
@@ -103692,6 +103945,18 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+        "rel": "collects",
+        "label": "建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+        "rel": "collects",
+        "label": "建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "self-rl-for-humans",
         "rel": "collects",
         "label": "看似AI的强化学习，实为人类的自我强化学习 / What Looks Like RL for AIs Is Self-RL for Humans"
@@ -103755,6 +104020,12 @@
         "to": "the-local-shield-and-the-residual-lag",
         "rel": "collects",
         "label": "本地屏障与残余滞后 / The Local Shield and the Residual Lag"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+        "rel": "collects",
+        "label": "建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation"
       },
       {
         "from": "book:index-of-premises",
@@ -105600,6 +105871,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+        "rel": "collects",
+        "label": "建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "sowell-observed-the-surface-problem",
         "rel": "collects",
         "label": "索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem"
@@ -105933,6 +106210,12 @@
         "to": "the-market-repricing-of-productive-base",
         "rel": "collects",
         "label": "生产性基础的市场重定价 / The Market Repricing of Productive Base"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+        "rel": "collects",
+        "label": "建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation"
       },
       {
         "from": "book:index-of-premises",
@@ -108120,6 +108403,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+        "rel": "collects",
+        "label": "建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "rel": "collects",
         "label": "财富转移政策与价格下限中的原因错置 / The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
@@ -108147,6 +108436,12 @@
         "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
         "rel": "collects",
         "label": "福利国家的幻象 / The Welfare State Illusion"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+        "rel": "collects",
+        "label": "建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation"
       },
       {
         "from": "book:index-of-premises",

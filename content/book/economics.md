@@ -49,3 +49,4 @@ The essays in this part examine the closed premises of the rational choice postu
 - [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/)
 - [表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice](../../posts/apparent-regulation-and-the-primacy-of-choice/)
 - [生产性基础的市场重定价 / The Market Repricing of Productive Base](../../posts/the-market-repricing-of-productive-base/)
+- [建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation](../../posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation/)
