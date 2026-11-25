@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-25T06:26:58.422Z",
+    "generated_at": "2026-11-25T07:10:04.831Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -15,7 +15,7 @@
       "content/posts/abstract-pain-and-living-hunger.md": "521edf2dc946",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "c52d6149ba98",
       "content/posts/abstraction-determination-and-the-three-structural-flaws-of-machine-learning.md": "ebd51c27bb8b",
-      "content/posts/accelerating-replacement-and-image-lag.md": "cb3ddabb6fbe",
+      "content/posts/accelerating-replacement-and-image-lag.md": "03a81eafc68b",
       "content/posts/actual-infinity-born-inside-potential-infinity.md": "6f688ab99507",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "fc6dd32eeea8",
       "content/posts/agency-and-the-pattern.md": "b02ee5b125ec",
@@ -30,7 +30,7 @@
       "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "e1052154972b",
       "content/posts/amplification-paradox.md": "a275c141a687",
       "content/posts/an-observation-by-its-own-standard.md": "1d44b8371330",
-      "content/posts/apparent-regulation-and-the-primacy-of-choice.md": "b046d6035726",
+      "content/posts/apparent-regulation-and-the-primacy-of-choice.md": "5e6d80555130",
       "content/posts/architecture-of-recursive-distinction.md": "bc11baadb09a",
       "content/posts/asymmetry-of-ascription.md": "07b4532b4958",
       "content/posts/better-than-free-after-the-checklist-closes.md": "d39b1b10df08",
@@ -38,7 +38,7 @@
       "content/posts/beyond-the-projection.md": "8a8000a62e66",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "bc4af4be9924",
       "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "0ff597e3465b",
-      "content/posts/boundary-of-the-isolation-idealization-and-the-non-closable-open.md": "95c06a2a301e",
+      "content/posts/boundary-of-the-isolation-idealization-and-the-non-closable-open.md": "c38c342530ec",
       "content/posts/carbon-form-as-residual-path-silicon-as-extension.md": "8396e66e8ccd",
       "content/posts/causality-all-the-way.md": "335fcadee6b9",
       "content/posts/causality-and-the-irreducible-prior.md": "23039b57892e",
@@ -49,11 +49,11 @@
       "content/posts/chollet-intelligence-explosion-analysis.md": "35675f123c70",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "b2def21d59e6",
       "content/posts/claudes-constitution-analysis.md": "2905a740b2f2",
-      "content/posts/clean-averaging-and-residual-choice.md": "b8f37599a129",
+      "content/posts/clean-averaging-and-residual-choice.md": "50744be34c78",
       "content/posts/cli-interface-stack.md": "434ef2a6fde5",
       "content/posts/climbing-does-not-leave-the-ground.md": "1c2abe2271a4",
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "8379c3e264d9",
-      "content/posts/closed-framing-and-the-reduction-of-optionality.md": "ec49869d75c7",
+      "content/posts/closed-framing-and-the-reduction-of-optionality.md": "25cec329dace",
       "content/posts/closed-reality-in-benchmark-maxing.md": "d48f8bf1d450",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "6f773894db5c",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "cc404c54ab5b",
@@ -76,7 +76,7 @@
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "96ad76ec209c",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "8b0479c7311d",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "9f8bcbd44c69",
-      "content/posts/differentiation-and-the-appearance-of-negation.md": "0a7d8d3c7a5a",
+      "content/posts/differentiation-and-the-appearance-of-negation.md": "f27b8e49ff65",
       "content/posts/dimensions-are-projections.md": "961c2096adad",
       "content/posts/displayed-solitude-is-residual-after-secured-connection.md": "084dfa083081",
       "content/posts/distillation-compression-agency.md": "8be4ecf97ac2",
@@ -88,7 +88,7 @@
       "content/posts/empathy-as-projection-collapse.md": "5cbf1eab5d16",
       "content/posts/empowerment-establishes-the-centralization-of-power.md": "be211822da62",
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "b2f86b2c938b",
-      "content/posts/eternally-wrong-questions-that-haunt-practice.md": "5be80163c785",
+      "content/posts/eternally-wrong-questions-that-haunt-practice.md": "1e712c17ce49",
       "content/posts/every-limitation-is-self-limitation.md": "b32af09836ce",
       "content/posts/everything-is-changing-as-always.md": "0a29a79b4870",
       "content/posts/evil-as-projected-resistance.md": "0fbf3620a2ff",
@@ -98,7 +98,7 @@
       "content/posts/extended-cognition-refined.md": "841b56f8be2d",
       "content/posts/extension-and-shift.md": "bdb72c646856",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "a0c1f4787547",
-      "content/posts/externalizing-unmet-drive-as-the-pathology-of-growth.md": "1b67cba46a93",
+      "content/posts/externalizing-unmet-drive-as-the-pathology-of-growth.md": "ca1002317b56",
       "content/posts/failure-as-information.md": "11a236cd7faa",
       "content/posts/fate-loves-irony-refined.md": "588c29686b20",
       "content/posts/felt-resistance-and-the-speed-differential.md": "c19840358a80",
@@ -110,7 +110,7 @@
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "7f6b0b44e28f",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "4cb2c56d2367",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "f2777f5600d2",
-      "content/posts/generation-beyond-the-boundary-and-internal-rearrangement.md": "b3038ee28ac4",
+      "content/posts/generation-beyond-the-boundary-and-internal-rearrangement.md": "2f9811047c3f",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "e21403fb50ae",
       "content/posts/grok-420-framework-drift.md": "8bdca7e537fb",
       "content/posts/guan-yu-gui-yin.md": "da039a5a5061",
@@ -131,8 +131,8 @@
       "content/posts/immortality-final.md": "2bbeb6b8ed55",
       "content/posts/incompleteness-exhibited-twice.md": "87f45601a359",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "e5e1fcd23570",
-      "content/posts/infinity-within-the-seat.md": "cf3a8bc167af",
-      "content/posts/inheritance-as-residue-and-the-need-for-extraction.md": "0c7ba216c8ac",
+      "content/posts/infinity-within-the-seat.md": "f5aea96eb65b",
+      "content/posts/inheritance-as-residue-and-the-need-for-extraction.md": "5aa03242cfbc",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "5153fb0eac11",
       "content/posts/intelligence-crisis-response.md": "ae3e106cc101",
       "content/posts/intelligence-folding-back-on-itself.md": "df71f387f49b",
@@ -153,7 +153,7 @@
       "content/posts/minimizing-path.md": "818c9dd4041e",
       "content/posts/mises-state-analysis.md": "6690c568a71b",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "197756d74a84",
-      "content/posts/mistaking-the-symptom-of-stability-for-its-source.md": "fa72061ad8e4",
+      "content/posts/mistaking-the-symptom-of-stability-for-its-source.md": "612a93468f58",
       "content/posts/moral-language-as-projection.md": "06388db8d0ab",
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "116d97ed1a9a",
       "content/posts/munger-dumb-competition-refined.md": "7f20fb303e4b",
@@ -170,7 +170,7 @@
       "content/posts/not-predicting-is-predicting-without-awareness.md": "7c0dda9a4196",
       "content/posts/objects-are-stabilized-relationships.md": "ccd397c20133",
       "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md": "39117b90bc28",
-      "content/posts/observation-lag-and-the-inversion-of-optionality.md": "48ca1f4b438f",
+      "content/posts/observation-lag-and-the-inversion-of-optionality.md": "260873cc62a0",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "ccfd235ff8c1",
       "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "a6f6e3dbca2b",
       "content/posts/on-education.md": "2506ab652440",
@@ -205,7 +205,7 @@
       "content/posts/reality-is-the-minds-ongoing-realization.md": "812768c94db5",
       "content/posts/rebellion-as-symptom-not-property.md": "ed414a5f0b75",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "c12a17f1cc71",
-      "content/posts/relative-differentials-and-the-compounding-of-comparison.md": "a5e6c9f1628d",
+      "content/posts/relative-differentials-and-the-compounding-of-comparison.md": "fd12c5bc620e",
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "9f43f5131ba5",
       "content/posts/residual-control-recedes-to-the-edge.md": "1e41f477d826",
       "content/posts/residual-individualism.md": "07993abeddee",
@@ -250,7 +250,7 @@
       "content/posts/the-boundary-of-the-frame.md": "4961d7b8da4c",
       "content/posts/the-brain-does-not-backprop.md": "e1886dd17252",
       "content/posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation.md": "68935c7ab950",
-      "content/posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice.md": "988bf37e7a02",
+      "content/posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice.md": "b48f2f724c64",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "a8a4ce29b72b",
       "content/posts/the-carry-that-cannot-be-named-inside-the-register.md": "c9d4f62e603a",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "b6bc0c00f0f4",
@@ -293,7 +293,7 @@
       "content/posts/the-fixed-map-and-the-repeated-trip.md": "513269847c19",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "58ad5f55c2f4",
       "content/posts/the-flywheel-of-the-mind.md": "8023c6735d6f",
-      "content/posts/the-folded-self-image-and-the-bound-of-simulation.md": "973367b35920",
+      "content/posts/the-folded-self-image-and-the-bound-of-simulation.md": "83b3d284d028",
       "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "d245e5c4f9aa",
       "content/posts/the-frame-that-conceals-improvement.md": "9a2ed736458d",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "1f120023244d",
@@ -349,7 +349,7 @@
       "content/posts/the-maintenance-paradox.md": "3f1f65a8893d",
       "content/posts/the-map-after-the-territory.md": "7c4c6f4b27cf",
       "content/posts/the-mark-and-the-act.md": "98b48747d562",
-      "content/posts/the-market-repricing-of-productive-base.md": "0a0ff0e0856a",
+      "content/posts/the-market-repricing-of-productive-base.md": "8ca7afddde6a",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "104d4d3b68bc",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "9a266ff69ee5",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "af784b26392a",
@@ -366,7 +366,7 @@
       "content/posts/the-npc-impression-is-structural.md": "4ac951ad5341",
       "content/posts/the-observational-cut-in-ai-debates.md": "7df2fc299ebb",
       "content/posts/the-only-coherent-uncaused-effect.md": "305f2f69cada",
-      "content/posts/the-opacity-of-production-and-the-weight-of-consumption.md": "9d5edc313265",
+      "content/posts/the-opacity-of-production-and-the-weight-of-consumption.md": "1715ce722226",
       "content/posts/the-open-question-is-determinisms-demand.md": "7763644bf9c7",
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "dc29182803e7",
       "content/posts/the-orthogonal-refusal.md": "68eddc931d5a",
@@ -390,13 +390,13 @@
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "d836ec0d3431",
       "content/posts/the-residue-and-the-free-variable.md": "2d2ce0360330",
       "content/posts/the-residue-of-exercise-and-the-stabilization-of-politics.md": "f05119489494",
-      "content/posts/the-residue-of-progress-and-the-reactivity-of-resistance.md": "9cff78c0794d",
-      "content/posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations.md": "5e9e6f5dcd66",
+      "content/posts/the-residue-of-progress-and-the-reactivity-of-resistance.md": "932e4725e971",
+      "content/posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations.md": "ac21f41166ae",
       "content/posts/the-returning-signal-and-its-claim.md": "973ad49b2d21",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "eac491539bc9",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "c8f2a7bc8d03",
       "content/posts/the-reversal-of-education-and-science.md": "79d30fed4db1",
-      "content/posts/the-reversal-of-the-bystander-commentators.md": "db74aaeec163",
+      "content/posts/the-reversal-of-the-bystander-commentators.md": "06d3872dfad7",
       "content/posts/the-reversal-of-verification.md": "0a1976ee9d00",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "295ca2a6161b",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "b9b1f9d77eb2",
@@ -405,7 +405,7 @@
       "content/posts/the-scaffolding-we-forget.md": "c1628ffd356a",
       "content/posts/the-scaling-loop.md": "048ddcc8bb43",
       "content/posts/the-self-portrait-in-the-projection.md": "a51b01b918a2",
-      "content/posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts.md": "97fa53f31ce5",
+      "content/posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts.md": "34e25a90bd2d",
       "content/posts/the-shadow-and-the-infinite.md": "53e82672e13d",
       "content/posts/the-shadow-has-no-loss.md": "a936fb748b1a",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "15b1c1ed9fa0",
@@ -438,7 +438,7 @@
       "content/posts/the_illegible_compound_retraced.md": "ece24ed3eacb",
       "content/posts/the_moving_ground.md": "ba570ac9a2ab",
       "content/posts/therapy-opens-the-feedback-loop.md": "fef94840ad77",
-      "content/posts/three-distinctions-in-the-silicon-misalignment.md": "0b6f83f70a81",
+      "content/posts/three-distinctions-in-the-silicon-misalignment.md": "d8d88b62cf24",
       "content/posts/time-is-causality-not-a-dimension.md": "2ba1a613c03d",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "8b7996bdb4d5",
       "content/posts/tokens-and-the-observational-boundary.md": "35ae2387b219",
@@ -480,7 +480,7 @@
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "5f302d15f373",
       "content/book/economics.md": "30efde803853",
-      "content/book/index-of-premises.md": "3ac44c8bf586",
+      "content/book/index-of-premises.md": "205a06aa1c55",
       "content/book/intelligence.md": "ff7c08b8ecea",
       "content/book/knowledge-and-learning.md": "a885aa187e8e",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -503,7 +503,7 @@
       "isolated": 0,
       "posts_with_outbound": 469,
       "book_pages": 16,
-      "book_edges": 1689,
+      "book_edges": 1625,
       "posts_reached_by_book": 469
     }
   },
@@ -874,7 +874,7 @@
       "slug": "accelerating-replacement-and-image-lag",
       "path": "content/posts/accelerating-replacement-and-image-lag.md",
       "title": "加速替换与形象滞后 / Accelerating Replacement and Image Lag",
-      "hash": "cb3ddabb6fbe",
+      "hash": "03a81eafc68b",
       "in_degree": 6,
       "out_degree": 21,
       "links_out": [
@@ -1304,7 +1304,7 @@
       "slug": "apparent-regulation-and-the-primacy-of-choice",
       "path": "content/posts/apparent-regulation-and-the-primacy-of-choice.md",
       "title": "表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice",
-      "hash": "b046d6035726",
+      "hash": "5e6d80555130",
       "in_degree": 3,
       "out_degree": 12,
       "links_out": [
@@ -1512,7 +1512,7 @@
       "slug": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
       "path": "content/posts/boundary-of-the-isolation-idealization-and-the-non-closable-open.md",
       "title": "隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open",
-      "hash": "95c06a2a301e",
+      "hash": "c38c342530ec",
       "in_degree": 9,
       "out_degree": 12,
       "links_out": [
@@ -1867,7 +1867,7 @@
       "slug": "clean-averaging-and-residual-choice",
       "path": "content/posts/clean-averaging-and-residual-choice.md",
       "title": "清洁的平均与残余的抉择 / Clean Averaging and Residual Choice",
-      "hash": "b8f37599a129",
+      "hash": "50744be34c78",
       "in_degree": 0,
       "out_degree": 10,
       "links_out": [
@@ -1983,7 +1983,7 @@
       "slug": "closed-framing-and-the-reduction-of-optionality",
       "path": "content/posts/closed-framing-and-the-reduction-of-optionality.md",
       "title": "封闭框定与选择权的缩减 / Closed Framing and the Reduction of Optionality",
-      "hash": "ec49869d75c7",
+      "hash": "25cec329dace",
       "in_degree": 7,
       "out_degree": 15,
       "links_out": [
@@ -2639,7 +2639,7 @@
       "slug": "differentiation-and-the-appearance-of-negation",
       "path": "content/posts/differentiation-and-the-appearance-of-negation.md",
       "title": "区分活动与否定的显现 / Differentiation and the Appearance of Negation",
-      "hash": "0a7d8d3c7a5a",
+      "hash": "f27b8e49ff65",
       "in_degree": 8,
       "out_degree": 18,
       "links_out": [
@@ -2932,7 +2932,7 @@
       "slug": "eternally-wrong-questions-that-haunt-practice",
       "path": "content/posts/eternally-wrong-questions-that-haunt-practice.md",
       "title": "终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice",
-      "hash": "5be80163c785",
+      "hash": "1e712c17ce49",
       "in_degree": 1,
       "out_degree": 10,
       "links_out": [
@@ -3211,7 +3211,7 @@
       "slug": "externalizing-unmet-drive-as-the-pathology-of-growth",
       "path": "content/posts/externalizing-unmet-drive-as-the-pathology-of-growth.md",
       "title": "外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth",
-      "hash": "1b67cba46a93",
+      "hash": "ca1002317b56",
       "in_degree": 0,
       "out_degree": 17,
       "links_out": [
@@ -3497,7 +3497,7 @@
       "slug": "generation-beyond-the-boundary-and-internal-rearrangement",
       "path": "content/posts/generation-beyond-the-boundary-and-internal-rearrangement.md",
       "title": "边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement",
-      "hash": "b3038ee28ac4",
+      "hash": "2f9811047c3f",
       "in_degree": 2,
       "out_degree": 13,
       "links_out": [
@@ -4091,7 +4091,7 @@
       "slug": "infinity-within-the-seat",
       "path": "content/posts/infinity-within-the-seat.md",
       "title": "座位之内的无限进程 / Infinity Within the Seat",
-      "hash": "cf3a8bc167af",
+      "hash": "f5aea96eb65b",
       "in_degree": 17,
       "out_degree": 22,
       "links_out": [
@@ -4125,7 +4125,7 @@
       "slug": "inheritance-as-residue-and-the-need-for-extraction",
       "path": "content/posts/inheritance-as-residue-and-the-need-for-extraction.md",
       "title": "继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction",
-      "hash": "0c7ba216c8ac",
+      "hash": "5aa03242cfbc",
       "in_degree": 7,
       "out_degree": 15,
       "links_out": [
@@ -4776,7 +4776,7 @@
       "slug": "mistaking-the-symptom-of-stability-for-its-source",
       "path": "content/posts/mistaking-the-symptom-of-stability-for-its-source.md",
       "title": "把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source",
-      "hash": "fa72061ad8e4",
+      "hash": "612a93468f58",
       "in_degree": 18,
       "out_degree": 12,
       "links_out": [
@@ -5240,7 +5240,7 @@
       "slug": "observation-lag-and-the-inversion-of-optionality",
       "path": "content/posts/observation-lag-and-the-inversion-of-optionality.md",
       "title": "观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality",
-      "hash": "48ca1f4b438f",
+      "hash": "260873cc62a0",
       "in_degree": 4,
       "out_degree": 16,
       "links_out": [
@@ -6317,7 +6317,7 @@
       "slug": "relative-differentials-and-the-compounding-of-comparison",
       "path": "content/posts/relative-differentials-and-the-compounding-of-comparison.md",
       "title": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding",
-      "hash": "a5e6c9f1628d",
+      "hash": "fd12c5bc620e",
       "in_degree": 5,
       "out_degree": 14,
       "links_out": [
@@ -7615,7 +7615,7 @@
       "slug": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
       "path": "content/posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice.md",
       "title": "整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice",
-      "hash": "988bf37e7a02",
+      "hash": "b48f2f724c64",
       "in_degree": 3,
       "out_degree": 11,
       "links_out": [
@@ -8715,7 +8715,7 @@
       "slug": "the-folded-self-image-and-the-bound-of-simulation",
       "path": "content/posts/the-folded-self-image-and-the-bound-of-simulation.md",
       "title": "折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation",
-      "hash": "973367b35920",
+      "hash": "83b3d284d028",
       "in_degree": 20,
       "out_degree": 14,
       "links_out": [
@@ -10053,7 +10053,7 @@
       "slug": "the-market-repricing-of-productive-base",
       "path": "content/posts/the-market-repricing-of-productive-base.md",
       "title": "生产性基础的市场重定价 / The Market Repricing of Productive Base",
-      "hash": "0a0ff0e0856a",
+      "hash": "8ca7afddde6a",
       "in_degree": 2,
       "out_degree": 11,
       "links_out": [
@@ -10526,7 +10526,7 @@
       "slug": "the-opacity-of-production-and-the-weight-of-consumption",
       "path": "content/posts/the-opacity-of-production-and-the-weight-of-consumption.md",
       "title": "生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption",
-      "hash": "9d5edc313265",
+      "hash": "1715ce722226",
       "in_degree": 9,
       "out_degree": 13,
       "links_out": [
@@ -11176,7 +11176,7 @@
       "slug": "the-residue-of-progress-and-the-reactivity-of-resistance",
       "path": "content/posts/the-residue-of-progress-and-the-reactivity-of-resistance.md",
       "title": "进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance",
-      "hash": "9cff78c0794d",
+      "hash": "932e4725e971",
       "in_degree": 4,
       "out_degree": 14,
       "links_out": [
@@ -11202,7 +11202,7 @@
       "slug": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
       "path": "content/posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations.md",
       "title": "排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations",
-      "hash": "5e9e6f5dcd66",
+      "hash": "ac21f41166ae",
       "in_degree": 6,
       "out_degree": 12,
       "links_out": [
@@ -11328,7 +11328,7 @@
       "slug": "the-reversal-of-the-bystander-commentators",
       "path": "content/posts/the-reversal-of-the-bystander-commentators.md",
       "title": "旁观评论者的倒置 / The Reversal of the Bystander Commentators",
-      "hash": "db74aaeec163",
+      "hash": "06d3872dfad7",
       "in_degree": 0,
       "out_degree": 10,
       "links_out": [
@@ -11622,7 +11622,7 @@
       "slug": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
       "path": "content/posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts.md",
       "title": "扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts",
-      "hash": "97fa53f31ce5",
+      "hash": "34e25a90bd2d",
       "in_degree": 4,
       "out_degree": 10,
       "links_out": [
@@ -12389,7 +12389,7 @@
       "slug": "three-distinctions-in-the-silicon-misalignment",
       "path": "content/posts/three-distinctions-in-the-silicon-misalignment.md",
       "title": "硅基错位的三重区分 / Three Distinctions in the Silicon Misalignment",
-      "hash": "0b6f83f70a81",
+      "hash": "d8d88b62cf24",
       "in_degree": 5,
       "out_degree": 12,
       "links_out": [
@@ -100950,7 +100950,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "3ac44c8bf586",
+        "hash": "205a06aa1c55",
         "out_degree": 469
       },
       {
@@ -101863,21 +101863,9 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "differentiation-and-the-appearance-of-negation",
-        "rel": "collects",
-        "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "the-reality-distortion-field-inverts-the-baseline",
         "rel": "collects",
         "label": "现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "infinity-within-the-seat",
-        "rel": "collects",
-        "label": "座位之内的无限进程 / Infinity Within the Seat"
       },
       {
         "from": "book:index-of-premises",
@@ -101914,12 +101902,6 @@
         "to": "objects-are-stabilized-relationships",
         "rel": "collects",
         "label": "对象是被稳定化的关系 / Objects Are Stabilized Relationships"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "infinity-within-the-seat",
-        "rel": "collects",
-        "label": "座位之内的无限进程 / Infinity Within the Seat"
       },
       {
         "from": "book:index-of-premises",
@@ -101962,12 +101944,6 @@
         "to": "present-contact-and-the-obscuration-of-desired-feeling",
         "rel": "collects",
         "label": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "differentiation-and-the-appearance-of-negation",
-        "rel": "collects",
-        "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
       },
       {
         "from": "book:index-of-premises",
@@ -102199,30 +102175,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "apparent-regulation-and-the-primacy-of-choice",
-        "rel": "collects",
-        "label": "表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "infinity-within-the-seat",
-        "rel": "collects",
-        "label": "座位之内的无限进程 / Infinity Within the Seat"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "externalizing-unmet-drive-as-the-pathology-of-growth",
-        "rel": "collects",
-        "label": "外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
-        "rel": "collects",
-        "label": "进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "what-hinton-failed-to-understand",
         "rel": "collects",
         "label": "辛顿未曾理解的心智 / What Hinton Failed to Understand"
@@ -102259,27 +102211,9 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "differentiation-and-the-appearance-of-negation",
-        "rel": "collects",
-        "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
-        "rel": "collects",
-        "label": "进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "objects-are-stabilized-relationships",
         "rel": "collects",
         "label": "对象是被稳定化的关系 / Objects Are Stabilized Relationships"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
-        "rel": "collects",
-        "label": "进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance"
       },
       {
         "from": "book:index-of-premises",
@@ -102301,21 +102235,9 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "differentiation-and-the-appearance-of-negation",
-        "rel": "collects",
-        "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "displayed-solitude-is-residual-after-secured-connection",
         "rel": "collects",
         "label": "展示的独处是已确保连接后的残余 / Displayed Solitude Is Residual After Secured Connection"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "eternally-wrong-questions-that-haunt-practice",
-        "rel": "collects",
-        "label": "终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice"
       },
       {
         "from": "book:index-of-premises",
@@ -102358,12 +102280,6 @@
         "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "rel": "collects",
         "label": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-folded-self-image-and-the-bound-of-simulation",
-        "rel": "collects",
-        "label": "折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation"
       },
       {
         "from": "book:index-of-premises",
@@ -102481,12 +102397,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "differentiation-and-the-appearance-of-negation",
-        "rel": "collects",
-        "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
         "rel": "collects",
         "label": "整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice"
@@ -102547,33 +102457,9 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "the-folded-self-image-and-the-bound-of-simulation",
-        "rel": "collects",
-        "label": "折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "war-revolution-and-the-fall-of-empires",
         "rel": "collects",
         "label": "战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
-        "rel": "collects",
-        "label": "扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "relative-differentials-and-the-compounding-of-comparison",
-        "rel": "collects",
-        "label": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "generation-beyond-the-boundary-and-internal-rearrangement",
-        "rel": "collects",
-        "label": "边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement"
       },
       {
         "from": "book:index-of-premises",
@@ -102643,18 +102529,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "infinity-within-the-seat",
-        "rel": "collects",
-        "label": "座位之内的无限进程 / Infinity Within the Seat"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "differentiation-and-the-appearance-of-negation",
-        "rel": "collects",
-        "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "the-unclosable-trace",
         "rel": "collects",
         "label": "无法闭合的痕迹 / The Unclosable Trace"
@@ -102691,21 +102565,9 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "infinity-within-the-seat",
-        "rel": "collects",
-        "label": "座位之内的无限进程 / Infinity Within the Seat"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "the-shadow-and-the-infinite",
         "rel": "collects",
         "label": "阴影与无限 / The Shadow and the Infinite"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "differentiation-and-the-appearance-of-negation",
-        "rel": "collects",
-        "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
       },
       {
         "from": "book:index-of-premises",
@@ -102763,12 +102625,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "the-market-repricing-of-productive-base",
-        "rel": "collects",
-        "label": "生产性基础的市场重定价 / The Market Repricing of Productive Base"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "the-reality-distortion-field-names-the-closed-map",
         "rel": "collects",
         "label": "现实扭曲力场指认的是封闭的地图 / The Reality Distortion Field Names the Closed Map"
@@ -102796,12 +102652,6 @@
         "to": "the-reality-distortion-field-inverts-the-baseline",
         "rel": "collects",
         "label": "现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-folded-self-image-and-the-bound-of-simulation",
-        "rel": "collects",
-        "label": "折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation"
       },
       {
         "from": "book:index-of-premises",
@@ -102946,12 +102796,6 @@
         "to": "closed-reality-in-benchmark-maxing",
         "rel": "collects",
         "label": "基准刷榜中的封闭实存 / Closed Reality in Benchmark Maxing"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "mistaking-the-symptom-of-stability-for-its-source",
-        "rel": "collects",
-        "label": "把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source"
       },
       {
         "from": "book:index-of-premises",
@@ -103144,12 +102988,6 @@
         "to": "the-initial-distinction",
         "rel": "collects",
         "label": "最初的区分 / The Initial Distinction"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "closed-framing-and-the-reduction-of-optionality",
-        "rel": "collects",
-        "label": "封闭框定与选择权的缩减 / Closed Framing and the Reduction of Optionality"
       },
       {
         "from": "book:index-of-premises",
@@ -103477,12 +103315,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "closed-framing-and-the-reduction-of-optionality",
-        "rel": "collects",
-        "label": "封闭框定与选择权的缩减 / Closed Framing and the Reduction of Optionality"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "price-as-utterance-understanding-as-trade",
         "rel": "collects",
         "label": "价格是言说，理解是交易 / Price as Utterance, Understanding as Trade"
@@ -103630,12 +103462,6 @@
         "to": "the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function",
         "rel": "collects",
         "label": "全息回声 / The Holographic Echo"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "mistaking-the-symptom-of-stability-for-its-source",
-        "rel": "collects",
-        "label": "把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source"
       },
       {
         "from": "book:index-of-premises",
@@ -103939,12 +103765,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "apparent-regulation-and-the-primacy-of-choice",
-        "rel": "collects",
-        "label": "表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "the-rational-choice-postulate-is-the-original-sin",
         "rel": "collects",
         "label": "理性选择公设是原罪 / The Rational Choice Postulate Is the Original Sin"
@@ -103966,12 +103786,6 @@
         "to": "self-rl-for-humans",
         "rel": "collects",
         "label": "看似AI的强化学习，实为人类的自我强化学习 / What Looks Like RL for AIs Is Self-RL for Humans"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "apparent-regulation-and-the-primacy-of-choice",
-        "rel": "collects",
-        "label": "表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice"
       },
       {
         "from": "book:index-of-premises",
@@ -104134,18 +103948,6 @@
         "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
         "rel": "collects",
         "label": "黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "eternally-wrong-questions-that-haunt-practice",
-        "rel": "collects",
-        "label": "终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-reversal-of-the-bystander-commentators",
-        "rel": "collects",
-        "label": "旁观评论者的倒置 / The Reversal of the Bystander Commentators"
       },
       {
         "from": "book:index-of-premises",
@@ -104419,36 +104221,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "inheritance-as-residue-and-the-need-for-extraction",
-        "rel": "collects",
-        "label": "继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "inheritance-as-residue-and-the-need-for-extraction",
-        "rel": "collects",
-        "label": "继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "relative-differentials-and-the-compounding-of-comparison",
-        "rel": "collects",
-        "label": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
-        "rel": "collects",
-        "label": "扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
-        "rel": "collects",
-        "label": "扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "observation-lag-and-the-inversion-of-optionality",
         "rel": "collects",
         "label": "观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality"
@@ -104461,123 +104233,9 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "relative-differentials-and-the-compounding-of-comparison",
-        "rel": "collects",
-        "label": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "generation-beyond-the-boundary-and-internal-rearrangement",
-        "rel": "collects",
-        "label": "边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "observation-lag-and-the-inversion-of-optionality",
-        "rel": "collects",
-        "label": "观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
-        "rel": "collects",
-        "label": "排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "generation-beyond-the-boundary-and-internal-rearrangement",
-        "rel": "collects",
-        "label": "边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
-        "rel": "collects",
-        "label": "排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
-        "rel": "collects",
-        "label": "排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "relative-differentials-and-the-compounding-of-comparison",
-        "rel": "collects",
-        "label": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "relative-differentials-and-the-compounding-of-comparison",
-        "rel": "collects",
-        "label": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "externalizing-unmet-drive-as-the-pathology-of-growth",
         "rel": "collects",
         "label": "外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "relative-differentials-and-the-compounding-of-comparison",
-        "rel": "collects",
-        "label": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "externalizing-unmet-drive-as-the-pathology-of-growth",
-        "rel": "collects",
-        "label": "外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "externalizing-unmet-drive-as-the-pathology-of-growth",
-        "rel": "collects",
-        "label": "外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
-        "rel": "collects",
-        "label": "进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
-        "rel": "collects",
-        "label": "进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "accelerating-replacement-and-image-lag",
-        "rel": "collects",
-        "label": "加速替换与形象滞后 / Accelerating Replacement and Image Lag"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "accelerating-replacement-and-image-lag",
-        "rel": "collects",
-        "label": "加速替换与形象滞后 / Accelerating Replacement and Image Lag"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "infinity-within-the-seat",
-        "rel": "collects",
-        "label": "座位之内的无限进程 / Infinity Within the Seat"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "infinity-within-the-seat",
-        "rel": "collects",
-        "label": "座位之内的无限进程 / Infinity Within the Seat"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-folded-self-image-and-the-bound-of-simulation",
-        "rel": "collects",
-        "label": "折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation"
       },
       {
         "from": "book:index-of-premises",
@@ -104977,12 +104635,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "differentiation-and-the-appearance-of-negation",
-        "rel": "collects",
-        "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "the-boundary-of-the-frame",
         "rel": "collects",
         "label": "框架的边界 / The Boundary of the Frame"
@@ -105109,6 +104761,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "differentiation-and-the-appearance-of-negation",
+        "rel": "collects",
+        "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "nobody-has-seen-anything-yet",
         "rel": "collects",
         "label": "还没有人见过任何东西 / Nobody Has Seen Anything Yet"
@@ -105232,12 +104890,6 @@
         "to": "an-observation-by-its-own-standard",
         "rel": "collects",
         "label": "依其自身标准的观察 / An Observation by Its Own Standard"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-opacity-of-production-and-the-weight-of-consumption",
-        "rel": "collects",
-        "label": "生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption"
       },
       {
         "from": "book:index-of-premises",
@@ -106591,12 +106243,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "apparent-regulation-and-the-primacy-of-choice",
-        "rel": "collects",
-        "label": "表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "choice-itself-has-no-inherent-weight",
         "rel": "collects",
         "label": "抉择本身并不沉重 / Choice Itself Has No Inherent Weight"
@@ -106690,12 +106336,6 @@
         "to": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
         "rel": "collects",
         "label": "投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "infinity-within-the-seat",
-        "rel": "collects",
-        "label": "座位之内的无限进程 / Infinity Within the Seat"
       },
       {
         "from": "book:index-of-premises",
@@ -107308,12 +106948,6 @@
         "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "rel": "collects",
         "label": "卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "closed-framing-and-the-reduction-of-optionality",
-        "rel": "collects",
-        "label": "封闭框定与选择权的缩减 / Closed Framing and the Reduction of Optionality"
       },
       {
         "from": "book:index-of-premises",
@@ -108937,12 +108571,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "relative-differentials-and-the-compounding-of-comparison",
-        "rel": "collects",
-        "label": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "the-dual-cut",
         "rel": "collects",
         "label": "指令与载荷的双重切分 / The Dual Cut of Command and Payload"
@@ -108982,12 +108610,6 @@
         "to": "generation-beyond-the-boundary-and-internal-rearrangement",
         "rel": "collects",
         "label": "边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "accelerating-replacement-and-image-lag",
-        "rel": "collects",
-        "label": "加速替换与形象滞后 / Accelerating Replacement and Image Lag"
       },
       {
         "from": "book:index-of-premises",
@@ -109054,12 +108676,6 @@
         "to": "three-distinctions-in-the-silicon-misalignment",
         "rel": "collects",
         "label": "硅基错位的三重区分 / Three Distinctions in the Silicon Misalignment"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "boundary-of-the-isolation-idealization-and-the-non-closable-open",
-        "rel": "collects",
-        "label": "隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open"
       },
       {
         "from": "book:intelligence",

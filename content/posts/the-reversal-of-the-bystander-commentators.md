@@ -16,9 +16,9 @@ Past achievements stand as completed sequences. Their records—flights flown, d
 
 Orbital launch history makes that operational sequence concrete. Across 135 missions between 1981 and 2011, the Space Shuttle mapped orbital entry, partial hardware recovery, and post-flight refurbishment at full scale, logging roughly 24,000 individually contoured silica thermal-protection tiles over an aluminum airframe, ocean-recovered solid boosters, an expended external tank on every launch, multi-month processing turnarounds, and payload costs near $54,500 per kilogram to low Earth orbit. Once *Atlantis* rolled to a stop in July 2011, the fleet became museum hardware and archival telemetry: neither ceremonial praise nor public silence could fly an orbiter again or trim a single refurbishment hour. Subsequent engineers reactivated that hard-won boundary record by reading its maintenance bottlenecks as an empirical constraint map to design around or resolve—first on Falcon 9, isolating reuse to the suborbital first stage via dry vertical propulsive landings, compressing single-booster turnaround to nine days, surpassing the Shuttle's thirty-year mission total within a single calendar year, and cutting launch pricing near $2,720 per kilogram; and then on Starship, directly re-engineering Mach-25 orbital entry with standardized, mechanically pinned hexagonal ceramic tiles over stainless steel.
 
-那句被拿来训斥在场建造者的格言，最初描述的恰恰是这种实操延展。1159年，索尔兹伯里的约翰在《元逻辑学》中记下沙特尔的伯纳德那幅十二世纪意象；1675/76年2月，艾萨克·牛顿在将薄膜光学推进到笛卡尔与罗伯特·胡克之外时致信胡克，写下看得更远是因为站在巨人的肩膀上——这一比喻命名的是一处抬升后的立足视点，其检验标准在于比前人看到更多、看得更远，从不是要求后来者停在平台上向后鞠躬。即便在罗伯特·默顿将引证与冠名权建模为制度奖励通货的科学社会学（《站在巨人的肩膀上》，1965；《社会理论和社会结构》，1968）内部，奠基性工作达到最紧密的运作延续，也恰恰是在默顿所称的“并入性湮没”之中：先前的发现深植于工作仪器与日常基线，以至实践者不再专门点名其首创者。当显式引证因约束已悄然在现役硬件与方程内部运转而退去时，历史工作恰处于最具活力的状态，由此暴露出符号化的功劳记账与因果接续在何处分道扬镳。
+那句被拿来训斥在场建造者的格言，最初描述的恰恰是这种实操延展。艾萨克·牛顿写下看得更远是因为站在巨人的肩膀上时，这一比喻命名的是一处抬升后的立足视点，其检验标准在于比前人看得更远，从不是要求后来者停在平台上向后鞠躬。奠基性工作达到最紧密的运作延续，恰恰是在它融入日常工作基线之时：先前的发现深植于现役仪器、方程与工程直觉之中，以至后来的实践者无需停下脚步点名首创者便已在默默运用。当显式引证因约束已悄然在现役硬件与方程内部运转而退去时，历史工作恰处于最具活力的状态，由此暴露出符号化的功劳记账与因果接续在何处分道扬镳。
 
-The aphorism invoked to scold active builders originally described this exact operational extension. When John of Salisbury recorded Bernard of Chartres's twelfth-century image in the *Metalogicon* (1159)—and when Isaac Newton wrote to Robert Hooke in February 1675/76, while extending thin-film optics beyond Descartes and Hooke, that seeing further came by standing on the shoulders of giants—the figure named an elevated vantage tested by seeing more and further than predecessors could see, never a requirement to pause on the platform and bow backward. Even within Robert K. Merton's sociology of science (*On the Shoulders of Giants*, 1965; *Social Theory and Social Structure*, 1968), which models citations and eponymy as institutional reward currency, foundational work reaches its densest operational continuity in what Merton termed *obliteration by incorporation*: prior discoveries become so thoroughly built into working instruments and everyday baselines that practitioners stop explicitly naming their originators. Where explicit citation drops away because the constraint now operates silently inside active hardware and equations, historical work is at its most alive, exposing where symbolic credit-counting diverges from causal continuation.
+The aphorism invoked to scold active builders originally described this exact operational extension. When Isaac Newton wrote that seeing further came by standing on the shoulders of giants, the figure named an elevated vantage tested by seeing further than predecessors could see, never a requirement to pause on the platform and bow backward. Foundational work reaches its densest operational continuity when it disappears into the working baseline—built so thoroughly into active instruments, equations, and engineering intuition that later practitioners apply it silently without stopping to recite its originators. Where explicit citation drops away because the constraint now operates silently inside active hardware and equations, historical work is at its most alive, exposing where symbolic credit-counting diverges from causal continuation.
 
 ## 二、 行动边缘赢得的位置无需外部归功 / 2. Standing Earned at the Operational Edge Without External Credit
 
@@ -106,7 +106,7 @@ Theodore Roosevelt's April 23, 1910 Sorbonne address, "Citizenship in a Republic
 
 Bystander commentators reverse the order. They treat the demand for verbal, non-essential crediting of predecessors as the primary act that validates the advance. From outside the sequence they position themselves as judges of whether the current practitioners have "respected" the past sufficiently. The commentary presents itself as corrective, yet it produces no further advance and leaves the technical record unchanged. Severed from the contact-surface cost of building or testing hardware, the commentator's recursion clamps around a defended self-image: the claim of superior historical judgment thereby generates a sense of standing without participating in the arena. That untaxed perch is the same critical balcony examined in [The Unexamined Critic](../the-unexamined-critic/), paired with the observational freeze traced in [The Paradoxical Nature of Bystander Insights](../the-paradoxical-nature-of-bystander-insights/), where a snapshot taken outside the generating act is mistaken for a rule governing the work itself.
 
-这两种操作并不等价——它们既不是对同一事件的对称视角，也不是分量相当的竞争性阐释。一种延伸了前沿，并由此使先前结果保持运作；另一种则指派或扣留口头归功，却并不如此。约翰·兰肖·奥斯汀在《如何以言行事》（1962）中对规约性施为话语与物理行动所作的区分，阐明了回顾性的归功巡查为何触不到它所评判的序列：裁判作出的“裁定型”宣判（“出局！”），唯有在赋予说话者指定管辖权的约定规约内部才能改变比赛状态；而看台上的观众高喊“出局！”因缺乏指定管辖权，即便在比赛内部也会失灵而归于无效，更遑论左右非规约性的工程摩擦。因遗漏致敬而训斥建造者，是将表达社交不满的“表态型”话语，包装成对既成硬件的“裁定型”判决。这种失灵的话语，对于工作照常推进的实践者至多只有可忽略的效应——正如[验证中因果权能的分配](../the-allocation-of-causal-power-in-validation/)所追溯的，他们从实时检验而非外部核准中取得区分的延续。把旁观者的裁决视为结果的构成要素，或视为实践者位置的必要条件，便是扭曲。这一序列并不需要那种框架才成为它所是。
+这两种操作并不等价——它们既不是对同一事件的对称视角，也不是分量相当的竞争性阐释。一种延伸了前沿，并由此使先前结果保持运作；另一种则指派或扣留口头归功，却并不如此。即便在正式比赛内部，看台上的观众高喊“出局！”也改写不了场上的局势，因为规则并未赋予看台任何裁断权；而在任何社交规约之外、面对气动摩擦、防热瓦与发射节奏时，旁观评论所握有的杠杆就更无从谈起。因遗漏致敬而训斥建造者，是将个人不满包装成对既成硬件的权威裁决。这类评论对于工作照常推进的实践者至多只有可忽略的效应——正如[验证中因果权能的分配](../the-allocation-of-causal-power-in-validation/)所追溯的，他们从实时检验而非外部核准中取得区分的延续。把旁观者的裁决视为结果的构成要素，或视为实践者位置的必要条件，便是扭曲。这一序列并不需要那种框架才成为它所是。
 
 ```mermaid
 flowchart TD
@@ -117,10 +117,10 @@ flowchart TD
         A_Keep["先前结果保持运作：从实时接触中取得延续，独立于掌声"]
         A_Use ==> A_Advance ==> A_Keep
     end
-    subgraph S_Tribunal["操作乙：旁观评论（管辖权失灵）"]
+    subgraph S_Tribunal["操作乙：旁观评论（零杠杆）"]
         direction TB
         B_Seat["外部法庭高台：要求非必要的口头致敬作为首要验证"]
-        B_Misfire["伪装成裁定型判决的表态型不满：零规约管辖权与零物理杠杆"]
+        B_Misfire["伪装成权威裁决的场外不满：对既成硬件毫无效力与物理杠杆"]
         B_Static["维持原状的技术记录：零前沿推进，未入场而生成位置感"]
         B_Seat --> B_Misfire --> B_Static
     end
@@ -136,7 +136,7 @@ flowchart TD
     style B_Static fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-The two operations are not equivalent—not symmetric perspectives on a shared event, and not rival interpretations of equal weight. One extends the frontier and thereby keeps prior results operative. The other assigns or withholds verbal credit and does not. J. L. Austin's distinction between conventional performatives and physical actions in *How to Do Things with Words* (1962) clarifies why retrospective credit-policing fails to touch the sequence it judges: an umpire's *verdictive* call ("Out!") alters a game state only inside an agreed convention that grants the speaker appointed jurisdiction, whereas a spectator's shout of "Out!" from the stands lacks appointed jurisdiction and misfires as void even inside the game, let alone over non-conventional engineering friction. Scolding builders for omitted homage packages a *behabitive* expression of social displeasure as if it were a *verdictive* ruling over completed hardware. That misfire has, at most, negligible effect on the practitioners whose work continues regardless, drawing continuation from live testing rather than external ratification as [The Allocation of Causal Power in Validation](../the-allocation-of-causal-power-in-validation/) traces. Treating the bystanders' adjudication as constitutive of the outcome, or as a necessary condition for the practitioners' standing, is the distortion. The sequence does not require that framing to be what it is.
+The two operations are not equivalent—not symmetric perspectives on a shared event, and not rival interpretations of equal weight. One extends the frontier and thereby keeps prior results operative. The other assigns or withholds verbal credit and does not. Even inside a formal game, a spectator shouting "Out!" from the stands alters nothing on the field because the rules grant the stands no authority over play; outside any social convention, against aerodynamics, heat shields, and launch cadence, bystander commentary carries even less leverage. Scolding builders for omitted homage stages personal displeasure as if it were an authoritative ruling over completed hardware. That commentary has, at most, negligible effect on the practitioners whose work continues regardless, drawing continuation from live testing rather than external ratification as [The Allocation of Causal Power in Validation](../the-allocation-of-causal-power-in-validation/) traces. Treating the bystanders' adjudication as constitutive of the outcome, or as a necessary condition for the practitioners' standing, is the distortion. The sequence does not require that framing to be what it is.
 
 ```mermaid
 flowchart TD
@@ -147,10 +147,10 @@ flowchart TD
         A_Keep["Prior Results Kept Operative: Continuation drawn from live contact, independent of applause"]
         A_Use ==> A_Advance ==> A_Keep
     end
-    subgraph S_Tribunal["Operation B: Bystander Commentary (Jurisdictional Misfire)"]
+    subgraph S_Tribunal["Operation B: Bystander Commentary (Zero Leverage)"]
         direction TB
         B_Seat["Outside Tribunal Perch: Demands non-essential verbal homage as primary validation"]
-        B_Misfire["Behabitive Displeasure Masked as Verdictive Ruling: Zero conventional jurisdiction or physical lever"]
+        B_Misfire["Personal Displeasure Staged as Authoritative Ruling: Zero standing or physical leverage over hardware"]
         B_Static["Unchanged Technical Record: Zero frontier advance; generates felt standing without entry"]
         B_Seat --> B_Misfire --> B_Static
     end
@@ -168,9 +168,9 @@ flowchart TD
 
 ## 四、 回顾性言语的前提边界 / 4. The Premise Boundary of Retrospective Speech
 
-认为恰当承认过往巨人便是尊重的决定性形式，这一信念依赖于一个前提：历史意义是由回顾性的言语行动而非后续的使用所维持的。在其局部适用范围内，明确的归属标注承担着切实的索引工作：文献引证、代码提交历史与具名引用压缩了共享档案中的检索路径，使实践者得以追溯来源、核查原始假定，并定位早期设计在何处触及上限。然而一旦脱离活跃的实操承接，向过往名字致以仪式性的敬礼便会摊薄为一枚低维社交符号——这正是[登记共鸣的表面](../the-surface-that-registers/)所追溯的表层动态：援引受尊崇的源头在说话者一端登记为立场对齐，却未将底层的任何一条约束链向前推进。一旦搁置“回顾性言语维持意义”这一前提，边界便显现出来：口头归功是可选的评论；推进本身才是重新激活。前者可以存在或缺失，而不改变后者。
+认为恰当承认过往巨人便是尊重的决定性形式，这一信念依赖于一个前提：历史意义是由回顾性的言说而非后续的使用所维持的。在其局部适用范围内，明确的归属标注承担着切实的索引工作：文献引证、代码提交历史与具名引用压缩了共享档案中的检索路径，使实践者得以追溯来源、核查原始假定，并定位早期设计在何处触及上限。然而一旦脱离活跃的实操承接，向过往名字致以仪式性的敬礼便会摊薄为一枚低维社交符号——这正是[登记共鸣的表面](../the-surface-that-registers/)所追溯的表层动态：援引受尊崇的源头在说话者一端登记为立场对齐，却未将底层的任何一条约束链向前推进。一旦搁置“回顾性言语维持意义”这一前提，边界便显现出来：口头归功是可选的评论；推进本身才是重新激活。前者可以存在或缺失，而不改变后者。
 
-The belief that proper acknowledgment of past giants is the decisive form of respect rests on the premise that historical significance is sustained by retrospective speech acts rather than by subsequent use. Within its local range, explicit attribution performs a practical indexing job: citations, commit histories, and named references compress search paths across shared archives so practitioners can retrieve provenance, inspect original assumptions, and locate where an earlier design met its limit. Detached from active operational uptake, however, a ritualized salute to past names thins into a low-dimensional social token—the surface dynamic traced in [The Surface That Registers](../the-surface-that-registers/), where invoking a revered source registers at the speaker's end as alignment while carrying none of the underlying constraint chain forward. Where the retrospective-speech premise is set aside, the boundary appears: verbal credit is optional commentary; the advance itself is the reactivation. The former can be present or absent without changing the latter.
+The belief that proper acknowledgment of past giants is the decisive form of respect rests on the premise that historical significance is sustained by retrospective speech rather than by subsequent use. Within its local range, explicit attribution performs a practical indexing job: citations, commit histories, and named references compress search paths across shared archives so practitioners can retrieve provenance, inspect original assumptions, and locate where an earlier design met its limit. Detached from active operational uptake, however, a ritualized salute to past names thins into a low-dimensional social token—the surface dynamic traced in [The Surface That Registers](../the-surface-that-registers/), where invoking a revered source registers at the speaker's end as alignment while carrying none of the underlying constraint chain forward. Where the retrospective-speech premise is set aside, the boundary appears: verbal credit is optional commentary; the advance itself is the reactivation. The former can be present or absent without changing the latter.
 
 无论心智承接的是飞行遥测、数学定理、代码库，还是一组随笔，止步于回顾性评论都会让它停留在对符号化敬意的审计上，而踏上这些约束则会敞开下一个问题。只要仍站在地面上伸手指认，过往巨人的肩膀便毫无意义。承接而来的痕迹，唯有在行动的心智用自己的双脚站上去、检验旧边界在当下载荷下于何处让位，并亲自承担下一步的代价时，才保持鲜活。
 

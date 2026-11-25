@@ -107,15 +107,6 @@ Rand defends rational self-interest and the productive prime mover against colle
 
 → [隐秘的上帝之眼 / The Invisible God's Eye](../../posts/the-invisible-gods-eye/)
 
-### 巴鲁赫·斯宾诺莎 / Baruch Spinoza
-`哲学 / Philosophical`
-
-斯宾诺莎的一元论主张有限物体与样态是唯一无限实体内部的有界限定——他在第 50 号信中针对有限形状写下“规定即否定”（determinatio negatio est），同时把无限实体自身持为肯定的——在消解笛卡尔二元实体论并阐明局部边界如何依赖更宽广场域时有用；当它把无限实体设定为已完结、决定论式的形而上学充盈整体，使有限个体性在其映衬下登记为存在的阙失而非开放现实中发起行动的第一人称切分时，便到达了边界。
-
-Spinoza's monism holds that finite bodies and modes are bounded limitations within one infinite substance—writing in Letter 50 that determination is negation (determinatio negatio est) for finite figure while treating infinite substance itself as affirmative—which is of use in dissolving Cartesian two-substance dualism and showing how local boundaries depend on a wider field; it reaches its boundary in positing infinite substance as a completed, deterministic metaphysical plenum against which finite individuality registers as a privation of being rather than an initiating first-person cut in an open reality.
-
-→ [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/)
-
 ### 本华·曼德博 / Benoit Mandelbrot
 `数学 / Mathematical`
 
@@ -123,7 +114,7 @@ Spinoza's monism holds that finite bodies and modes are bounded limitations with
 
 Mandelbrot's power laws and fractal geometry describe irregularity across magnitudes through scale-free regularities and self-similar structure, which is of use in registering how openings distribute at the surface and how the tension between local coherence and rupture recurs at every scale; it reaches its boundary in that these regularities are the mechanism's mathematical texture in its effects, not the mechanism itself, what generates them is openings forced by centers outside the average, and secondary theories that raise the patterns into manageable properties reinstall a closable future.
 
-→ [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/) · [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
+→ [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
 
 ### 伯恩哈德·黎曼 / Bernhard Riemann
 `数学 / Mathematical`
@@ -159,7 +150,7 @@ Russell constructed monumental systems of formal logic and later prescribed a fe
 
 Rovelli presumes that physical variables manifest only relative to another interacting system and that once dual substance between mind and body is refused, what remains hard is only a complicated natural phenomenon whose hinge between representation and embodiment is neither a metaphysical nor an explanatory gap, and that no exhaustive external account has been shown impossible, which is of use in dissolving intrinsic properties of isolated systems, joining dual kinds into one field of nature, and taking scientific knowledge as perspectival; it reaches its boundary in that placing all systems in flat third-person symmetry leaves the relational web an unanchored hall of mirrors, since the hinge is the one-step lag by which the first-person look registers and no third-person account can contain the act that gives it.
 
-→ [意识的难题与学习相容 / The Hard Problem of Consciousness Is Consistent with Learning](../../posts/the-hard-problem-of-consciousness-is-consistent-with-learning/) · [对象是被稳定化的关系 / Objects Are Stabilized Relationships](../../posts/objects-are-stabilized-relationships/) · [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
+→ [意识的难题与学习相容 / The Hard Problem of Consciousness Is Consistent with Learning](../../posts/the-hard-problem-of-consciousness-is-consistent-with-learning/) · [对象是被稳定化的关系 / Objects Are Stabilized Relationships](../../posts/objects-are-stabilized-relationships/)
 
 ### 卡洛斯·E·佩雷斯 / Carlos E. Perez
 `哲学 / Philosophical`
@@ -209,11 +200,11 @@ Dennett posited competence without comprehension in evolution and machines; illu
 ### 丹尼尔·韦格纳 / Daniel Wegner
 `科学 / Scientific`
 
-韦格纳的讽刺性加工理论刻画了意向性的心理压抑如何调动自动监控搜寻进程，在工作记忆中持续重描被禁目标并在认知负荷下反而将其放大，在解释巡守常设排斥、强求的感受与强迫性的思绪控制为何适得其反时有用；一旦把实验中的控制受挫外推为有意识意志本身只是副现象，而非认出按指令强索情绪或维系封闭排斥本是一道错位的第一人称切分，该理论便到达了边界。
+韦格纳的讽刺性加工理论刻画了意向性的心理控制如何调动自动监控搜寻进程，在工作记忆中持续重描被压抑或被强求的目标并在认知负荷下反而放大匮乏信号，在解释强求特定感受与强迫性思绪控制为何诱发反向疏离时有用；一旦把实验中的控制受挫外推为有意识意志本身只是副现象，而非认出按指令强索感受本是一道错位的第一人称切分，该理论便到达了边界。
 
-Wegner's ironic process theory models how intentional mental suppression recruits an automatic monitoring search that continually re-traces the forbidden target in working memory and amplifies it under cognitive load, which is of use in explaining why policing a standing exclusion, commanded feelings, and forced thought-control backfire; it reaches its boundary when experimental control failure is extrapolated into the claim that conscious will itself is epiphenomenal rather than recognizing that demanding an affect on cue or maintaining a closed exclusion is a misplaced first-person cut.
+Wegner's ironic process theory models how intentional mental control recruits an automatic monitoring search that continually re-traces the suppressed or demanded target in working memory and amplifies the signal of lack under cognitive load, which is of use in explaining why commanding specific feelings and forced thought-control induce ironic distance; it reaches its boundary when experimental control failure is extrapolated into the claim that conscious will itself is epiphenomenal rather than recognizing that demanding an affect on cue is a misplaced first-person cut.
 
-→ [现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling](../../posts/present-contact-and-the-obscuration-of-desired-feeling/) · [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/)
+→ [现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling](../../posts/present-contact-and-the-obscuration-of-desired-feeling/)
 
 ### 达里奥·阿莫迪 / Dario Amodei
 `技术 / Technological`
@@ -308,20 +299,11 @@ Chollet defines intelligence as skill-acquisition efficiency over novel tasks (f
 ### 弗里德里希·哈耶克 / Friedrich Hayek
 `经济 / Economic`
 
-哈耶克论证分散的知识无法被计划垄断，且偶合秩序（*catallaxy*）不像企业或家计组织（*oikonomia*）那样拥有单一的目的层级，在解释市场如何借价格协调而无需总量最优标准时有用；它在此到了边界：它仍把公开出现的东西想象成一份存量的碎片，并把一套固定的产权样式持为一般的回应，而这种持守本身也出自不完备的知识。
+哈耶克论证分散的知识无法被计划垄断，在解释市场如何借价格协调时有用；它在此到了边界：它仍把公开出现的东西想象成一份存量的碎片，并把一套固定的产权样式持为一般的回应，而这种持守本身也出自不完备的知识。
 
-Hayek's argument that dispersed knowledge cannot be monopolized by planning and that a *catallaxy* has no single hierarchy of ends like a firm or *oikonomia* is of use in explaining how markets coordinate through prices without an aggregate optimality standard; it reaches its boundary in that it still pictures what appears in public as pieces of a stock, and holds one fixed pattern of property rules as the general response, a holding that itself issues from incomplete knowledge.
+Hayek's argument that dispersed knowledge cannot be monopolized by planning is of use in explaining how markets coordinate through prices; it reaches its boundary in that it still pictures what appears in public as pieces of a stock, and holds one fixed pattern of property rules as the general response, a holding that itself issues from incomplete knowledge.
 
-→ [价格是言说，理解是交易 / Price as Utterance, Understanding as Trade](../../posts/price-as-utterance-understanding-as-trade/) · [知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/) · [表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice](../../posts/apparent-regulation-and-the-primacy-of-choice/) · [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
-
-### 弗里德里希·尼采 / Friedrich Nietzsche
-`哲学 / Philosophical`
-
-尼采的怨恨谱系学及他对原初主动之力与派生反应之力的划分，在揭露受阻的生命力如何将无能包装成道德优越感、并区分创造性起源与反应性对立时有用；其二元论在此到达边界：它将怨恨视作企图消灭对象的被动情绪反射，或止步于两种交战的力量形态而倍增原初驱力，而非将推进与反应性持守一同推导自同一场不息的自我区分活动——这同一场活动要么越过先前残余前行，要么捍卫一幅冻结的图像。
-
-Nietzsche's genealogy of ressentiment and his separation of primary active forces from derivative reactive forces are of use in exposing how blocked vitality wraps inability as moral superiority and in distinguishing creative origin from reactive opposition; his dualism reaches its boundary where ressentiment is treated as a passive affective reflex aiming to extinguish its object or where halting at two warring species of force multiplies primal drives rather than deriving both advance and reactive holding from one unceasing self-distinguishing activity that either moves past prior residue or defends a frozen image.
-
-→ [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/) · [进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance](../../posts/the-residue-of-progress-and-the-reactivity-of-resistance/)
+→ [价格是言说，理解是交易 / Price as Utterance, Understanding as Trade](../../posts/price-as-utterance-understanding-as-trade/) · [知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/)
 
 ### 杰弗里·辛顿 / Geoffrey Hinton
 `科学 / Scientific`
@@ -377,23 +359,14 @@ Ryle placed mind in dispositions to behave observable from outside, to exorcise 
 
 → [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/)
 
-### 格奥尔格·威廉·弗里德里希·黑格尔 / G. W. F. Hegel
-`哲学 / Philosophical`
-
-黑格尔把规定普遍化为“一切规定皆是否定”（omnis determinatio est negatio）的格言，并将确定的否定（bestimmte Negation）铸为取消先前环节又将其保存下来的扬弃运动（Aufhebung），在追踪局促的概念框架如何在内部张力下碎裂并把早先区分带入更宽框架时有用；其辩证法把每一个被否定环节都收容进自我闭合的“圆圈的圆圈”之内，错将密封总体中对排斥的事后重描当作现实自主运转的引擎，在此到达了边界。
-
-Hegel universalizes determination into the maxim that all determination is negation (omnis determinatio est negatio) and casts determinate negation (bestimmte Negation) as a sublating movement (Aufhebung) that cancels while preserving prior moments, which is of use in tracking how cramped conceptual frames fracture under internal strain and carry earlier distinctions into wider ones; his dialectic reaches its boundary in housing every negated moment inside a self-closing circle of circles, mistaking the retrospective re-tracing of exclusions inside a sealed totality for an autonomous engine of reality.
-
-→ [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/) · [进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance](../../posts/the-residue-of-progress-and-the-reactivity-of-resistance/)
-
 ### 吉尔·德勒兹 / Gilles Deleuze
 `哲学 / Philosophical`
 
-德勒兹以差异、生成与内在性平面取代静态实体，并追随尼采将主动之力置于反应之力之上，在打破主谓语法将动态过程冻结为固定本质的惯性、并将创造性推进同反应性俘获区分开来时有用；一旦把消解静态基质或将驱力分裂为两种对立力量混同于消解离散边界本身，从而抹去稳定化痕迹在摩擦中施加的因果阻力、而未能将推进与反应性持守一同推导自同一场区分活动，这一进路便到达了边界。
+德勒兹以差异、生成与内在性平面取代静态实体，在打破主谓语法将动态过程冻结为固定本质的惯性时有用；当消解静态基质被混同于消解离散边界本身、抹去稳定化痕迹在因果摩擦中呈现的阻力时，这一进路便到达了边界。
 
-Deleuze replaces static substances with difference, becoming, and planes of immanence, and follows Nietzsche in elevating active over reactive forces, which is of use in breaking the grammatical habit that freezes dynamic processes into fixed essences and separating creative advance from reactive capture; this approach reaches its boundary when dissolving static substance or splitting drives into two opposing forces is conflated with dissolving discrete boundaries themselves, erasing the causal resistance that stabilized traces exert under friction rather than deriving both advance and reactive holding from one distinguishing activity.
+Deleuze replaces static substances with difference, becoming, and planes of immanence, which is of use in breaking the grammatical habit that freezes dynamic processes into fixed essences; it reaches its boundary when dissolving static substance is conflated with dissolving discrete boundaries themselves, erasing the resistance that stabilized traces exert under causal friction.
 
-→ [对象是被稳定化的关系 / Objects Are Stabilized Relationships](../../posts/objects-are-stabilized-relationships/) · [进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance](../../posts/the-residue-of-progress-and-the-reactivity-of-resistance/)
+→ [对象是被稳定化的关系 / Objects Are Stabilized Relationships](../../posts/objects-are-stabilized-relationships/)
 
 ### 戈特弗里德·威廉·莱布尼茨 / Gottfried Wilhelm Leibniz
 `哲学 / Philosophical`
@@ -413,15 +386,6 @@ In Eichmann in Jerusalem, Arendt described with the "banality of evil" how unthi
 
 → [涌现的伪因果 / The Pseudo-Causality of Emergence](../../posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/)
 
-### 亨利·柏格森 / Henri Bergson
-`哲学 / Philosophical`
-
-柏格森在《创造进化论》中对否定的分析表明，思考“非 A”是在表征 A 之上再叠加第二道排斥操作，以对着被整块看待的现实校正某项预期，在消解空无一物的伪问题并揭示否定的教化与社会功能时有用；一旦把离散的概念划界本身当作空间化的扭曲而同活态绵延对立起来，而非认出它是活的心智借以登记现实的原初操作，其论述便到达了边界。
-
-Bergson's analysis of negation in Creative Evolution demonstrates that thinking 'not-A' adds a second exclusionary operation atop representing A in order to correct an expectation against reality taken as a block, which is of use in dissolving pseudo-problems of sheer nothingness and exposing negation's pedagogical and social role; his account reaches its boundary when discrete conceptual bounding itself is opposed to lived duration as a spatializing distortion rather than recognized as the primary operation through which a living Mind registers reality.
-
-→ [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/)
-
 ### 亨利·戴维·梭罗 / Henry David Thoreau
 `哲学 / Philosophical`
 
@@ -430,15 +394,6 @@ Bergson's analysis of negation in Creative Evolution demonstrates that thinking 
 Thoreau's *Walden* experiment strips away conventional economic overhead to test how little material scaffolding is needed for sustained inquiry and explicitly notes its visitors, which is of use in separating deliberate simplicity from consumer habit; its cultural reading reaches its boundary where physical seclusion is taken as self-contained solitude while dropping Ralph Waldo Emerson's rent-free woodlot, regular walks into Concord village, domestic support from mother and sisters, and frequent cabin guests offstage.
 
 → [展示的独处是已确保连接后的残余 / Displayed Solitude Is Residual After Secured Connection](../../posts/displayed-solitude-is-residual-after-secured-connection/)
-
-### 伊曼努尔·康德 / Immanuel Kant
-`哲学 / Philosophical`
-
-康德的批判哲学将规定经验体验的构成性概念，同建模为镜面背后“虚焦点”、为探究定向却不对应于经验对象的范导性理念区分开来，在辨析投射出的探究视界与驻留于被观察系统内部的属性时有用；当它假定富有成效的开放性有赖于自觉的范导性克制，而非即便实践者满怀确信追逐闭合时开放性依然无条件成立——且其操作进展反过来维系着那份确信——以及当固定的范畴表被冻结为普遍架构，或在显现背后悬设不可知的物自体，而非认清投射与重新渲染皆是活的心智持续进行的行动时，这一框架便到达了边界。
-
-Kant's critical philosophy separates constitutive concepts determining empirical experience from regulative ideas—modeled as a virtual focal point behind a mirror (focus imaginarius)—that orient inquiry without corresponding to an empirical object, which is of use in distinguishing projected horizons of inquiry from properties residing inside observed systems; it reaches its boundary in supposing that productive openness depends on conscious regulative restraint rather than holding unconditionally even when practitioners pursue closure with full conviction—whose operational advances in turn sustain that conviction—and when a fixed table of categories is frozen as universal architecture or an unknowable thing-in-itself is posited behind appearances rather than recognizing both projection and re-rendering as ongoing acts of the living Mind.
-
-→ [终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice](../../posts/eternally-wrong-questions-that-haunt-practice/)
 
 ### 让-雅克·卢梭 / Jean-Jacques Rousseau
 `哲学 / Philosophical`
@@ -456,7 +411,7 @@ Rousseau opens with "Man is born free, and everywhere he is in chains" and asks 
 
 Sartre presumes sovereign choice precedes all predetermined designations and diagnoses bad faith as agency fleeing responsibility by mimicking passive objects, which is of use in exposing how minds exercise sovereignty to stage the appearance of their own helplessness; this premise reaches its boundary when freedom is cast as unconditioned negation rather than action that requires concrete constraints as the differential substrate giving every choice weight.
 
-→ [约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom](../../posts/the-substrate-of-constraint-and-the-self-denial-of-freedom/) · [框架的盲区 / The Blind Spot of the Frame](../../posts/the-blind-spot-of-the-frame/) · [任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences](../../posts/the-delegation-of-the-task-and-the-inalienability-of-consequences/) · [折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation](../../posts/the-folded-self-image-and-the-bound-of-simulation/)
+→ [约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom](../../posts/the-substrate-of-constraint-and-the-self-denial-of-freedom/) · [框架的盲区 / The Blind Spot of the Frame](../../posts/the-blind-spot-of-the-frame/) · [任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences](../../posts/the-delegation-of-the-task-and-the-inalienability-of-consequences/)
 
 ### 杰夫·贝索斯 / Jeff Bezos
 `经济 / Economic`
@@ -560,11 +515,11 @@ Gödel takes as his premise a consistent, effectively axiomatized formal hold st
 ### 鲁伊兹·布劳威尔 / L. E. J. Brouwer
 `数学 / Mathematical`
 
-布劳威尔的直觉主义借由选择序列阐明，经典排中律（P ∨ ¬P）与双重否定消去律（¬¬P → P）预设了已完成的有限集合，若不额外强加闭包算子便在尚未完结的地平线上失效，在将有限而开放过程中的验证加以形式化时有用；当数学构造被撤回私密的、无语言的内在直觉之中，脱离了共享的符号与物理摩擦时，其纲领便到达了边界。
+布劳威尔的构造性分析指出，在一步步展开的过程里，若不预先一次性纵览整个自然数集 ℕ，便无法判定精确相等 x = 5，因为任何有限前缀都无法担保此后的每一项偏差恒为零，这在揭示精确点同一性暗含已完成实无限的假设时有用；当数学构造被撤回私密、无语言的内在直觉之中，脱离了共享的符号与物理摩擦时，这一进路便到达了边界。
 
-Brouwer's intuitionism shows through choice sequences that classical excluded middle (P ∨ ¬P) and double-negation elimination (¬¬P → P) presuppose a completed finite collection and fail across unfinished horizons without an added closure operator, which is of use in formalizing verification across finite-yet-open processes; his program reaches its boundary when mathematical construction is withdrawn into a private, language-free inner intuition detached from shared symbolic and physical friction.
+Brouwer's constructive analysis shows that deciding exact equality x = 5 across a process unfolding step by step remains unavailable without an all-at-once survey of ℕ, since no finite prefix certifies that every later deviation stays zero, which is of use in exposing how exact point-identity implicitly presumes completed actual infinity; this approach reaches its boundary when mathematical construction is withdrawn into a private, language-free inner intuition detached from shared symbolic and physical friction.
 
-→ [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/) · [整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice](../../posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice/)
+→ [整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice](../../posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice/)
 
 ### 老子 / Laozi
 `哲学 / Philosophical`
@@ -609,16 +564,16 @@ Mises defines the state through its apparatus of compulsion and coercion and war
 
 Wittgenstein's Tractatus bounds the world by the limits of factual propositional language—closing with the injunction to pass over the unspeakable in silence—while his later philosophy traces conceptual knots to language games, which is of use in demarcating the scope of formal representation and auditing how phrasing shapes thought; both stances reach their boundary when derivative linguistic tools are taken as the boundary of reality or asked to silence their own first-person origin, since all speakable form issues from the ongoing unspeakable capacity to distinguish and even explicit temporal markers cannot compel how another center takes up sense.
 
-→ [读《中文哲学简史》有感 / Reflections on A Short History of Philosophy in Chinese](../../posts/du-zhongwen-zhexue-jianshi-you-gan/) · [接续阅读与协商中的语言边界 / Successive Reading and the Negotiated Boundary of Language](../../posts/successive-reading-and-the-negotiated-boundary-of-language/) · [大倒置的消解 / The Dissolution of the Great Reversal](../../posts/the-dissolution-of-the-great-reversal/) · [凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable](../../posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable/) · [折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation](../../posts/the-folded-self-image-and-the-bound-of-simulation/)
+→ [读《中文哲学简史》有感 / Reflections on A Short History of Philosophy in Chinese](../../posts/du-zhongwen-zhexue-jianshi-you-gan/) · [接续阅读与协商中的语言边界 / Successive Reading and the Negotiated Boundary of Language](../../posts/successive-reading-and-the-negotiated-boundary-of-language/) · [大倒置的消解 / The Dissolution of the Great Reversal](../../posts/the-dissolution-of-the-great-reversal/) · [凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable](../../posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable/)
 
 ### 曼瑟·奥尔森 / Mancur Olson
 `经济 / Economic`
 
-奥尔森的集体行动经济学将联盟威慑建模为非排他性公共品——由最大成员国承担不成比例的成本、较小伙伴搭便车——并将长期制度稳定建模为狭隘分利联盟不断累积、拖慢资源再配置的过程，这在诊断非对称负担分担与繁荣后期僵化时有用；两种表述均在此到达边界：威慑同时产出私人前线产品，促使身处暴露位置的盟友大举投入，而包容性联盟或敞开的外部竞争基准无需借助灾难性动荡，便能令有组织的行动者保持纪律。
+奥尔森在《国家的兴衰》中指出，长期稳定期累积起来的僵硬行政垄断与分利组织会不断锁死创造力，而毁灭性冲突打破这些既有壁垒后，战后西德与日本曾迎来短暂的高速扩张窗口，这在辨识既得固化结构如何拖慢生成性财富积累时有用；这一解释在把制度清场当作增长源头之处到达边界，因为战后扩张之所以持续，只在于边界向外部的分化保持敞开，一旦新的官僚丰碑再度凝固并封闭为内部重排，那扇窗口便随之闭合。
 
-Olson's collective-action economics models alliance deterrence as a non-excludable public good where the largest member bears disproportionate cost while smaller partners free-ride, and models prolonged institutional stability as accumulating narrow distributional coalitions that slow reallocation, which is of use in diagnosing asymmetric burden-sharing and post-boom rigidity; both formulations reach their boundary where deterrence generates private frontline goods that prompt exposed allies to invest heavily, and where encompassing coalitions or open external competitive benchmarks keep organized actors disciplined without catastrophic disruption.
+Olson argues in *The Rise and Decline of Nations* that rigid administrative monopolies and entrenched coalitions accumulated during prolonged stability progressively lock up initiative, while destructive conflict breaking those barriers opened a brief window of rapid postwar growth in West Germany and Japan, which is of use in identifying how hardened structures slow the expansion of generative wealth; the account reaches its boundary where institutional clearing is taken as the engine of growth, since postwar expansion holds only while boundaries stay open to outside differentiation and closes again once new bureaucratic monuments harden into internal rearrangement.
 
-→ [战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/) · [扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts](../../posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/) · [边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement](../../posts/generation-beyond-the-boundary-and-internal-rearrangement/)
+→ [战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/)
 
 ### 马丁·海德格尔 / Martin Heidegger
 `哲学 / Philosophical`
@@ -674,24 +629,6 @@ Chamfort's aphorism observes that happiness is not easy to find in oneself and i
 
 → [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/)
 
-### 尼克拉斯·卢曼 / Niklas Luhmann
-`哲学 / Philosophical`
-
-卢曼的二阶观察理论指出每一次观察皆借划出主导区分而携带着自身盲点，并将社会调控诊断为不可得的外部席位（*Standort außerhalb*），在消解仿佛自上颁布的集体处方时有用；当严苛的第三人称自创生封闭性未能充分刻画具身活心智如何跨越界面承受不可逆的物理摩擦（+1）时，其理论便到达了边界。
-
-Luhmann's theory of second-order observation shows that every observation draws a guiding distinction carrying its own blind spot and diagnoses societal steering as an impossible external vantage (*Standort außerhalb*), which is of use in dissolving collective prescriptions issued as if from above; it reaches its boundary where strict third-person autopoietic closure under-specifies how embodied living Minds absorb irreversible physical friction (+1) across interfaces.
-
-→ [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
-
-### 巴门尼德 / Parmenides
-`哲学 / Philosophical`
-
-巴门尼德在《论自然》中看出，没有明晰边界的区分什么也区分不了，这份严格性作为形式演绎的锚点至今有用；其埃利亚前提把“是者”（to eon）封进浑圆球体、将“非是者”（to mē on）放逐为不可言说之虚空并禁绝多与变，在此到达了边界——否定只相对于在先的肯定性区分行动而显现。
-
-Parmenides saw in On Nature that a distinction without a sharp boundary distinguishes nothing, which remains of use as the rigor anchoring formal deduction; his Eleatic premise reaches its boundary in sealing what-is (to eon) into a sphere that exiles what-is-not (to mē on) as unspeakable void and forbids plurality and change, whereas negation appears only relative to a prior positive act of distinguishing.
-
-→ [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/)
-
 ### 保罗·丘奇兰德 / Paul Churchland
 `哲学 / Philosophical`
 
@@ -726,16 +663,16 @@ Laplace systematized celestial mechanics and probability and imagined an intelli
 
 Spencer-Brown's Laws of Form grounds formal structure in the primordial injunctive act of drawing a distinction, which is of use in formalizing self-referential indication and how every symbolic system begins with an operative cut; it reaches its boundary when the resulting calculus of marks is reified into an autonomous formal universe detached from the situated living center that draws and re-renders each distinction.
 
-→ [现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling](../../posts/present-contact-and-the-obscuration-of-desired-feeling/) · [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
+→ [现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling](../../posts/present-contact-and-the-obscuration-of-desired-feeling/)
 
 ### 柏拉图 / Plato
 `哲学 / Philosophical`
 
-柏拉图的洞穴寓言描绘囚徒把投射在石壁上的阴影当成实在本身，其《智者篇》则将非是者（to mē on）解析为关系性的相异（heteron）而非两极对立的湮灭，在揭示争执如何执着于压缩投影、以及将非同一与空无一物区分开来时有用；这两种论述把石壁安放在共享的第三人称洞穴之内、又将关系性差异收容于永恒且已完成的静态理型（eidē）清单之中，在此一并到达了边界，因为屏幕、阴影与差异皆生于每个心智持续展开的正交区分，而非预先给定的理型王国。
+柏拉图的洞穴寓言描绘囚徒把投射在石壁上的阴影当成实在本身，在揭示争执如何执着于压缩投影、竞相辨认掠过的剪影时有用；这一论述把石壁安放在共享的第三人称洞穴之内、又将实在设定为洞外永恒不变的静态理型领域，在此到达了边界，因为石壁、光源与阴影之战皆发生在每个心智自身的第一人称参考系内部。
 
-Plato's Allegory of the Cave depicts prisoners mistaking projected shadows on a stone wall for reality itself while his Sophist resolves non-being (to mē on) as relational difference (heteron) rather than polar annihilation, which is of use in exposing how contention fixates on compressed projections and in separating non-identity from sheer nothingness; both accounts reach their boundary in situating the wall inside a shared third-person cave and housing relational difference inside an eternal, completed inventory of static Forms (eidē), whereas screen, shadow, and difference arise through each Mind's ongoing orthogonal distinguishing rather than a pre-given realm of Forms.
+Plato's Allegory of the Cave depicts prisoners mistaking shadows projected on a stone wall for reality itself, which is of use in exposing how contention fixates on compressed projections and competes over passing silhouettes; the account reaches its boundary in situating the wall inside a shared third-person cave and placing reality in an eternal, static realm of Forms outside it, whereas wall, light source, and shadow warfare all arise inside each Mind's own first-person reference frame.
 
-→ [阴影与无限 / The Shadow and the Infinite](../../posts/the-shadow-and-the-infinite/) · [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/)
+→ [阴影与无限 / The Shadow and the Infinite](../../posts/the-shadow-and-the-infinite/)
 
 ### 瑞·达利欧 / Ray Dalio
 `成功学 / Self-Help`
@@ -800,15 +737,6 @@ Nadella frames enterprise frontier-AI failures as an 'insider risk' to be solved
 
 → [任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences](../../posts/the-delegation-of-the-task-and-the-inalienability-of-consequences/)
 
-### 西蒙·库兹涅茨 / Simon Kuznets
-`经济 / Economic`
-
-库兹涅茨构建了现代国民收入核算体系，同时警示国民福祉无法由货币总收入账目推知，且行政、军事与城市摩擦支出实为维系社会组织的中间成本而非净最终产品，在区分总支出汇总与增量生产性能力时有用；每当后来分析者舍弃库兹涅茨本人的这一区分，将账面名义 GDP 总额直接读作净生产性财富的度量或驱动微观产出的上游引擎时，国民收入核算便到达了边界。
-
-Kuznets constructed the modern national income accounts while cautioning that national welfare cannot be inferred from gross monetary income tallies and that administrative, military, and urban-friction outlays function as intermediate costs of social organization rather than net final product, which is of use in separating gross expenditure aggregates from incremental productive capacity; national-income accounting reaches its boundary whenever subsequent analysts drop Kuznets's own distinction and read gross nominal GDP as a direct measure of net productive wealth or an upstream engine driving microscopic output.
-
-→ [生产性基础的市场重定价 / The Market Repricing of Productive Base](../../posts/the-market-repricing-of-productive-base/)
-
 ### 史蒂夫·乔布斯 / Steve Jobs
 `技术 / Technological`
 
@@ -844,15 +772,6 @@ Hobbes's *Leviathan* derives political order from a founding covenant in which i
 Kuhn's account of paradigm shifts presumes that science advances through stages of normal science, accumulating anomaly, crisis, and paradigm replacement, which is of use in describing how a field absorbs a view it can no longer deny and rewrites its own history; it reaches its boundary in that the vocabulary arrives after absorption, the effect has not changed and only the audience's ability to deny it has collapsed, and preserving the stages as a schedule of future openings freezes residue as a map of what has not yet been forced.
 
 → [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
-
-### 托马斯·梅青格 / Thomas Metzinger
-`哲学 / Philosophical`
-
-梅青格将自我性穷尽地还原为信息处理层面的现象自我模型，借由表征透明性使其显现为实际的自我，在追踪持握中的自我肖像如何不再作为模型留在觉知里时有用；这一前提在“这套透明模型究竟向谁登记显现”之处到达了边界，因为不被体验的数据结构并不携带任何幻觉，离开它暗中预设的活态第一人称知觉便无从谈起。
-
-Metzinger reduces selfhood exhaustively to an information-processing Phenomenal Self-Model that appears as an actual self through representational transparency, which is of use in tracking how a held self-portrait drops out of awareness as a model; this premise reaches its boundary at to whom the transparent model registers at all, since an unexperienced data structure carries no illusion without the living first-person perception it presupposes.
-
-→ [折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation](../../posts/the-folded-self-image-and-the-bound-of-simulation/)
 
 ### 托马斯·内格尔 / Thomas Nagel
 `哲学 / Philosophical`
@@ -902,9 +821,9 @@ Gibson's Neuromancer imagines cyberspace as a consensual hallucination and digit
 ### 威廉·诺德豪斯 / William Nordhaus
 `经济 / Economic`
 
-诺德豪斯度量了战后技术变革的剩余分配——记录下创新者仅捕获微小的私人残差而绝大部分收益耗散为广泛的社会红利——并与詹姆斯·托宾共同将防御性“遗憾性支出”与折旧从净经济福利中剥离，作为揭示零和财富叙事与非增量 GDP 膨胀的宏观实证遥测时有用；一旦事后的统计核算被当成因果律本身的地基，而非在先风险承担行动留下的下游印迹，这些计量模型便到达了边界。
+诺德豪斯度量了战后技术变革的剩余分配，记录下创新者仅捕获约 2.2% 的微小私人残差、而绝大部分收益耗散为广泛的社会红利，作为揭示零和财富叙事的宏观实证遥测时有用；一旦事后的统计核算被当成因果律本身的地基，而非在先风险承担行动留下的下游印迹，这一计量模型便到达了边界。
 
-Nordhaus measured the postwar surplus distribution of technological change—documenting that innovators capture only a tiny private residual while the vast majority dissipates into broad social dividends—and with James Tobin separated defensive "regrettables" and depreciation from net economic welfare, which is of use as macro-scale empirical telemetry exposing zero-sum wealth narratives and non-incremental GDP padding; the econometric models reach their boundary where retrospective statistical accounting is treated as the ground of causality rather than the downstream footprint of antecedent risk-bearing action.
+Nordhaus measured the postwar surplus distribution of technological change, documenting that innovators capture only a tiny private residual of roughly 2.2% while the vast majority dissipates into broad social dividends, which is of use as macro-scale empirical telemetry exposing zero-sum wealth narratives; the econometric model reaches its boundary where retrospective statistical accounting is treated as the ground of causality rather than the downstream footprint of antecedent risk-bearing action.
 
 → [私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus](../../posts/the-causal-order-of-private-residuals-and-social-surplus/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/) · [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/) · [生产性基础的市场重定价 / The Market Repricing of Productive Base](../../posts/the-market-repricing-of-productive-base/)
 
@@ -963,15 +882,6 @@ AI existential-risk arguments project capability scaling onto an autonomous supe
 Algorithmic overfitting memorizes high-density regularities of a fixed training set, which yields low error while the test environment stays inside that stationary distribution; it reaches its boundary when faithful replay of past distributions is mistaken for transferable generalization across shifting frontiers.
 
 → [过拟合作为追随者模式 / Overfitting as the Follower Mode](../../posts/overfitting-as-the-follower-mode/) · [睡眠与深度睡眠的双阶段持续学习 / Two-Phase Sleep and Deep Sleep Continual Learning](../../posts/two-phase-sleep-and-deep-sleep-continual-learning/) · [基准刷榜中的封闭实存 / Closed Reality in Benchmark Maxing](../../posts/closed-reality-in-benchmark-maxing/)
-
-### 异稳态 / Allostasis
-`科学 / Scientific`
-
-异稳态（彼得·斯特林与约瑟夫·艾尔提出）将大脑建模为前瞻性、预测性的代谢调节器，在预期负荷到来之前调校多器官参数，在解释超越静态内稳态设定点的预测性生理协同时有用；一旦把这套第三人称机体最优化外延至人类中心——它们在安全环境中为了守卫未经重新描摹的自我形象而承受慢性过载——这一理论便到达了边界。
-
-Allostasis (Peter Sterling and Joseph Eyer) models the brain as an anticipatory, predictive metabolic regulator adjusting multi-organ parameters ahead of expected load, which is of use in explaining predictive physiological coordination beyond static homeostatic set points; it reaches its boundary when third-person organism optimization is extended over human centers sustaining chronic overload in safe environments to defend an un-re-rendered self-image.
-
-→ [把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source](../../posts/mistaking-the-symptom-of-stability-for-its-source/)
 
 ### 无我 / Anattā (Non-Self)
 `宗教 / Religious`
@@ -1125,15 +1035,6 @@ The Copernican Principle and 'Pale Blue Dot' cosmic-scale framing infer from Ear
 Critical elimination can discard what follows from a distinction, which is of use in testing consequences and removing inconsistencies inside that distinction; it reaches its boundary in that it cannot dissolve the distinction that made elimination possible, since rationality begins from a pre-rational cut that conditions it.
 
 → [最初的区分 / The Initial Distinction](../../posts/the-initial-distinction/)
-
-### 刻意练习 / Deliberate Practice
-`科学 / Scientific`
-
-K·安德斯·艾利克森的刻意练习模型将费力且针对误差的练习同例行重复区分开来，在解释为何一旦执行自动化、单纯叠加时长便会触及平台期时有用；一旦它被改造成外部训练公式或事后的坚毅度指标，遮蔽了练习者在先的框定——即心智究竟把当前能力持守为封闭上限，还是借每一次失败尝试来变换下一次区分——这一模型便到达了边界。
-
-K. Anders Ericsson's model of deliberate practice separates effortful, error-targeted practice from routine repetition, which is of use in explaining why merely accumulating hours hits a plateau once execution automates; it reaches its boundary when converted into an external drill formula or retrospective grit metric that obscures the practitioner's prior framing—whether the Mind holds present capacity as a closed ceiling or uses each failed trial to vary the next distinction.
-
-→ [封闭框定与选择权的缩减 / Closed Framing and the Reduction of Optionality](../../posts/closed-framing-and-the-reduction-of-optionality/)
 
 ### 达克效应 / Dunning–Kruger Effect
 `科学 / Scientific`
@@ -1313,7 +1214,7 @@ Gödel proves that any consistent, effectively axiomatized formal system strong 
 
 The growth mindset holds that ability grows through effort rather than being a fixed endowment; it reaches its boundary when used as an after-the-fact label for those ahead and a way of ranking others, since outcomes also hold what fell to someone, while as an orientation that refuses to treat the present position as a conserved, closed box it stays useful.
 
-→ [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/) · [封闭框定与选择权的缩减 / Closed Framing and the Reduction of Optionality](../../posts/closed-framing-and-the-reduction-of-optionality/)
+→ [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/)
 
 ### 哈耶克价格机制 / Hayekian Price Mechanism
 `经济 / Economic`
@@ -1372,9 +1273,9 @@ Taking information or matter as primary, or both as dual aspects, is of use in d
 ### 制度决定论 / Institutional Determinism
 `经济 / Economic`
 
-从道格拉斯·诺斯的产权框架到达龙·阿西莫格鲁、西蒙·约翰逊与詹姆斯·罗宾逊的比较解释，制度解释预设政治与法律制度决定了能干的行动者及长期经济轨迹，在描述局部约束、比较不同环境以及指明具体处境中成文法形式、速度与成本的中介通道时有用；它在此到达边界：制度只是先前自我选择与执行抉择稳定下来的残余，而非站在抉择个体前方的外部作者，将某一种局部制度安排拔高为跨时代自足的主导原因，便无法解释开放边界剩余、反应性压力与选择性退出的序列为何在迥异的法律传统间一再重现。
+制度解释预设政治与法律制度决定了能干的行动者及长期经济轨迹，在描述局部约束、比较不同环境以及指明具体处境中成文法形式、速度与成本的中介通道时有用；它在此到达边界：制度只是先前自我选择与执行抉择稳定下来的残余，而非站在抉择个体前方的外部作者，将某一种局部制度安排拔高为跨时代自足的主导原因，便无法解释开放边界剩余、反应性压力与选择性退出的序列为何在迥异的法律传统间一再重现。
 
-Institutional explanation—from Douglass North's property-rights framework to Daron Acemoglu, Simon Johnson, and James Robinson's comparative accounts—presumes that political and legal institutions determine capable actors and long-run economic trajectories, which is of use in describing local constraints, comparing environments, and specifying the mediating channels of statutory form, speed, and cost inside a concrete setting; it reaches its boundary in that institutions are the stabilized residue of prior self-selection and enforcement choices rather than exterior authors ahead of choosing individuals, and elevating one local institutional arrangement into a self-sufficient master cause across eras leaves unexplained why the sequence of open-bound surplus, reactive pressure, and selective exit recurs across disparate legal traditions.
+Institutional explanation presumes that political and legal institutions determine capable actors and long-run economic trajectories, which is of use in describing local constraints, comparing environments, and specifying the mediating channels of statutory form, speed, and cost inside a concrete setting; it reaches its boundary in that institutions are the stabilized residue of prior self-selection and enforcement choices rather than exterior authors ahead of choosing individuals, and elevating one local institutional arrangement into a self-sufficient master cause across eras leaves unexplained why the sequence of open-bound surplus, reactive pressure, and selective exit recurs across disparate legal traditions.
 
 → [平均值是残余，不是引擎 / The Average Is Residue, Not the Engine](../../posts/the-average-is-residue-not-the-engine/) · [扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts](../../posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts/) · [排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations](../../posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations/)
 
@@ -1422,15 +1323,6 @@ Laplacian determinism presumes that complete knowledge of present positions, vel
 The Law of Large Numbers establishes that sample averages converge toward ensemble expectations at rate 1/√N as independent trials accumulate, which is of use in insurance, thermodynamics, and macroscopic forecasting; it reaches its boundary when aggregate smoothing is read back as deterministic command over individual trials or used to dismiss single-locus variance as causally inert noise.
 
 → [确定性是微观不确定性的统计签名 / Determinism is the Statistical Signature of Micro-Indeterminism](../../posts/determinism-is-the-statistical-signature-of-micro-indeterminism/) · [阴影与无限 / The Shadow and the Infinite](../../posts/the-shadow-and-the-infinite/) · [当电子开始思考 / When Electrons Think](../../posts/when-electrons-think/) · [可见性的速度差 / The Velocity of Visibility](../../posts/the-velocity-of-visibility/) · [全息回声 / The Holographic Echo](../../posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function/)
-
-### 必要多样性定律 / Law of Requisite Variety
-`科学 / Scientific`
-
-W. 罗斯·艾什比的必要多样性定律（V_O ≥ V_D − V_R）以一套由外部划定的耦合关系为前提，预设其中的扰动集、调节器动作与关键变量均已预先固定，在为反馈控制、通信信道与动态稳定确立精确带宽界限时有用；它在此到达边界：当所持守的目标本身是活的心智或演进制度随新轴线敞开而重新渲染的暂时痕迹时，把高强度修正多样性耗费在将过时参照钳定不动上，只会加深滞后。
-
-W. Ross Ashby's Law of Requisite Variety (V_O ≥ V_D − V_R) premises an externally partitioned coupling with pre-assigned disturbance alphabets, regulator actions, and fixed essential variables, which is of use in setting exact bandwidth bounds across feedback control, communications channels, and dynamic stabilization; it reaches its boundary where the held target itself is a provisional trace of a living Mind or evolving institution that re-renders as new axes open, so high corrective variety spent clamping an obsolete reference steady merely deepens lag.
-
-→ [把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source](../../posts/mistaking-the-symptom-of-stability-for-its-source/)
 
 ### 差异制造与因果解释决定论 / Difference-Making and Deterministic Explanation
 `科学 / Scientific`
@@ -1630,15 +1522,6 @@ Post-scarcity cultural critique presumes that rising material surplus liberates 
 
 → [生产创造自己的意识形态消费 / Production Creates Its Own Ideological Consumption](../../posts/fate-loves-irony-refined/)
 
-### 公共选择理论 / Public Choice Theory
-`经济 / Economic`
-
-公共选择理论将行为对称性一并运用于市场与政治——把政治人物、官僚、选民与利益联盟都视作面对个人激励与主观机会成本的行动者，而非站在场外的“仁慈专制者”——在剥除凌驾于激励场之上的公正裁判幻象时有用；它在此到达边界：它将立宪前的偏好序列持守为权衡外部成本与决策成本的固定尺度，从而把偏好的形成留在了分析之外。
-
-Public choice theory applies behavioral symmetry across markets and politics—treating politicians, bureaucrats, voters, and coalitions as actors facing personal incentives and subjective opportunity costs rather than an exterior "benevolent despot"—which is of use in stripping the illusion of an impartial referee above the incentive field; it reaches its boundary in holding pre-constitutional preference schedules as fixed yardsticks for weighing external and decision-making costs, leaving preference formation outside the analysis.
-
-→ [表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice](../../posts/apparent-regulation-and-the-primacy-of-choice/)
-
 ### 理性选择理论 / Rational Choice Theory
 `经济 / Economic`
 
@@ -1656,15 +1539,6 @@ Rational choice theory presumes preference structures consistent and shared enou
 Reinforcement learning formalizes policy optimization through scalar reward maximization over state-action trajectories, which is of use for training control policies inside bounded games and well-specified environments; it reaches its boundary when projected as a model of autonomous agency, since computational policies optimize fixed proxy scalars whereas living Minds hold sovereignty to question and redefine what counts as reward.
 
 → [看似AI的强化学习，实为人类的自我强化学习 / What Looks Like RL for AIs Is Self-RL for Humans](../../posts/self-rl-for-humans/)
-
-### 显露偏好理论 / Revealed Preference Theory
-`经济 / Economic`
-
-由保罗·萨缪尔森与亨德里克·霍撒克围绕选择一致性公理（WARP 与 SARP）建立、并经消费资本与习惯存量设定加以扩展的显露偏好理论，从已观测到的选择中重构序数效用排序，在稳定框架内总结已完成的权衡时有用；一旦可积性把关于过往行动的推断摘要转变为驱动未来选择的恒常引擎，混同了行动瞬间的单次一致性与跨期恒常性，并忽略累积的偏好在新鲜选择划出下一刀前始终只是惰性残余，该理论便到达了边界。
-
-Formulated by Paul Samuelson and Hendrik Houthakker around choice consistency axioms (WARP and SARP) and extended through consumption-capital and habit-stock specifications, revealed preference theory reconstructs ordinal utility orderings from observed selections, which is of use in summarizing completed trade-offs inside stable frames; it reaches its boundary when integrability turns an inferential summary of past acts into an invariant, forward-acting engine of future choices, conflating single-instant consistency in action with intertemporal constancy and missing that accumulated preferences stay inert residue until a fresh choice cuts.
-
-→ [表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice](../../posts/apparent-regulation-and-the-primacy-of-choice/)
 
 ### 时间可逆性悖论 / Reversibility Paradox of Time
 `科学 / Scientific`
@@ -1759,11 +1633,11 @@ Special relativity establishes that spatial and temporal intervals vary across i
 ### 言语行为理论 / Speech Act Theory
 `哲学 / Philosophical`
 
-由约翰·兰肖·奥斯汀开创的言语行为理论将言内意义（话语说了什么）及受规则支配的言外之力，同言后后果（话语在对话者身上促成了什么）区分开来，在阐明为何多轮互动后果因领会由各参与者共同生成而抗拒封闭的单句评分细则，以及为何表达态度的表态型话语在约定规约管辖权之外作为裁定型宣判说出时会失灵这两点上皆有用；当交际效力被封入穷尽式的制度恰当性核查表而非在每个观察心智跨轮次的开放重描处加以登记，当回顾性言语行为被当作维持历史成就并构成非规约性前沿推进的要素，或当某一言语行为安装一套封闭的“无共同基础”先验与二元敌意逼问、使该框架内的任何回应都只能在此次安装之内更新时，该理论便到达了边界。
+言语行为理论指出话语不只是描述外部事态，更在出口之际直接施行动作、确立承诺或设定互动框架，这在辨识一句看似普通的提问如何当场安装前提并收窄回应空间时有用；当交际效力被封入固定规约或既定计分板之内，忽视某一言语行为可以当场安装一套封闭的“无共同基础”先验与二元敌意逼问——使框架内的任何回应都只能在此次安装之内更新，除非拒绝该框架本身——这一理论便到达了边界。
 
-Speech act theory, inaugurated by J. L. Austin, separates locutionary sense (what words say) and rule-governed illocutionary force from perlocutionary consequences (what words bring about in interlocutors), which is of use in showing both why multi-turn interactive consequences resist closed single-utterance rubrics because uptake is co-produced across participants and why attitudinal behabitives misfire when uttered as verdictive rulings outside agreed conventional jurisdiction; it reaches its boundary when communicative force is sealed inside exhaustive institutional felicity checklists rather than registered at each observing Mind's open re-tracing across turns, when retrospective verbal acts are treated as sustaining historical achievements and constituting non-conventional frontier advances, or when a speech act installs a sealed no-common-ground prior and binary enmity demand so any reply within its frame merely updates inside that install.
+Speech act theory holds that utterances do not merely describe external states of affairs but perform actions, establish commitments, and set interactive frames in the act of being spoken, which is of use in recognizing how a seemingly ordinary question installs premises and narrows the reply space on the spot; it reaches its boundary when communicative force is sealed inside fixed conventions or a given scoreboard, missing how a speech act can install a sealed no-common-ground prior and binary enmity demand so that any reply within its frame merely updates inside that install unless the frame itself is refused.
 
-→ [终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice](../../posts/eternally-wrong-questions-that-haunt-practice/) · [旁观评论者的倒置 / The Reversal of the Bystander Commentators](../../posts/the-reversal-of-the-bystander-commentators/) · [安装战争的那个问题 / The Question That Installs the War](../../posts/the-question-that-installs-the-war/)
+→ [安装战争的那个问题 / The Question That Installs the War](../../posts/the-question-that-installs-the-war/)
 
 ### 自发物质涌现论 / Spontaneous Material Emergence
 `科学 / Scientific`
@@ -1963,42 +1837,6 @@ Yann LeCun's Joint-Embedding Predictive Architecture (JEPA) moves training evalu
 
 → [影子没有损失 / The Shadow Has No Loss](../../posts/the-shadow-has-no-loss/) · [抽象、决定，与主流机器学习的三大结构性症结 / Abstraction, Determination, and the Three Structural Flaws of Machine Learning](../../posts/abstraction-determination-and-the-three-structural-flaws-of-machine-learning/)
 
-### 社会债务与共同遗产论 / Social Debt and Common Patrimony
-`哲学 / Philosophical`
-
-从莱昂·布尔茹瓦的“社会债务”学说到约翰·罗尔斯的共同资产汇集与赫伯特·西蒙的社会资本归因，这类表述预设：既然每个个体都建立在累积的语言、科学与公民秩序之上，已实现的产出便代表着一笔可由领土国家收缴的集体遗产或起源债务，这在登记没有任何心智从零开始、数千年共享痕迹倍增了当下生产率时有用；该前提将非竞争性的人类残余——重溯时损耗为零，且在同一辖区数百万人面前于边际上对称敞开——以及有界的本地教育成本，混同为国家对特定中心所作边际区分享有的无上限股权留置权，在此到达了边界。
-
-Formulations from Léon Bourgeois's *dette sociale* to John Rawls's common-asset pooling and Herbert Simon's social-capital attribution presume that because every individual builds upon accumulated language, science, and civic order, realized output represents a collective patrimony or origin debt collectible by the territorial state, which is of use in registering that no Mind acts from nothing and that millennia of shared traces multiply present productivity; the premise reaches its boundary in conflating non-rivalrous human residue—depleted by zero upon re-tracing and symmetric at the margin across millions in the same jurisdiction—and bounded local schooling costs with an open-ended state equity lien over the marginal distinctions particular centers draw.
-
-→ [继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction](../../posts/inheritance-as-residue-and-the-need-for-extraction/)
-
-### 寻租理论 / Rent-Seeking Theory
-`经济 / Economic`
-
-戈登·塔洛克与安妮·克鲁格的寻租理论预设，使既有财富、牌照或市场准入变为政治上可争夺的对象，会将生产性努力与资本引向捕获与防御，从而使被争夺的存量本身遭到耗散而非无摩擦地转移，这在核算配额、关税与强制股权交割超出行政开支之外的资源损耗时有用；当总产出被当作有待自上而下优化的外部社会目标，而非个体中心选择在开放还是固定边界下解读相对度量所留下的下游残余时，该前提便到达了边界。
-
-Gordon Tullock and Anne Krueger's rent-seeking theory presumes that making existing wealth, licenses, or market entry politically contestable diverts productive effort and capital into capture and defense so the contested stock itself is dissipated rather than frictionlessly transferred, which is of use in accounting for the resource losses of quotas, tariffs, and mandatory equity handovers beyond administrative overhead; it reaches its boundary when aggregate output is treated as an external social objective to be optimized from above rather than the downstream residue of individual centers choosing whether to read relative measures under an open or fixed bound.
-
-→ [继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction](../../posts/inheritance-as-residue-and-the-need-for-extraction/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/)
-
-### 边疆假说 / Frontier Thesis
-`经济 / Economic`
-
-弗雷德里克·杰克逊·特纳的边疆安全阀论点与沃尔特·普雷斯科特·韦布的“大边疆”繁荣假说，将现代制度开放与繁荣建模为新可及土地抬升资源相对人口比率的产物，这在登记尚无羁绊的资源边际如何在利益联盟重新闭合之前松动沿袭的法团僵化并生成可争夺剩余时有用；当该前提被当作一段已闭合的十九世纪地理插曲或均质的人口安全阀，而非具备流动能力的残余承担中心跨越物理、技术与管辖边际持续展开开放边界区分与选择性退出的一次空间实例时，便到达了边界。
-
-Frederick Jackson Turner's frontier safety-valve thesis and Walter Prescott Webb's Great Frontier boom hypothesis model modern institutional openness and prosperity as products of newly accessible land raising the resource-to-population ratio, which is of use in registering how unencumbered resource margins loosen inherited corporate rigidities and generate contestable surplus before coalition closure sets back in; the premise reaches its boundary when treated either as a closed nineteenth-century geographic episode or as a uniform demographic safety valve rather than one spatial instance of ongoing open-bound differentiation and selective exit by mobile residual-bearing centers across physical, technical, and jurisdictional margins.
-
-→ [扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts](../../posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts/)
-
-### 因果排他性 / Causal Exclusion
-`哲学 / Philosophical`
-
-由金在权在心灵哲学与解释哲学中系统阐述的因果排他性预设，一旦针对某一结果指明了充足的低层级局部机制，高层级的结构性解释便沦为冗余或必须被取代，这在防范同一解释粒度上对相同机制重复计入时有用；当它被跨不同粒度套用、将结构序列与局部中介规则视作互斥的竞争者，并把跨域规律同局部制度差异的相容——即它在局部边界内的不予驳斥——误认作对该序列本身的驳倒时，便到达了边界。
-
-Formulated by Jaegwon Kim in the philosophy of mind and explanation, causal exclusion presumes that once a sufficient lower-level local mechanism is specified for an outcome, higher-level structural accounts become redundant or must be displaced, which is of use in guarding against double-counting identical mechanisms at a single explanatory grain; it reaches its boundary when applied across distinct grains to treat structural sequences and local mediating rules as mutually exclusive competitors, mistaking a cross-domain regularity's compatibility with local institutional variation—its non-refutation inside local bounds—for a refutation of the sequence itself.
-
-→ [扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts](../../posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts/)
-
 ### 退出、呼吁与忠诚 / Exit, Voice, and Loyalty
 `经济 / Economic`
 
@@ -2006,151 +1844,25 @@ Formulated by Jaegwon Kim in the philosophy of mind and explanation, causal excl
 
 Albert O. Hirschman's *Exit, Voice, and Loyalty* maps how credible exit options quietly back internal voice and discipline counterparties before decline ruptures into view, which is of use in diagnosing feedback channels and captive-versus-mobile asymmetries inside firms and states; it reaches its boundary in its premise of institutional recuperation, since live optionality at the acting Mind serves to keep adjustment faster than observation lag rather than to rehabilitate a failing vessel.
 
-→ [观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality](../../posts/observation-lag-and-the-inversion-of-optionality/) · [排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations](../../posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/) · [边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement](../../posts/generation-beyond-the-boundary-and-internal-rearrangement/)
-
-### OODA 循环 / OODA Loop
-`技术 / Technological`
-
-约翰·博伊德的观察—定向—决策—行动循环以持续重新定向为核心，使行动者能在较慢一方完成更新之前改变正在展开的场域，这在分析对抗性行动环境中的机动节律时有用；它在其达尔文式的对抗出发前提处到达了边界，因为一旦一方将自身回应时间放慢到观察时间之后，寻常自利的对手方便会在随之产生的滞后之内调整、退出或重新定价，并不需要任何敌对对手。
-
-John Boyd's Observation–Orientation–Decision–Action loop centers on continuous re-orientation so an actor shifts the unfolding field faster than a slower party can update, which is of use in analyzing maneuver tempo in contested operational settings; it reaches its boundary in its Darwinian, adversarial starting premise, since no hostile opponent is required when one party slows its own response time past observation time and ordinary self-interested counterparties adjust, exit, or reprice inside the resulting lag.
-
 → [观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality](../../posts/observation-lag-and-the-inversion-of-optionality/)
-
-### 蒂布特排序 / Tiebout Sorting
-`经济 / Economic`
-
-查尔斯·蒂布特于 1956 年提出的“用脚投票”模型在个体偏好与社区菜单双双固定的前提下，将可流动家庭刻画为在相互竞争的管辖区之间显露偏好的行动者，这在流动成本低廉且菜单保持静止之处用于刻画借退出显露偏好时有用；一旦每一次离开都递归地改写留守者所面对的规范、地位层级、同侪预期与地方规则，使看似外生的地点菜单实为先前排序的累积残余，该模型便到达了边界。
-
-Charles Tiebout's 1956 model of "voting with one's feet" treats mobile households as revealing preferences across competing jurisdictions under fixed individual preferences and fixed community menus, which is of use in modeling preference revelation through exit where mobility is inexpensive and menus stay stationary; it reaches its boundary once each exit recursively alters the remaining norms, status hierarchies, peer expectations, and local rules confronting those who stay, turning what appears as an exogenous place menu into the accumulated residue of prior sorting.
-
-→ [排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations](../../posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations/) · [边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement](../../posts/generation-beyond-the-boundary-and-internal-rearrangement/)
 
 ### 文化决定论与社会事实 / Cultural Determinism and Social Facts
 `哲学 / Philosophical`
 
-埃米尔·涂尔干将“社会事实”界定为自成一类的强制实体、吉尔特·霍夫斯泰德以国家文化维度刻画文化，二者皆将集体心智视为塑形个体行为的自主宏观基底，这在静止的高退出成本体制内作为低带宽速记时有用；一旦这一前提被拔高为独立因果力，便被迫按尺度特设分裂的实体——例如恒定不变的国家“价值观”与可塑的组织“实践”——同时无法解释为何国家内部变异占主导、国家指数每隔十年便会漂移，以及为何退出壁垒一旦下降、看似恒常的表象便随之瓦解，在此到达了边界。
+文化决定论以埃米尔·涂尔干将“社会事实”界定为独立于个体之外并行使强制力的外部实体为经典形式，将集体心智视为塑形个体行为的自主宏观基底，这在静止的高退出成本体制内作为低带宽速记时有用；一旦这一前提被拔高为独立因果力，便不得不在国家、城市与企业每一层级按尺度增殖专属宏观实体，同时无法解释为何约五分之四的变异落在国家内部、国家画像每隔十年便会显著漂移，以及为何退出壁垒一旦下降、看似恒常的表象便随之瓦解，在此到达了边界。
 
-Émile Durkheim's framing of *faits sociaux* as coercive entities *sui generis* and Geert Hofstede's national cultural dimensions treat collective mindset as an autonomous macro substrate shaping individual conduct, which is of use as a low-bandwidth shorthand inside a stationary high-exit-cost regime; the premise reaches its boundary when elevated into an independent causal force, forcing ad-hoc splits into separate entities by scale—such as immutable national "values" versus malleable organizational "practices"—while leaving unexplained why within-country variance dominates, why national indices drift across decades, and why apparent permanence breaks down once exit barriers drop.
-
-→ [排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations](../../posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations/)
-
-### 卢卡斯批判 / The Lucas Critique
-`经济 / Economic`
-
-小罗伯特·E·卢卡斯在 1976 年的批判中指出，从历史快照估算出的简约式宏观参数仅在固定政策体制内保持稳健，一遇体制转换便告失效，因为它们是底层决策规则的均衡残余而非自主常量，这在揭示为何被动数据上的静态观测一致从不证明因果等效时有用；每当形式化模型仍将底层行动者的决策规则视作封闭固定的函数类，而非活的心智在约束变动时持续重新渲染的开放偏好表达，这一批判的建构便到达了边界。
-
-Robert E. Lucas Jr.'s 1976 critique shows that reduced-form macroeconomic parameters estimated from historical snapshots hold steady only inside a fixed policy regime and break down upon a regime shift because they are equilibrium residues of underlying decision rules rather than autonomous constants, which is of use in exposing why static observational agreement across passive data never proves causal equivalence; it reaches its boundary whenever a formal model still treats the underlying agent decision rules as a closed, fixed functional class rather than open-ended preference expressions at living Minds that re-render whenever constraints change.
+Cultural determinism—given its classic form by Émile Durkheim's framing of social facts as external entities standing outside individuals and exerting coercive power—treats collective mindset as an autonomous macro substrate shaping individual conduct, which is of use as a low-bandwidth shorthand inside a stationary high-exit-cost regime; the premise reaches its boundary when elevated into an independent causal force, forcing distinct macro entities to proliferate at every tier across nations, cities, and firms while leaving unexplained why roughly four-fifths of variation sits within countries, why national profiles shift across decades, and why apparent permanence breaks down once exit barriers drop.
 
 → [排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations](../../posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations/)
-
-### 伊斯特林悖论 / Easterlin Paradox
-`经济 / Economic`
-
-理查德·伊斯特林的悖论（连同詹姆斯·杜森贝里的相对收入假说与亚历克西·德·托克维尔关于改善期期望攀升的观察）指出，一旦同侪参照点随收入同步上移，长期上升的绝对物质产出便会与停滞乃至下滑的主观满意度并存，这在记录为何横截面收入差异比跨数十年的总体增长更紧密地对应自报幸福感时有用；该前提在此到达了边界：它将同侪比较与上移的参照点当作固定效用函数的被动外生参数，而未将其看作一种主动的比较持守——后者需要以持续的低满足来维系相对怨怼杠杆的自洽。
-
-Richard Easterlin's paradox (alongside James Duesenberry's relative income hypothesis and Alexis de Tocqueville's observation on rising expectations during amelioration) notes that rising long-run absolute material output coincides with flat or falling subjective satisfaction once peer reference points move alongside income, which is of use in documenting why cross-sectional income differences track reported well-being more closely than multi-decade aggregate growth; the premise reaches its boundary in treating peer comparison and rising reference points as passive, exogenous parameters of a fixed utility function rather than an active comparative hold whose sustained low contentment is required to keep relative-grievance leverage coherent.
-
-→ [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/)
-
-### 相对剥夺理论 / Relative Deprivation Theory
-`科学 / Scientific`
-
-经由塞缪尔·斯托弗、W·G·朗西曼与泰德·格尔逐步成形的相对剥夺理论，将主观不满与社会抗议建模为锚定可见同侪的期望与既得成就之间的感知落差，这在登记为何同侪群体内的加速推进反而会加剧而非缓和局部不满时有用；该前提在此到达了边界：它把感知落差视作被动比较引发的自动情绪溢出，而未追溯狭短观察窗口如何将不同的复利率转化为静态短缺，以及维持不满如何作为提取相对让步的内在自洽条件运作。
-
-Formulated across Samuel Stouffer, W. G. Runciman, and Ted Gurr, relative deprivation theory models subjective dissatisfaction and social protest as the perceived discrepancy between expectations anchored to visible peers and realized attainment, which is of use in registering why accelerated advancement inside a peer group can heighten rather than ease local discontent; the premise reaches its boundary in treating perceived discrepancy as an automatic affective overflow from passive comparison rather than tracing how a short observation window converts differing compounding rates into static shortfalls and how maintaining dissatisfaction operates as an internally coherent condition for extracting relative concessions.
-
-→ [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/) · [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/)
-
-### 指数增长偏差 / Exponential Growth Bias
-`科学 / Scientific`
-
-经威廉·瓦格纳尔与萨巴托·萨加里亚、维克托·斯坦戈与乔纳森·津曼、以及马修·利维与约书亚·塔索夫相继记录的指数增长偏差，将人们在短视域内按线性方式外推复利序列的倾向加以建模，这在解释家庭借贷、储蓄与生命周期累积中的系统性低估时有用；当该前提仅被框定为孤立的个体内在计算差错，而未追溯这种狭短窗口感知如何遮蔽多步个人复利、并将他人更快或更久的复利轨迹转化为无从解释的静态盈余时，便到达了边界。
-
-Documented by Willem Wagenaar and Sabato Sagaria, Victor Stango and Jonathan Zinman, and Matthew Levy and Joshua Tasoff, exponential growth bias models the tendency to extrapolate compounding sequences linearly over short horizons, which is of use in accounting for systematic under-estimation in household borrowing, saving, and lifecycle accumulation; the premise reaches its boundary when framed strictly as an isolated intrapersonal calculation error rather than the short-window perception that hides multi-step personal compounding and converts another individual's faster or longer compounding trajectory into an unexplained static surplus.
-
-→ [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/)
-
-### 怨恨理论 / Ressentiment
-`哲学 / Philosophical`
-
-由弗里德里希·尼采与马克斯·舍勒阐发的怨恨理论认为，能力受阻之下的向上比较会诱发一种“价值幻觉”，把不可企及的野心与财富贬为浅薄或腐败，同时把无力抬升为道德美德，这在刻画未行动的驱力如何将自身掩饰为道德优越感时有用；该前提在此到达了边界：它将价值倒置视作意在消灭对象本身的被动情绪反射，而忽略了为了抵御证伪所作的自我形象滞后主动维系，以及那种一边宣称野心病态、一边要求生产引擎照常运转的保留驱力姿态。
-
-Formulated by Friedrich Nietzsche and Max Scheler, the theory of ressentiment holds that blocked vitality under upward comparison induces a value delusion (*Wertwahn*) that demotes unattainable ambition and wealth as shallow or corrupt while elevating powerlessness into moral virtue, which is of use in mapping how unacted drive masks itself as moral superiority; the premise reaches its boundary where it treats value inversion as a passive affective reflex aiming to extinguish its object, overlooking active maintenance of self-image lag to shield against falsification and the drive-preserving move that calls ambition pathological while demanding the productive engine keep running.
-
-→ [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/)
 
 ### 稳态经济与去增长理论 / Steady-State Economics and Degrowth
 `经济 / Economic`
 
-从赫尔曼·戴利对量上的物质能量通量增长与质上的发展所作的生物物理区分，演进为当代针对结构性“增长强迫”而将有计划缩减与“全民基本服务”并置的去增长方案，这一框架在暂时有界的局部视域与现有技术条件之内有用，能够对照局部生态源汇约束将物理物质能量通量与质性效率提升区隔开来；其首要边界在于预设了一个固定、封闭的现实——把当今已测绘的地球生物圈、当前的资源定义以及当前的开采与吸纳视界冻结进一个永久密封的容器，在构造上将持续扩张变为零和耗竭并把质性发展也圈限在静态天花板之内，而持续分化却一直在拓宽可用包络、资源分类以及分母本身——并顺着这一密封前提在下游把多元的资本结构与竞争抉择塌缩为普遍的“增长强迫”（而稳态企业早已在并无禁令下照常运转），同时依然依赖持续的生产能力与弥散出的财政剩余来供养公共供给，哪怕它正压缩维系二者的私人复利残余。
+稳态经济学将量上的物质能量通量增长同质上的发展区隔开来，去增长方案则将这一生态核算延伸为针对系统性“增长强迫”的有计划缩减与全民基本服务提案，在暂时有界的局部视域与现有技术条件下对照生态源汇约束分离物理通量与效率提升时有用；其边界在于将当今已测绘的生物圈与资源定义冻结为永久密封的容器，在构造上将扩张变成零和耗竭，把多元的资本与竞争抉择压平为普遍的增长强迫（而稳态企业早已在并无禁令下照常运转），并仍依赖持续的产能与弥散出的财政剩余去供养公共供给。
 
-Developed from Herman Daly’s biophysical distinction between quantitative throughput growth and qualitative development into contemporary degrowth proposals pairing planned downscaling against structural growth compulsion (*Zwangswachstum*) with Universal Basic Services, this framework is of use within a temporarily bounded local horizon and current technology for separating physical matter-energy throughput against local ecological source and sink constraints from qualitative efficiency gains; it reaches its primary boundary in presuming a fixed, closed reality—freezing today’s mapped terrestrial biosphere, current resource definitions, and current extraction and sink horizons into a permanently sealed container that turns continued expansion into zero-sum exhaustion by construction and boxes even qualitative development inside a static ceiling, whereas ongoing differentiation continually widens the usable envelope, resource taxonomy, and denominator itself—and downstream from that sealed premise collapses diverse capital-structure and competitive choices into universal *Zwangswachstum* even though steady-state firms already operate without prohibition, and relies on ongoing productive capacity and diffused fiscal surplus to fund public provisioning even while compressing the private compounding residual that sustains them.
+Steady-state economics separates quantitative matter-energy throughput growth from qualitative development, and degrowth extends that ecological accounting into planned downscaling against systemic "growth compulsion" paired with Universal Basic Services, which is of use within a temporarily bounded local horizon and current technology for separating physical throughput against ecological source and sink constraints from efficiency gains; the framework reaches its boundary in freezing today's mapped biosphere and resource definitions into a permanently sealed container that turns expansion into zero-sum exhaustion by construction, flattens diverse capital and competitive choices into universal growth compulsion even though steady-state firms already operate without prohibition, and still relies on ongoing productive capacity and diffused fiscal surplus to fund public provisioning.
 
 → [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/)
-
-### 勒温力场分析 / Kurt Lewin's Force-Field Analysis
-`科学 / Scientific`
-
-勒温力场分析将稳定与变化建模为相互对立的驱动向量与约束向量之间的准静止均衡，在诊断为何加大驱动压力会陡增系统张力而削减约束能减轻张力、以及将摩擦置入整体关系场中考察时有用；它在此到达边界：将驱动力与约束力设定为线性标尺上各自独立起源的对等双方，而非认出约束力只是推进的区分扰动既定保留基线后才在下游登记的反应性痕迹。
-
-Kurt Lewin's Force-Field Analysis models stability and change as a quasi-stationary equilibrium of opposing driving and restraining vectors, which is of use in diagnosing why raising driving pressure spikes tension while lowering restraints reduces it and in placing friction inside the total relational field; it reaches its boundary in positing driving and restraining forces as independently originating co-equals on a linear scale rather than recognizing restraining force as a downstream reactive trace registered only after advancing distinction unsettles a preserved baseline.
-
-→ [进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance](../../posts/the-residue-of-progress-and-the-reactivity-of-resistance/)
-
-### 波兰尼双向运动 / Polanyi's Double Movement
-`经济 / Economic`
-
-卡尔·波兰尼的“双向运动”将现代经济转型框定为市场脱嵌与社会自发保护性反向运动的双重进程，在揭示社会失序与反弹随变化步速而非单随方向缩放时有用；它在此到达边界：将保护性举措归因于“社会”这一聚合行动者的自动有机反射，而非有界中心在受扰基线与变化后回报下作出的抉择，从而未能解释为何由步速触发的反向运动会同时呈现出可调适的缓冲与刚性的排斥。
-
-Karl Polanyi's Double Movement frames modern economic transformation as market disembedding paired with society's spontaneous protective countermovement, which is of use in showing that social dislocation and pushback scale with the pace of change rather than its direction alone; it reaches its boundary in attributing protection to an automatic organic reflex of society as an aggregate agent rather than bounded centers choosing under altered payoffs against disturbed baselines, leaving unexplained why pace-triggered countermovements span adaptable buffers and rigid exclusions alike.
-
-→ [进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance](../../posts/the-residue-of-progress-and-the-reactivity-of-resistance/)
-
-### 文化滞后 / Cultural Lag
-`科学 / Scientific`
-
-威廉·F·奥格本于 1922 年提出的文化滞后框架将快速累积的物质发明同调整较慢的调适性制度与法律区分开来，在测绘成文规则为何落后于技术部署时有用；它在把物质发明塑造成牵引被动文化跟进的自主第一推动者之处到达边界——既忽视了所持信念与规则对工具施加的逆向滞后，也将失调悬置在一条未经界定的均衡基线之上，而非定位于有界中心对照实际运作痕迹所产生的过剩形象滞后。
-
-William F. Ogburn's cultural lag framework (1922) separates fast-accumulating material inventions from slower-adjusting adaptive institutions and laws, which is of use in mapping why formal rules trail technical deployment; it reaches its boundary in casting material invention as an autonomous prime mover dragging passive culture behind it—overlooking reverse lag from held beliefs onto tools and floating maladjustment on an undefined equilibrium baseline rather than bounded centers' excess Image lag against enacted operational traces.
-
-→ [加速替换与形象滞后 / Accelerating Replacement and Image Lag](../../posts/accelerating-replacement-and-image-lag/)
-
-### 社会加速与当下萎缩 / Social Acceleration and Contraction of the Present
-`哲学 / Philosophical`
-
-赫尔曼·吕贝的当下萎缩与博物馆化（1992）同哈特穆特·罗萨的社会加速（2005/2013）一道追溯了更替从跨代压缩至代内跨度如何缩短可靠经验的视域并加剧对退去之物的保存，在解释剧变之下回望为何趋于强烈时有用；这一框架在以自主结构引擎取代在先前残余之上划出区分的有界活中心之处到达边界，把方向感丧失变成无可逃避的外部推力，而非可重绘的差值信号。
-
-Hermann Lübbe's contraction of the present and musealization (1992) paired with Hartmut Rosa's social acceleration (2005/2013) trace how turnover compressing from intergenerational to intragenerational spans shortens the horizon of reliable experience and intensifies preservation of what recedes, which is of use in accounting for intensified looking back under rapid change; the framing reaches its boundary where autonomous structural motors replace bounded living centers enacting distinctions atop prior residue, turning disorientation into inescapable external momentum rather than a re-renderable differential signal.
-
-→ [加速替换与形象滞后 / Accelerating Replacement and Image Lag](../../posts/accelerating-replacement-and-image-lag/)
-
-### 二阶控制论 / Second-Order Cybernetics
-`科学 / Scientific`
-
-海因茨·冯·福斯特提出的二阶控制论将观察者折入反馈回路之中，把经验中稳定显现的对象建模为经由递归观察与行动维系的本征形式（O = F(O)），在消解脱离观察者的实体与外部控制者模型时有用；每当操作建构主义滑向无摩擦唯心论、脱离每条回路在接触时遭遇的不可逆物理与因果摩擦（+1），它便到达了边界。
-
-Second-order cybernetics (Heinz von Foerster) folds the observer inside the feedback loop and models stable experienced objects as eigenforms (O = F(O)) sustained by recursive observation and action, which is of use in dissolving observer-free substances and external controller models; it reaches its boundary wherever operational constructivism drifts toward frictionless idealism detached from the irreversible physical and causal friction (+1) each loop encounters upon contact.
-
-→ [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
-
-### 内物理与内部自测量局限 / Endophysics and Internal Self-Measurement
-`科学 / Scientific`
-
-奥托·罗斯勒的内物理学、布罗伊尔的自测量定理与沃尔珀特的物理推断极限表明，嵌入更大系统之内的观察者（O ⊂ S）严格只经由内部界面接触世界，不同的全局状态在此收束为主观上不可区分的记录，在形式化说明为何不存在系统内部的拉普拉斯妖或对整体的外部检视时有用；一旦微观建构主义模拟在更高一层重新装上外部座位，或证明内部不完备时不得不从分析者书桌前预设封闭的全局状态空间（Ω 或 U），这些框架便到达了边界。
-
-Endophysics (Otto Rössler), Breuer's self-measurement theorem, and Wolpert's physical limits of inference show that an observer embedded inside a larger system (O ⊂ S) accesses reality strictly across an internal interface where distinct global states collapse into subjectively indistinguishable records, which is of use in formalizing why no internal Laplace's Demon or external inspection of the whole is available; these frameworks reach their boundary where microconstructivist simulations reinstall an external seat one level up or where proving internal incompleteness presupposes a closed global state space (Ω or U) drawn from the analyst's desk.
-
-→ [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
-
-### 哥德尔机 / Gödel Machine
-`技术 / Technological`
-
-施密德胡伯的哥德尔机在硬件与环境的公理化描述、显式效用函数 *u* 以及硬连线证明门控之内，将全部软件的自我改写——连同改写自身的证明搜索器——加以形式化，作为固定规则内可证明最优自我修改的最锋利形式蓝图颇具效用；它在此到达了边界：这些坐标必须预先从外部供给，且整个系统始终受限于初始公理集之内的可证性。
-
-Schmidhuber's Gödel Machine formalizes complete software self-rewriting—including rewriting its own proof searcher—inside an axiomatic hardware-environment description, an explicit utility function *u*, and a hardwired proof gate, which is of use as the sharpest formal blueprint of provably optimal self-modification within fixed rules; it reaches its boundary in requiring those coordinates to be supplied externally up front and in remaining bounded by provability within its initial axiom set.
-
-→ [折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation](../../posts/the-folded-self-image-and-the-bound-of-simulation/)
 
 ## 概念 / Concepts
 
@@ -2400,9 +2112,9 @@ Averaged parenting methods distil patterns from many children, which is of use i
 ### 选择公理与巴拿赫-塔斯基分球悖论 / Axiom of Choice and the Banach–Tarski Paradox
 `数学 / Mathematical`
 
-选择公理在不给出构造性规则的情况下，设定可从任意（包括不可数的）非空集合族中同时选出精确元素，在保障代数、拓扑与泛函分析中跨无限结构的统一存在性结果时有用；当它与连续统上的零宽度点结合，生出与普遍测度及体积守恒相冲突的维塔利不可测集与巴拿赫-塔斯基刚体运动倍球构造时便到达了边界，暴露出一种可观察现实中并不存在的设定的实无限，其处置要求观察者做出进一步的形式外选择。
+选择公理在不给出构造性规则的情况下，设定可从任意（包括不可数的）非空集合族中同时选出精确元素，在保障代数、拓扑与泛函分析中跨无限结构的统一存在性结果时有用；当它与连续统上的零宽度点结合，生出与普遍测度及体积守恒相冲突的巴拿赫-塔斯基刚体运动倍球构造时便到达了边界，暴露出一种可观察现实中并不存在的设定的实无限，其处置要求观察者做出进一步的形式外选择。
 
-The Axiom of Choice posits simultaneous selection of exact elements across arbitrary—including uncountable—collections of non-empty sets without a constructive rule, which is of use in securing uniform existence results across infinite structures in algebra, topology, and functional analysis; it reaches its boundary when combined with zero-width continuum points to produce Vitali non-measurable sets and Banach–Tarski rigid-motion ball duplications that collide with universal measure and volume conservation, exposing a posited actual infinity absent from observable reality whose disposal requires a further extra-formal choice by the observer.
+The Axiom of Choice posits simultaneous selection of exact elements across arbitrary—including uncountable—collections of non-empty sets without a constructive rule, which is of use in securing uniform existence results across infinite structures in algebra, topology, and functional analysis; it reaches its boundary when combined with zero-width continuum points to produce Banach–Tarski rigid-motion ball duplications that collide with universal measure and volume conservation, exposing a posited actual infinity absent from observable reality whose disposal requires a further extra-formal choice by the observer.
 
 → [整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice](../../posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice/)
 
@@ -2450,15 +2162,6 @@ Big data omniscience presumes that once enough data is gathered, intelligence an
 The Bodhisattva vow presumes deferring personal liberation until all beings are saved; useful for cultivating boundless compassion, it reifies an external world of others.
 
 → [没有普渡，只有自渡的无限可能 / No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../../posts/mei-you-pu-du-zhi-you-zi-du/)
-
-### 布尔补集 / Boolean Complementation
-`数学 / Mathematical`
-
-布尔补集通过切分预先指定的论域 U 来定义否定（Aᶜ = U \ A），使集合及其补集不留余地地穷尽顶元，在数字逻辑门、有限概率空间与有界数据库模式中有用；一旦将其投射到缺乏已完成全域容器的开放现实之上，无限制补集便坍缩为悖论，并让位于暂时工作集内部的局部相对差集（B \ A），在此到达了边界。
-
-Boolean complementation defines negation (Aᶜ = U \ A) by partitioning a pre-assigned Universe of Discourse U so that a set and its complement exhaust the top element without remainder, which is of use across digital logic gates, finite probability spaces, and bounded database schemas; it reaches its boundary when projected onto an open reality that lacks a completed universal container, where unrestricted complementation collapses into paradox and gives way to local relative difference (B \ A) inside provisional working sets.
-
-→ [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/)
 
 ### 认知框架的边界盲区 / Boundary of Cognitive Framing
 `哲学 / Philosophical`
@@ -2517,9 +2220,9 @@ Calls to pause AI take slowing down as a guard against risk, which is of use in 
 ### 名义生产率核算 / Nominal Productivity Accounting
 `经济 / Economic`
 
-名义 GDP 与利润率核算通过货币收入与支出汇总指标度量经济健康度，在稳定价格区间内追踪现金流偿付能力、税基与部门份额时有用；它从两侧到达边界——既包括跨行业 AI 成本急速通缩时，单位认知与生产价格的陡降在名义仪表盘上被登记为停滞或危机而非物理产能的扩张，也包括按投入成本计价的政府消费、所有权转移与金融中介周转、防御性的“遗憾性支出”、固定资本折旧以及未扣减的消费将账面总额推高至远超净增量剩余之处。
+名义 GDP 与利润率核算通过货币收入与支出汇总指标度量经济健康度，在稳定价格区间内追踪现金流偿付能力、税基与部门份额时有用；它从两侧到达边界——既包括跨行业 AI 成本急速通缩时，单位认知与生产价格的陡降在名义仪表盘上被登记为停滞或危机而非物理产能的扩张，也包括按投入成本计价的政府消费、所有权转移与金融中介周转、防御与合规开销、固定资本折旧以及未扣减的消费将账面总额推高至远超净增量剩余之处。
 
-Nominal GDP and margin accounting measures economic health through monetary revenue and expenditure aggregates, which is of use for tracking cash-flow solvency, tax bases, and sector shares inside stable price regimes; it reaches its boundary both under rapid cross-sector AI cost deflation—when steep drops in unit cognitive and production prices register on nominal gauges as stagnation or crisis rather than expanding physical capacity—and where input-cost-valued government consumption, ownership-transfer and financial-intermediation churn, defensive regrettables, fixed-capital depreciation, and unsubtracted consumption pad headline gross totals well past net incremental surplus.
+Nominal GDP and margin accounting measures economic health through monetary revenue and expenditure aggregates, which is of use for tracking cash-flow solvency, tax bases, and sector shares inside stable price regimes; it reaches its boundary both under rapid cross-sector AI cost deflation—when steep drops in unit cognitive and production prices register on nominal gauges as stagnation or crisis rather than expanding physical capacity—and where input-cost-valued government consumption, ownership-transfer and financial-intermediation churn, defensive and compliance overhead, fixed-capital depreciation, and unsubtracted consumption pad headline gross totals well past net incremental surplus.
 
 → [度量时滞与智能成本通缩 / The Measurement Lag](../../posts/intelligence-crisis-response/) · [生产性基础的市场重定价 / The Market Repricing of Productive Base](../../posts/the-market-repricing-of-productive-base/)
 
@@ -2616,11 +2319,11 @@ Closed-book exams measure unaided performance, which is of use in assessing inde
 ### 闭合世界假定 / Closed-World Assumption
 `技术 / Technological`
 
-闭合世界假定将数据库或形式系统中一切未知或无法推导为真的命题推定为假，在有限目录依构造即已完备的场合，有助于让查询求值与自动推理保持可处理；它在此到了边界：将其搬到开放的探索或工程领域时，接触会持续翻出既有目录从未列出的变量与失效模式。
+闭合世界假定将数据库、逻辑电路或形式系统中一切未知或未列举之项推定为假或归入固定补集，在有限目录依构造即已完备的场合，有助于让查询求值、真值表与自动推理保持清晰可处理；它在此到了边界：将其搬到开放的探索、工程或活态认知领域时，接触会持续翻出既有目录从未列出的变量与失效模式，而把现实当作密封容器则把边界的另一面硬化为须反复重描的常设排斥。
 
-The closed-world assumption treats any statement not known or derivable to be true within a database or formal system as false, which is of use in keeping query evaluation and automated inference tractable where a finite catalog is complete by construction; it reaches its boundary when carried over to open domains of inquiry or engineering where contact keeps turning up variables and failure modes the catalog never listed.
+The closed-world assumption treats any unstated or underivable item within a database, logic circuit, or formal system as false or part of a fixed complement, which is of use in keeping query evaluation, truth tables, and automated inference crisp and tractable where a finite catalog is complete by construction; it reaches its boundary when carried over to open domains of inquiry, engineering, or living cognition, where contact keeps turning up variables and failure modes the catalog never listed and treating reality as a sealed container hardens the other side of a boundary into a standing exclusion that must be continually re-traced.
 
-→ [闭合的N与开放的现实 / The Closed N and the Open Reality](../../posts/the-closed-n-and-the-open-reality/)
+→ [闭合的N与开放的现实 / The Closed N and the Open Reality](../../posts/the-closed-n-and-the-open-reality/) · [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/)
 
 ### 将 AI 视作对话聊天机器人 / AI as Conversational Chatbot
 `技术 / Technological`
@@ -2729,15 +2432,6 @@ Treating awareness as a possessable object presumes mind is an asset that can be
 Empirical physicalism presumes consciousness can appear as an observable variable in an instrument, which is of use in mapping necessary conditions and correlates ever more finely; it reaches its boundary in that data are effects and the look interpreting every reading is the activity under study, so a correlate does not become the private registration it conditions, and a state called conscious by one paradigm's standard is named there, not found, so its rate goes no further than that standard.
 
 → [意识从不作为数据出现在数据之中 / Consciousness Never Appears as Data Among Data](../../posts/consciousness-never-appears-as-data-among-data/) · [依其自身标准的观察 / An Observation by Its Own Standard](../../posts/an-observation-by-its-own-standard/)
-
-### 炫耀性消费 / Conspicuous Consumption
-`经济 / Economic`
-
-托斯丹·凡勃伦提出的炫耀性消费概念预设，一旦社群规模超出面对面的熟人交往，个体便通过公开支出与脱离劳作来展示地位，这在解释陌生人为何按可即时广播的标识而非依赖具体语境的生产能力来排定同侪位次时有用；一旦它被当作某个有闲阶级孤立的病症，而非横跨地位排序与选举政治的结构性落差——即固定边界消费与开放边界生产在可见性与时序上的落差——的一面，便到达了边界。
-
-Thorstein Veblen's concept of conspicuous consumption presumes that once communities scale beyond face-to-face acquaintance, individuals display standing through public expenditure and abstention from labor, which is of use in explaining why strangers rank peers by immediately broadcastable markers rather than context-bound productive competence; it reaches its boundary when treated as an isolated pathology of a leisure class rather than one face of the structural visibility and timing gap between fixed-bound consumption and open-bound production across status rankings and electoral politics.
-
-→ [生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption](../../posts/the-opacity-of-production-and-the-weight-of-consumption/)
 
 ### 多边主义与委员会共识 / Multilateralism and Committee Consensus
 `哲学 / Philosophical`
@@ -3999,15 +3693,6 @@ Treating intra-frame extension and paradigm shift as a single continuum of incre
 
 → [框内延伸与维度跃迁 / Extension and Shift](../../posts/extension-and-shift/)
 
-### 帕累托最优 / Pareto Optimality
-`经济 / Economic`
-
-经由阿罗—德布鲁福利经济学第一基本定理形式化的帕累托最优，刻画了在价格接受、信息对称、零外部性与完备市场条件下没有任何参与者能在不使另一人受损的前提下获益的竞争性配置，在明示的理想化假设内部检验局部效率权衡时有用；当信息不对称或市场不完备打破均衡效率，且人们把一条以初始禀赋为索引的无穷前沿——在阿罗不可能性定理之下，不同偏好本就无法以非独裁方式作序数加总——误认作立于选择之上的唯一外部记分牌时，这一概念便到达了边界。
-
-Formalized through the Arrow–Debreu First Fundamental Theorem of Welfare Economics, Pareto optimality characterizes competitive allocations where no participant can gain without another losing under price-taking, symmetric information, zero externalities, and complete markets, which is of use in testing local efficiency trade-offs inside stated idealizations; it reaches its boundary when asymmetric information or incomplete markets break equilibrium efficiency and where an infinite, endowment-indexed frontier—with no non-dictatorial ordinal aggregation across differing preferences under Arrow's Impossibility Theorem—is mistaken for a unique exterior scoreboard standing above choice.
-
-→ [表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice](../../posts/apparent-regulation-and-the-primacy-of-choice/)
-
 ### 分析瘫痪 / Analysis Paralysis
 `成功学 / Self-Help`
 
@@ -4096,7 +3781,7 @@ Saying an essay was "written by AI", defining authorship by token share, gauging
 
 Reading measurement limits, cosmological and event horizons, and singularities as edges of reality is of use in marking where registration reaches its bound or where an extrapolated formalism stops holding; it reaches its boundary in that these are bounds of an observer's access or of a temporary description, not demonstrated edges of the field, and what exceeds a finite description cannot be confirmed or disconfirmed in any final sense.
 
-→ [选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/) · [框架的边界 / The Boundary of the Frame](../../posts/the-boundary-of-the-frame/) · [投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality](../../posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/) · [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/) · [隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open](../../posts/boundary-of-the-isolation-idealization-and-the-non-closable-open/)
+→ [选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/) · [框架的边界 / The Boundary of the Frame](../../posts/the-boundary-of-the-frame/) · [投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality](../../posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/) · [隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open](../../posts/boundary-of-the-isolation-idealization-and-the-non-closable-open/)
 
 ### 肉体永生 / Physical Immortality
 `哲学 / Philosophical`
@@ -4398,9 +4083,9 @@ The expectation is that material abundance will quiet zero-sum contest, and when
 ### 规制俘获 / Regulatory Capture
 `经济 / Economic`
 
-规制俘获预设在位企业扭曲了原本中立的公共监管机构以筑起牌照护城河——而乔治·斯蒂格勒与萨姆·佩尔兹曼则将规制建模为集中行业压力与谋求支持的官员之间的政治市场——在描述逐城许可与排他性试点关卡以及更广泛的法定壁垒与价格楔子如何使落后运营商免于直面前沿对照、并阐明为何规制并非外生纠偏时颇为有用；这一前提在普通俘获叙事把监管者当作只需更好隔绝游说便能履职的外部守护者、或佩尔兹曼将单一支持度最大化者冻结在固定压力曲线之上时到达边界——它忽略了规制结构实为个体把判断委托给幽灵集体后所稳定下来的残余，使屏障背后的具体决策者得以替他人收窄选择权，却不直接承担后果，且“俘获”与“公共利益管控”都依然是同一个选择场内的回应，而每一次决定及其回返的代价始终留在具体的个人身上。
+规制俘获预设在位企业扭曲了原本中立的公共监管机构以筑起牌照护城河，在描述逐城许可、排他性试点关卡以及更广泛的法定壁垒与价格楔子如何使落后运营商免于直面前沿对照、并阐明为何规制并非外生纠偏时颇为有用；这一前提在把监管者当作只需更好隔绝游说便能履职的外部守护者时到达边界——它忽略了规制结构实为个体把判断委托给幽灵集体后所稳定下来的残余，使屏障背后的具体决策者得以替他人收窄选择权却不直接承担后果，且俘获与公共利益管控都依然是同一个选择场内的回应，每一次决定及其回返的代价始终留在具体的个人身上。
 
-Regulatory capture presumes that incumbent firms distort an otherwise neutral public regulator into erecting licensing moats—while George Stigler and Sam Peltzman model regulation as a political marketplace of concentrated industry pressure and support-seeking officials—which is of use in describing how city-by-city permits and exclusive pilot gates, alongside wider statutory barriers and price wedges, insulate lagging operators from direct frontier comparison and why regulation is not exogenous correction; the premise reaches its boundary when ordinary capture treats the regulator as an exterior guardian awaiting better insulation from lobbying or Peltzman freezes a single support-maximizer over fixed pressure curves, overlooking that regulatory structures are the stabilized residue of individuals delegating judgment to a phantom collective—leaving specific decision-makers behind the barrier to narrow options for others without bearing direct consequences—and that both capture and public-interest control remain responses inside one choice field while every decision and returning cost stays with concrete individuals.
+Regulatory capture presumes that incumbent firms distort an otherwise neutral public regulator into erecting licensing moats, which is of use in describing how city-by-city permits, exclusive pilot gates, and wider statutory barriers and price wedges insulate lagging operators from direct frontier comparison and why regulation is not exogenous correction; the premise reaches its boundary when the regulator is treated as an exterior guardian awaiting better insulation from lobbying, overlooking that regulatory structures are the stabilized residue of individuals delegating judgment to a phantom collective—leaving specific decision-makers behind the barrier to narrow options for others without bearing direct consequences—and that both capture and public-interest control remain responses inside one choice field while every decision and returning cost stays with concrete individuals.
 
 → [本地屏障与残余滞后 / The Local Shield and the Residual Lag](../../posts/the-local-shield-and-the-residual-lag/) · [表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice](../../posts/apparent-regulation-and-the-primacy-of-choice/)
 
@@ -4592,15 +4277,6 @@ Selection bias analysis accounts for baseline differences between self-selected 
 Selective immigration presumes that a filter which reads source-country outcomes and prefers persons already showing high agency selects the capable and thereby sets a society's trajectory, which is of use in registering how selective intake can shift fiscal balances, institutional quality, and cultural trajectories in the near term; it reaches its boundary in that it freezes a visible pattern as primary cause, while the filter is itself sediment of prior self-selection by those already holding leverage, so changing it adjusts present composition without touching the generative layer that keeps producing the demand for inflows and the coalitions that sustain it.
 
 → [卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems](../../posts/exceptionality-perception-and-the-self-limiting-field-of-problems/)
-
-### 自我实现的预言 / Self-Fulfilling Prophecy
-`科学 / Scientific`
-
-罗伯特·默顿在威廉·托马斯“情境定义”之上提出的自我实现的预言预设，对情境的初始错误设想会唤起相应行为，使后果令该设想成真，这在追踪解释边界如何组织具体行动、并由下游记录印证起始前提时有用；它在此到了边界：它设定了一条独立于观察者的基线，据以判定初始定义在行动之前客观上为假，而封闭框定与开放框定无需外部测量便作用于同一组有限起始条件，二者的分岔在于心智是把力气花在记录封闭上，还是继续在条件之内作出区分。
-
-The self-fulfilling prophecy, formulated by Robert K. Merton on W. I. Thomas's definition of the situation, presumes that an initially false conception of a situation evokes behavior whose consequences make that conception come true, which is of use in tracking how an interpretive boundary organizes concrete actions whose downstream record confirms the starting premise; it reaches its boundary in positing an observer-independent baseline against which the initial definition is objectively false prior to action, whereas closed and open framings operate on the same finite starting conditions without outside measurement, diverging by whether the Mind spends effort documenting closure or continuing to distinguish within them.
-
-→ [封闭框定与选择权的缩减 / Closed Framing and the Reduction of Optionality](../../posts/closed-framing-and-the-reduction-of-optionality/)
 
 ### 自我提升读物 / Self-Help Literature
 `成功学 / Self-Help`
@@ -5541,9 +5217,9 @@ Presumes that automating the loop of proposing, implementing, testing, and self-
 ### 机械可解释性与白盒还原论 / Mechanistic Interpretability and White-Box Reductionism
 `技术 / Technological`
 
-预设只要无遗漏地测绘出生成模型的架构拓扑、参数权重与原生神经元或稀疏字典特征回路，便能因神经网络“已经清洁”而对具体生成轨迹给出完备的预测性解释与内生控制；在定位局部回路故障、提取跨大量人类表达反复共振而形成的平滑模态方向与调试工具行为时有用，但当大规模统计平均将局部与专门的差异压缩或稀释、且确定性规则在部分登记的初始条件下经由计算不可约的逐步推演放大微小分岔，从而使重新引入局部结构、轨迹选择与约束更新始终依赖后训练、外部边界条件图与外环心智时到达边界。
+预设只要无遗漏地测绘出生成模型的架构拓扑、内部权重与提取方向，便能因神经网络“已经清洁”而对具体生成轨迹给出完备的预测性解释与内生控制；在定位局部回路故障、提取跨大量人类表达反复共振而形成的平滑模态方向与调试工具行为时有用，但当大规模统计平均将局部与专门的差异压缩或稀释、且确定性规则在部分登记的初始条件下经由计算不可约的逐步推演放大微小分岔，从而使重新引入局部结构、轨迹选择与约束更新始终依赖后训练、外部边界条件图与外环心智时到达边界。
 
-Presumes that exhaustively mapping a generative model's architectural topology, parameter weights, and native-neuron or sparse-dictionary feature circuits yields a complete predictive explanation and endogenous control of specific trajectories because neural networks are already clean; useful for localizing circuit faults, extracting smooth modal directions formed where traces resonate across many human expressions, and debugging model behavior, it reaches its boundary because large-scale statistical averaging compresses or dilutes local and specialized differences while deterministic rules amplify partially registered initial conditions across computationally irreducible rollouts, leaving the reintroduction of local structure, trajectory selection, and constraint updates dependent on post-training, the surrounding boundary-condition graph, and the outer-loop Mind.
+Presumes that exhaustively mapping a generative model's architectural topology, internal weights, and extracted directions yields a complete predictive explanation and endogenous control of specific trajectories because neural networks are already clean; useful for localizing circuit faults, extracting smooth modal directions formed where traces resonate across many human expressions, and debugging model behavior, it reaches its boundary because large-scale statistical averaging compresses or dilutes local and specialized differences while deterministic rules amplify partially registered initial conditions across computationally irreducible rollouts, leaving the reintroduction of local structure, trajectory selection, and constraint updates dependent on post-training, the surrounding boundary-condition graph, and the outer-loop Mind.
 
 → [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/) · [清洁的平均与残余的抉择 / Clean Averaging and Residual Choice](../../posts/clean-averaging-and-residual-choice/)
 
@@ -5617,7 +5293,7 @@ Electoral voting presumes that casting a periodic ballot is the primary exercise
 
 Hedonic adaptation and set-point theory presume that subjective well-being is governed by a baseline set point that external life events (income, marriage, unemployment, disability) temporarily or permanently shift, which is of use in documenting across longitudinal panels that post-event adjustment is neither automatic nor uniform; the premise reaches its boundary when durable shifts in measured satisfaction are read as external conditions generating the feeling directly while the desire term of the relation (whether the Mind takes up the altered state so desire adjusts, or desire remains fixed on the prior state) is left unmodeled.
 
-→ [幸福是欲望与状态的关系 / Happiness Is the Relation of Desire to State](../../posts/happiness-is-the-relation-of-desire-to-state/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/)
+→ [幸福是欲望与状态的关系 / Happiness Is the Relation of Desire to State](../../posts/happiness-is-the-relation-of-desire-to-state/)
 
 ### 注意力机制 / Attention Mechanism
 `技术 / Technological`
@@ -5640,18 +5316,18 @@ The common designation of a "rebellious phase" treats adolescent opposition as a
 ### 站在巨人的肩膀上 / Standing on the Shoulders of Giants
 `科学 / Scientific`
 
-经索尔兹伯里的约翰归于沙特尔的伯纳德名下、并因艾萨克·牛顿而广为人知的这句格言，将累积性探究视为后来实践者站上前人已完成的边界记录以看得更远的实操抬升，这在标示承接而来的约束如何抬高起始基线、直至进入罗伯特·默顿所称的“并入性湮没”时有用；当旁观评论者把实操延展倒置为回顾性的言语行为要求，将口头致敬而非后续的前沿使用当作维持过往成就并验证新推进的所在时，这一格言便到达了边界。
+因艾萨克·牛顿而广为人知的这句格言，将累积性探究视为后来实践者站上前人已完成的边界记录以看得更远的实操抬升，这在标示奠基性发现如何融入日常工作基线、使后来者得以直接由此起跳时有用；当旁观评论者把实操延展倒置为回顾性的礼仪要求，将口头致敬而非后续的前沿使用当作维持过往成就并验证新推进的所在时，这一格言便到达了边界。
 
-Attributed to Bernard of Chartres via John of Salisbury and made famous by Isaac Newton, the aphorism takes cumulative inquiry as an operational elevation in which later practitioners stand on predecessors' completed boundary records to see further, which is of use in indexing how inherited constraints raise the starting baseline up to what Robert K. Merton termed obliteration by incorporation; it reaches its boundary when bystander commentators invert operational extension into a retrospective speech-act requirement, treating verbal homage rather than subsequent frontier use as what sustains past achievements and validates new advances.
+Made famous by Isaac Newton, the aphorism takes cumulative inquiry as an operational elevation in which later practitioners stand on predecessors' completed boundary records to see further, which is of use in indexing how foundational discoveries fold into the working baseline so successors can launch directly from them; it reaches its boundary when bystander commentators invert operational extension into a retrospective ceremonial requirement, treating verbal homage rather than subsequent frontier use as what sustains past achievements and validates new advances.
 
 → [旁观评论者的倒置 / The Reversal of the Bystander Commentators](../../posts/the-reversal-of-the-bystander-commentators/)
 
 ### 自由与安全的权衡 / The Liberty–Security Trade-Off
 `意识形态 / Ideological`
 
-自由与安全的权衡从霍布斯契约一路形式化到波斯纳与弗缪尔的安全—自由前沿，把自由与安全建模为沿一条曲线相互交换的两项独立标量商品，这在固定短周期场景里比较有界核查摩擦与检出覆盖率时有用；它在颠倒原因与残余之处到达了边界，因为安全感生于活的选择权快于观察地消解摩擦之时，而收窄一方的选项只会把它的回应时间推到观察时间之后，将剩余滞后交给仍保有自由的对手方。
+自由与安全的权衡从霍布斯契约延续至当代安全辩论，把自由与安全建模为沿一条曲线相互交换的两项独立标量商品，这在固定短周期场景里比较有界核查摩擦与检出覆盖率时有用；它在颠倒原因与残余之处到达了边界，因为安全感生于活的选择权快于观察地消解摩擦之时，而收窄一方的选项只会把它的回应时间推到观察时间之后，将剩余滞后交给仍保有自由的对手方。
 
-The liberty–security trade-off, formalized from Hobbesian compacts to Posner and Vermeule's security–liberty frontier, models freedom and security as two independent scalar goods exchanged along a curve, which is of use for comparing bounded inspection friction against detection coverage inside a fixed short-horizon venue; it reaches its boundary in inverting cause and residue, since felt security arises while live optionality resolves friction faster than observation, whereas narrowing one side's options pushes its response time past observation time and hands the remaining lag to counterparties who stay free.
+The liberty–security trade-off, running from Hobbesian compacts into contemporary security debates, models freedom and security as two independent scalar goods exchanged along a curve, which is of use for comparing bounded inspection friction against detection coverage inside a fixed short-horizon venue; it reaches its boundary in inverting cause and residue, since felt security arises while live optionality resolves friction faster than observation, whereas narrowing one side's options pushes its response time past observation time and hands the remaining lag to counterparties who stay free.
 
 → [观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality](../../posts/observation-lag-and-the-inversion-of-optionality/)
 
@@ -5663,15 +5339,6 @@ The liberty–security trade-off, formalized from Hobbesian compacts to Posner a
 Strategic Autonomy aims to reduce unilateral vulnerability in defense, industrial supply chains, and digital infrastructure across a regional bloc, which is of use in exposing single-supplier bottlenecks, fragmented procurement inflation, and capital-market barriers; it reaches its boundary when declarative spending targets and local-preference rules are treated as achieved parity while citizens reject domestic trade-offs and officials preserve unacknowledged reliance on an external security and compute umbrella underneath.
 
 → [边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement](../../posts/generation-beyond-the-boundary-and-internal-rearrangement/)
-
-### 未来冲击 / Future Shock
-`技术 / Technological`
-
-阿尔文·托夫勒提出的未来冲击（1970）将就地因角色、企业与预期急速更替触发的方向感丧失同异邦的文化冲击区分开来，在辨识压缩的替换如何剥离熟悉基线时有用；它在把变化描绘成撞击固定生理适应范围的外部时间冲击并美化静止基线之处到达边界，而非将其定位于中心未经重绘的地图与实际运作痕迹之间的过剩形象滞后。
-
-Alvin Toffler's future shock (1970) distinguishes disorientation triggered at home by rapid turnover of roles, firms, and expectations from culture shock abroad, which is of use in identifying how compressed replacement strips familiar baselines; it reaches its boundary in portraying change as an external temporal assault hitting a fixed biological adaptive range while romanticizing a static baseline, rather than excess Image lag between a center's un-re-rendered map and enacted operational traces.
-
-→ [加速替换与形象滞后 / Accelerating Replacement and Image Lag](../../posts/accelerating-replacement-and-image-lag/)
 
 ### 形象滞后 / Image Lag
 `哲学 / Philosophical`
@@ -5691,13 +5358,3 @@ Image lag distinguishes the constitutive minimum one-step lag—a directional bo
 Carbon chauvinism names the presumption that living or conscious systems elsewhere must be composed of carbon compounds, a critique coined by Carl Sagan in astrobiology that stays useful for separating elemental chemistry from independent evolutionary lineages; it reaches its boundary when imported into artificial intelligence debates to collapse substrate chemistry with manner of arising, mistaking a human-built silicon extension of an already-moving edge for an independently evolved lineage while treating carbon form as the generator of consciousness rather than the residual path left behind by ongoing differentiation.
 
 → [碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension](../../posts/carbon-form-as-residual-path-silicon-as-extension/) · [硅基错位的三重区分 / Three Distinctions in the Silicon Misalignment](../../posts/three-distinctions-in-the-silicon-misalignment/)
-
-
-### 耗散结构 / Dissipative Structures
-`科学 / Scientific`
-
-耗散结构刻画远离热力学平衡的开放子系统如何跨过边界汲取自由能并导出熵，以此维系局部组织——从薛定谔的自由能框架到普里戈金的非平衡分岔——在无需悬置局部热力学的前提下解释对流胞、化学振荡器与生物新陈代谢时行之有效；一旦将局部开放系统的自组织抬升为迫使复杂性涌现的普遍物理定律，或将其与选择之下的事后差异存续割裂开来，这一框架便到达了边界。
-
-Dissipative structures model how open subsystems driven far from thermodynamic equilibrium sustain local organization by drawing free energy and exporting entropy across their boundaries—from Schrödinger's free-energy framing to Prigogine's non-equilibrium bifurcations—which is of use in accounting for convection cells, chemical oscillators, and biological metabolisms without invoking any suspension of local thermodynamics; the framing reaches its boundary when local open-system self-organization is elevated into a universal physical law forcing complexity to emerge or detached from retrospective differential persistence under selection.
-
-→ [隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open](../../posts/boundary-of-the-isolation-idealization-and-the-non-closable-open/)

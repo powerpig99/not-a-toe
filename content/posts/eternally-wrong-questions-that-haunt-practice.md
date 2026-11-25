@@ -8,36 +8,36 @@ Across formal inquiry and frontier artificial intelligence alike, questions aski
 
 ## 一、 作为终极靶标的无法闭合 / 1. Uncloseability as an Ultimate Target
 
-要将评估推进到孤立的单轮基准测试之外，第一步便是区分话语说了什么与话语做了什么。在约翰·兰肖·奥斯汀的言语行为分析中，一句发话的言内意义——其句法与指称内容——连同其规约性的言外之力，例如在明确制度规则下作出承诺、发出警告或提出询问，皆可对照有界的评分细则加以核验。而它的言后后果——说服、澄清、误导，或推移对话者未曾言明的预期——则不容许任何规约闭合：说出“我在此说服你”从不能裁定信服是否已然发生，因为一句发话所达成的效果，是由另一位参与者的过往经历、认知框架以及跨后续轮次的开放领会共同生成的。静态通过率基准绕开了这种开放领会：它们安装一套固定的计分框架，评判框架内部的表现而非跨演化情境的流动性——这正是[流动之物无法被基准衡量](../you-cant-benchmark-the-fluid/)所追溯的结构性界限。
+要将评估推进到孤立的单轮基准测试之外，第一步便是区分话语说了什么与话语做了什么。一句发话的表层内容——其字面措辞、事实陈述，以及在明确规则下作出承诺、发出警告或提出询问等显性动作——皆可对照有界的评分细则加以核验。而这些话语在交流中实际达成的效果——说服、澄清、误导，或推移对话者未曾言明的预期——则不容许任何按规则闭合的裁定：说出“我在此说服你”从不能裁定信服是否已然发生，因为实际后果是由另一位参与者的过往经历、认知框架以及跨后续轮次的开放领会共同生成的。静态通过率基准绕开了这种开放领会：它们安装一套固定的计分框架，评判框架内部的表现而非跨演化情境的流动性——这正是[流动之物无法被基准衡量](../you-cant-benchmark-the-fluid/)所追溯的结构性界限。
 
-Moving evaluation beyond isolated single-turn benchmarks begins with separating what words say from what words do. In J. L. Austin's speech-act analysis, an utterance's locutionary sense—its syntactic and referential content—and its conventional illocutionary force, such as promising, warning, or querying under explicit institutional rules, can be checked against bounded rubrics. Its perlocutionary consequence—persuading, clarifying, misleading, or shifting an interlocutor's unspoken expectations—admits no conventional closure: saying "I hereby convince you" never settles whether conviction occurred, because what an utterance accomplishes is co-produced by another participant's history, framing, and open uptake across subsequent turns. Static pass-rate benchmarks bypass that open uptake by installing a fixed scoring frame and grading performance inside it rather than fluidity across evolving situations, the structural limit traced in [You Can't Benchmark the Fluid](../you-cant-benchmark-the-fluid/).
+Moving evaluation beyond isolated single-turn benchmarks begins with separating what words say from what words do. The surface content of an utterance—its literal phrasing, factual claims, and explicit moves such as promising, warning, or querying under clear rules—can be checked against bounded rubrics. What those words actually accomplish in an exchange—persuading, clarifying, misleading, or shifting an interlocutor's unspoken expectations—admits no rule-bound closure: saying "I hereby convince you" never settles whether conviction occurred, because consequence is co-produced by another participant's history, framing, and open uptake across subsequent turns. Static pass-rate benchmarks bypass that open uptake by installing a fixed scoring frame and grading performance inside it rather than fluidity across evolving situations, the structural limit traced in [You Can't Benchmark the Fluid](../you-cant-benchmark-the-fluid/).
 
 探求话语在演化世界中做些什么的研究纲领对此作出回应：它们重建有效场景，在对话的局部表层之下推断操作性的潜在状态，并排定不可逆的事件链，借以评判模型能否穿行于变动情境并创造价值。在操作层面，这一转向比评判孤立回复产出了更精细的诊断信号与更长程的轨迹。然而，重建的每一层依然是观察者对痕迹的再区分：场景边界划在评估予以登记之处，参与者的潜在状态据拣选的引文加以归因，事件链的因果断句则由后续区分重新渲染。跨多轮交互基准的审计直接暴露出这层耦合：更换模拟用户搭档便会改变助手的能力得分并反转模型间的两两排名，而即便在稳定的汇总排行榜之下，独立的状态提取器在约五分之一的轮次级潜在状态上依然判定不一。被登记下来的从不是驻留于模型内部的固有标量，而是模型痕迹、搭档回应与评估细则之间的耦合关系。
 
 Research programs that pursue what words do in evolving worlds respond by reconstructing effective scenes, inferring operational latent states beneath the partial surface of dialogue, and ordering irreversible event chains so as to judge whether a model navigates changing situations and creates value. Operationally, that shift produces finer diagnostic signals and longer-horizon trajectories than grading isolated replies. Yet every layer of the reconstruction remains the observer's re-distinction of traces: scene boundaries are drawn where evaluation registers them, latent participant states are attributed from selected quotations, and the causal punctuation of an event chain is re-rendered by subsequent distinctions. Audits across multi-turn interactive benchmarks expose this coupling directly: swapping the simulated user partner alters assistant capability scores and reverses pairwise model rankings, while independent state extractors disagree on roughly a fifth of turn-level latent states even beneath stable aggregate leaderboards. What registers is never an intrinsic scalar residing inside the model; it is a coupled relation among model trace, partner response, and evaluator rubric.
 
-正如[观察中的智能与残余间隙](../intelligence-in-observation-and-the-residual-gap/)所追溯的，更精细的协议并不会消除功能模拟与观察者整套标准之间的残余间隙；间隙只是在当前标准下收缩，直到收窄后的表现被提升为预期的基线，新的标准随即重开落差。伊曼努尔·康德在《纯粹理性批判》中借“虚焦点”指认了此类视界的光学几何：镜面背后的一个虚拟焦点，经反射的各条探究脉络看似由此汇聚，尽管玻璃背后的那个坐标上并未驻留任何经验对象。要求以独立于观察者的裁决宣告某次评估已穷尽互动中“实际发生之事”——恰如[令人彻夜难眠的四个追问与投射的边界](../four-night-questions/)所消解的二元边界谜题，要求一个有限坐标投影走出自身去核证自身的完备性——使这一问题作为终极靶标永远问错，将无观察者闭合的结构性缺席误读为暂时的工程短缺。然而，康德自身的论述在此到达了边界：他假定唯有当探究者自觉将这一焦点约束在范导性的“仿佛”之内，而不将其构成性地误认为玻璃背后等待着的实在对象时，探究才能持续富有成效。正因为开放性是无条件的，深信镜面背后驻留着某种内在交互能力等待捕获的工程师，照样会在玻璃前方打磨更精细的透镜、搭建更丰富的协议；搭档与提取器的非不变性只是表明，他们的工作所精炼的始终是镜面前方的耦合关系，而非镜面背后独立于观察者的实体，即便他们由此获得的更清晰映象，仍在强化“终极捕获已近在咫尺”的确信。
+正如[观察中的智能与残余间隙](../intelligence-in-observation-and-the-residual-gap/)所追溯的，更精细的协议并不会消除功能模拟与观察者整套标准之间的残余间隙；间隙只是在当前标准下收缩，直到收窄后的表现被提升为预期的基线，新的标准随即重开落差。要求以独立于观察者的裁决宣告某次评估已穷尽互动中“实际发生之事”——恰如[令人彻夜难眠的四个追问与投射的边界](../four-night-questions/)所消解的二元边界谜题，要求一个有限坐标投影走出自身去核证自身的完备性——使这一问题作为终极靶标永远问错，将无观察者闭合的结构性缺席误读为暂时的工程短缺。一种常见的哲学审慎假定，唯有当实践者自觉把这类无从企及的视界当作暂时指引、而不将其视作等待捕获的实在属性去追逐时，探究才能持续富有成效。这一审慎在此到达了边界，因为开放性是无条件的：深信某种内在交互能力正等待捕获的工程师，照样会打磨更精细的诊断工具、搭建更丰富的协议；搭档与提取器的非不变性只是表明，他们的工作所精炼的始终是互动中的耦合关系，而非模型内部独立于观察者的实体，即便由此获得的更锐利结果仍在强化“终极捕获已近在咫尺”的确信。
 
 ```mermaid
 flowchart TD
-    subgraph S_Speech["言语行为与世界重建的边界"]
+    subgraph S_Speech["话语所为与世界重建的边界"]
         direction TB
-        LOC["言内与言外表层<br/>（受有界句法与规约规则约束的话语所言）"]
-        PER["言后后果<br/>（经另一参与者跨多轮开放领会而生成的话语所为）"]
+        LOC["话语所言<br/>（受有界规则约束的表层措辞与显性动作）"]
+        PER["跨多轮领会的话语所为<br/>（经另一参与者开放领会共同生成的实际后果）"]
         REC["互动世界重建<br/>（由观察者划定的场景边界、潜在状态与事件链）"]
         COUP["搭档与提取器的非不变性<br/>（更换用户搭档反转排名；状态提取器判定分歧）"]
         LOC --> PER --> REC --> COUP
     end
-    subgraph S_Focus["无条件开放下的虚焦点"]
+    subgraph S_Focus["无条件开放与实践确信"]
         direction TB
-        MIR["镜面背后的虚点（终极靶标）<br/>（独立于观察者的内在属性在结构上始终缺席）"]
-        CONV["对终极闭合的构成性确信<br/>（驱使构建者拒斥静态细则并在玻璃前方精炼协议）"]
+        MIR["无从企及的终极靶标<br/>（独立于观察者的内在属性在结构上始终缺席）"]
+        CONV["对终极闭合的确信<br/>（驱使构建者拒斥静态细则并精炼交互协议）"]
         GAIN["收窄的残余间隙与升格的基线<br/>（交付切实的能力增益并重开新的观察者判准）"]
         MIR -. "被悬设为待捕获的内在靶标" .-> CONV
-        CONV ==>|"打磨更精细透镜与交互运行框架"| GAIN
+        CONV ==>|"打磨更精细诊断与交互运行框架"| GAIN
         GAIN ==>|"切实增益维系对闭合的确信"| CONV
     end
-    COUP -. "暴露出玻璃背后的缺席" .-> MIR
+    COUP -. "暴露无观察者闭合的结构性缺席" .-> MIR
     COUP ==>|"耦合落差驱动下一刀切分"| CONV
     style S_Speech fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Focus fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -50,28 +50,28 @@ flowchart TD
     style GAIN fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-As [Intelligence in Observation and the Residual Gap](../intelligence-in-observation-and-the-residual-gap/) traces, finer protocols do not abolish the residual gap between functional emulation and an observer's full criteria; the gap contracts under the active standard until that narrowed performance is promoted into the expected baseline and fresh criteria reopen the discrepancy. Immanuel Kant captured the optical geometry of such horizons in the *Critique of Pure Reason* through the *focus imaginarius*: a virtual focal point behind a mirror from which reflected lines of inquiry appear to converge, even though no empirical object occupies that coordinate behind the glass. Demanding an observer-independent verdict that an evaluation has exhausted "what actually happens" in interaction—much like the binary boundary puzzles dissolved in [Four Questions That Keep You Up at Night](../four-night-questions/), where a finite coordinate projection is asked to step outside itself and certify its own completeness—makes the question eternally wrong as an ultimate target, mistaking the structural absence of observer-free closure for a temporary engineering shortfall. Yet Kant's own account reaches its boundary in supposing that inquiry stays productive only when investigators consciously restrain that focal point to a regulative "as if" rather than mistaking it constitutively for an actual object waiting behind the glass. Because openness is unconditional, engineers convinced that an intrinsic interactive capacity sits behind the mirror waiting to be captured still grind finer lenses and build richer protocols in front of the glass; partner and extractor non-invariance simply shows that what their work refines is always a coupled relation in front of the mirror rather than an observer-free entity behind it, even as the sharper reflection they obtain reinforces their conviction that final capture is close.
+As [Intelligence in Observation and the Residual Gap](../intelligence-in-observation-and-the-residual-gap/) traces, finer protocols do not abolish the residual gap between functional emulation and an observer's full criteria; the gap contracts under the active standard until that narrowed performance is promoted into the expected baseline and fresh criteria reopen the discrepancy. Demanding an observer-independent verdict that an evaluation has exhausted "what actually happens" in interaction—much like the binary boundary puzzles dissolved in [Four Questions That Keep You Up at Night](../four-night-questions/), where a finite coordinate projection is asked to step outside itself and certify its own completeness—makes the question eternally wrong as an ultimate target, mistaking the structural absence of observer-free closure for a temporary engineering shortfall. A common philosophical caution assumes that inquiry stays productive only when practitioners consciously treat such an unreachable horizon as a provisional guide rather than pursuing it as an actual property waiting to be captured. That caution reaches its boundary because openness is unconditional: engineers convinced that an intrinsic interactive capacity waits to be captured still build finer diagnostics and richer protocols, while partner and extractor non-invariance simply shows that what their work refines is always a coupled relation across interaction rather than an observer-free entity inside the model, even as sharper results reinforce their conviction that final capture is close.
 
 ```mermaid
 flowchart TD
-    subgraph S_Speech["Speech-Act & World-Reconstruction Boundary"]
+    subgraph S_Speech["What Words Do & World-Reconstruction Boundary"]
         direction TB
-        LOC["Locutionary & Illocutionary Surface<br/>(What words say under bounded syntactic & conventional rules)"]
-        PER["Perlocutionary Consequence<br/>(What words do via another participant's open multi-turn uptake)"]
+        LOC["What Words Say<br/>(Surface phrasing & explicit moves under bounded rules)"]
+        PER["What Words Do Across Multi-Turn Uptake<br/>(Consequences co-produced by another participant's open uptake)"]
         REC["Interactive World Reconstruction<br/>(Scene bounds, latent states & event chains drawn by the observer)"]
         COUP["Partner & Extractor Non-Invariance<br/>(Swapping user partners inverts rankings; state extractors diverge)"]
         LOC --> PER --> REC --> COUP
     end
-    subgraph S_Focus["Focus Imaginarius Under Unconditional Openness"]
+    subgraph S_Focus["Unconditional Openness & Practical Conviction"]
         direction TB
-        MIR["Virtual Point Behind the Mirror (Ultimate Target)<br/>(Observer-free inner property remains structurally absent)"]
-        CONV["Constitutive Conviction in Ultimate Closure<br/>(Drives builders to reject static rubrics & refine protocols in front of glass)"]
+        MIR["Unattainable Ultimate Target<br/>(Observer-free inner property remains structurally absent)"]
+        CONV["Conviction in Ultimate Closure<br/>(Drives builders to reject static rubrics & refine interactive protocols)"]
         GAIN["Narrowed Residual Gap & Promoted Baseline<br/>(Delivers tangible capability gains & reopens fresh observer criteria)"]
         MIR -. "Posited as intrinsic target to capture" .-> CONV
-        CONV ==>|"Builds finer lenses & interactive harnesses"| GAIN
+        CONV ==>|"Builds finer diagnostics & interactive harnesses"| GAIN
         GAIN ==>|"Tangible gains sustain conviction in closure"| CONV
     end
-    COUP -. "Exposes absence behind the glass" .-> MIR
+    COUP -. "Exposes absence of observer-free closure" .-> MIR
     COUP ==>|"Coupled discrepancy fuels next cut"| CONV
     style S_Speech fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Focus fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
