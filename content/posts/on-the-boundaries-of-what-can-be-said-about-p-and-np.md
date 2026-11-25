@@ -68,9 +68,9 @@ flowchart TD
 
 ## 二、 证明的语境性与标准模型的设定 / 2. The Contextual Character of Proof and the Posit of a Standard Model
 
-每一项证明或证伪都是语境性的。推导唯有相对于一组既定的公理与规则才得以存在，正如[没有系统能被保持封闭](../no-system-can-be-kept-closed/)与[两度显现的不完备性](../incompleteness-exhibited-twice/)在各类形式系统中所追溯的那样。一个语句可以在预期解释下成立，却依然无法从那些公理中获得证明；或者它也可以在同一组公理的不同模型中取相反的真值。P = NP 等价于一个低复杂度的特定算术语句，即一个对机器与多项式作量化的 Σ₂ 语句，而其否定 P ≠ NP 则是一个 Π₂ 语句；[阿伦森（Aaronson）](https://www.scottaaronson.com/papers/indep.pdf)以及[本-大卫（Ben-David）与哈莱维（Halevi）](https://www.researchgate.net/publication/2375454_On_the_Independence_of_P_Versus_NP)探讨了这一问题在形式上独立于标准公理系统的前景与后果。在 ZFC 的任一给定模型中，自然数集 ω 在该模型内部的同构意义下唯一，该算术语句也在那里获得一个真值。作为一阶理论的 ZFC 所无法固定的，是跨 ZFC 一切模型的单一 ω 同构类：同一组公理的不同模型可以承载非同构的自然数结构，并在 Σ₂ 与 Π₂ 算术语句上产生分歧。在元理论中挑出一个模型作为唯一的预期标准模型 ℕ——使得量词在其中遍历寻常的自然数与寻常的图灵机——是关于该语言题材的一项额外假定，是为了让全称量化得以推进而设定的一次暂时闭合，正如[潜无限与数学思维的暂时闭合](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/)所追溯的那样。没有这项形式外的设定，该语句就依然只是一串形式符号，其地位随人们所选择考察的模型而变。
+每一项证明或证伪都是语境性的。推导唯有相对于一组既定的公理与规则才得以存在，正如[没有系统能被保持封闭](../no-system-can-be-kept-closed/)与[两度显现的不完备性](../incompleteness-exhibited-twice/)在各类形式系统中所追溯的那样。一个语句可以在预期解释下成立，却依然无法从那些公理中获得证明；或者它也可以在同一组公理的不同模型中取相反的真值。P = NP 等价于一个低复杂度的特定算术语句，即一个对机器与多项式作量化的 Σ₂ 语句，而其否定 P ≠ NP 则是一个 Π₂ 语句；[阿伦森（Aaronson）](https://www.scottaaronson.com/papers/indep.pdf)以及[本-大卫（Ben-David）与哈莱维（Halevi）](https://www.researchgate.net/publication/2375454_On_the_Independence_of_P_Versus_NP)探讨了这一问题在形式上独立于标准公理系统的前景与后果。在 ZFC 的任一给定模型中，自然数集 ω 在该模型内部的同构意义下唯一，该算术语句也在那里获得一个真值。作为一阶理论的 ZFC 所无法固定的，是跨 ZFC 一切模型的单一 ω 同构类：同一组公理的不同模型可以承载非同构的自然数结构，并在 Σ₂ 与 Π₂ 算术语句上产生分歧。在元理论中挑出一个自然数结构作为唯一的预期标准模型 ℕ——使得量词在其中遍历寻常的自然数与寻常的图灵机——是关于该语言题材的一项额外假定，是为了让全称量化得以推进而设定的一次暂时闭合，正如[潜无限与数学思维的暂时闭合](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/)所追溯的那样。没有这项形式外的设定，该语句就依然只是一串形式符号，其地位随人们所选择考察的模型而变。
 
-Every proof or disproof is contextual. A derivation exists only relative to a stipulated collection of axioms and rules, as [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) and [Incompleteness Exhibited Twice](../incompleteness-exhibited-twice/) trace across formal systems. A sentence may hold in an intended interpretation yet remain unprovable from those axioms, or it may receive opposite truth values across different models of the same axioms. P = NP is equivalent to a specific arithmetical sentence of low complexity, a Σ₂ statement quantifying over machines and polynomials, and its negation P ≠ NP is a Π₂ statement; [Aaronson](https://www.scottaaronson.com/papers/indep.pdf) and [Ben-David and Halevi](https://www.researchgate.net/publication/2375454_On_the_Independence_of_P_Versus_NP) examine the prospect and consequences of the question being formally independent of standard axiomatic systems. Within any given model of ZFC, the set of natural numbers ω is unique up to isomorphism internal to that model, and the arithmetical sentence receives a truth value there. What ZFC, as a first-order theory, cannot fix is a single isomorphism class of ω across all models of ZFC: different models of the same axioms can carry non-isomorphic natural-number structures that disagree on Σ₂ and Π₂ arithmetical sentences. Singling out one model in the metatheory as the unique intended standard model ℕ—in which the quantifiers range over ordinary numbers and ordinary Turing machines—is an additional assumption about the subject matter of the language, a temporary closure posited so that universal quantification can proceed, as [Potential Infinity and the Temporary Closures of Mathematical Thought](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/) traces. Without that extra-formal posit, the sentence remains a formal string whose status varies with the models one chooses to consider.
+Every proof or disproof is contextual. A derivation exists only relative to a stipulated collection of axioms and rules, as [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) and [Incompleteness Exhibited Twice](../incompleteness-exhibited-twice/) trace across formal systems. A sentence may hold in an intended interpretation yet remain unprovable from those axioms, or it may receive opposite truth values across different models of the same axioms. P = NP is equivalent to a specific arithmetical sentence of low complexity, a Σ₂ statement quantifying over machines and polynomials, and its negation P ≠ NP is a Π₂ statement; [Aaronson](https://www.scottaaronson.com/papers/indep.pdf) and [Ben-David and Halevi](https://www.researchgate.net/publication/2375454_On_the_Independence_of_P_Versus_NP) examine the prospect and consequences of the question being formally independent of standard axiomatic systems. Within any given model of ZFC, the set of natural numbers ω is unique up to isomorphism internal to that model, and the arithmetical sentence receives a truth value there. What ZFC, as a first-order theory, cannot fix is a single isomorphism class of ω across all models of ZFC: different models of the same axioms can carry non-isomorphic natural-number structures that disagree on Σ₂ and Π₂ arithmetical sentences. Singling out one natural-number structure in the metatheory as the unique intended standard model ℕ—in which the quantifiers range over ordinary numbers and ordinary Turing machines—is an additional assumption about the subject matter of the language, a temporary closure posited so that universal quantification can proceed, as [Potential Infinity and the Temporary Closures of Mathematical Thought](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/) traces. Without that extra-formal posit, the sentence remains a formal string whose status varies with the models one chooses to consider.
 
 实在论读法回应说，未决状态或形式独立性并不抹去一个确定的真值；然而，这番观察本身并不是对该真值独立于那项设定而存在的证明。它只是保留了实在论读法的自洽性，却并未确立这一读法，正如[没有固定者的固定](../fixed-by-nothing/)所表明的：把未被决定的余项称为“在完整状态中早已被固定”，只是给开口换了一张标签，却并未在系统内部提供任何执行固定的东西。实在论借以恢复非语境“是或否”答案的那一步，是在元理论中设定唯一的标准模型 ℕ，使该算术语句在其中遵循二值原则。这一设定可供选用，且属于形式外。心智同样可以拒绝这一设定，将两个类的相等视为唯有相对于所选模型才有意义，或者唯有在给定系统内部能够展示出证明时才有意义。在两个方向均未从所选公理中推导出来时，报告两个方向仍未获判定，就已经道尽了单凭形式记录所能确立的一切。
 
@@ -89,26 +89,36 @@ flowchart TD
         Bound["形式所及的边界：仅报告现有的公理将两个方向均留作未决"]
         Ax --> Ind --> Bound
     end
-    subgraph S_Depart["由心智作出并承担的形式外承诺"]
+    subgraph S_Depart["公理之外的形式外承诺"]
         direction TB
         Posit["唯一标准模型 (ℕ) 的实在论设定：提供一项形式外的元理论承诺以恢复二值原则"]
-        Claim1["肯定或否定的模型主张：断言两个类在该设定的标准模型中重合或分立"]
+        Claim1["肯定或否定的模型主张：断言两个类在该设定的标准模型内部重合或分立"]
         Claim2["反实在论或元理论承诺：在形式证明之外斥该问题为无意义，或设定永久不可推导性"]
-        Collapse["实体化坍缩：将上述任何一项形式外承诺误作由公理强制得出的结果"]
-        Posit --> Claim1
-        Claim1 --> Collapse
-        Claim2 --> Collapse
+        Posit -.->|"可选的进一步断言"| Claim1
+    end
+    subgraph S_Stance["所追加承诺的持守方式"]
+        direction TB
+        Borne["由心智承担的前提：凭心智自身的主权，作为追加的前提敞开持守"]
+        Collapse["实体化坍缩：将这项形式外承诺误作由公理强制得出的结果"]
     end
     Bound ==>|"心智追加对唯一预期论域的承诺"| Posit
     Bound ==>|"心智在当前推导之外追加承诺"| Claim2
+    Posit ==>|"作为追加的前提承担"| Borne
+    Claim1 ==>|"作为追加的前提承担"| Borne
+    Claim2 ==>|"作为追加的前提承担"| Borne
+    Posit -.->|"误作由公理强制得出"| Collapse
+    Claim1 -.->|"误作由公理强制得出"| Collapse
+    Claim2 -.->|"误作由公理强制得出"| Collapse
     style S_Formal fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Depart fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Stance fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Ax fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Ind fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style Bound fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Posit fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Claim1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Claim2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Borne fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Collapse fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
@@ -123,25 +133,35 @@ flowchart TD
         Bound["Boundary of Formal Reach: Reports only that both directions remain undecided by the axioms as they stand"]
         Ax --> Ind --> Bound
     end
-    subgraph S_Depart["Extra-Formal Commitments Made and Borne by the Mind"]
+    subgraph S_Depart["Extra-Formal Commitments Beyond the Axioms"]
         direction TB
         Posit["Realist Posit of a Unique Standard Model (ℕ): Supplies an extra-formal metatheoretic commitment to restore bivalence"]
-        Claim1["Affirmative or Negative Model Claim: Asserts the classes coincide or diverge in that posited standard model"]
+        Claim1["Affirmative or Negative Model Claim: Asserts the classes coincide or diverge inside that posited standard model"]
         Claim2["Anti-Realist or Metatheoretic Commitment: Dismisses the question outside formal proof or posits permanent underivability"]
-        Collapse["Reification Collapse: Mistakes any of these extra-formal commitments for a result forced by the axioms"]
-        Posit --> Claim1
-        Claim1 --> Collapse
-        Claim2 --> Collapse
+        Posit -.->|"Optional further assertion"| Claim1
+    end
+    subgraph S_Stance["How the Added Commitment Is Held"]
+        direction TB
+        Borne["Premise Borne by the Mind: Held openly on the Mind's own authority as an added premise"]
+        Collapse["Reification Collapse: Mistakes the extra-formal commitment for a result forced by the axioms"]
     end
     Bound ==>|"Mind adds commitment to unique intended domain"| Posit
     Bound ==>|"Mind adds commitment beyond the present derivations"| Claim2
+    Posit ==>|"Borne as added premise"| Borne
+    Claim1 ==>|"Borne as added premise"| Borne
+    Claim2 ==>|"Borne as added premise"| Borne
+    Posit -.->|"Mistaken for forced by axioms"| Collapse
+    Claim1 -.->|"Mistaken for forced by axioms"| Collapse
+    Claim2 -.->|"Mistaken for forced by axioms"| Collapse
     style S_Formal fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Depart fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Stance fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Ax fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Ind fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style Bound fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Posit fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Claim1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Claim2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Borne fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Collapse fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
