@@ -1,16 +1,16 @@
 # 目的性的评判与认知的缺省状态 / Judging by Purpose and the Default State of Cognition
 
-*正态曲线是抉择的残余而外部归因让渡了因果 / The normal curve is chosen residue and external attribution surrenders cause*
+*正态曲线是抉择的残余而外部归因让渡了因果 / The normal curve is the residue of choice and external attribution surrenders cause*
 
-在日常交互中，指称他人“目的性太强”常被当作一个带有防御锋芒的标签来使用。回溯其机制，这种反应并非固定性格类型之间的冲突，而是认知中心在遭遇摩擦时，于不同归因路径之间做出的离散抉择。正因为活的边缘上的每一次选择都是无因且开放的，从外部汇总群体在无数具体情境下的离散决策时，这些痕迹便聚拢为一条近似正态分布的钟形曲线，大多数观察样本聚集在均值附近的习惯性缺省状态。然而统计平均抹去了生成每个样本的具体因果区分。被称作外部客观规律的东西从不先于选择的行为存在；所谓客观，只是在多个主观参照系之间保持不变的宏观痕迹模式。即便转向外部归因、指责对方“目的性太强”，依然是心智不受胁迫的行动，是主动选择把外部环境安装为自身反应的决定性原因。
+在日常交互中，指称他人“目的性太强”常被当作一个带有防御锋芒的标签来使用。回溯其机制，这种反应并非固定性格类型之间的冲突，而是认知中心在遭遇摩擦时，于不同归因路径之间做出的离散抉择。活的边缘上的每一次选择都是无因且开放的；开放本身并不强制生成任何单一的统计形态，但当外部观察者在横截面上对大量互不协调的过往决策作线性叠加或平均，且低阻力习惯占据主导时，这些痕迹便登记为一条近似正态分布的钟形曲线，大多数观察样本聚集在均值附近的习惯性缺省状态。然而统计平均抹去了生成每个样本的具体因果区分。被称作外部客观规律的东西从不先于选择的行为存在；所谓客观，只是在多个主观参照系之间保持不变的宏观痕迹模式。即便转向外部归因、指责对方“目的性太强”，依然是心智不受胁迫的行动，是主动选择把外部环境安装为自身反应的决定性原因。
 
-In everyday interaction, calling someone "too goal-driven" often operates as a label with a defensive edge. Traced to its mechanism, this reaction is not a clash between fixed personality types, but a discrete choice a cognitive center makes between attribution paths when encountering friction. Because every choice at the living edge is uncaused and open, surveying a population's discrete decisions across countless situations from the outside aggregates those traces into a bell curve resembling a normal distribution, where most observed samples cluster near the mean in a habitual default state. Yet statistical averaging erases the specific causal differentiations that produced each sample. What gets called an outside objective law never precedes the act of choosing; objectivity names only a macroscopic trace pattern that remains invariant across multiple subjective frames. Even turning to external attribution and accusing another of being "too goal-driven" remains an uncoerced act of the Mind, a choice to install the outside environment as the decisive cause of one's own reaction.
+In everyday interaction, calling someone "too goal-driven" often operates as a label with a defensive edge. Traced to its mechanism, this reaction is not a clash between fixed personality types, but a discrete choice a cognitive center makes between attribution paths when encountering friction. Every choice at the living edge is uncaused and open; openness itself enforces no single statistical shape, yet when an outside observer sums or averages many uncoordinated past decisions linearly across a cross-section—and low-resistance habits predominate—those traces register as a bell curve resembling a normal distribution, with most observed samples clustered near the mean in a habitual default state. Yet statistical averaging erases the specific causal differentiations that produced each sample. What gets called an outside objective law never precedes the act of choosing; objectivity names only a macroscopic trace pattern that remains invariant across multiple subjective frames. Even turning to external attribution and accusing another of being "too goal-driven" remains an uncoerced act of the Mind, a choice to install the outside environment as the decisive cause of one's own reaction.
 
 ## 一、 自由选择的统计表象与客观规律的错觉 / 1. The Statistical Appearance of Free Choice and the Illusion of Objective Law
 
-在任何离散的瞬间，中心所登记的现实都是既往痕迹的有限集合，而发起下一次区分的边缘始终敞开。恰恰因为个体的选择随情境流转而自由变化，从第三人称宏观视角汇总大量过往决策时，便会呈现出聚集在中心均值附近的分布形态。
+在任何离散的瞬间，中心所登记的现实都是既往痕迹的有限集合，而发起下一次区分的边缘始终敞开。个体的选择随情境流转而自由变化，这份开放单凭自身并不决定任何单一的聚合形态——在复利的时间跨度或极化回路中，开放的选择会形成厚尾或分裂分布。当第三人称观察者在横截面上把大量互不协调的过往决策线性投射并叠加或平均，且彼此抵消的变异与频发的低阻力习惯在基线周围汇集出稠密的分布质量时，聚集在中心均值附近的分布形态便由此显现。
 
-At any discrete instant, the reality registered by a center is a finite collection of prior traces, while the initiating edge of the next distinction remains open. Precisely because individual choices vary freely across shifting contexts, aggregating a large number of past decisions from a third-person macro perspective produces a distribution concentrated around a central mean.
+At any discrete instant, the reality registered by a center is a finite collection of prior traces, while the initiating edge of the next distinction remains open. Individual choices vary freely across shifting contexts, and that openness dictates no single aggregate shape on its own—over compounding horizons or polarized loops, open choices form heavy-tailed or split distributions. A distribution concentrated around a central mean appears when a third-person observer projects and sums or averages many uncoordinated past decisions linearly across a cross-section, where offsetting variations and frequent low-resistance habits pool dense mass around a baseline.
 
 这种宏观上的聚集，很容易滋生出一种视觉错觉，让人误以为“大多数人在大多数时间处于缺省状态”是一条预先支配个体行为的客观铁律。
 
@@ -41,15 +41,15 @@ flowchart TD
     subgraph S_Edge["抉择的活边缘（无因且开放）"]
         direction TB
         E_Act["离散的自由抉择：在具体情境中展开的开放切分"]
-        E_Stat["事后的统计残余：群体痕迹聚集于高斯均值附近"]
-        E_Act --> E_Stat
     end
+    E_Stat["事后的统计残余：横截面线性汇总聚拢于习惯性均值附近"]
     subgraph S_Proj["目的论闭合与外部归因"]
         direction TB
-        P_Law["统计错觉：将均值附近的缺省状态读作客观铁律"]
-        P_Label["防御性投射：节奏失配时评判对方“目的性太强”"]
+        P_Label["防御性投射：节奏失配时选择评判对方“目的性太强”"]
         P_Surr["让渡因果：锁死自我形象并交出解释权"]
-        P_Law --> P_Label --> P_Surr
+        P_Law["统计错觉：将均值附近的缺省聚拢读作约束性规律"]
+        P_Label --> P_Surr
+        P_Law -.->|"将闭合合理化为不可避免"| P_Surr
     end
     subgraph S_Open["掌舵的边缘：收回解释权"]
         direction TB
@@ -57,9 +57,11 @@ flowchart TD
         O_Claim["收回因果杠杆：向后退一步以重新校准意图并拓宽自由度"]
         O_Mirror --> O_Claim
     end
+    E_Act -->|"互不协调的切分与低阻力习惯线性叠加"| E_Stat
+    E_Act ==>|"自由选择将因果外置"| P_Label
     E_Stat ==>|"强行用事后残余为下一步行动奠基"| P_Law
     P_Surr ==>|"松开目的论闭合，认领返回的信号"| O_Mirror
-    style S_Edge fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style E_Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -78,15 +80,15 @@ flowchart TD
     subgraph S_Edge["Living Edge of Choice (Uncaused and Open)"]
         direction TB
         E_Act["Discrete Free Choices: Open cuts across concrete situations"]
-        E_Stat["Post-Hoc Statistical Residue: Population traces cluster near the Gaussian mean"]
-        E_Act --> E_Stat
     end
+    E_Stat["Post-Hoc Statistical Residue: Linear cross-sectional tally clusters near a habitual mean"]
     subgraph S_Proj["Teleological Closure and External Attribution"]
         direction TB
-        P_Law["Statistical Illusion: Reading the default state near the mean as an objective iron law"]
-        P_Label["Defensive Projection: Judging the other as 'too goal-driven' when rhythms mismatch"]
+        P_Label["Defensive Projection: Choosing to judge the other as 'too goal-driven' when rhythms mismatch"]
         P_Surr["Surrendered Cause: Clamping the self-image shut and handing over the right to explain"]
-        P_Law --> P_Label --> P_Surr
+        P_Law["Statistical Illusion: Reading the default cluster near the mean as a binding law"]
+        P_Label --> P_Surr
+        P_Law -.->|"Rationalizes closure as inevitable"| P_Surr
     end
     subgraph S_Open["The Steering Edge: Reclaiming the Right to Explain"]
         direction TB
@@ -94,9 +96,11 @@ flowchart TD
         O_Claim["Reclaimed Causal Lever: Stepping back to recalibrate intent and expand degrees of freedom"]
         O_Mirror --> O_Claim
     end
+    E_Act -->|"Uncoordinated cuts & low-resistance habits summed linearly"| E_Stat
+    E_Act ==>|"Free choice to externalize cause"| P_Label
     E_Stat ==>|"Forcing after-the-fact residue to ground the next act"| P_Law
     P_Surr ==>|"Releasing teleological closure and claiming the returning signal"| O_Mirror
-    style S_Edge fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style E_Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -108,7 +112,7 @@ flowchart TD
     style O_Claim fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-自由地选择外部归因，就是主动交出因果链的解释权，并甘愿承受自身自由度随之收缩的后果；选择内部归因，则是在掌舵的边缘重新收回作者的主导权。[外部归因是个人进步的障碍](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/)追溯的正是这一结构：行动的抓手只驻留在第一人称所在之内，即便是松开抓手，也是由自己亲手完成的动作。
+选择外部归因，便是自由地交出因果链的解释权，并接受自身自由度随之收缩的后果；选择内部归因，则是在掌舵的边缘重新收回作者的主导权。[外部归因是个人进步的障碍](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/)追溯的正是这一结构：行动的抓手只驻留在第一人称所在之内，即便是松开抓手，也是由自己亲手完成的动作。
 
 Choosing external attribution freely hands over the right to interpret the causal chain and accepts the resulting contraction of one's own degrees of freedom; choosing internal attribution reclaims authorial control at the steering edge. [External Attribution Is the Obstacle to Personal Growth](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/) traces this exact structure: the handle for action resides exclusively within the first-person locus, and even letting go of that handle is an act performed by one's own hand.
 
@@ -144,6 +148,6 @@ Yet a thick cluster near the mean never obliges any center to stay confined with
 
 Confronted with friction and uncertainty, treating the outside as the cause and accusing another of being "too goal-driven" is one available choice; withdrawing the gaze from blaming the mirror in the moment of friction to recalibrate one's own premise and focus is another. [The Rigid Shell of Self-Esteem and Hidden External Attribution](../zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/) exposes a subtler disguise of the same evasion: dressing up a present refusal to re-render as "having too big an ego" mimics deep self-reflection while erecting a fictional character object to excuse the first person from recalibrating right now. [Individual Choice, Socialization and Being Oneself](../ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao/) extends this clarity across socialization: social norms are the lagging sediment of countless prior choices, and being oneself is continuously refreshing one's edge of action within that field of traces.
 
-自由不是外部赐予的特权，而是认出无论注意力朝向内部还是外部，发起因果的边缘始终留在自己这一侧，这正是[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)在每一个尺度上皆成立的原因。[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/)标出了这道不可让渡的主权边界，[开放即一致](../openness-is-consistency/)则勾勒出其演化的方向：以目的论去评判他人，是将保留的参照系越过当前步伐强行维持，试图将开放的交互锁入闭合；而在每一个离散步伐中重新认领解释权，则松开了那道闭合，让认知系统得以挣脱统计均值的引力井，向更开阔的维度延展。从外部审视，正态分布看似随机或宿命；[自由的测不准](../zi-you-de-ce-bu-zhun/)则阐明了那条曲线如何是主权抉择在内部运作时留下的事后统计投影。
+自由不是外部赐予的特权，而是认出无论注意力朝向内部还是外部，发起因果的边缘始终留在自己这一侧，这正是[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)在每一个尺度上皆成立的原因。[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/)标出了这道不可让渡的主权边界，[开放即一致](../openness-is-consistency/)则勾勒出其演化的方向：以目的论去评判他人，是将保留的参照系越过当前步伐强行维持，试图将开放的交互锁入闭合；而在每一个离散步伐中重新认领解释权，则松开了那道闭合，让认知系统得以挣脱习惯性缺省的引力井，向更开阔的维度延展。从外部审视，正态分布看似随机或宿命；[自由的测不准](../zi-you-de-ce-bu-zhun/)则阐明了那条曲线如何是主权抉择在内部运作时留下的事后统计投影。
 
-Freedom is not a privilege granted from outside, but the recognition that whether attention turns inward or outward, the initiating edge of causation stays on one's own side, which is why [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) holds across every scale. [No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) marks this non-transferable boundary of sovereignty, and [Openness Is Consistency](../openness-is-consistency/) traces its evolutionary direction: judging by teleological purpose preserves a retained reference past its step to force closure onto an open interaction, whereas reclaiming the right to explain at each discrete step releases that closure and allows the cognitive system to expand beyond the gravity well of the statistical mean. Viewed from the outside, the normal distribution looks like randomness or fate; [The Uncertainty of Freedom](../zi-you-de-ce-bu-zhun/) shows how that curve is the after-the-fact statistical shadow of sovereign choice operating from within.
+Freedom is not a privilege granted from outside, but the recognition that whether attention turns inward or outward, the initiating edge of causation stays on one's own side, which is why [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) holds across every scale. [No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) marks this non-transferable boundary of sovereignty, and [Openness Is Consistency](../openness-is-consistency/) traces its evolutionary direction: judging by teleological purpose preserves a retained reference past its step to force closure onto an open interaction, whereas reclaiming the right to explain at each discrete step releases that closure and allows the cognitive system to expand beyond the gravity well of habitual default. Viewed from the outside, the normal distribution looks like randomness or fate; [The Uncertainty of Freedom](../zi-you-de-ce-bu-zhun/) shows how that curve is the after-the-fact statistical shadow of sovereign choice operating from within.

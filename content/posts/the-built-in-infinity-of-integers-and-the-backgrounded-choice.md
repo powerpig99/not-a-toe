@@ -2,9 +2,9 @@
 
 *每一整数已携带其精确所要求的潜无限，而数学的日常运作依赖于将其转化为实无限并置于背景，由此敞开的悖论只能由观察者的进一步选择来处置。 / Every integer already carries the potential infinity required by its exactness, while ordinary mathematical practice depends on converting that into actual infinity and placing it in the background; the paradoxes thereby opened can only be disposed of by further choices of the observer.*
 
-因将 n = ∞ 代入费马大定理而驳回[迈克尔·布里尔 1985 年 3 月刊于《数学杂志》的戏谑短文](https://x.com/mathelirium/status/2122958317815558555)，是把无限当作指数外缘处的反常，然而[每一整数在其精确中已包含潜无限](https://x.com/powerpig/status/2122964956572500226)：五并非一个区间，而是 5.000… 的无限尾零所固定的那个点。这一尾零序列在可观察的现实中始终是未完成的延伸——总能再写一个零——因此它是现实的必要前提，而非已完成的事实。数学的日常运作之所以在现有形态下有用，正是因为观察者将这一潜无限转化为实无限，并将这一转化持续背景化：算术与证明当作已完成、自足对象上的操作来推进，而不必在每一步重新打开精确本身所携带的开放可能性。当被背景化的实无限以另一种形式重新出现、并与这些工作假设相冲突时，形式系统内部并没有规则能强制给出解决；任何处置都要求观察者做出额外的选择——要么在更宽或经改动的框架中重新嵌入无限，要么拒绝把问题构造纳入既定领域。
+因将 n = ∞ 代入费马大定理而驳回[迈克尔·布里尔 1985 年 3 月刊于《数学杂志》的戏谑短文](https://x.com/mathelirium/status/2122958317815558555)，是把无限当作指数外缘处的反常，然而[每一整数在其精确中已包含潜无限](https://x.com/powerpig/status/2122964956572500226)：五并非一个区间，而是 5.000… 的无限尾零所固定的那个点。这一尾零序列在可观察的现实中始终是未完成的延伸——总能再写一个零——因此这里涉及的无限是潜无限，是现实的必要前提，而非已完成的事实。数学的日常运作之所以在现有形态下有用，正是因为观察者将这一潜无限转化为实无限，并将这一转化持续背景化：算术与证明作为已完成、自足对象上的操作来推进，而不必在每一步重新打开精确本身所携带的开放可能性。当被背景化的实无限以另一种形式重新出现、并与这些工作假设相冲突时，形式系统内部并没有规则能强制给出解决；任何处置都要求观察者做出额外的选择——要么在更宽或经改动的框架中重新嵌入无限，要么拒绝把问题构造纳入既定领域。
 
-Dismissing [Michael H. Brill’s satirical March 1985 *Mathematics Magazine* note](https://x.com/mathelirium/status/2122958317815558555) for plugging n = ∞ into Fermat’s Last Theorem treats infinity as an aberration at the outer horizon of the exponents, while [every integer already contains potential infinity in its exactness](https://x.com/powerpig/status/2122964956572500226): five is not an interval, but the point fixed by the infinite trailing zeros of 5.000…. That sequence of zeros remains, in observable reality, an unfinished extension—one can always write another zero—and is therefore a necessary premise of reality rather than a completed fact. Ordinary mathematical practice is useful in its present form precisely because the observer converts this potential infinity into actual infinity and continuously backgrounds the conversion: arithmetic and proof proceed as operations on completed, self-contained objects, without reopening at every step the open possibility that exactness itself carries. When the backgrounded actual infinity reappears in another form that conflicts with those working assumptions, the formal system contains no internal rule that forces a resolution; any disposal requires an additional choice by the observer—either to re-embed the infinite in a broader or altered framework or to refuse to admit the problematic construction into the intended domain.
+Dismissing [Michael H. Brill’s satirical March 1985 *Mathematics Magazine* note](https://x.com/mathelirium/status/2122958317815558555) for plugging n = ∞ into Fermat’s Last Theorem treats infinity as an aberration at the outer horizon of the exponents, while [every integer already contains potential infinity in its exactness](https://x.com/powerpig/status/2122964956572500226): five is not an interval, but the point fixed by the infinite trailing zeros of 5.000…. That sequence of zeros remains, in observable reality, an unfinished extension—one can always write another zero—so the infinity at issue is potential infinity, a necessary premise of reality rather than a completed fact. Ordinary mathematical practice is useful in its present form precisely because the observer converts this potential infinity into actual infinity and continuously backgrounds the conversion: arithmetic and proof proceed as operations on completed, self-contained objects, without reopening at every step the open possibility that exactness itself carries. When the backgrounded actual infinity reappears in another form that conflicts with those working assumptions, the formal system contains no internal rule that forces a resolution; any disposal requires an additional choice by the observer—either to re-embed the infinite in a broader or altered framework or to refuse to admit the problematic construction into the intended domain.
 
 ## 一、 精确是潜无限的开放能力 / 1. Exactness Is the Open Capacity of Potential Infinity
 
@@ -20,31 +20,31 @@ Used strictly as a discrete syntactic tally in counting (+1), an integer is a fi
 flowchart TD
     subgraph S_Edge["可观察的现实：开放的潜无限"]
         direction TB
-        Act["自我区分的活动：未完成的延伸，总能再划一刀（+1）或再写一个零"]
-        Exact["精确的点同一性（5 = 5.000…）：在每一有限 n 处将 5 同 5 − 10⁻ⁿ 区分开，已预设无尽尾零"]
-        Act --> Exact
+        Act["自我区分的活动：未完成的延伸，总能再划一刀（+1）或再写一个零；从不在有限观察中完成"]
     end
-    subgraph S_Conv["基础转化与一步退出"]
+    subgraph S_Conv["精确要求、转化与一步退出"]
         direction TB
+        Exact["精确的点同一性（5 = 5.000…）：在每一有限 n 处将 5 同 5 − 10⁻ⁿ 区分开，已预设无尽尾零"]
         Ideal["转化为实无限：实践者将开放延伸设定为已完成对象（ℝ 与理想元素）"]
         Bg["持续背景化：转化退出焦点的重新追溯，同时将对象固定以供使用"]
+        Exact ==>|"实践者转化开放能力"| Ideal
         Ideal --> Bg
     end
     subgraph S_Use["可用的有限数学实践"]
         direction TB
         Ops["有限步骤操作：算术、有限 ε-δ 检查、序列项与证明稳定推进"]
         Latent["未消除的在场：遗忘使执行得以推进，却并未抹去所设定的实无限"]
-        Stall["操作停摆：若在每一步重新引入潜无限，稳定的算术便无法继续"]
         Ops --> Latent
     end
-    Exact ==>|"实践者转化开放能力"| Ideal
+    Stall["操作停摆：若在每一步重新引入潜无限，稳定的算术便无法继续"]
+    Act -->|"精确预设开放的可延伸性"| Exact
     Bg ==>|"将无限留在每一步之外"| Ops
     Exact -.->|"若在每次操作时重新打开"| Stall
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Conv fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Use fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Exact fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Exact fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Ideal fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Bg fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style Ops fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -58,31 +58,31 @@ When a practitioner evaluates a limit by finite ε-δ checks, handles a sequence
 flowchart TD
     subgraph S_Edge["Observable Reality: Open Potential Infinity"]
         direction TB
-        Act["Self-Distinguishing Activity: Unfinished extension where another cut (+1) or zero can always be drawn"]
-        Exact["Exact Point Identity (5 = 5.000…): Separating 5 from 5 − 10⁻ⁿ at every finite n presupposes unending zeros"]
-        Act --> Exact
+        Act["Self-Distinguishing Activity: Unfinished extension where another cut (+1) or zero can always be drawn; never completed in finite observation"]
     end
-    subgraph S_Conv["Foundational Conversion & One-Step Drop-Out"]
+    subgraph S_Conv["Exactness Demand, Conversion & One-Step Drop-Out"]
         direction TB
+        Exact["Exact Point Identity (5 = 5.000…): Separating 5 from 5 − 10⁻ⁿ at every finite n presupposes unending zeros"]
         Ideal["Conversion to Actual Infinity: Practitioner posits the open extension as a completed object (ℝ, ideal elements)"]
         Bg["Continuous Backgrounding: Conversion drops out of focal re-tracing while holding objects fixed for use"]
+        Exact ==>|"Practitioner converts open capacity"| Ideal
         Ideal --> Bg
     end
     subgraph S_Use["Usable Finite Mathematical Practice"]
         direction TB
         Ops["Finite Step Operations: Arithmetic, finite ε-δ checks, sequence terms, and proofs advance stably"]
         Latent["Uneliminated Presence: Forgetting enables execution without erasing the posited actual infinity"]
-        Stall["Operational Stall: Reintroducing potential infinity at every step halts stable arithmetic"]
         Ops --> Latent
     end
-    Exact ==>|"Practitioner converts open capacity"| Ideal
+    Stall["Operational Stall: Reintroducing potential infinity at every step halts stable arithmetic"]
+    Act -->|"Exactness presupposes open extensibility"| Exact
     Bg ==>|"Leaves infinity outside each step"| Ops
     Exact -.->|"If reopened at every operation"| Stall
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Conv fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Use fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Exact fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Exact fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Ideal fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Bg fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style Ops fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
