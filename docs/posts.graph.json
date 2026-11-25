@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-25T12:10:36.640Z",
+    "generated_at": "2026-11-25T12:54:30.918Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -398,7 +398,7 @@
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "c4b334e54d9b",
       "content/posts/the-reversal-of-education-and-science.md": "79d30fed4db1",
       "content/posts/the-reversal-of-the-bystander-commentators.md": "06d3872dfad7",
-      "content/posts/the-reversal-of-verification.md": "0a1976ee9d00",
+      "content/posts/the-reversal-of-verification.md": "1b33f27dfc6f",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "295ca2a6161b",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "b9b1f9d77eb2",
       "content/posts/the-scaffolding-that-keeps-growing.md": "df17e8a60163",
@@ -482,7 +482,7 @@
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "5f302d15f373",
       "content/book/economics.md": "ac9fdbf2221e",
-      "content/book/index-of-premises.md": "28f34083156b",
+      "content/book/index-of-premises.md": "d3761a1c3ca1",
       "content/book/intelligence.md": "ff7c08b8ecea",
       "content/book/knowledge-and-learning.md": "a885aa187e8e",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -498,10 +498,10 @@
     },
     "stats": {
       "posts": 471,
-      "edges": 14668,
-      "unique_directed": 7213,
+      "edges": 14674,
+      "unique_directed": 7216,
       "missing_targets": 0,
-      "one_way": 1681,
+      "one_way": 1682,
       "isolated": 0,
       "posts_with_outbound": 471,
       "book_pages": 16,
@@ -7980,7 +7980,7 @@
       "path": "content/posts/the-comment-is-not-the-code.md",
       "title": "注释不是代码 / The Comment Is Not the Code",
       "hash": "2d48ce3cb037",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 12,
       "links_out": [
         "your-codebase-is-memory",
@@ -8451,7 +8451,7 @@
       "path": "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md",
       "title": "对“AI 糟粕”的反感是反复出现的模式 / The Distaste for “AI Slop” Is a Recurring Pattern",
       "hash": "14eea56f6141",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 16,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
@@ -8805,7 +8805,7 @@
       "path": "content/posts/the-frame-that-conceals-improvement.md",
       "title": "遮蔽进步的框架 / The Frame That Conceals Improvement",
       "hash": "9a2ed736458d",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 8,
       "links_out": [
         "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
@@ -11393,9 +11393,9 @@
       "slug": "the-reversal-of-verification",
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
-      "hash": "0a1976ee9d00",
+      "hash": "1b33f27dfc6f",
       "in_degree": 41,
-      "out_degree": 9,
+      "out_degree": 12,
       "links_out": [
         "openness-is-consistency",
         "no-system-can-be-kept-closed",
@@ -11403,6 +11403,9 @@
         "judgment-is-not-a-stock",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
         "the-risk-is-the-belief-in-oversight-itself",
+        "the-frame-that-conceals-improvement",
+        "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+        "the-comment-is-not-the-code",
         "cybersecurity-arms-race",
         "whatever-is-one-prompt-away",
         "precision-and-resolution"
@@ -86493,6 +86496,42 @@
     },
     {
       "from": "the-reversal-of-verification",
+      "to": "the-frame-that-conceals-improvement",
+      "rel": "points_to",
+      "label": "遮蔽进步的框架"
+    },
+    {
+      "from": "the-reversal-of-verification",
+      "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "rel": "points_to",
+      "label": "对“AI 糟粕”的反感是反复出现的模式"
+    },
+    {
+      "from": "the-reversal-of-verification",
+      "to": "the-comment-is-not-the-code",
+      "rel": "points_to",
+      "label": "注释不是代码"
+    },
+    {
+      "from": "the-reversal-of-verification",
+      "to": "the-frame-that-conceals-improvement",
+      "rel": "points_to",
+      "label": "The Frame That Conceals Improvement"
+    },
+    {
+      "from": "the-reversal-of-verification",
+      "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "rel": "points_to",
+      "label": "The Distaste for “AI Slop” Is a Recurring Pattern"
+    },
+    {
+      "from": "the-reversal-of-verification",
+      "to": "the-comment-is-not-the-code",
+      "rel": "points_to",
+      "label": "The Comment Is Not the Code"
+    },
+    {
+      "from": "the-reversal-of-verification",
       "to": "cybersecurity-arms-race",
       "rel": "points_to",
       "label": "网络安全军备竞赛与感知范畴边界"
@@ -101587,7 +101626,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "28f34083156b",
+        "hash": "d3761a1c3ca1",
         "out_degree": 471
       },
       {
