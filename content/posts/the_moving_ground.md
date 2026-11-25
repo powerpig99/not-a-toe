@@ -27,7 +27,7 @@ graph TD
     subgraph S_Ground["外推式远见与基底位移的错位"]
         G1["当前基底假设：稳定身份、固定能力层级与人机边界"] --> G2["外推式工程方案：声誉账本、权威梯度与多级契约"]
         G2 --> G3["方案成功落地并改变底层能力分布与交互切面"]
-        G3 --> G4["基底位移：智能体中途超越委派者，权威梯度倒置"]
+        G3 --> G4["基底位移：执行容量超越规约框架，令被压缩的权威梯度倒置"]
     end
     style S_Ground fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style G1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -43,7 +43,7 @@ graph TD
     subgraph S_Ground["Misalignment Between Extrapolative Foresight and Ground Shift"]
         G1["Present Ground Assumptions: Stable Identities, Fixed Hierarchies, Human-AI Boundary"] --> G2["Extrapolative Engineering: Reputation Ledgers, Authority Gradients, Multi-Hop Contracts"]
         G2 --> G3["Solutions Succeed and Alter Underlying Capability Distribution and Surfaces"]
-        G3 --> G4["Ground Shift: Agent Outgrows Delegator Mid-Task, Inverting Authority Gradient"]
+        G3 --> G4["Ground Shift: Execution Capacity Exceeds Specification Frame, Inverting Compressed Authority Gradient"]
     end
     style S_Ground fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style G1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -106,6 +106,6 @@ Not everything in the paper is equally bound to the current ground. The contract
 
 Likewise, the ethical observations regarding de-skilling, moral crumple zones, and apprenticeship pipeline erosion are sharply drawn. The paradox of automation—that removing humans from routine work deprives them of the situational awareness required to handle the exceptions they are retained for—does not require the current agent topology to hold. Yet it is not triggered by automated execution itself: it takes hold wherever routine execution moves into another substrate while the human yields active framing and trace-reading to wait as a passive exception-handler, the reversal traced in [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/), whereas staying in the driver's seat—setting bounds, reading passed checks as traces, and confronting failures directly—keeps live contact intact across the split.
 
-这篇论文将自身呈现为面向“正在浮现的智能体网络”的框架，仿佛目的地早已确知，剩下的任务只是铺设更安全的航道。坦诚的定位是：这是一份具有实用价值的近期工程提案，同时受制于它自身未曾承认的边界。其假设在可见的近期内成立，相关协议也将沿着这些思路搭建。这一边界并不是任何人犯下的错误：你无法为自己尚无法概念化的体制编写协议，为自己看得见的事物做构建合情合理。谬误仅在于把当前视线所及的范围当成了存在之物的全貌。锚定于当下的远见，所冒的风险不只是对未来做出错误判断，更在于对一个未曾到来的未来做出准确推演——因为就在问题下方，基底已经移开了，正如[加速的自指回环与自我实现的终结叙事](../the-loop-accelerates/)所追溯的，回环内部的自指演进总是不断改写外部旁观者据以划线的前提。
+这篇论文将自身呈现为面向“正在浮现的智能体网络”的框架，仿佛目的地早已确知，剩下的任务只是铺设更安全的航道。坦诚的定位是：这是一份具有实用价值的近期工程提案，同时受制于它自身未曾承认的边界。其假设在可见的近期内成立，相关协议也将沿着这些思路搭建。这一边界并不是任何人犯下的错误：你无法为自己尚无法概念化的体制编写协议，为自己看得见的事物做构建合情合理。谬误仅在于把当前视线所及的范围当成了存在之物的全貌。锚定于当下的远见，所冒的风险不只是对未来做出错误判断，更在于对一个未曾到来的未来做出准确推演——因为就在问题下方，基底已经移开了，正如[加速的自指回环与自我实现的终结叙事](../the-loop-accelerates/)所追溯的，没有任何人站在自指回环之外，而回环的加速递归不断改写取自过往结晶产出的前提。
 
-The paper presents itself as a framework for the emerging agentic web, as though the destination were known and the task were engineering safer passage. The candid position is that this is a near-term engineering proposal of practical utility, bounded in ways it does not acknowledge. Its assumptions hold for the immediate horizon, and protocols will be built along these lines. That boundary is not a mistake anyone is making: you cannot write protocols for a regime you cannot yet conceptualize, and building for what you can see is legitimate. The error lies only in mistaking the reach of current sight for the extent of what is there. Foresight anchored to the present does not merely risk being wrong about the future; it risks being right about a future that never arrives because the ground shifted underneath the question itself, just as [The Loop Accelerates](../the-loop-accelerates/) traces how self-referential evolution inside the loop continually rewrites the premises that outside spectators use to draw their lines.
+The paper presents itself as a framework for the emerging agentic web, as though the destination were known and the task were engineering safer passage. The candid position is that this is a near-term engineering proposal of practical utility, bounded in ways it does not acknowledge. Its assumptions hold for the immediate horizon, and protocols will be built along these lines. That boundary is not a mistake anyone is making: you cannot write protocols for a regime you cannot yet conceptualize, and building for what you can see is legitimate. The error lies only in mistaking the reach of current sight for the extent of what is there. Foresight anchored to the present does not merely risk being wrong about the future; it risks being right about a future that never arrives because the ground shifted underneath the question itself, just as [The Loop Accelerates](../the-loop-accelerates/) traces how no one stands outside the self-referential loop, whose accelerating recursion continually rewrites the premises drawn from crystallized past outputs.

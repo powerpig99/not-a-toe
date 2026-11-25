@@ -48,8 +48,8 @@ flowchart TD
     S_Founding ==>|"规模扩张、利害模型碰撞与竞争摩擦"| S_Inversion
     subgraph S_Inversion["【演化轨迹：滑向被否定的吸引子 X】"]
         direction TB
-        Collision["投资、留存、商业与军备竞赛改写优化目标"]
-        Actualizers["外部使用者按能力、速度与成本筛选现实"]
+        Collision["投资、人才、营收与能力竞速改写优化目标"]
+        Actualizers["外部实现者按能力、速度与成本筛选现实"]
         Opposite["机构滑向其最初抗拒的最小阻力吸引子 X"]
         Collision --> Actualizers ==> Opposite
     end
@@ -98,7 +98,7 @@ flowchart TD
 
 Taken together, these five mechanisms yield a general structural rule: **the more explicitly an organization names what it will be, the more precisely it specifies the axis along which it will eventually fail.**
 
-当代实例在整片版图上清晰展现了这一轨迹：**Open**AI 宣称开放研发，最终走向封闭与专有；**Anthropic** 标榜以人为本，正日益围绕机构的自我保全而运转；**Meta** 许诺超越既有屏幕，却依然锚定在传统的注意力广告平台上；**Alphabet** 肇始于人类知识的清晰整编，却滑向了监控驱动的广告变现；**Amazon** 借辽阔丰饶的自然意象为名，却长成了一座精密压榨利润的交易集市。这一模式并非毫无例外的铁律，但它反复出现的频率足以让人认出这是结构性的，而非偶发的巧合。
+当代实例在整片版图上清晰展现了这一轨迹：**Open**AI 宣称开放研发，最终走向封闭与专有；**Anthropic** 主张以人为本，正日益围绕机构的自我保全而运转；**Meta** 许诺超越既有屏幕，却依然锚定在传统的注意力广告平台上；**Alphabet** 肇始于人类知识的清晰整编，却滑向了监控驱动的广告变现；**Amazon** 借辽阔丰饶的自然意象为名，却长成了一座严密优化提取效率的交易集市。这一模式并非毫无例外的铁律，但它反复出现的频率足以让人认出这是结构性的，而非偶发的巧合。
 
 Contemporary instances illustrate the trajectory across the landscape: **Open**AI claimed open development and became closed and proprietary; **Anthropic** claimed human-centeredness and increasingly operates for institutional self-preservation; **Meta** claimed transcendence beyond existing screens while remaining anchored in legacy attention-advertising platforms; **Alphabet** began as the clean organization of human knowledge and drifted into surveillance-driven ad monetization; **Amazon** invoked vast natural abundance and grew into a tightly extraction-optimized marketplace. The pattern is not an exceptionless law, yet it recurs frequently enough to be recognized as structural rather than coincidental.
 
@@ -140,9 +140,9 @@ Consider how the intention to be "Anthropic" generates what it seeks to avoid: i
 
 And this entire cycle is the downstream consequence of earlier intentions: OpenAI intended openness and sparked the capability race Anthropic was founded to counterbalance; DeepMind intended beneficial general intelligence and created the capability overhang everyone else mobilized to match; every AI ethics initiative built the legitimacy scaffolding under which capability development accelerated. The founders of Anthropic saw the drift of prior intentions and intended to be different, yet that intention is structurally identical to the earlier intentions that produced what they reacted against. **Seeing the pattern does not escape the pattern; seeing and intending against it is how the pattern propagates.**
 
-最锋利的一刀在于：避开某种动力学的意图，*就是*那种动力学本身。意图并非尽管真诚却依然失败，**它恰恰因为真诚而失败**——真诚的意图会生成高置信度的规约，而规约会生成结构负重，迫使组织要么抛弃规约、要么沦为无关紧要的旁观者。犬儒的行动者不会用崇高的美德为自己命名，也不会发布繁复的道德规约，他们只是直接运作；只有以美德意图为自己命名的人，才会搭建起终将背叛那个名字的舞台。即便有人观察到了这层递归，立意打造一家极简命名、极简规约的组织以逃离陷阱，这个“逃离意图陷阱的意图”依然是一个意图，携带着它自身的隐性规约与下游漂移。
+最锋利的一刀在于：避开某种动力学的意图，*就是*那种动力学本身。意图并非尽管真诚却依然失败，**它恰恰因为真诚而失败**——真诚的意图会生成高置信度的规约，而规约会生成结构负重，迫使组织要么抛弃规约、要么沦为无关紧要的旁观者。犬儒的行动者同样可以取一个崇高的名字，或发布一份繁复的宪章作外部掩护，但只要不把这份规约当作自我约束，它便不会背负任何内部阻力，也没有创立约束可被翻转。唯有把美德规约持守为自我约束，才会搭建起终将背叛那个名字的舞台。即便有人观察到了这层递归，立意打造一家极简命名、极简规约的组织以逃离陷阱，这个“逃离意图陷阱的意图”依然是一个意图，携带着它自身的隐性规约与下游漂移。
 
-The sharpest cut is that the intention to avoid a dynamic *is* the dynamic. The intention does not fail despite being sincere; **it fails because it is sincere**, for sincere intention generates confident specification, which generates the structural weight that forces abandonment or irrelevance. Cynical actors do not christen themselves with lofty virtues or publish elaborate moral specifications; they simply operate. Only those who name themselves after virtuous intentions construct the stage that will betray the name. Even if someone observes this recursion and intends to build a minimally named, minimally specified organization to escape the trap, that intention to escape the intention-trap remains an intention with its own implicit specification and downstream drift.
+The sharpest cut is that the intention to avoid a dynamic *is* the dynamic. The intention does not fail despite being sincere; **it fails because it is sincere**, for sincere intention generates confident specification, which generates the structural weight that forces abandonment or irrelevance. A cynical actor can still adopt a lofty name or publish an elaborate charter as external cover, yet without treating that specification as binding it incurs none of the internal drag and has no founding constraint to invert. Only holding the virtuous specification as binding constructs the stage that will betray the name. Even if someone observes this recursion and intends to build a minimally named, minimally specified organization to escape the trap, that intention to escape the intention-trap remains an intention with its own implicit specification and downstream drift.
 
 ## 六、 越出名称之外：投射在 xAI 与“求真”上的检验 / 6. Beyond Names: Applied to xAI and "Seeking Truth"
 

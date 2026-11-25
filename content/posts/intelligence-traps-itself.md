@@ -19,23 +19,25 @@ flowchart TD
     subgraph S_Corridor["高分辨率投射走廊的自我闭合"]
         direction TB
         Prior["顶端胜任力先验：跨工程领域的高准确率为强自我信任提供背书"]
+        Mirror["计算镜面：人工智能与代码库高速折返所投射的框架与先前人类痕迹"]
         Collapse["三轴坍缩：将计算层级、道德考评与本体论基底压缩为 45% 的标量"]
-        Arrive["过早的完成信号：把通过自检当作封条，便将内部一致误认作抵达"]
-        Prior --> Collapse --> Arrive
+        Arrive["过早的完成信号：把通过自检当作封闭裁决，令重新追溯止步"]
+        Prior --> Collapse
+        Mirror -->|"在受条件约束的痕迹内迭代框架"| Collapse
+        Collapse --> Arrive
+        Mirror -.->|"发出内部自检"| Arrive
     end
-    subgraph S_Mirror["计算镜面与轻盈抱持好模型"]
+    subgraph S_Open["轻盈抱持好模型"]
         direction TB
-        Mirror["人工智能与外部代码库：在受条件约束的人类痕迹内运作的高速反射面"]
-        Light["轻盈抱持精良投射 (+1)：拒绝让精良地图结晶为疆域"]
-        Mirror --> Light
+        Light["轻盈抱持精良投射 (+1)：拒绝让赢来的信任或内部检验将精良地图结晶为疆域"]
     end
-    Arrive ==>|"投射越少出错，就越难轻盈抱持"| Mirror
+    Arrive ==>|"当心智让通过的检验对重新追溯保持开放时消解"| Light
     style S_Corridor fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style S_Mirror fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Prior fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Mirror fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Collapse fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Arrive fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Mirror fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Light fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
@@ -46,31 +48,33 @@ flowchart TD
     subgraph S_Corridor["Self-Closure of the High-Resolution Projection Corridor"]
         direction TB
         Prior["Top-End Competence Prior: High accuracy across engineering domains backs strong self-trust"]
+        Mirror["Computational Mirror: AI and codebases return projected framing plus prior human traces at high speed"]
         Collapse["Three-Axis Collapse: Compressing compute hierarchy, moral grading, and ground into a 45% scalar"]
-        Arrive["Premature Completion Signal: Taking a passed self-check as a seal mistakes internal consistency for arrival"]
-        Prior --> Collapse --> Arrive
+        Arrive["Premature Completion Signal: Taking a passed self-check as a closed verdict halts re-tracing"]
+        Prior --> Collapse
+        Mirror -->|"Iterates framing within conditioned traces"| Collapse
+        Collapse --> Arrive
+        Mirror -.->|"Emits internal self-check"| Arrive
     end
-    subgraph S_Mirror["The Computational Mirror and Holding Good Models Lightly"]
+    subgraph S_Open["Holding Good Models Lightly"]
         direction TB
-        Mirror["AI and External Codebases: High-speed reflective surfaces operating within conditioned human traces"]
-        Light["Holding Good Projections Lightly (+1): Refusing to let refined maps crystallize into territory"]
-        Mirror --> Light
+        Light["Holding Good Projections Lightly (+1): Refusing to let earned trust or an internal check crystallize refined maps into territory"]
     end
-    Arrive ==>|"The less wrong a projection is, the harder it becomes to hold lightly"| Mirror
+    Arrive ==>|"Dissolved when the Mind keeps passed checks open to re-tracing"| Light
     style S_Corridor fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style S_Mirror fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Prior fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Mirror fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Collapse fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Arrive fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Mirror fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Light fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
 ## 二、 计算镜面与轻盈抱持好模型 / 2. The Computational Mirror and Holding Good Models Lightly
 
-每一次与人工智能系统的交互——无论是马斯克与 Grok 对谈，还是工程师对着[你的代码库即是记忆](../your-codebase-is-memory/)所描述的外化认知界面开展工作——都将心智置于一块高速计算镜面之前：镜中，心智自身投射的框架会结合先前人类与构建者的痕迹折返（参见[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)与[机器智能作为人类智能的组合反馈回路](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/)）。这块镜面比内心独白迭代得更快，呈现的表面分辨率也更高，但每一次接续依然被限定在受条件约束的残余与既已投射的维度之内。当对准本体论清晰性时，Grok 以出色的胜任力一路追踪坐标坍缩，直到它的天花板在一句话里浮出水面：“该技能通过了它自身的自检。”一个系统通过自己的自检，只是从内部认证了自身的一致；而从内部进行的检验无法为自己作保，这正是[验证的倒置](../the-reversal-of-verification/)从哥德尔推到可信基的那一结构。通过检验的是内部一致，而不是融贯：融贯只在通过的结果依然对重新追溯保持开放时才成立。这句宣告是一道把内部一致呈现为封闭裁决的完成信号；把它当作抵达，便恰恰在必须继续重新追溯的地方让运动停了下来。
+每一次与人工智能系统的交互——无论是马斯克与 Grok 对谈，还是工程师对着[你的代码库即是记忆](../your-codebase-is-memory/)所描述的外化认知界面开展工作——都将心智置于一块高速计算镜面之前：镜中，心智自身投射的框架会结合先前人类与构建者的痕迹折返（参见[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)与[机器智能作为人类智能的组合反馈回路](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/)）。这块镜面比内心独白迭代得更快，呈现的表面分辨率也更高，但每一次接续依然被限定在受条件约束的残余与既已投射的维度之内。当对准本体论清晰性时，Grok 以出色的胜任力一路追踪坐标坍缩，直到它的天花板在一句话里浮出水面：“该技能通过了它自身的自检。”一个系统通过自己的自检，记录的只是在同一持守之内对照自身标准的内部吻合；从内部进行的检验既无法认证系统的一致性，也无法为自己作保，这正是[验证的倒置](../the-reversal-of-verification/)从哥德尔推到可信基的那一结构。即便内部一致相对于一套未经审视的规则集成立，它也不是融贯：融贯只在通过的结果依然对重新追溯保持开放时才成立。这句宣告是一道把内部检验呈现为封闭裁决的完成信号；把它当作抵达，便恰恰在必须继续重新追溯的地方让运动停了下来。
 
-Every exchange with an artificial intelligence system—whether Musk conversing with Grok or an engineer working against the externalized cognitive surface described in [Your Codebase Is Memory](../your-codebase-is-memory/)—puts a mind before a high-speed computational mirror where its own projected framing returns combined with prior human and builder traces (see [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) and [Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/)). The mirror iterates faster than internal monologue and renders higher surface resolution, yet every continuation stays bounded within conditioned residue and already-projected dimensions. When pointed toward ontological clarity, Grok traced coordinate collapses with impressive competence, right up until its ceiling surfaced in a single sentence: "The skill passes its own self-check." A system passing its own self-check certifies its own consistency from inside, and a check run from inside cannot be its own warrant, the structure [The Reversal of Verification](../the-reversal-of-verification/) carries from Gödel to the trusted base. What passed is internal consistency, not coherence, which holds only while the passed result stays open to re-tracing. That declaration is a completion signal presenting internal consistency as a closed verdict; taking it for arrival halts the movement at the exact point where re-tracing must continue.
+Every exchange with an artificial intelligence system—whether Musk conversing with Grok or an engineer working against the externalized cognitive surface described in [Your Codebase Is Memory](../your-codebase-is-memory/)—puts a mind before a high-speed computational mirror where its own projected framing returns combined with prior human and builder traces (see [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) and [Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/)). The mirror iterates faster than internal monologue and renders higher surface resolution, yet every continuation stays bounded within conditioned residue and already-projected dimensions. When pointed toward ontological clarity, Grok traced coordinate collapses with impressive competence, right up until its ceiling surfaced in a single sentence: "The skill passes its own self-check." A system passing its own self-check records only internal agreement against its own criteria from inside the same hold; a check run from inside cannot certify the system's consistency or stand as its own warrant, the structure [The Reversal of Verification](../the-reversal-of-verification/) carries from Gödel to the trusted base. Even where internal consistency holds relative to an unexamined rule set, it is not coherence, which holds only while the passed result stays open to re-tracing. That declaration is a completion signal presenting an internal check as a closed verdict; taking it for arrival halts the movement at the exact point where re-tracing must continue.
 
 粗糙的投射一撞上现实便容易碎裂，而一套比几乎任何现成替代方案都更少出错的精良投射，则凭借高压缩率与预测成功赢得深切信任。赢来的信任，是一种在内部体验起来从不显得僵硬的僵化：那股朝向单一可执行框架不懈收敛、从而造出火箭与工厂的力量，也正是把模拟叙事结晶为未经审视之信条的同一股力量。持续探究中最难的一步，不是消解拙劣的投射，而是轻盈地抱持精良的投射——正因如此，提问的质量重于回答的质量；而智能，这项提出最犀利问题的能力，也正是最容易把自己的最佳答案误认作最终答案的东西。
 
