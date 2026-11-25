@@ -2,9 +2,9 @@
 
 *关系先于关系项，对象是在第一人称边缘被稳定化并记录的因果摩擦不变量。 / Relations precede relata, and objects are the invariants of causal friction stabilized and registered at the first-person edge.*
 
-日常直觉与经典物理学理所当然地假定“物体”比物体之间的“关系”更原初；然而关系量子力学对这一前提提出挑战，主张物理变量唯有在交互之中才得以显现。当思维既越过把关系动态重新塞回独立实体的实体化惯性，也越过把持久痕迹消解为无界流变的过程修辞时，对象得以成立的机制便清晰浮现：对象是经由因果摩擦而稳定下来的关系——在物理系统中由守恒约束维系，在制度中由执行与持续的信任维系，并在每一次索取不可逆代价的接触中经受检验——而每一段稳定化的关系都在第一人称的交互边缘（`+1`）上被记录与承担。
+日常直觉与经典物理学理所当然地假定“物体”比物体之间的“关系”更原初；然而关系量子力学对这一前提提出挑战，主张物理变量唯有在交互之中才得以显现。当思维既越过把关系动态重新塞回独立实体的实体化惯性，也越过把持久痕迹消解为无界流变的过程修辞时，对象得以成立的机制便清晰浮现：对象是经由因果摩擦而稳定下来的关系——在物理系统中由相干耦合维系（其反复呈现的不变性登记为守恒定律），在制度中由执行与持续的信任维系，并在每一次索取不可逆代价的接触中经受检验——而每一段稳定化的关系都在第一人称的交互边缘（`+1`）上被记录与承担。
 
-Everyday intuition and classical physics take it for granted that objects are more primary than the relationships between them, yet relational quantum mechanics challenges that premise by holding that physical variables manifest only within interactions. When thought steps past both the reification that stuffs relational dynamics back into freestanding substances and the process rhetoric that dissolves durable traces into unbounded flux, the mechanism of objecthood comes into view: objects are relationships stabilized through causal friction—held in physical systems by conservation constraints and in institutions by enforcement and continued trust, and tested wherever contact exacts an irreversible cost—with every stabilized relationship registered and borne at the first-person edge of interaction (`+1`).
+Everyday intuition and classical physics take it for granted that objects are more primary than the relationships between them, yet relational quantum mechanics challenges that premise by holding that physical variables manifest only within interactions. When thought steps past both the reification that stuffs relational dynamics back into freestanding substances and the process rhetoric that dissolves durable traces into unbounded flux, the mechanism of objecthood comes into view: objects are relationships stabilized through causal friction—held in physical systems by coherent couplings whose recurring invariances register as conservation laws, and in institutions by enforcement and continued trust, and tested wherever contact exacts an irreversible cost—with every stabilized relationship registered and borne at the first-person edge of interaction (`+1`).
 
 ## 一、 常识的假定与量子的颠覆 / 1. Common-Sense Intuition and the Quantum Inversion
 
@@ -60,9 +60,9 @@ The razor that resolves this impasse: **Objects are stabilized relationships.**
 
 This single formulation dissolves both substance reification and unbounded-flux dissolution: against substance reification, no self-existing, isolated essence stands outside relational interaction, since every entity labeled an "object" reveals itself under inspection to be a tightly coupled network of dynamic processes; against unbounded flux, relations are not ephemeral fictions, because a relational bundle registers as a solid macroscopic object whenever **it maintains dynamic equilibrium, structural invariance, and causal stability under external perturbation.**
 
-是什么让一段关系显现为稳定？它在**因果摩擦**的反复考验中维系不散。对岩石或电子而言，关系由守恒定律约束下的内部结合力所维系；对纸币而言，关系由法律执行与使用者持续的信任所维系。因果摩擦，则是每一次接触在检验这种维系时所遭遇的阻力与不可逆代价。
+是什么让一段关系显现为稳定？它在**因果摩擦**的反复考验中维系不散。对岩石而言，关系经由束缚态的电磁与核相互作用维系，对电子而言，则经由不变的场耦合维系——物理学在下游将这些反复呈现的不变性记录为守恒定律，它们并非自上而下支配系统的先在定律；对纸币而言，关系经由法律执行与使用者持续的信任维系。因果摩擦，则是每一次接触在检验这种维系时所遭遇的阻力与不可逆代价。
 
-What makes a relationship register as stable? It holds together across repeated trials of **causal friction**. For a rock or an electron, the relation is held by internal binding under conservation laws; for a currency note, it is held by legal enforcement and the continued trust of those who use it. Causal friction is the resistance and irreversible cost that each contact meets when it tests that hold.
+What makes a relationship register as stable? It holds together across repeated trials of **causal friction**. For a rock, the relation holds through bound electromagnetic and nuclear interactions, and for an electron through invariant field couplings—recurring invariances that physics records downstream as conservation laws, not prior laws governing the system from above; for a currency note, it holds through legal enforcement and the continued trust of those who use it. Causal friction is the resistance and irreversible cost that each contact meets when it tests that hold.
 
 山道上的一块花岗岩，并不是自存的形而上学实体，而是由电磁晶格、核力键合与引力耦合构成的**高密度稳定化关系簇**；当脚踢上去时，岩石之所以展现出毫不退让的坚硬，是因为其内部关系网络在受压时保持了结构不变性——地面向上回顶，分子键稳固持守，而脚承担了不可逆的能量后果（`+1`）。同样，一个电子并不是漂浮在真空中的微小坚硬球体，而是电荷、质量与场激发之间的一组**稳定化不变量关系**；一张纸币也不是带有内禀价值的纸片，而是由制度信用、法律执行与市场共识凝结而成的**稳定化经济关系**。
 
