@@ -96,7 +96,7 @@ The macro social system has no original power of its own to exert force; it is o
 
 ### 1. 微观的二元选择 / 1. Micro Binary Choice
 
-在每一个具体的行动截面上，决策的底层结构是 0 与 1 的离散选择。[信息是什么](../what-information-is/)确立了信息与决策的最小单位，“是这个，不是那个”。在认知层面，这个二元选择表现为：要么向内校准模型、修正假设（1）；要么维持既有路径、向外推卸归因（0）。单次的微观 0/1 选择本身在因果上无所谓难易；主体既有的前提定型场域，却不强迫这一道切分——切分仍是活的边缘处无因的发起，或使留存的框架保持完整，或将其重绘。
+在每一个具体的行动截面上，决策的底层结构是 0 与 1 的离散选择。[信息是什么](../what-information-is/)确立了信息与决策的最小单位，“是这个，不是那个”。在认知层面，这个二元选择表现为：要么向内校准模型、修正假设（1）；要么维持既有路径、向外推卸归因（0）。单次的微观 0/1 选择本身在因果上无所谓难易；主体既有的前提塑形着场域，却不强迫这一道切分——切分仍是活的边缘处无因的发起，或使留存的框架保持完整，或将其重绘。
 
 At each concrete cross-section of action, the underlying structure of decision is a discrete choice of 0 or 1. [What Information Is](../what-information-is/) establishes the smallest unit of information and decision, "this, not that". At the cognitive level the binary choice shows itself as either calibrating the model inward and revising assumptions, 1, or keeping the existing path and shifting attribution outward, 0. A single micro 0/1 choice is in itself neither hard nor easy causally; the subject's standing premises pattern the field without compelling the cut, which remains an uncaused initiation at the living edge—holding the retained frame intact or re-rendering it.
 
@@ -108,7 +108,7 @@ By the limiting properties of the binomial distribution and the central limit th
 
 ### 3. 幂律分布的跃迁 / 3. The Leap to the Power Law
 
-实际的生活与商业决策，不是单次独立的抛硬币，而是跨轮次的动态演进。个人的决策自相关，从来不是在封闭真空里的单机运算，而是借与外部物质世界具体的反馈回路维持的：行动者运行自己的内在逻辑，把动作输出到现实世界，接收现实因果的反馈，再据此向内校准内在逻辑。把抉择客体化为“大我”，是对微观主权的另一种遮蔽，[自尊的刚性外壳与隐性外部归因](../zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/)对此有所剖析。
+实际的生活与商业决策，不是单次独立的抛硬币，而是跨轮次的动态演进。个人的决策自相关，从来不是在封闭真空里的单机运算，而是借与外部物质世界具体的反馈回路维持的：行动者运行自己的内在逻辑，把动作输出到现实世界，接收现实因果的反馈，再据此向内校准内在逻辑。把抉择客体化为“大 Ego”，是对微观主权的另一种遮蔽，[自尊的刚性外壳与隐性外部归因](../zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/)对此有所剖析。
 
 Actual decisions in life and business are not single independent coin tosses but dynamic evolution across rounds. An individual's autocorrelation of decisions is never a standalone computation in a closed vacuum but is sustained through concrete feedback loops with the outside material world: the actor runs their own inner logic, outputs action into the world, receives reality's causal feedback, and calibrates their inner logic inward by it. Objectifying choice into a "big Ego" is another way of covering micro sovereignty, dissected in [The Rigid Shell of Self-Esteem and Hidden External Attribution](../zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/).
 
@@ -124,9 +124,9 @@ In society, many explanations of economic, class and historical phenomena are ca
 
 ## 五、 归因与微观主权的回归 / 5. Attribution and the Return of Micro Sovereignty
 
-现实世界充满模糊的反馈与延迟的信号，这正是心智模型需要主动提高校准精度的触发条件，而不是放弃向内审视的借口。
+现实世界充满模糊的反馈与延迟的信号：这是供心智校准自身模型时提高精度的材料，而不是放弃向内审视的借口。
 
-The world is full of blurred feedback and delayed signals, which is exactly what triggers the mental model to raise the precision of its calibration, not an excuse to stop looking inward.
+The world is full of blurred feedback and delayed signals: material for the Mind to raise the precision with which it calibrates its model, not an excuse to stop looking inward.
 
 在向外归因的退化中，把意外与失败归于外部环境、体制阻碍或运气不济，虽然最省力地维护了已有心智模型的封闭自洽，却在数学机制上主动切断了跨轮次决策的正向自相关；正如[幂律是正态分布的长期后果](../power-law-is-the-long-term-consequence-of-normal-distribution/)所追溯，把残差外化出去而不是作为损失信号来更新判断，会让后续的增量停滞：行动者放弃乘性复利，重新滑回均值回归的中段，成为孤立的随机游走者。反之，向内校准的进化始于察觉既有模型出现了单比特的溢出，并在第一人称的决策循环里，借每一次具体的试错主动拓宽认知的比特位宽——这种注入自由变量、延展运作视界的取向，正如[可延展的地平线](../the-extendable-horizon/)所揭示，在系统的任何坐标处都始终敞开，同时守住一条边界：宏观分布记录的只是过往的沉淀与境遇，而非编写下一次抉择的作者。
 
