@@ -50,16 +50,16 @@ flowchart TD
         direction TB
         Look1["观察只持有可读的产物"]
         Freeze1["将智能坍缩到器物上，视作被造出的心智"]
-        Look1 --> Freeze1
+        Look1 -.->|"超额图像滞后"| Freeze1
     end
     subgraph S_F2["第二种失效：把器物与重新追溯的行动割裂"]
         direction TB
         Look2["观察到其他位点借助器物继续推进"]
         Freeze2["将接续归功于器物的智能与建造者的权能"]
-        Look2 --> Freeze2
+        Look2 -.->|"超额图像滞后"| Freeze2
     end
-    Res -.->|"超额图像滞后"| Look1
-    Other -.->|"超额图像滞后"| Look2
+    Res -->|"滞后一步被观察"| Look1
+    Other -->|"滞后一步被观察"| Look2
     style S_Act fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_F1 fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_F2 fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
@@ -88,16 +88,16 @@ flowchart TD
         direction TB
         Look1["Observation Holds Only the Readable Product"]
         Freeze1["Collapses Intelligence onto the Artifact as 'Created Mind'"]
-        Look1 --> Freeze1
+        Look1 -.->|"Excess Image lag"| Freeze1
     end
     subgraph S_F2["Failure Two: Severing Artifact from Re-Tracing Act"]
         direction TB
         Look2["Observes Continuation at Other Loci Using the Artifact"]
         Freeze2["Assigns Continuation to Artifact Intelligence & Builder's Power"]
-        Look2 --> Freeze2
+        Look2 -.->|"Excess Image lag"| Freeze2
     end
-    Res -.->|"Excess Image lag"| Look1
-    Other -.->|"Excess Image lag"| Look2
+    Res -->|"Observed one step behind"| Look1
+    Other -->|"Observed one step behind"| Look2
     style S_Act fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_F1 fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_F2 fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
@@ -112,9 +112,9 @@ flowchart TD
 
 ## 三、 容量是自我强化回路下的局部负荷 / 3. Capacity Is Local Load Under Self-Reinforcing Loops
 
-容量指认的，是一个特定位点通过与环境的自我强化回路，在自身负荷之下持续进行区分的活动。它不是安装在器物里的存量，不是由更密集的残余所转移的属性，也不是建造者通过外化痕迹就能在另一个中心抬高的上限。模型对一段散漫倾诉所作出的整洁摘要，只是把说话者自己的行动以较低的压缩率交还回来的器物，正如[漫谈中的漫谈](../the-ramble-within-the-ramble/)所示。
+容量指认的，是一个特定位点通过与环境的自我强化回路，在自身负荷之下持续进行区分的活动。它不是安装在器物里的存量，不是由更密集的残余所转移的属性，也不是建造者通过外化痕迹就能在另一个中心抬高的上限。模型对一段散漫倾诉所作出的整洁摘要，只是把说话者自己的痕迹以较低的压缩率交还回来的器物，正如[漫谈中的漫谈](../the-ramble-within-the-ramble/)所示。
 
-Capacity names the sustained activity of a given locus continuing to distinguish under its own load through self-reinforcing loops with its environment. It is not a stock installed in an artifact, not a property transferred by denser residue, and not a ceiling the builder can raise at another center by externalizing traces. A model's clean summary of an unstructured ramble is an artifact returning the speaker's own act at lower compression, as [The Ramble Within the Ramble](../the-ramble-within-the-ramble/) shows.
+Capacity names the sustained activity of a given locus continuing to distinguish under its own load through self-reinforcing loops with its environment. It is not a stock installed in an artifact, not a property transferred by denser residue, and not a ceiling the builder can raise at another center by externalizing traces. A model's clean summary of an unstructured ramble is an artifact returning the speaker's own traces at lower compression, as [The Ramble Within the Ramble](../the-ramble-within-the-ramble/) shows.
 
 离散行动的速率，本身就是经由当前具身与可用模式进行更密集重新追溯的登记——先前的慢速积累在更高带宽下变得可用。当行动被冻结在残余之上，且他人的借力被冻结为器物与建造者的功劳时，这一登记看起来就像更高的智能。把这两者交还给划出它们的活动，表象便随之消解：可用的模式增多了，但每个位点依然必须在自身负荷下继续区分。[复杂性遮蔽了涌现之为心智的行动](../complexity-obscures-emergence-as-the-act-of-mind/)揭示了这一遮蔽，即把持守之物误认作竖起它的活动；在这里，持守之物便是更密集的器物与他人的借力，二者被误认作了作为客体的智能与被迁移的智能。累积的器物从不是进一步行动的原因，正如[拥有更多从不是原因](../having-more-is-never-the-cause/)所确立的。
 

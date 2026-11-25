@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-25T13:35:11.705Z",
+    "generated_at": "2026-11-25T16:02:41.927Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -84,7 +84,7 @@
       "content/posts/dynamic-resnet-of-skill-loops.md": "36a5320147e8",
       "content/posts/e-shi-feng-bi-de-shan.md": "035dbeba3f38",
       "content/posts/efficiency-without-differentiation.md": "6e611c312072",
-      "content/posts/emotional-support-as-causal-interference.md": "9f28a64e6ce9",
+      "content/posts/emotional-support-as-causal-interference.md": "6614015226e1",
       "content/posts/empathy-as-projection-collapse.md": "5cbf1eab5d16",
       "content/posts/empowerment-establishes-the-centralization-of-power.md": "be211822da62",
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "b2f86b2c938b",
@@ -96,7 +96,7 @@
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "99b62ab3d3f3",
       "content/posts/expertise-as-reference-not-replacement.md": "9f33cce37cd9",
       "content/posts/extended-cognition-refined.md": "841b56f8be2d",
-      "content/posts/extension-and-shift.md": "bdb72c646856",
+      "content/posts/extension-and-shift.md": "7e04bad69879",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "a0c1f4787547",
       "content/posts/externalizing-unmet-drive-as-the-pathology-of-growth.md": "ca1002317b56",
       "content/posts/failure-as-information.md": "11a236cd7faa",
@@ -439,7 +439,7 @@
       "content/posts/the_analogy_trap.md": "c3f0060b5f76",
       "content/posts/the_illegible_compound_retraced.md": "ece24ed3eacb",
       "content/posts/the_moving_ground.md": "ba570ac9a2ab",
-      "content/posts/therapy-opens-the-feedback-loop.md": "fef94840ad77",
+      "content/posts/therapy-opens-the-feedback-loop.md": "76b74a28e3a3",
       "content/posts/three-distinctions-in-the-silicon-misalignment.md": "d8d88b62cf24",
       "content/posts/time-is-causality-not-a-dimension.md": "2ba1a613c03d",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "8b7996bdb4d5",
@@ -447,7 +447,7 @@
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "c867bb024324",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "834438e1b87f",
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "5dec95b90f27",
-      "content/posts/two-failures-of-trace.md": "9620937612b5",
+      "content/posts/two-failures-of-trace.md": "8820b8f28d9b",
       "content/posts/two-phase-sleep-and-deep-sleep-continual-learning.md": "6ce604fb8a71",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "d1bc7bfd3385",
       "content/posts/war-revolution-and-the-fall-of-empires.md": "5efb7733070b",
@@ -2831,7 +2831,7 @@
       "slug": "emotional-support-as-causal-interference",
       "path": "content/posts/emotional-support-as-causal-interference.md",
       "title": "作为因果干扰的情感支持 / Emotional Support as Causal Interference",
-      "hash": "9f28a64e6ce9",
+      "hash": "6614015226e1",
       "in_degree": 10,
       "out_degree": 13,
       "links_out": [
@@ -3153,7 +3153,7 @@
       "slug": "extension-and-shift",
       "path": "content/posts/extension-and-shift.md",
       "title": "框内延伸与维度跃迁 / Extension and Shift",
-      "hash": "bdb72c646856",
+      "hash": "7e04bad69879",
       "in_degree": 5,
       "out_degree": 9,
       "links_out": [
@@ -12443,7 +12443,7 @@
       "slug": "therapy-opens-the-feedback-loop",
       "path": "content/posts/therapy-opens-the-feedback-loop.md",
       "title": "疗愈打开反馈回路 / Therapy Opens the Feedback Loop",
-      "hash": "fef94840ad77",
+      "hash": "76b74a28e3a3",
       "in_degree": 12,
       "out_degree": 12,
       "links_out": [
@@ -12660,7 +12660,7 @@
       "slug": "two-failures-of-trace",
       "path": "content/posts/two-failures-of-trace.md",
       "title": "器物是智能的表达，而非智能本身 / Artifacts Are Expressions of Intelligence, Not Intelligence Itself",
-      "hash": "9620937612b5",
+      "hash": "8820b8f28d9b",
       "in_degree": 35,
       "out_degree": 34,
       "links_out": [
@@ -93996,7 +93996,7 @@
       "from": "therapy-opens-the-feedback-loop",
       "to": "emotional-support-as-causal-interference",
       "rel": "points_to",
-      "label": "情感支持作为因果干扰"
+      "label": "作为因果干扰的情感支持"
     },
     {
       "from": "therapy-opens-the-feedback-loop",
@@ -94086,7 +94086,7 @@
       "from": "therapy-opens-the-feedback-loop",
       "to": "self-rl-for-humans",
       "rel": "points_to",
-      "label": "Self-RL for Humans"
+      "label": "What Looks Like RL for AIs Is Self-RL for Humans"
     },
     {
       "from": "therapy-opens-the-feedback-loop",
@@ -94098,7 +94098,7 @@
       "from": "therapy-opens-the-feedback-loop",
       "to": "when-need-stops-being-the-measure",
       "rel": "points_to",
-      "label": "当被需要不再是衡量"
+      "label": "当被需要不再是尺度"
     },
     {
       "from": "therapy-opens-the-feedback-loop",
@@ -94128,7 +94128,7 @@
       "from": "therapy-opens-the-feedback-loop",
       "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "rel": "points_to",
-      "label": "The Reversal of Causality in Wealth Transfer Policies and Price Floors"
+      "label": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
     },
     {
       "from": "three-distinctions-in-the-silicon-misalignment",
