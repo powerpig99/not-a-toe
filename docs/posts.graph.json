@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-25T09:15:20.152Z",
+    "generated_at": "2026-11-25T10:05:53.552Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -84,7 +84,7 @@
       "content/posts/dynamic-resnet-of-skill-loops.md": "36a5320147e8",
       "content/posts/e-shi-feng-bi-de-shan.md": "035dbeba3f38",
       "content/posts/efficiency-without-differentiation.md": "6e611c312072",
-      "content/posts/emotional-support-as-causal-interference.md": "ae6bd565946f",
+      "content/posts/emotional-support-as-causal-interference.md": "9f28a64e6ce9",
       "content/posts/empathy-as-projection-collapse.md": "5cbf1eab5d16",
       "content/posts/empowerment-establishes-the-centralization-of-power.md": "be211822da62",
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "b2f86b2c938b",
@@ -115,7 +115,7 @@
       "content/posts/grok-420-framework-drift.md": "8bdca7e537fb",
       "content/posts/growing-the-solver-not-solving-the-child.md": "fbdc3b82441e",
       "content/posts/guan-yu-gui-yin.md": "da039a5a5061",
-      "content/posts/guidance-is-not-ownership.md": "4bd9a73e2d08",
+      "content/posts/guidance-is-not-ownership.md": "1331f84418fc",
       "content/posts/handing-off-residue.md": "1c487ff6ad91",
       "content/posts/happiness-is-the-relation-of-desire-to-state.md": "cb2d29e8cb0d",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "327b78ac3374",
@@ -204,7 +204,7 @@
       "content/posts/rationality-never-travels-across-the-mind.md": "3cb2e68dd3f2",
       "content/posts/reality-doesnt-invoice-by-committee.md": "a8efdcf67130",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "812768c94db5",
-      "content/posts/rebellion-as-symptom-not-property.md": "ed414a5f0b75",
+      "content/posts/rebellion-as-symptom-not-property.md": "173dbf1aeb71",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "c12a17f1cc71",
       "content/posts/relative-differentials-and-the-compounding-of-comparison.md": "fd12c5bc620e",
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "9f43f5131ba5",
@@ -288,7 +288,7 @@
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "5fd5c9b7cedc",
       "content/posts/the-extendable-horizon.md": "b2ada327f796",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "1dab3fa9644a",
-      "content/posts/the-fallacy-of-post-success-parenting.md": "6c2609181de2",
+      "content/posts/the-fallacy-of-post-success-parenting.md": "c16baf33d16f",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "421e27d0cbc1",
       "content/posts/the-fixed-image-of-transcendence.md": "58d0b7c71f92",
       "content/posts/the-fixed-map-and-the-repeated-trip.md": "513269847c19",
@@ -428,7 +428,7 @@
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "06b70b068131",
       "content/posts/the-unclosable-trace.md": "12bf152789c6",
       "content/posts/the-unexamined-critic.md": "d1e006ef8ba3",
-      "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "88086c00fb20",
+      "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "ce00b8468aaa",
       "content/posts/the-unobservable-driver-of-learning.md": "27742353345d",
       "content/posts/the-utility-men-of-progress.md": "e37db505a1a4",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "9f662f33a242",
@@ -448,7 +448,7 @@
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "5dec95b90f27",
       "content/posts/two-failures-of-trace.md": "9620937612b5",
       "content/posts/two-phase-sleep-and-deep-sleep-continual-learning.md": "6ce604fb8a71",
-      "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "9e324b897877",
+      "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "d1bc7bfd3385",
       "content/posts/war-revolution-and-the-fall-of-empires.md": "5efb7733070b",
       "content/posts/what-always-listens-cannot-originate.md": "ba33a730c065",
       "content/posts/what-cannot-be-kept.md": "71103f772ff6",
@@ -497,10 +497,10 @@
     },
     "stats": {
       "posts": 470,
-      "edges": 14612,
-      "unique_directed": 7185,
+      "edges": 14624,
+      "unique_directed": 7191,
       "missing_targets": 0,
-      "one_way": 1679,
+      "one_way": 1673,
       "isolated": 0,
       "posts_with_outbound": 470,
       "book_pages": 16,
@@ -2830,12 +2830,13 @@
       "slug": "emotional-support-as-causal-interference",
       "path": "content/posts/emotional-support-as-causal-interference.md",
       "title": "作为因果干扰的情感支持 / Emotional Support as Causal Interference",
-      "hash": "ae6bd565946f",
+      "hash": "9f28a64e6ce9",
       "in_degree": 10,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "your-codebase-is-memory",
         "when-need-stops-being-the-measure",
+        "growing-the-solver-not-solving-the-child",
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
         "guidance-is-not-ownership",
         "the-fallacy-of-post-success-parenting",
@@ -3576,7 +3577,7 @@
       "path": "content/posts/growing-the-solver-not-solving-the-child.md",
       "title": "让解决者生长，而非解决孩子 / Growing the Solver, Not Solving the Child",
       "hash": "fbdc3b82441e",
-      "in_degree": 0,
+      "in_degree": 6,
       "out_degree": 14,
       "links_out": [
         "guidance-is-not-ownership",
@@ -3627,15 +3628,16 @@
       "slug": "guidance-is-not-ownership",
       "path": "content/posts/guidance-is-not-ownership.md",
       "title": "引导不是占有 / Guidance Is Not Ownership",
-      "hash": "4bd9a73e2d08",
+      "hash": "1331f84418fc",
       "in_degree": 12,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "the-generative-atlas-of-macroscopic-phenomena",
         "sympathy-is-a-placeholder-for-lack-of-clarity",
         "the-fallacy-of-post-success-parenting",
         "individual-choices-as-the-only-causal-levers",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+        "growing-the-solver-not-solving-the-child",
         "emotional-support-as-causal-interference",
         "rebellion-as-symptom-not-property",
         "agency-and-the-pattern",
@@ -6299,12 +6301,13 @@
       "slug": "rebellion-as-symptom-not-property",
       "path": "content/posts/rebellion-as-symptom-not-property.md",
       "title": "叛逆是症状而非属性 / Rebellion as Symptom, Not Property",
-      "hash": "ed414a5f0b75",
+      "hash": "173dbf1aeb71",
       "in_degree": 2,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "objects-are-stabilized-relationships",
         "guidance-is-not-ownership",
+        "growing-the-solver-not-solving-the-child",
         "moral-language-dilutes-the-feedback-that-scales-freedom",
         "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
         "the-scaffolding-we-forget",
@@ -8575,9 +8578,9 @@
       "slug": "the-fallacy-of-post-success-parenting",
       "path": "content/posts/the-fallacy-of-post-success-parenting.md",
       "title": "成功之后的育儿谬误 / The Fallacy of Post-Success Parenting",
-      "hash": "6c2609181de2",
+      "hash": "c16baf33d16f",
       "in_degree": 13,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "the-generative-atlas-of-macroscopic-phenomena",
         "the-geometry-of-success",
@@ -8590,6 +8593,7 @@
         "ownership-and-self-worthiness",
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
         "the-generative-mechanics-of-value-money-and-wealth",
+        "growing-the-solver-not-solving-the-child",
         "the-look-of-constraint-is-not-the-loss-of-freedom",
         "po-chu-gai-nian-de-jian-yue"
       ]
@@ -12214,9 +12218,9 @@
       "slug": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "path": "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md",
       "title": "未历摩擦的心智与借来的全能 / The Unfrictioned Mind and Borrowed Omnipotence",
-      "hash": "88086c00fb20",
+      "hash": "ce00b8468aaa",
       "in_degree": 9,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "the-self-portrait-in-the-projection",
         "help-is-half-the-problem",
@@ -12225,6 +12229,7 @@
         "a-new-deeper-look-at-antifragility",
         "empowerment-establishes-the-centralization-of-power",
         "your-codebase-is-memory",
+        "growing-the-solver-not-solving-the-child",
         "the-reflexive-dilemma-of-unique-insight",
         "the-free-variable-and-the-retrospective-illusion-of-power"
       ]
@@ -12690,9 +12695,9 @@
       "slug": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "path": "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md",
       "title": "外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth",
-      "hash": "9e324b897877",
+      "hash": "d1bc7bfd3385",
       "in_degree": 18,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
@@ -12700,6 +12705,7 @@
         "guan-yu-gui-yin",
         "closed-framing-and-the-reduction-of-optionality",
         "emotional-support-as-causal-interference",
+        "growing-the-solver-not-solving-the-child",
         "when-the-effect-authors-the-frame",
         "the-average-is-residue-not-the-engine",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
@@ -28564,6 +28570,18 @@
     },
     {
       "from": "emotional-support-as-causal-interference",
+      "to": "growing-the-solver-not-solving-the-child",
+      "rel": "points_to",
+      "label": "让解决者生长，而非解决孩子"
+    },
+    {
+      "from": "emotional-support-as-causal-interference",
+      "to": "growing-the-solver-not-solving-the-child",
+      "rel": "points_to",
+      "label": "Growing the Solver, Not Solving the Child"
+    },
+    {
+      "from": "emotional-support-as-causal-interference",
       "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "rel": "points_to",
       "label": "外部归因是个人进步的障碍"
@@ -33757,6 +33775,18 @@
       "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "rel": "points_to",
       "label": "The Isomorphism of Free Variables and Prior Sovereignty"
+    },
+    {
+      "from": "guidance-is-not-ownership",
+      "to": "growing-the-solver-not-solving-the-child",
+      "rel": "points_to",
+      "label": "让解决者生长，而非解决孩子"
+    },
+    {
+      "from": "guidance-is-not-ownership",
+      "to": "growing-the-solver-not-solving-the-child",
+      "rel": "points_to",
+      "label": "Growing the Solver, Not Solving the Child"
     },
     {
       "from": "guidance-is-not-ownership",
@@ -53188,6 +53218,12 @@
     },
     {
       "from": "rebellion-as-symptom-not-property",
+      "to": "growing-the-solver-not-solving-the-child",
+      "rel": "points_to",
+      "label": "让解决者生长，而非解决孩子"
+    },
+    {
+      "from": "rebellion-as-symptom-not-property",
       "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "rel": "points_to",
       "label": "道德语言稀释自由复利的反馈"
@@ -53197,6 +53233,12 @@
       "to": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
       "rel": "points_to",
       "label": "强求善意的残暴与范畴反馈的因果遮蔽"
+    },
+    {
+      "from": "rebellion-as-symptom-not-property",
+      "to": "growing-the-solver-not-solving-the-child",
+      "rel": "points_to",
+      "label": "Growing the Solver, Not Solving the Child"
     },
     {
       "from": "rebellion-as-symptom-not-property",
@@ -68128,9 +68170,21 @@
     },
     {
       "from": "the-fallacy-of-post-success-parenting",
+      "to": "growing-the-solver-not-solving-the-child",
+      "rel": "points_to",
+      "label": "让解决者生长，而非解决孩子"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
       "to": "the-look-of-constraint-is-not-the-loss-of-freedom",
       "rel": "points_to",
       "label": "约束的样子不是自由的失去"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "growing-the-solver-not-solving-the-child",
+      "rel": "points_to",
+      "label": "Growing the Solver, Not Solving the Child"
     },
     {
       "from": "the-fallacy-of-post-success-parenting",
@@ -92134,9 +92188,21 @@
     },
     {
       "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
+      "to": "growing-the-solver-not-solving-the-child",
+      "rel": "points_to",
+      "label": "让解决者生长，而非解决孩子"
+    },
+    {
+      "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
+      "to": "growing-the-solver-not-solving-the-child",
+      "rel": "points_to",
+      "label": "Growing the Solver, Not Solving the Child"
     },
     {
       "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
@@ -95734,9 +95800,21 @@
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "growing-the-solver-not-solving-the-child",
+      "rel": "points_to",
+      "label": "让解决者生长，而非解决孩子"
+    },
+    {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "to": "emotional-support-as-causal-interference",
       "rel": "points_to",
       "label": "Emotional Support as Causal Interference"
+    },
+    {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "growing-the-solver-not-solving-the-child",
+      "rel": "points_to",
+      "label": "Growing the Solver, Not Solving the Child"
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
