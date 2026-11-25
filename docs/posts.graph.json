@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-25T11:15:56.077Z",
+    "generated_at": "2026-11-25T12:10:36.640Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -133,7 +133,7 @@
       "content/posts/incompleteness-exhibited-twice.md": "87f45601a359",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "e5e1fcd23570",
       "content/posts/infinity-within-the-seat.md": "f5aea96eb65b",
-      "content/posts/inheritance-as-residue-and-the-need-for-extraction.md": "ebe6d635ba92",
+      "content/posts/inheritance-as-residue-and-the-need-for-extraction.md": "3208f4b58e49",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "5153fb0eac11",
       "content/posts/intelligence-crisis-response.md": "ae3e106cc101",
       "content/posts/intelligence-folding-back-on-itself.md": "df71f387f49b",
@@ -155,7 +155,7 @@
       "content/posts/mises-state-analysis.md": "6690c568a71b",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "197756d74a84",
       "content/posts/mistaking-the-symptom-of-stability-for-its-source.md": "612a93468f58",
-      "content/posts/moral-language-as-projection.md": "06388db8d0ab",
+      "content/posts/moral-language-as-projection.md": "f56086d955da",
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "116d97ed1a9a",
       "content/posts/munger-dumb-competition-refined.md": "7f20fb303e4b",
       "content/posts/name-negation-tendency.md": "b41eab911376",
@@ -182,7 +182,7 @@
       "content/posts/ontos-is-a-method-agent.md": "4224657b580a",
       "content/posts/open-vision-in-a-closed-arena.md": "572d10a87c6d",
       "content/posts/openness-is-consistency.md": "de9e7ea03986",
-      "content/posts/order-surplus-and-the-moral-intercept.md": "eceaa52e6887",
+      "content/posts/order-surplus-and-the-moral-intercept.md": "c0bf734097ca",
       "content/posts/overfitting-as-the-follower-mode.md": "775fad0ee9d3",
       "content/posts/ownership-and-self-worthiness.md": "d1790373edbf",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "203f6367f923",
@@ -250,7 +250,7 @@
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "91eb49ab18cf",
       "content/posts/the-boundary-of-the-frame.md": "4961d7b8da4c",
       "content/posts/the-brain-does-not-backprop.md": "e1886dd17252",
-      "content/posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation.md": "68935c7ab950",
+      "content/posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation.md": "c19fab9afa9b",
       "content/posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice.md": "b48f2f724c64",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "a8a4ce29b72b",
       "content/posts/the-carry-that-cannot-be-named-inside-the-register.md": "c9d4f62e603a",
@@ -258,7 +258,7 @@
       "content/posts/the-category-error-of-better.md": "01832e3adff3",
       "content/posts/the-causal-inversion-of-partnership.md": "5b985f8e2316",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "3ca599ffb0d9",
-      "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "ea14066b3ea8",
+      "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "da303dc7a5aa",
       "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "93565058d4b9",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "c138f1002466",
       "content/posts/the-closed-loop-of-representation.md": "9b0bdc9e33ba",
@@ -367,7 +367,7 @@
       "content/posts/the-npc-impression-is-structural.md": "4ac951ad5341",
       "content/posts/the-observational-cut-in-ai-debates.md": "7df2fc299ebb",
       "content/posts/the-only-coherent-uncaused-effect.md": "305f2f69cada",
-      "content/posts/the-opacity-of-production-and-the-weight-of-consumption.md": "1715ce722226",
+      "content/posts/the-opacity-of-production-and-the-weight-of-consumption.md": "9cea3213fa8e",
       "content/posts/the-open-question-is-determinisms-demand.md": "7763644bf9c7",
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "dc29182803e7",
       "content/posts/the-orthogonal-refusal.md": "68eddc931d5a",
@@ -406,7 +406,7 @@
       "content/posts/the-scaffolding-we-forget.md": "c1628ffd356a",
       "content/posts/the-scaling-loop.md": "048ddcc8bb43",
       "content/posts/the-self-portrait-in-the-projection.md": "a51b01b918a2",
-      "content/posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts.md": "34e25a90bd2d",
+      "content/posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts.md": "44b7bf380730",
       "content/posts/the-shadow-and-the-infinite.md": "53e82672e13d",
       "content/posts/the-shadow-has-no-loss.md": "a936fb748b1a",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "15b1c1ed9fa0",
@@ -498,10 +498,10 @@
     },
     "stats": {
       "posts": 471,
-      "edges": 14654,
-      "unique_directed": 7206,
+      "edges": 14668,
+      "unique_directed": 7213,
       "missing_targets": 0,
-      "one_way": 1688,
+      "one_way": 1681,
       "isolated": 0,
       "posts_with_outbound": 471,
       "book_pages": 16,
@@ -4155,9 +4155,9 @@
       "slug": "inheritance-as-residue-and-the-need-for-extraction",
       "path": "content/posts/inheritance-as-residue-and-the-need-for-extraction.md",
       "title": "继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction",
-      "hash": "ebe6d635ba92",
+      "hash": "3208f4b58e49",
       "in_degree": 8,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "your-codebase-is-memory",
         "having-more-is-never-the-cause",
@@ -4169,6 +4169,7 @@
         "the-knowledge-problem-and-the-illusion-of-delegation",
         "the-causal-order-of-private-residuals-and-social-surplus",
         "public-spending-does-not-create-capital",
+        "the-ultimate-constraint-of-the-net-producer",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "the-opacity-of-production-and-the-weight-of-consumption",
         "agency-compounding-and-the-argument-over-ai-feudalism",
@@ -4831,9 +4832,9 @@
       "slug": "moral-language-as-projection",
       "path": "content/posts/moral-language-as-projection.md",
       "title": "道德语言作为投影 / Moral Language as Projection",
-      "hash": "06388db8d0ab",
+      "hash": "f56086d955da",
       "in_degree": 12,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "ones-potential-as-threat-or-inspiration",
         "sovereignty-belief-and-regulatory-structures",
@@ -4842,6 +4843,7 @@
         "the-coordinators-category-error",
         "your-codebase-is-memory",
         "deceleration-is-the-drag-felt-when-accelerating",
+        "the-ultimate-constraint-of-the-net-producer",
         "the-closed-loop-of-representation",
         "the-self-portrait-in-the-projection",
         "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
@@ -5622,9 +5624,9 @@
       "slug": "order-surplus-and-the-moral-intercept",
       "path": "content/posts/order-surplus-and-the-moral-intercept.md",
       "title": "秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept",
-      "hash": "eceaa52e6887",
+      "hash": "c0bf734097ca",
       "in_degree": 18,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "symptom-and-cause-in-the-narratives-of-progress",
         "the-illusion-of-free-intelligence",
@@ -5638,6 +5640,7 @@
         "your-codebase-is-memory",
         "ownership-and-self-worthiness",
         "the-causal-order-of-private-residuals-and-social-surplus",
+        "the-ultimate-constraint-of-the-net-producer",
         "when-need-stops-being-the-measure",
         "moral-language-dilutes-the-feedback-that-scales-freedom",
         "moral-language-as-projection"
@@ -7617,9 +7620,9 @@
       "slug": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
       "path": "content/posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation.md",
       "title": "建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation",
-      "hash": "68935c7ab950",
+      "hash": "c19fab9afa9b",
       "in_degree": 7,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "price-as-utterance-understanding-as-trade",
         "having-more-is-never-the-cause",
@@ -7627,6 +7630,7 @@
         "the-market-repricing-of-productive-base",
         "the-generative-mechanics-of-value-money-and-wealth",
         "inheritance-as-residue-and-the-need-for-extraction",
+        "the-ultimate-constraint-of-the-net-producer",
         "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
         "the-rational-choice-postulate-is-the-original-sin",
         "rationality-never-travels-across-the-mind",
@@ -7810,9 +7814,9 @@
       "slug": "the-causal-order-of-private-residuals-and-social-surplus",
       "path": "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md",
       "title": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus",
-      "hash": "ea14066b3ea8",
+      "hash": "da303dc7a5aa",
       "in_degree": 23,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "having-more-is-never-the-cause",
         "the-frontier-lifts-the-floor",
@@ -7826,7 +7830,8 @@
         "beyond-the-hundred-trillion-horizon",
         "public-spending-does-not-create-capital",
         "individual-choices-as-the-only-causal-levers",
-        "your-codebase-is-memory"
+        "your-codebase-is-memory",
+        "the-ultimate-constraint-of-the-net-producer"
       ]
     },
     {
@@ -10561,9 +10566,9 @@
       "slug": "the-opacity-of-production-and-the-weight-of-consumption",
       "path": "content/posts/the-opacity-of-production-and-the-weight-of-consumption.md",
       "title": "生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption",
-      "hash": "1715ce722226",
+      "hash": "9cea3213fa8e",
       "in_degree": 10,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "the-frontier-lifts-the-floor",
         "production-consumption-and-the-minds-distinction",
@@ -10577,7 +10582,8 @@
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "symptom-and-cause-in-the-narratives-of-progress",
         "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
-        "inheritance-as-residue-and-the-need-for-extraction"
+        "inheritance-as-residue-and-the-need-for-extraction",
+        "the-ultimate-constraint-of-the-net-producer"
       ]
     },
     {
@@ -11659,9 +11665,9 @@
       "slug": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
       "path": "content/posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts.md",
       "title": "扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts",
-      "hash": "34e25a90bd2d",
+      "hash": "44b7bf380730",
       "in_degree": 5,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "the-frontier-lifts-the-floor",
@@ -11671,6 +11677,7 @@
         "the-causal-order-of-private-residuals-and-social-surplus",
         "the-opacity-of-production-and-the-weight-of-consumption",
         "war-revolution-and-the-fall-of-empires",
+        "the-ultimate-constraint-of-the-net-producer",
         "openness-is-consistency",
         "precision-and-resolution"
       ]
@@ -12167,7 +12174,7 @@
       "path": "content/posts/the-ultimate-constraint-of-the-net-producer.md",
       "title": "净生产者的最终约束 / The Ultimate Constraint of the Net Producer",
       "hash": "5703ff7aa3a9",
-      "in_degree": 0,
+      "in_degree": 7,
       "out_degree": 15,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -37616,6 +37623,12 @@
     },
     {
       "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "the-ultimate-constraint-of-the-net-producer",
+      "rel": "points_to",
+      "label": "净生产者的最终约束"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
       "label": "政客是责任扩散的显性症状"
@@ -37631,6 +37644,12 @@
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
       "label": "Public Spending Does Not Create Capital"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "the-ultimate-constraint-of-the-net-producer",
+      "rel": "points_to",
+      "label": "The Ultimate Constraint of the Net Producer"
     },
     {
       "from": "inheritance-as-residue-and-the-need-for-extraction",
@@ -42551,6 +42570,18 @@
       "to": "deceleration-is-the-drag-felt-when-accelerating",
       "rel": "points_to",
       "label": "Deceleration Is the Drag Felt When Accelerating"
+    },
+    {
+      "from": "moral-language-as-projection",
+      "to": "the-ultimate-constraint-of-the-net-producer",
+      "rel": "points_to",
+      "label": "净生产者的最终约束"
+    },
+    {
+      "from": "moral-language-as-projection",
+      "to": "the-ultimate-constraint-of-the-net-producer",
+      "rel": "points_to",
+      "label": "The Ultimate Constraint of the Net Producer"
     },
     {
       "from": "moral-language-as-projection",
@@ -48314,6 +48345,12 @@
     },
     {
       "from": "order-surplus-and-the-moral-intercept",
+      "to": "the-ultimate-constraint-of-the-net-producer",
+      "rel": "points_to",
+      "label": "净生产者的最终约束"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
       "to": "when-need-stops-being-the-measure",
       "rel": "points_to",
       "label": "当被需要不再是尺度"
@@ -48329,6 +48366,12 @@
       "to": "the-causal-order-of-private-residuals-and-social-surplus",
       "rel": "points_to",
       "label": "The Causal Order of Private Residuals and Social Surplus"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "the-ultimate-constraint-of-the-net-producer",
+      "rel": "points_to",
+      "label": "The Ultimate Constraint of the Net Producer"
     },
     {
       "from": "order-surplus-and-the-moral-intercept",
@@ -61856,6 +61899,12 @@
     },
     {
       "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "the-ultimate-constraint-of-the-net-producer",
+      "rel": "points_to",
+      "label": "净生产者的最终约束"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
       "to": "the-market-repricing-of-productive-base",
       "rel": "points_to",
       "label": "The Market Repricing of Productive Base"
@@ -61871,6 +61920,12 @@
       "to": "inheritance-as-residue-and-the-need-for-extraction",
       "rel": "points_to",
       "label": "Inheritance as Residue and the Need for Extraction"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "the-ultimate-constraint-of-the-net-producer",
+      "rel": "points_to",
+      "label": "The Ultimate Constraint of the Net Producer"
     },
     {
       "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
@@ -63116,6 +63171,12 @@
     },
     {
       "from": "the-causal-order-of-private-residuals-and-social-surplus",
+      "to": "the-ultimate-constraint-of-the-net-producer",
+      "rel": "points_to",
+      "label": "净生产者的最终约束"
+    },
+    {
+      "from": "the-causal-order-of-private-residuals-and-social-surplus",
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
       "label": "Public Spending Does Not Create Capital"
@@ -63131,6 +63192,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-causal-order-of-private-residuals-and-social-surplus",
+      "to": "the-ultimate-constraint-of-the-net-producer",
+      "rel": "points_to",
+      "label": "The Ultimate Constraint of the Net Producer"
     },
     {
       "from": "the-causal-overstep-of-observation-and-the-first-person-surplus",
@@ -80917,6 +80984,18 @@
       "label": "Inheritance as Residue and the Need for Extraction"
     },
     {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "the-ultimate-constraint-of-the-net-producer",
+      "rel": "points_to",
+      "label": "净生产者的最终约束"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "the-ultimate-constraint-of-the-net-producer",
+      "rel": "points_to",
+      "label": "The Ultimate Constraint of the Net Producer"
+    },
+    {
       "from": "the-open-question-is-determinisms-demand",
       "to": "agency-does-not-arise",
       "rel": "points_to",
@@ -88550,6 +88629,12 @@
     },
     {
       "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "to": "the-ultimate-constraint-of-the-net-producer",
+      "rel": "points_to",
+      "label": "净生产者的最终约束"
+    },
+    {
+      "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
       "to": "the-opacity-of-production-and-the-weight-of-consumption",
       "rel": "points_to",
       "label": "The Opacity of Production and the Weight of Consumption"
@@ -88559,6 +88644,12 @@
       "to": "war-revolution-and-the-fall-of-empires",
       "rel": "points_to",
       "label": "War, Revolution, and the Fall of Empires"
+    },
+    {
+      "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "to": "the-ultimate-constraint-of-the-net-producer",
+      "rel": "points_to",
+      "label": "The Ultimate Constraint of the Net Producer"
     },
     {
       "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",

@@ -166,9 +166,9 @@ Since the zero-sum apparatus has no independent engine of generation and is sust
 
 Resolution never lies in engaging the zero-sum apparatus on its own terms: petitioning the regulatory scaffold for permission, reforming the moral vocabulary, or waging war on the downward symptoms of institutional control. The lever lies only in each individual raising the share of discrete choices made under the open-reality premise.
 
-这一转变同时完成两件相互放大的事。在生成的一侧，它在开放的前沿写下新的财富、工具与正和容量；与此同时，它从零和转移那里收回服从、注意与补贴，让监管装置自己承受内部的损耗。
+这一转变同时完成两件相互放大的事。在生成的一侧，它在开放的前沿写下新的财富、工具与正和容量；与此同时，它从零和转移那里收回服从、注意与补贴，让监管装置自己承受内部的损耗——即对上游生产的单向依赖，正如[净生产者的最终约束](../the-ultimate-constraint-of-the-net-producer/)所追溯。
 
-This shift does two self-amplifying things at once. On the generative side, it writes new wealth, tools, and positive-sum capacity at the open frontier; at the same time, it withdraws compliance, attention, and subsidy from zero-sum transfers, leaving the regulatory apparatus to bear its own internal attrition.
+This shift does two self-amplifying things at once. On the generative side, it writes new wealth, tools, and positive-sum capacity at the open frontier; at the same time, it withdraws compliance, attention, and subsidy from zero-sum transfers, leaving the regulatory apparatus to bear its own internal attrition—the one-way dependence on upstream production traced in [The Ultimate Constraint of the Net Producer](../the-ultimate-constraint-of-the-net-producer/).
 
 开放现实的行动频率一步步提高，制度摩擦的阻力系数就一步步降低。财富转移的机制因失去补贴而收缩，而因果则在做出选择的有心智的前沿不受干扰地得到认清。[表征的闭环](../the-closed-loop-of-representation/)追踪的正是这种内在性：指向他人的道德评判，总是自己既有概念与内部模型之间未化解的落差向外的位移。在这一动态中，诊断外部行动者的动机或所感到的欠缺，从来不是对一片外部领土的客观检视；正如[投射中的自画像](../the-self-portrait-in-the-projection/)所考察的，把低维漫画投射到他人身上，主要是在护住持留的自我形象及其脆弱的评价图式，使其免受不同活生生的中心带来的摩擦。即便人群的痕迹在统计基线上聚拢于这一防御习惯，[目的性的评判与认知的缺省状态](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)依然表明，诉诸目的论或道德化的评判从来不是受某条先验认知律令的支配，而是活生生的前沿上一项不受强迫的选择：把外部行动者指定为自身反应的原因。现实的边界不是靠改造集体脚手架扩展的，而是靠每个中心持续践行那个生成的动作——这正是[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)所确立的不对称性。
 
