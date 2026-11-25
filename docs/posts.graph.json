@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-25T23:21:59.269Z",
+    "generated_at": "2026-11-25T23:44:13.670Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -14,7 +14,7 @@
       "content/posts/a-new-deeper-look-at-antifragility.md": "b0a697bdde69",
       "content/posts/abstract-pain-and-living-hunger.md": "521edf2dc946",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "c52d6149ba98",
-      "content/posts/abstraction-determination-and-the-three-structural-flaws-of-machine-learning.md": "ebd51c27bb8b",
+      "content/posts/abstraction-determination-and-the-three-structural-flaws-of-machine-learning.md": "7da14d0c454c",
       "content/posts/accelerating-replacement-and-image-lag.md": "03a81eafc68b",
       "content/posts/actual-infinity-born-inside-potential-infinity.md": "6f688ab99507",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "fc6dd32eeea8",
@@ -31,7 +31,7 @@
       "content/posts/amplification-paradox.md": "a275c141a687",
       "content/posts/an-observation-by-its-own-standard.md": "b15d59b5cc11",
       "content/posts/apparent-regulation-and-the-primacy-of-choice.md": "5e6d80555130",
-      "content/posts/architecture-of-recursive-distinction.md": "bc11baadb09a",
+      "content/posts/architecture-of-recursive-distinction.md": "0b68647cd784",
       "content/posts/asymmetry-of-ascription.md": "07b4532b4958",
       "content/posts/better-than-free-after-the-checklist-closes.md": "d39b1b10df08",
       "content/posts/beyond-the-hundred-trillion-horizon.md": "243174a770ad",
@@ -280,11 +280,11 @@
       "content/posts/the-digital-god-and-the-horizon-jump.md": "57a85b713c5f",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "74e15da43c71",
       "content/posts/the-discount-on-agency.md": "bcca6175c12d",
-      "content/posts/the-discrete-fold.md": "fe6b32be4932",
+      "content/posts/the-discrete-fold.md": "5928db9811b8",
       "content/posts/the-dissolution-of-the-great-reversal.md": "67837dcf960d",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cf61f9e9c832",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "14eea56f6141",
-      "content/posts/the-dual-cut.md": "df8dbcf83218",
+      "content/posts/the-dual-cut.md": "1fea2adb2a34",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "5fd5c9b7cedc",
       "content/posts/the-extendable-horizon.md": "b2ada327f796",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "1dab3fa9644a",
@@ -408,7 +408,7 @@
       "content/posts/the-self-portrait-in-the-projection.md": "6424b0173770",
       "content/posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts.md": "44b7bf380730",
       "content/posts/the-shadow-and-the-infinite.md": "53e82672e13d",
-      "content/posts/the-shadow-has-no-loss.md": "a936fb748b1a",
+      "content/posts/the-shadow-has-no-loss.md": "c9a68313bd0b",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "15b1c1ed9fa0",
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "5e2969c89a5a",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "bd0a5b0d1537",
@@ -842,7 +842,7 @@
       "slug": "abstraction-determination-and-the-three-structural-flaws-of-machine-learning",
       "path": "content/posts/abstraction-determination-and-the-three-structural-flaws-of-machine-learning.md",
       "title": "抽象、决定，与主流机器学习的三大结构性症结 / Abstraction, Determination, and the Three Structural Flaws of Machine Learning",
-      "hash": "ebd51c27bb8b",
+      "hash": "7da14d0c454c",
       "in_degree": 4,
       "out_degree": 22,
       "links_out": [
@@ -1330,7 +1330,7 @@
       "slug": "architecture-of-recursive-distinction",
       "path": "content/posts/architecture-of-recursive-distinction.md",
       "title": "递归区分的架构 / The Architecture of Recursive Distinction",
-      "hash": "bc11baadb09a",
+      "hash": "0b68647cd784",
       "in_degree": 17,
       "out_degree": 15,
       "links_out": [
@@ -8387,7 +8387,7 @@
       "slug": "the-discrete-fold",
       "path": "content/posts/the-discrete-fold.md",
       "title": "离散的折叠 / The Discrete Fold",
-      "hash": "fe6b32be4932",
+      "hash": "5928db9811b8",
       "in_degree": 1,
       "out_degree": 10,
       "links_out": [
@@ -8397,8 +8397,8 @@
         "the-blind-cut-and-the-naming-mind",
         "the-continuum-is-a-modeling-convenience",
         "precision-and-resolution",
-        "the-brain-does-not-backprop",
         "the-flight-analogy-leaves-the-mind-untouched",
+        "the-brain-does-not-backprop",
         "the-real-lesson-from-the-consciousness-vector-paper",
         "intelligence-belongs-only-to-the-mind"
       ]
@@ -8480,7 +8480,7 @@
       "slug": "the-dual-cut",
       "path": "content/posts/the-dual-cut.md",
       "title": "指令与载荷的双重切分 / The Dual Cut of Command and Payload",
-      "hash": "df8dbcf83218",
+      "hash": "1fea2adb2a34",
       "in_degree": 1,
       "out_degree": 7,
       "links_out": [
@@ -11716,7 +11716,7 @@
       "slug": "the-shadow-has-no-loss",
       "path": "content/posts/the-shadow-has-no-loss.md",
       "title": "影子没有损失 / The Shadow Has No Loss",
-      "hash": "a936fb748b1a",
+      "hash": "c9a68313bd0b",
       "in_degree": 1,
       "out_degree": 12,
       "links_out": [
@@ -66905,12 +66905,6 @@
     },
     {
       "from": "the-discrete-fold",
-      "to": "the-brain-does-not-backprop",
-      "rel": "points_to",
-      "label": "大脑不进行反向传播，而是正向传导"
-    },
-    {
-      "from": "the-discrete-fold",
       "to": "the-flight-analogy-leaves-the-mind-untouched",
       "rel": "points_to",
       "label": "飞行的类比碰不到心智"
@@ -66919,13 +66913,19 @@
       "from": "the-discrete-fold",
       "to": "the-brain-does-not-backprop",
       "rel": "points_to",
-      "label": "The Brain Does Not Backprop, but Propagates"
+      "label": "大脑不进行反向传播，而是正向传导"
     },
     {
       "from": "the-discrete-fold",
       "to": "the-flight-analogy-leaves-the-mind-untouched",
       "rel": "points_to",
       "label": "The Flight Analogy Leaves the Mind Untouched"
+    },
+    {
+      "from": "the-discrete-fold",
+      "to": "the-brain-does-not-backprop",
+      "rel": "points_to",
+      "label": "The Brain Does Not Backprop, but Propagates"
     },
     {
       "from": "the-discrete-fold",
