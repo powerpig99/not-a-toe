@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-25T10:05:53.552Z",
+    "generated_at": "2026-11-25T11:15:56.077Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -426,6 +426,7 @@
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "c962d81df066",
       "content/posts/the-two-readings-of-shared-and-the-observational-bound.md": "1199b3c1f13f",
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "06b70b068131",
+      "content/posts/the-ultimate-constraint-of-the-net-producer.md": "5703ff7aa3a9",
       "content/posts/the-unclosable-trace.md": "12bf152789c6",
       "content/posts/the-unexamined-critic.md": "d1e006ef8ba3",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "ce00b8468aaa",
@@ -480,8 +481,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "5f302d15f373",
-      "content/book/economics.md": "30efde803853",
-      "content/book/index-of-premises.md": "ee3facdfeb31",
+      "content/book/economics.md": "ac9fdbf2221e",
+      "content/book/index-of-premises.md": "28f34083156b",
       "content/book/intelligence.md": "ff7c08b8ecea",
       "content/book/knowledge-and-learning.md": "a885aa187e8e",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -496,16 +497,16 @@
       "content/book/tools-and-progress.md": "276037119294"
     },
     "stats": {
-      "posts": 470,
-      "edges": 14624,
-      "unique_directed": 7191,
+      "posts": 471,
+      "edges": 14654,
+      "unique_directed": 7206,
       "missing_targets": 0,
-      "one_way": 1673,
+      "one_way": 1688,
       "isolated": 0,
-      "posts_with_outbound": 470,
+      "posts_with_outbound": 471,
       "book_pages": 16,
-      "book_edges": 1630,
-      "posts_reached_by_book": 470
+      "book_edges": 1636,
+      "posts_reached_by_book": 471
     }
   },
   "hubs_in": [
@@ -559,7 +560,7 @@
     },
     {
       "slug": "production-consumption-and-the-minds-distinction",
-      "in_degree": 44
+      "in_degree": 45
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
@@ -1031,7 +1032,7 @@
       "path": "content/posts/agency-contradiction-and-the-relocation-of-power.md",
       "title": "能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power",
       "hash": "275043c4033b",
-      "in_degree": 29,
+      "in_degree": 30,
       "out_degree": 24,
       "links_out": [
         "the-substrate-of-constraint-and-the-self-denial-of-freedom",
@@ -3268,7 +3269,7 @@
       "path": "content/posts/fate-loves-irony-refined.md",
       "title": "生产创造自己的意识形态消费 / Production Creates Its Own Ideological Consumption",
       "hash": "588c29686b20",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 6,
       "links_out": [
         "your-codebase-is-memory",
@@ -4155,7 +4156,7 @@
       "path": "content/posts/inheritance-as-residue-and-the-need-for-extraction.md",
       "title": "继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction",
       "hash": "ebe6d635ba92",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 16,
       "links_out": [
         "your-codebase-is-memory",
@@ -4831,7 +4832,7 @@
       "path": "content/posts/moral-language-as-projection.md",
       "title": "道德语言作为投影 / Moral Language as Projection",
       "hash": "06388db8d0ab",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 11,
       "links_out": [
         "ones-potential-as-threat-or-inspiration",
@@ -5271,7 +5272,7 @@
       "path": "content/posts/observation-lag-and-the-inversion-of-optionality.md",
       "title": "观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality",
       "hash": "260873cc62a0",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 16,
       "links_out": [
         "mistaking-the-symptom-of-stability-for-its-source",
@@ -5622,7 +5623,7 @@
       "path": "content/posts/order-surplus-and-the-moral-intercept.md",
       "title": "秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept",
       "hash": "eceaa52e6887",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 15,
       "links_out": [
         "symptom-and-cause-in-the-narratives-of-progress",
@@ -5905,7 +5906,7 @@
       "path": "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md",
       "title": "政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion",
       "hash": "028a28b54a32",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 19,
       "links_out": [
         "ownership-and-self-worthiness",
@@ -6112,7 +6113,7 @@
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "生产、消费与心智的区分 / Production, Consumption, and the Mind's Distinction",
       "hash": "a4228e0e32b6",
-      "in_degree": 44,
+      "in_degree": 45,
       "out_degree": 41,
       "links_out": [
         "openness-is-consistency",
@@ -7617,7 +7618,7 @@
       "path": "content/posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation.md",
       "title": "建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation",
       "hash": "68935c7ab950",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 18,
       "links_out": [
         "price-as-utterance-understanding-as-trade",
@@ -7810,7 +7811,7 @@
       "path": "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md",
       "title": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus",
       "hash": "ea14066b3ea8",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 13,
       "links_out": [
         "having-more-is-never-the-cause",
@@ -10250,7 +10251,7 @@
       "path": "content/posts/the-mirror-handshake-of-power.md",
       "title": "权力的镜像握手 / The Mirror Handshake of Power",
       "hash": "3fdbf6e17ecc",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 10,
       "links_out": [
         "the-free-variable-and-the-retrospective-illusion-of-power",
@@ -10561,7 +10562,7 @@
       "path": "content/posts/the-opacity-of-production-and-the-weight-of-consumption.md",
       "title": "生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption",
       "hash": "1715ce722226",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 13,
       "links_out": [
         "the-frontier-lifts-the-floor",
@@ -10624,7 +10625,7 @@
       "path": "content/posts/the-orthogonal-refusal.md",
       "title": "正交的拒绝 / The Orthogonal Refusal",
       "hash": "68eddc931d5a",
-      "in_degree": 28,
+      "in_degree": 29,
       "out_degree": 23,
       "links_out": [
         "the-question-that-installs-the-war",
@@ -11195,7 +11196,7 @@
       "path": "content/posts/the-residue-of-exercise-and-the-stabilization-of-politics.md",
       "title": "行使的残余与政治的稳定 / The Residue of Exercise and the Stabilization of Politics",
       "hash": "f05119489494",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 5,
       "links_out": [
         "sovereignty-essay",
@@ -11659,7 +11660,7 @@
       "path": "content/posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts.md",
       "title": "扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts",
       "hash": "34e25a90bd2d",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 10,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -12157,6 +12158,33 @@
         "beyond-the-projection",
         "the-boundary-crossing-of-choice",
         "the-cartesian-overstep-and-the-frenzy-of-creation"
+      ]
+    },
+    {
+      "id": "post:the-ultimate-constraint-of-the-net-producer",
+      "kind": "post",
+      "slug": "the-ultimate-constraint-of-the-net-producer",
+      "path": "content/posts/the-ultimate-constraint-of-the-net-producer.md",
+      "title": "净生产者的最终约束 / The Ultimate Constraint of the Net Producer",
+      "hash": "5703ff7aa3a9",
+      "in_degree": 0,
+      "out_degree": 15,
+      "links_out": [
+        "production-consumption-and-the-minds-distinction",
+        "the-causal-order-of-private-residuals-and-social-surplus",
+        "order-surplus-and-the-moral-intercept",
+        "the-opacity-of-production-and-the-weight-of-consumption",
+        "fate-loves-irony-refined",
+        "moral-language-as-projection",
+        "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+        "the-residue-of-exercise-and-the-stabilization-of-politics",
+        "the-mirror-handshake-of-power",
+        "agency-contradiction-and-the-relocation-of-power",
+        "observation-lag-and-the-inversion-of-optionality",
+        "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+        "inheritance-as-residue-and-the-need-for-extraction",
+        "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+        "the-orthogonal-refusal"
       ]
     },
     {
@@ -91761,6 +91789,186 @@
       "label": "The Cartesian Epistemic Leap and the Frenzy of Creation"
     },
     {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind's Distinction"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "私人残差与社会剩余的因果次序"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "秩序、剩余与道德拦截"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "The Causal Order of Private Residuals and Social Surplus"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, Surplus, and the Moral Intercept"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "the-opacity-of-production-and-the-weight-of-consumption",
+      "rel": "points_to",
+      "label": "生产的不透明与消费的权重"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "fate-loves-irony-refined",
+      "rel": "points_to",
+      "label": "生产创造自己的意识形态消费"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "moral-language-as-projection",
+      "rel": "points_to",
+      "label": "道德语言作为投影"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "the-opacity-of-production-and-the-weight-of-consumption",
+      "rel": "points_to",
+      "label": "The Opacity of Production and the Weight of Consumption"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "fate-loves-irony-refined",
+      "rel": "points_to",
+      "label": "Production Creates Its Own Ideological Consumption"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "moral-language-as-projection",
+      "rel": "points_to",
+      "label": "Moral Language as Projection"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "政客是责任扩散的显性症状"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "the-residue-of-exercise-and-the-stabilization-of-politics",
+      "rel": "points_to",
+      "label": "行使的残余与政治的稳定"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "the-mirror-handshake-of-power",
+      "rel": "points_to",
+      "label": "权力的镜像握手"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "Politicians Are Visible Symptoms of Responsibility Diffusion"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "the-residue-of-exercise-and-the-stabilization-of-politics",
+      "rel": "points_to",
+      "label": "The Residue of Exercise and the Stabilization of Politics"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "the-mirror-handshake-of-power",
+      "rel": "points_to",
+      "label": "The Mirror Handshake of Power"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "observation-lag-and-the-inversion-of-optionality",
+      "rel": "points_to",
+      "label": "观察滞后与选择权的倒置"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "observation-lag-and-the-inversion-of-optionality",
+      "rel": "points_to",
+      "label": "Observation Lag and the Inversion of Optionality"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "rel": "points_to",
+      "label": "建造者的缺席与解释的自洽循环"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "inheritance-as-residue-and-the-need-for-extraction",
+      "rel": "points_to",
+      "label": "继承的残余与索取的必要"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "rel": "points_to",
+      "label": "扩张的序列与局部解释的边界"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "rel": "points_to",
+      "label": "The Builder's Absence and the Self-Consistent Cycle of Explanation"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "inheritance-as-residue-and-the-need-for-extraction",
+      "rel": "points_to",
+      "label": "Inheritance as Residue and the Need for Extraction"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "rel": "points_to",
+      "label": "The Sequence of Expansion and the Boundary of Local Accounts"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "the-ultimate-constraint-of-the-net-producer",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
+    },
+    {
       "from": "the-unclosable-trace",
       "to": "the-geometry-of-mind",
       "rel": "points_to",
@@ -101279,8 +101487,8 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "30efde803853",
-        "out_degree": 38
+        "hash": "ac9fdbf2221e",
+        "out_degree": 39
       },
       {
         "id": "book:index-of-premises",
@@ -101288,8 +101496,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "ee3facdfeb31",
-        "out_degree": 470
+        "hash": "28f34083156b",
+        "out_degree": 471
       },
       {
         "id": "book:intelligence",
@@ -102102,6 +102310,12 @@
         "to": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
         "rel": "collects",
         "label": "建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation"
+      },
+      {
+        "from": "book:economics",
+        "to": "the-ultimate-constraint-of-the-net-producer",
+        "rel": "collects",
+        "label": "净生产者的最终约束 / The Ultimate Constraint of the Net Producer"
       },
       {
         "from": "book:index-of-premises",
@@ -104565,6 +104779,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-ultimate-constraint-of-the-net-producer",
+        "rel": "collects",
+        "label": "净生产者的最终约束 / The Ultimate Constraint of the Net Producer"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
         "rel": "collects",
         "label": "排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations"
@@ -104574,6 +104794,12 @@
         "to": "externalizing-unmet-drive-as-the-pathology-of-growth",
         "rel": "collects",
         "label": "外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-ultimate-constraint-of-the-net-producer",
+        "rel": "collects",
+        "label": "净生产者的最终约束 / The Ultimate Constraint of the Net Producer"
       },
       {
         "from": "book:index-of-premises",
@@ -105963,6 +106189,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-ultimate-constraint-of-the-net-producer",
+        "rel": "collects",
+        "label": "净生产者的最终约束 / The Ultimate Constraint of the Net Producer"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-reversal-of-education-and-science",
         "rel": "collects",
         "label": "教育与科学的倒置 / The Inversion of Education and Science"
@@ -106380,6 +106612,12 @@
         "to": "the-power-law-of-surrendered-agency",
         "rel": "collects",
         "label": "让渡主权的幂律法则 / The Power-Law of Surrendered Agency"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-ultimate-constraint-of-the-net-producer",
+        "rel": "collects",
+        "label": "净生产者的最终约束 / The Ultimate Constraint of the Net Producer"
       },
       {
         "from": "book:index-of-premises",
@@ -107064,6 +107302,12 @@
         "to": "the-causal-order-of-private-residuals-and-social-surplus",
         "rel": "collects",
         "label": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-ultimate-constraint-of-the-net-producer",
+        "rel": "collects",
+        "label": "净生产者的最终约束 / The Ultimate Constraint of the Net Producer"
       },
       {
         "from": "book:index-of-premises",

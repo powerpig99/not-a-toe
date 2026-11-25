@@ -1844,7 +1844,7 @@ Yann LeCun's Joint-Embedding Predictive Architecture (JEPA) moves training evalu
 
 Albert O. Hirschman's *Exit, Voice, and Loyalty* maps how credible exit options quietly back internal voice and discipline counterparties before decline ruptures into view, which is of use in diagnosing feedback channels and captive-versus-mobile asymmetries inside firms and states; it reaches its boundary in its premise of institutional recuperation, since live optionality at the acting Mind serves to keep adjustment faster than observation lag rather than to rehabilitate a failing vessel.
 
-→ [观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality](../../posts/observation-lag-and-the-inversion-of-optionality/)
+→ [观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality](../../posts/observation-lag-and-the-inversion-of-optionality/) · [净生产者的最终约束 / The Ultimate Constraint of the Net Producer](../../posts/the-ultimate-constraint-of-the-net-producer/)
 
 ### 文化决定论与社会事实 / Cultural Determinism and Social Facts
 `哲学 / Philosophical`
@@ -1863,6 +1863,15 @@ Cultural determinism—given its classic form by Émile Durkheim's framing of so
 Steady-state economics separates quantitative matter-energy throughput growth from qualitative development, and degrowth extends that ecological accounting into planned downscaling against systemic "growth compulsion" paired with Universal Basic Services, which is of use within a temporarily bounded local horizon and current technology for separating physical throughput against ecological source and sink constraints from efficiency gains; the framework reaches its boundary in freezing today's mapped biosphere and resource definitions into a permanently sealed container that turns expansion into zero-sum exhaustion by construction, flattens diverse capital and competitive choices into universal growth compulsion even though steady-state firms already operate without prohibition, and still relies on ongoing productive capacity and diffused fiscal surplus to fund public provisioning.
 
 → [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/)
+
+### 精英理论 / Elite Theory
+`意识形态 / Ideological`
+
+古典精英理论（加埃塔诺·莫斯卡、维尔弗雷多·帕累托与罗伯特·米歇尔斯）观察到，有组织的少数占据正式职位并借合法化政治公式掌舵无组织的多数，在切穿朴素的多数决公民观时有用；凡是将有组织的统治少数视为自主因果起源之处，它便到达了边界，因为其合法化政治公式与庇护安排依然在回应净消费多数对剩余的持续主张，而可见统治则严格派生自一条法令无从生成的上游生产流。
+
+Classical elite theory (Gaetano Mosca, Vilfredo Pareto, and Robert Michels) observes that organized minorities capture formal offices and steer unorganized majorities through a legitimating political formula, which is of use in cutting past naive majoritarian civics; it reaches its boundary wherever it treats the organized ruling minority as an autonomous causal origin, since its legitimating formula and patronage still answer the net-consuming majority's ongoing claim on surplus while visible rule remains strictly derivative of an upstream production stream decree cannot generate.
+
+→ [净生产者的最终约束 / The Ultimate Constraint of the Net Producer](../../posts/the-ultimate-constraint-of-the-net-producer/)
 
 ## 概念 / Concepts
 
@@ -3124,7 +3133,7 @@ Psychometric and educational studies treat stable differences in learning speed 
 
 Whether told as benevolent guardianship or bureaucratic capture, institutional causality treats institutions as the authors of outcomes, which is of use in describing how collective structures coordinate action; it reaches its boundary in that institutions are records of distributed choices, granted causal priority because agency has been displaced outward, while technology and the individuals who adopt it are written out of the ledger.
 
-→ [道德语言作为投影 / Moral Language as Projection](../../posts/moral-language-as-projection/) · [外化善意走向其反面 / Externalized Virtue Becomes Its Opposite](../../posts/externalized-virtue-becomes-its-opposite/) · [把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source](../../posts/mistaking-the-symptom-of-stability-for-its-source/)
+→ [道德语言作为投影 / Moral Language as Projection](../../posts/moral-language-as-projection/) · [外化善意走向其反面 / Externalized Virtue Becomes Its Opposite](../../posts/externalized-virtue-becomes-its-opposite/) · [把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source](../../posts/mistaking-the-symptom-of-stability-for-its-source/) · [净生产者的最终约束 / The Ultimate Constraint of the Net Producer](../../posts/the-ultimate-constraint-of-the-net-producer/)
 
 ### 教育与科学的建制化倒置 / Institutional Inversion of Education and Science
 `哲学 / Philosophical`
@@ -3538,7 +3547,7 @@ Dispositional moral attribution passes verdicts on others' rises and falls—suc
 
 Moral vocabulary presumes good and evil describe consequences, which is of use in coordinating a group’s action; it reaches its boundary in that it inserts evaluative overlays between agent and raw outcome, diluting the feedback that compounds ownership.
 
-→ [道德语言稀释自由复利的反馈 / Moral Language Dilutes the Feedback That Scales Freedom](../../posts/moral-language-dilutes-the-feedback-that-scales-freedom/) · [强求善意的残暴与范畴反馈的因果遮蔽 / Compulsory Kindness and the Obscuration of Categorical Feedback](../../posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback/) · [让渡主权的幂律法则 / The Power-Law of Surrendered Agency](../../posts/the-power-law-of-surrendered-agency/)
+→ [道德语言稀释自由复利的反馈 / Moral Language Dilutes the Feedback That Scales Freedom](../../posts/moral-language-dilutes-the-feedback-that-scales-freedom/) · [强求善意的残暴与范畴反馈的因果遮蔽 / Compulsory Kindness and the Obscuration of Categorical Feedback](../../posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback/) · [让渡主权的幂律法则 / The Power-Law of Surrendered Agency](../../posts/the-power-law-of-surrendered-agency/) · [净生产者的最终约束 / The Ultimate Constraint of the Net Producer](../../posts/the-ultimate-constraint-of-the-net-producer/)
 
 ### 道德实在论 / Moral Realism
 `哲学 / Philosophical`
@@ -4069,7 +4078,7 @@ The reading of "emergent capability" presumes that the model has crossed a thres
 
 Treating transfer as what the loop requires is of use in arranging a later pickup of residue; it reaches its boundary in that it places causal power on consumption, while later registration cannot authorize earlier making—freezing shared cultural residue into a private origin debt, mistaking ongoing minority production for an ambient stock while surplus grows, and, once claims outrun remaining capacity, attributing the shortfall to producers as extractors rather than revising the claims—so transfer as justification thins incremental returns, lowers the opportunity cost of idleness, and makes sustained pressure for extraction itself the mark of diminishing capital use.
 
-→ [秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept](../../posts/order-surplus-and-the-moral-intercept/) · [价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth](../../posts/the-generative-mechanics-of-value-money-and-wealth/) · [生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption](../../posts/the-opacity-of-production-and-the-weight-of-consumption/) · [继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction](../../posts/inheritance-as-residue-and-the-need-for-extraction/) · [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/) · [私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus](../../posts/the-causal-order-of-private-residuals-and-social-surplus/)
+→ [秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept](../../posts/order-surplus-and-the-moral-intercept/) · [价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth](../../posts/the-generative-mechanics-of-value-money-and-wealth/) · [生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption](../../posts/the-opacity-of-production-and-the-weight-of-consumption/) · [继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction](../../posts/inheritance-as-residue-and-the-need-for-extraction/) · [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/) · [私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus](../../posts/the-causal-order-of-private-residuals-and-social-surplus/) · [净生产者的最终约束 / The Ultimate Constraint of the Net Producer](../../posts/the-ultimate-constraint-of-the-net-producer/)
 
 ### 丰裕会平息零和之争 / Abundance Will Quiet Zero-Sum Contest
 `经济 / Economic`
