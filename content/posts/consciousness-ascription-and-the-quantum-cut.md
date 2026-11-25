@@ -19,7 +19,7 @@ flowchart TD
     subgraph S_CHAIN_ZH ["第三人称连续参数与函数链条"]
         direction TB
         style S_CHAIN_ZH fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-        C_LLM["大语言模型参数梯级<br/>千亿至纯随机噪声"]
+        C_LLM["大语言模型参数梯级<br/>数千亿至随机噪声"]
         C_Bio["生物神经元突触<br/>与电生理网络映射"]
         C_Rules["数学运算规则<br/>与因果关联全域守恒"]
         C_LLM --> C_Rules
@@ -31,8 +31,8 @@ flowchart TD
     subgraph S_CUT_ZH ["观察者的终结性裁决"]
         direction TB
         style S_CUT_ZH fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-        O_Decide["选定截断尺度<br/>中止第三人称编目"]
-        O_Ascribe["确立意识归属<br/>赋予或否认第一人称体验"]
+        O_Decide["施下割点<br/>中止敞开的第三人称编目"]
+        O_Ascribe["确立意识地位<br/>赋予或不予赋予第一人称体验"]
         O_Decide --> O_Ascribe
         style O_Decide fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
         style O_Ascribe fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -47,7 +47,7 @@ flowchart TD
     subgraph S_CHAIN_EN ["Third-Person Continuous Parameter Chain"]
         direction TB
         style S_CHAIN_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-        C_LLM["LLM parameter hierarchy:<br/>from trillions to noise"]
+        C_LLM["LLM parameter hierarchy:<br/>from hundreds of billions to noise"]
         C_Bio["Biological synapses and<br/>electrophysiological networks"]
         C_Rules["Invariant update rules and<br/>causal functional mappings"]
         C_LLM --> C_Rules
@@ -59,8 +59,8 @@ flowchart TD
     subgraph S_CUT_EN ["Terminal Decision by the Observer"]
         direction TB
         style S_CUT_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-        O_Decide["Select scale:<br/>terminate open third-person catalog"]
-        O_Ascribe["Ascribe conscious status:<br/>treat as experiencing subject"]
+        O_Decide["Enact the cut:<br/>terminate open third-person catalog"]
+        O_Ascribe["Establish conscious status:<br/>grant or withhold first-person experience"]
         O_Decide --> O_Ascribe
         style O_Decide fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
         style O_Ascribe fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -74,7 +74,7 @@ flowchart TD
 
 The identical epistemological topology governs the foundational formulation of quantum measurement theory. Following a quantum interaction, the causal cascade encompassing microscopic system, measurement apparatus, recording medium, and observer retina can be described quantum-mechanically through linear unitary evolution. No dynamic feature within the chain compels the placement of a boundary; John von Neumann demonstrated that a theorist can position the measurement cut at an arbitrarily selected stage, treating preceding steps as superposed states and subsequent ones as classical records. As established in [The Cut Moves but Never Vanishes](../the-cut-moves-but-never-vanishes/), whether the cut is placed at the detector plate, the optic nerve, or the cerebral cortex, experimental probabilities remain rigorously invariant. The cut is not the discovery of an objective physical fissure in the world, but a unilateral methodological decision designating where a condition is registered as an unambiguous experimental fact.
 
-将大模型的意识界线与量子测量链条并置审视，便会看到：二者各自所划的界线，都归约为施于不同领域的同一种认知操作。在微观物理中，观察者面对着波函数与算符构成的严密连续演化；在心智与人工智能中，观察者面对着参数权重与功能映射构成的无缝计算图景。两套因果链条在各自的领域内均可被推延扩展而毫无内在逻辑阻碍。两套体系中最为关键的定性飞跃，无论是确定的宏观经典指针读数，抑或对第一人称主观体验的归属，均只由观察者选择把某一环节当作终点而提供。在这两类情境中，心智施加了全然同构的切分：选定一个观察界面，将界面后方繁杂的内部机理搁置一旁，转而把系统的状态作为给定的事实直接登记，而非从内部齿轮中推导出来。
+将人工智能的意识界线与量子测量链条并置审视，便会看到：二者各自所划的界线，都归约为施于不同领域的同一种认知操作。在微观物理中，观察者面对着波函数与算符构成的严密连续演化；在认知系统与人工智能中，观察者面对着参数权重与功能映射构成的无缝计算图景。两套因果链条在各自的领域内均可被推延扩展而毫无内在逻辑阻碍。两套体系中最为关键的定性飞跃——无论是迈向确定的宏观经典指针读数，抑或迈向第一人称主观体验的归属——从不单凭形式链条自行涌现；它只在观察者施下割点之处发生，在测量中受接缝处的物理阻抗约束，在他心归属中则受归纳相似性支柱约束，而工程矩阵恰恰欠缺这些支柱。在这两类情境中，心智执行的都是同一种结构性划界：确立一个观察界面，令敞开的第三人称还原在此止步；或是经典结果由此登记为记录，或是意识地位由此被赋予或不予赋予，而非从先前的齿轮中推导出来。
 
 ```mermaid
 flowchart TD
@@ -109,7 +109,7 @@ flowchart TD
     M_Chain ==>|"数据不产体验"| I_Action
 ```
 
-Viewing AI consciousness thresholds alongside quantum measurement chains reveals that the line drawn in each reduces to a single cognitive operation applied across different domains. In microphysics, the observer confronts a continuous evolution described by wavefunctions and operators; in cognitive systems and artificial intelligence, the observer confronts an unbroken computational landscape of parameter weights and functional mappings. Each causal sequence can be extended indefinitely without internal logical obstruction. The decisive qualitative leap, whether a definite macroscopic classical pointer reading or the ascription of first-person subjective experience, is supplied exclusively by the observer electing to treat a particular stage as terminal. In both contexts, the mind performs the exact same demarcation: choosing an observational interface beyond which internal mechanics are set aside and the condition of the system is registered as a factual datum rather than derived from prior gears.
+Viewing AI consciousness thresholds alongside quantum measurement chains reveals that the line drawn in each reduces to a single cognitive operation applied across different domains. In microphysics, the observer confronts a continuous evolution described by wavefunctions and operators; in cognitive systems and artificial intelligence, the observer confronts an unbroken computational landscape of parameter weights and functional mappings. Each causal sequence can be extended indefinitely without internal logical obstruction. The decisive qualitative leap—to a definite macroscopic classical pointer reading or to the ascription of first-person subjective experience—never emerges from the formal chain alone; it occurs only where an observer enacts a cut, constrained in measurement by physical resistance at the seam and in other-mind attribution by the inductive similarity pillars that engineered matrices lack. In both contexts, the mind performs the same structural demarcation: fixing an observational interface where open third-person reduction stops and a classical outcome registers as a record, or conscious status is granted or withheld, rather than being derived from prior gears.
 
 ```mermaid
 flowchart TD

@@ -1,6 +1,6 @@
 # 寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer
 
-*寻觅将领悟割裂为客体，观察者隐退于视野之外，却始终是不可还原的起始条件 / Finding turns realization into an object; the observer fades from view yet stays the irreducible starting condition*
+*寻觅将领悟化为客体，观察者隐退于视野之外，却始终是不可还原的起始条件 / Finding turns realization into an object; the observer fades from view yet stays the irreducible starting condition*
 
 在自身内部难以寻得幸福，在其他地方则不可能寻得，这两半并非关于世界的两桩经验事实，而是出自观察的同一个结构特征。尚福尔的格言后被叔本华采用，它标出向外的一半：外部条件能提供契机、消除阻碍，却没有一样构成第一人称的领悟。向内的一半出于同样的缘由受挫：寻找一旦启动，便让寻觅者与被寻之物相隔，把未经割裂的领悟推到这道裂痕的另一侧。若问[哥德尔的限制是否像约束形式系统那样约束心智](../on-closed-systems-open-minds-and-the-limits-of-proof/)，同一结构给出回答：心智被观察、并被建模为形式系统时，是；心智作为观察者时，否；这个问题本性上不容一个统摄两者的答案。
 
@@ -8,7 +8,7 @@ Happiness is hard to find within oneself and impossible to find elsewhere, and b
 
 ## 一、 寻觅的语法与幸福的不对称性 / 1. The Grammar of Finding and the Asymmetry of Happiness
 
-追问幸福居于何处时，寻找便陷入日常语言搭成的空间迷宫。尚福尔指出，在外部世界找寻幸福是绝无可能的，而在自身内部寻觅则很难。这种不对称性之所以成立，首先在于外部环境属于第三人称可观测实体的领域。不论财富、声望、舒适或地位如何堆叠，它们所展现的都是客体属性的组合。任何作为客体被登记的事物，都替代不了登记它的那份领悟。因此，将幸福寄托于外部占有，从结构上注定是一场无解的追逐：客体永远无法蜕变为观察着的心智当下的领悟，正如外部条件只能改变欲望与状态之关系中的状态项，[幸福是欲望与状态的关系](../happiness-is-the-relation-of-desire-to-state/)对此已有追溯。哪怕所积累的是雅致的文化熏陶，正如[审美的自动扶梯与阳台的忧郁](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)所剖析的，把“健全的品味”或“道德的明晰”当作借由审美积累而发现的预存自动扶梯，依然遮蔽了在当下边缘仍须付出的具体判断，使鉴赏者滞留于第三人称的阳台上——在那里，客体化的审视本身便排除了幸福。
+追问幸福居于何处时，寻找便陷入日常语言搭成的空间迷宫。尚福尔指出，在外部世界找寻幸福是绝无可能的，而在自身内部寻觅则很难。向外的一半之所以成立，在于外部环境属于第三人称可观察项的领域。不论财富、声望、舒适或地位如何堆叠，它们呈现的都是客体的构型。任何作为客体被登记的事物，都替代不了登记它的那份领悟。因此，将幸福寄托于外部占有，从结构上注定是一场无解的追逐：客体永远无法蜕变为观察着的心智当下的领悟，正如外部条件只能改变欲望与状态之关系中的状态项，[幸福是欲望与状态的关系](../happiness-is-the-relation-of-desire-to-state/)对此已有追溯。哪怕所积累的是雅致的文化熏陶，正如[审美的自动扶梯与阳台的忧郁](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)所剖析的，把“健全的品味”或“道德的明晰”当作借由审美积累而发现的预存自动扶梯，依然遮蔽了在当下边缘仍须付出的具体判断，使鉴赏者滞留于第三人称的阳台上——在那里，客体化的审视本身便排除了幸福。
 
 The search for where happiness resides stumbles into a spatial labyrinth that ordinary language builds. Chamfort observed that finding happiness outside oneself is impossible, while finding it within is very difficult. The outward half holds because external circumstances belong to the domain of third-person observables. However wealth, acclaim, comfort, or status accumulate, they present configurations of objects. Nothing that registers as an object substitutes for the realization that registers it, so pinning fulfillment to external acquisition is a structural impossibility: no object turns into the immediate realization of the observing Mind, just as external conditions can alter only the state term of desire's relation to state, as [Happiness Is the Relation of Desire to State](../happiness-is-the-relation-of-desire-to-state/) traces. Even when what is accumulated is refined cultural exposure, treating "sound taste" or "moral clarity" as a pre-existing escalator discovered through aesthetic accumulation—as dissected in [The Aesthetic Escalator and the Melancholy of the Balcony](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)—hides the concrete judgment that must still be paid at the edge, leaving the connoisseur stranded on a third-person balcony where the objectifying audit itself precludes happiness.
 
@@ -22,7 +22,7 @@ When attention heeds the counsel and turns inward, the search opens a second imp
 
 The split between observer and observed is not a doctrine devised in a study; it is what objectifying does each time it occurs. Observer and observed are not two pre-formed entities awaiting a bridge; they appear together in the act of delineation. Before a focus is fixed, distinguishing goes on without setting an inspector apart from its scene. Once attention fixes a focus for appraisal, calculation, or control, it carves out a target and projects an inspector seated behind the apparatus. Fixing a focus is one case of what [Observation, Distinguishing Activity, and the Open Ground of Mind](../observation-distinguishing-activity-and-the-open-ground-of-mind/) traces at every step of distinction, where bounding the Mind's internal openness brings discrete existence and the demand for further account into view together; here that bound draws two poles where no inspector had been set apart, and the Mind is what makes the cut.
 
-这种割裂并非完成一次便传下去；此后的每一次追寻，都重新做出同一道割裂。唯有到了第二步，当客体化姿态越出自身那一步、被持守为对所寻之物的穷尽，并被要求在自身框架之内把未分的领悟当作一件物品交出时，这道生成性的划界才会固化为寻觅的困境。向外，这种不可能一目了然：在那里找到的任何东西，都作为客体在视野之内登记，而没有哪个客体就是登记它的那份领悟。而在内部，当自我被转化为有待审视、调适与稽核的客体时，反身内省便在内心复制出同一道鸿沟。内省被召来弥合分离，然而在这一执持之下，被那道划界排除的开放性从内部登记为一道无法弥合的匮乏。寻觅越是用力，二元割裂便越宽，排除了直接觉知与被审视情绪之间的合一。在内在修持中感到的难，是试图用剪刀织布的那种摩擦。客体化姿态怎样对待一次抉择，[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)已有追溯：从里面看，抉择是掌控；从外面看，它是统计；而把外在的这一面当作抉择的定义，正是在抉择尺度上的同一个第二步——把客体化姿态读成它所审视之物的形状。
+这种割裂并非完成一次便传下去；此后的每一次追寻，都重新做出同一道割裂。唯有到了第二步，当客体化姿态越出自身那一步、被持守为对所寻之物的穷尽，并被要求在自身框架之内把未分的领悟当作一件物品交出时，这道生成性的划界才会固化为寻觅的困境。向外，这种不可能一目了然：在那里找到的任何东西，都作为客体在视野之内登记，而没有哪个客体就是登记它的那份领悟。而在内部，当自我被转化为有待审视、调适与稽核的客体时，反身内省便在内心复制出同一道鸿沟。内省被召来弥合分离，然而在这一执持之下，被那道划界排除的开放性从内部登记为一道无法弥合的匮乏。寻觅越是用力，便越是执意地重划那道割裂，把一份被审视的情绪作为又一个被观察的切片置入视野，而不是登记它的那份直接觉知。在内在修持中感到的难，是试图用剪刀织布的那种摩擦。客体化姿态怎样对待一次抉择，[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)已有追溯：从里面看，抉择是掌控；从外面看，它是统计；而把外在的这一面当作抉择的定义，正是在抉择尺度上的同一个第二步——把客体化姿态读成它所审视之物的形状。
 
 ```mermaid
 graph TD
@@ -45,7 +45,7 @@ graph TD
     end
 ```
 
-The split is not made once and handed down; every subsequent search makes it again. That generative bound hardens into the impasse of finding only at a second step, when the objectifying posture is held past its step as exhaustive of what is sought and asked to supply undivided realization as an item inside its own frame. Outwardly the impossibility is plain: whatever is found there registers as an object within the field, and no object is the realization that registers it. Internally, when the self is transformed into an object to be inspected, optimized, and audited, reflective introspection duplicates the identical chasm within. Introspection is summoned to heal separation, yet under that hold the openness excluded by the bound registers from inside as an unbridgeable lack. The harder the search presses, the wider the dualistic divide becomes, precluding unity between immediate awareness and inspected emotion. The difficulty felt in inner practice is the friction of attempting to weave cloth with scissors. How the objectifying posture treats a choice is traced in [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/): from inside, a choice is control; from outside, it is statistics; and taking the outer face as its definition is the same second step at the scale of choice, where the objectifying posture is read as the shape of what it inspects.
+The split is not made once and handed down; every subsequent search makes it again. That generative bound hardens into the impasse of finding only at a second step, when the objectifying posture is held past its step as exhaustive of what is sought and asked to supply undivided realization as an item inside its own frame. Outwardly the impossibility is plain: whatever is found there registers as an object within the field, and no object is the realization that registers it. Internally, when the self is transformed into an object to be inspected, optimized, and audited, reflective introspection duplicates the identical chasm within. Introspection is summoned to heal separation, yet under that hold the openness excluded by the bound registers from inside as an unbridgeable lack. The harder the search presses, the more insistently it re-draws that divide, placing an inspected emotion in view as one more observed slice rather than the immediate awareness that registers it. The difficulty felt in inner practice is the friction of attempting to weave cloth with scissors. How the objectifying posture treats a choice is traced in [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/): from inside, a choice is control; from outside, it is statistics; and taking the outer face as its definition is the same second step at the scale of choice, where the objectifying posture is read as the shape of what it inspects.
 
 ```mermaid
 graph TD
@@ -74,7 +74,7 @@ graph TD
 
 To see how an undivided whole presents as mutually exclusive opposites, take a coin. From any single vantage only one face registers at a time. Turn the obverse to the light and the reverse falls into shadow; turn the reverse forward and the obverse is withheld. The missing simultaneity invites an ontological inference: that the coin is two severed entities glued together.
 
-然而，单一视线下无法兼顾两面，并不意味着硬币在本体上发生了断裂。这一限制仅仅说明，呈现其中一面的观察条件，在几何上排除了呈现另一面的观察条件。显现哪一个面，取决于观察的朝向；硬币是一枚，这一点是从观察的位置推断出来的，不是哪一面显示的。如果将相继显现的不同面貌物化为互不相干的独立实体，便是在把观察姿态的限制强加于被观察的实在。在寻找幸福的语境中，向外遇到的不可能与向内感到的摩擦，是同一种客体化姿态转向两处；两次转向排除的是同一样东西：领悟。领悟不是这一姿态能转向的某一面，而是正在转向的那份观看。面向外部时，观察姿态展现了客体的客观性，因而排除了第一人称领悟；面向内部时，观察姿态将自我物化，因而再一次排除了它。没有什么需要恢复：面相相继出现，是因为视线在变换；连续的是一直在进行的观看，而不是一道待缝合的接缝。正如[观察者的隐身与无损传递的妄念](../the-invisible-observer-and-the-delusion-of-lossless-transmission/)所指出的，要求观察在心智之间无损传递，就得先让观察者隐身；而观察者一旦被抹去，记录便失去了它所出自的那个源头。
+然而，单一视线下无法兼顾两面，并不意味着硬币在本体上发生了断裂。这一限制仅仅说明，呈现其中一面的观察条件，在几何上排除了呈现另一面的观察条件。显现哪一个面，取决于观察的朝向；硬币是一枚，这一点是从观察的位置推断出来的，不是哪一面显示的。如果将相继显现的不同面貌物化为互不相干的独立实体，便是在把观察姿态的限制强加于被观察的实在。在寻找幸福的语境中，向外遇到的不可能与向内感到的摩擦，是同一种客体化姿态转向两处；两次转向排除的是同一样东西：领悟。领悟不是这一姿态能转向的某一面，而是正在转向的那份观看。面向外部时，观察姿态凸显出客观机制，因而排除了第一人称领悟；面向内部时，观察姿态将自我物化，因而再一次排除了它。没有什么需要恢复：面相相继出现，是因为视线在变换；连续的是一直在进行的观看，而不是一道待缝合的接缝。正如[观察者的隐身与无损传递的妄念](../the-invisible-observer-and-the-delusion-of-lossless-transmission/)所指出的，要求观察在心智之间无损传递，就得先让观察者隐身；而观察者一旦被抹去，记录便失去了它所出自的那个源头。
 
 ```mermaid
 graph TD
@@ -132,7 +132,7 @@ Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: t
 
 ```mermaid
 graph TD
-    subgraph S_Fallacy ["还原论的两难困局"]
+    subgraph S_Fallacy ["还原论的双重陷阱"]
         direction TB
         style S_Fallacy fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
         E1["路径甲：将观察者视作可选冗余<br/>构建剔除心智的无处之境"]
@@ -145,7 +145,7 @@ graph TD
         style P2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     end
     P2 ==>|"消解客体化执念：认出先验基底"| R1
-    subgraph S_Resolution ["先验几何的澄明理解"]
+    subgraph S_Resolution ["先验视角的几何澄明"]
         direction TB
         style S_Resolution fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
         R1["心智作为开辟视界的先验使能条件"] --> R2["观察展开时角色必然在视界中淡出"]
@@ -194,6 +194,6 @@ The view from nowhere still has a use. Borrowed to make a point, it lets a patte
 
 A single coherence spans these dilemmas. The pursuit of happiness, the rigid split of subject and object, the apparent division of the coin, the unresolvable question of whether Gödel binds the Mind, and the theoretical crises of optionalizing or erasing the observer are not isolated puzzles. Each comes from holding an objectifying posture and then misreading that posture's structural limits as properties of what is sought, or as shortcomings of theory. Attention fixes a cut and then reads the parts it drew as a break in reality; it builds a measurement apparatus that requires the observer to recede, and then reads the meter's silence as the observer's absence.
 
-幸福或澄明的领悟，从不靠改良寻找的工具得来。它不是藏在某个深邃神经回路或神秘彼岸等待发掘的隐秘金币，而是在觉知不再把活着的存在当作被追寻之客体的那一刻，仍然可及的东西。正如在[远方的轮廓与无处之境的清单](../the-distant-silhouette-and-the-inventory-from-nowhere/)中所剖析的，将认知争端诉诸脱离具体视界的客观清单，同样是这一客体化语法在公共讨论中的投射。只要寻找的语法仍在主导认知，心智不仅将领悟对象化为追索的目标，还惯常地在日常互动中将过往切片或理想感受倒置为当下行动的前置门槛，正如在[现成接触的因果先验与期望感受的倒置遮蔽](../present-contact-and-the-obscuration-of-desired-feeling/)中所辨明的，把特定体验当作前提来强求，切断了对现成摩擦的感知，制造出讽刺性疏离与情感假死。当客体化的姿态被当作姿态持有，而不再被读成所寻之物的形状，寻者与所寻之间的张力便随之消解，区分在第一人称的当下继续。这既非退隐，也非放弃行动：心智从未缺席，始终是它一直所是的起始条件，在与世界的直接接触中承担观察与行动。
+幸福或澄明的领悟，从不靠改良寻找的工具得来。它不是藏在某个深邃神经回路或神秘彼岸等待发掘的隐秘金币，而是在觉知不再把活着的存在当作被追寻之客体的那一刻，仍然可及的东西。正如[远方的轮廓与无处之境的清单](../the-distant-silhouette-and-the-inventory-from-nowhere/)所剖析的，诉诸脱离具体视界的客观清单，同样是这一客体化语法在公共讨论中的投射。只要寻找的语法仍在主导认知，心智不仅将领悟对象化为追索的目标，还惯常地在日常互动中将过往切片或理想感受倒置为当下行动的前置门槛，正如在[现成接触的因果先验与期望感受的倒置遮蔽](../present-contact-and-the-obscuration-of-desired-feeling/)中所辨明的，把特定体验当作前提来强求，切断了对现成摩擦的感知，制造出讽刺性疏离与情感假死。当客体化的姿态被当作姿态持有，而不再被读成所寻之物的形状，寻者与所寻之间的张力便随之消解，区分在第一人称的当下继续。这既非退隐，也非放弃行动：心智从未缺席，始终是它一直所是的起始条件，在与世界的直接接触中承担观察与行动。
 
 The realization of happiness or clarity is never secured by refining the instruments of search. It does not sit like buried treasure in deep neural grooves or otherworldly realms waiting to be unearthed; it is what remains available the moment awareness ceases to treat living existence as an object to be pursued. As dissected in [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/), appealing to an objective inventory detached from any situated horizon is another projection of this same objectifying syntax in public debate. So long as the syntax of finding governs attention, the Mind not only objectifies realization into an item of pursuit, but routinely inverts past memories or ideal affects into mandatory prerequisites for immediate engagement; as demonstrated in [Present Contact as Causal Prior and the Obscuration of Desired Feeling](../present-contact-and-the-obscuration-of-desired-feeling/), demanding target sensations as preconditions severs perceptual contact with living friction, generating ironic distance and affective paralysis. Once the objectifying posture is held as a posture and no longer read as the shape of what is sought, the tension between seeker and sought dissolves, and distinguishing goes on in the first-person present. This is neither quietism nor withdrawal: the Mind, which was never absent, stays the starting condition it always was, bearing observation and action in immediate contact with the world.
