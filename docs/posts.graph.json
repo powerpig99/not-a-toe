@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-26T06:57:02.808Z",
+    "generated_at": "2026-11-26T07:25:07.116Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -141,7 +141,7 @@
       "content/posts/intelligence-traps-itself.md": "b55c25ec2f5f",
       "content/posts/judgment-is-not-a-stock.md": "b1cff2455d94",
       "content/posts/learned-boundaries-and-the-given-rate.md": "221afc9b0a2c",
-      "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "b5bfd1bca0dc",
+      "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "103c769a3819",
       "content/posts/looping-and-graphing.md": "84a49b152718",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "c1a02e3316e9",
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "416513070247",
@@ -468,7 +468,7 @@
       "content/posts/why-mathematics-can-never-be-solved.md": "72891eea1ab4",
       "content/posts/writing-without-the-image.md": "157f6998ee85",
       "content/posts/xian-shi-de-bian-jie.md": "4ced2122a338",
-      "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "7db3bb77e177",
+      "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "c0d5e0f4536d",
       "content/posts/you-cant-benchmark-the-fluid.md": "0c261c0f07f5",
       "content/posts/you-tiao-jian-de-zi-you.md": "cf4a79d4e934",
       "content/posts/you-wu-zhi-bian.md": "65f768357cef",
@@ -4422,7 +4422,7 @@
       "slug": "liberation-rhetoric-begins-by-defining-captivity",
       "path": "content/posts/liberation-rhetoric-begins-by-defining-captivity.md",
       "title": "解放的言辞始于定义囚禁 / Liberation Rhetoric Begins by Defining Captivity",
-      "hash": "b5bfd1bca0dc",
+      "hash": "103c769a3819",
       "in_degree": 17,
       "out_degree": 16,
       "links_out": [
@@ -13274,7 +13274,7 @@
       "slug": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "path": "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md",
       "title": "涌现的伪因果 / The Pseudo-Causality of Emergence",
-      "hash": "7db3bb77e177",
+      "hash": "c0d5e0f4536d",
       "in_degree": 22,
       "out_degree": 23,
       "links_out": [
@@ -39584,13 +39584,13 @@
       "from": "liberation-rhetoric-begins-by-defining-captivity",
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
-      "label": "NPC 印象是结构性的"
+      "label": "NPC 印象是结构性的，而非心智的排名"
     },
     {
       "from": "liberation-rhetoric-begins-by-defining-captivity",
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
-      "label": "The NPC Impression Is Structural"
+      "label": "The NPC Impression Is Structural, Not a Ranking of Minds"
     },
     {
       "from": "liberation-rhetoric-begins-by-defining-captivity",
@@ -39704,7 +39704,7 @@
       "from": "liberation-rhetoric-begins-by-defining-captivity",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "没有普渡，只有自渡"
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "liberation-rhetoric-begins-by-defining-captivity",
@@ -39728,7 +39728,7 @@
       "from": "liberation-rhetoric-begins-by-defining-captivity",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
     },
     {
       "from": "liberation-rhetoric-begins-by-defining-captivity",
