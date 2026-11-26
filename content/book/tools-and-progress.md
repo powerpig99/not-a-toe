@@ -1,14 +1,14 @@
 # 工具演进与进步叙事 / Tool Evolution and the Narrative of Progress
 
-*工具扩展执行能力却无法代理裁决，真正的演进源于心智的主权驾驭 / Tools expand execution without proxying judgment; genuine evolution comes from sovereign mastery*
+*工具扩展执行能力却无法代理裁决，演进源于心智的主权驾驭 / Tools expand execution without proxying judgment; evolution comes from the mind's sovereign steering*
 
-从石器、印刷术到现代算力与智能体框架，工具的演进不断压缩信息检索、分析与执行的成本，为人类心智打开更宽广的行动半径。技术进步叙事的不完备，始于把工具对旧瓶颈的压缩当成了对第一人称判断与前沿校准的替代——当人们以为算力或历史经验存量会自动结出未来的方向时，便把过去留下的外部记忆痕迹误当成了正在探路的活态心智。
+从石器、印刷术到现代算力与智能体框架，工具的演进不断压缩信息检索、分析与执行的成本，为人类心智打开更宽广的行动半径。技术进步叙事触及边界，在于把压缩旧瓶颈误作第一人称判断与实时前沿校准的替代——以为算力或历史经验存量会自动为未来掌舵，便是把外化器物与留存痕迹误当成了正在检验边缘的活态心智。
 
-From stone tools and printing presses to modern compute and agent harnesses, evolving tools continually compress the cost of retrieval, analysis, and execution, expanding the radius of human action. The narrative of technological progress reaches its boundary when the compression of old bottlenecks is mistaken for a substitute for first-person judgment and live frontier calibration — assuming that raw compute or stored historical experience will automatically steer the future mistakes externalized memory traces for the living mind testing the edge.
+From stone tools and printing presses to modern compute and agent harnesses, evolving tools continually compress the cost of information retrieval, analysis, and execution, expanding the radius of action for the human mind. The narrative of technological progress reaches its boundary when the compression of old bottlenecks is mistaken for a substitute for first-person judgment and live frontier calibration — assuming that raw compute or a stock of historical experience will automatically steer the future mistakes externalized artifacts and retained traces for the living mind testing the edge.
 
-这一部的随笔记录了代码库作为外化记忆的架构、驾驶位与辅助框架之间的主权非对称、实战判断力为何不是可囤积的静态存量，以及算力风暴与日常具身生活之间的张力。当执行越廉价、回路越收紧，真正稀缺的越是在当下边界上亲自涉险、验证并推翻旧假说的那道区分。
+这一部的随笔追溯了代码库作为外化记忆的架构、驾驶位与辅助框架之间的主权非对称、实战判断力为何不是可囤积的静态存量，以及算力风暴与日常具身生活之间的对位。执行越廉价、回路越收紧，稀缺性便越转向在当下边界上涉险、验证并修订自身先前模型的心智。
 
-The essays in this part trace the codebase as externalized memory, the asymmetry between the driver's seat and the harness, why practical judgment is not a static stock to be hoarded, and the counterpoint between compute storms and embodied daily life. The cheaper execution becomes and the tighter the loop turns, the more scarcity shifts to the living cut that ventures, tests, and revises its own prior models at the present boundary.
+The essays in this part trace the architecture of the codebase as externalized memory, the sovereignty asymmetry between the driver's seat and the harness, why practical judgment is not a static stock to be hoarded, and the counterpoint between compute storms and embodied daily life. The cheaper execution becomes and the tighter the loop turns, the more scarcity shifts to a mind venturing, verifying, and revising its own prior models at the present boundary.
 
 ## 篇目 / Essays
 

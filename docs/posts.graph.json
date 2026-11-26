@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-26T21:34:15.846Z",
+    "generated_at": "2026-11-26T21:56:16.531Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -484,7 +484,7 @@
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "dd669bf8563f",
       "content/book/economics.md": "ac9fdbf2221e",
-      "content/book/index-of-premises.md": "a0e9f0b518c4",
+      "content/book/index-of-premises.md": "222743ac4354",
       "content/book/intelligence.md": "ff7c08b8ecea",
       "content/book/knowledge-and-learning.md": "1ddd7286abfb",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -496,7 +496,7 @@
       "content/book/preface.md": "09791dd76ace",
       "content/book/state-and-collective.md": "a1b57a68703f",
       "content/book/success-and-the-self.md": "b9f2395b40ac",
-      "content/book/tools-and-progress.md": "276037119294"
+      "content/book/tools-and-progress.md": "32590d78ee8e"
     },
     "stats": {
       "posts": 473,
@@ -507,7 +507,7 @@
       "isolated": 0,
       "posts_with_outbound": 473,
       "book_pages": 16,
-      "book_edges": 1647,
+      "book_edges": 1714,
       "posts_reached_by_book": 473
     }
   },
@@ -102341,7 +102341,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "a0e9f0b518c4",
+        "hash": "222743ac4354",
         "out_degree": 473
       },
       {
@@ -102449,7 +102449,7 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "276037119294",
+        "hash": "32590d78ee8e",
         "out_degree": 49
       }
     ],
@@ -103176,12 +103176,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "present-contact-and-the-obscuration-of-desired-feeling",
-        "rel": "collects",
-        "label": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "cli-interface-stack",
         "rel": "collects",
         "label": "界面栈与命令行基底 / The Interface Stack"
@@ -103278,6 +103272,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+        "rel": "collects",
+        "label": "整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "rel": "collects",
         "label": "政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion"
@@ -103344,12 +103344,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "present-contact-and-the-obscuration-of-desired-feeling",
-        "rel": "collects",
-        "label": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "e-shi-feng-bi-de-shan",
         "rel": "collects",
         "label": "恶是封闭的善 / Evil Is Closed Good"
@@ -103371,6 +103365,18 @@
         "to": "the-unclosable-trace",
         "rel": "collects",
         "label": "无法闭合的痕迹 / The Unclosable Trace"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "extended-cognition-refined",
+        "rel": "collects",
+        "label": "作为认知主动延伸的工具 / Tools as Active Extensions of Cognition"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-functionalism-no-functionalist-can-hold",
+        "rel": "collects",
+        "label": "功能主义者无法持有的功能主义 / The Functionalism No Functionalist Can Hold"
       },
       {
         "from": "book:index-of-premises",
@@ -103662,18 +103668,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
-        "rel": "collects",
-        "label": "约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
-        "rel": "collects",
-        "label": "约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "the-blind-spot-of-the-frame",
         "rel": "collects",
         "label": "框架的盲区 / The Blind Spot of the Frame"
@@ -103797,6 +103791,18 @@
         "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
         "rel": "collects",
         "label": "论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "incompleteness-exhibited-twice",
+        "rel": "collects",
+        "label": "两度显现的不完备性 / Incompleteness Exhibited Twice"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
+        "rel": "collects",
+        "label": "论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof"
       },
       {
         "from": "book:index-of-premises",
@@ -103959,12 +103965,6 @@
         "to": "fixed-by-nothing",
         "rel": "collects",
         "label": "没有固定者的固定 / Fixed by Nothing"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "present-contact-and-the-obscuration-of-desired-feeling",
-        "rel": "collects",
-        "label": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling"
       },
       {
         "from": "book:index-of-premises",
@@ -104199,6 +104199,12 @@
         "to": "closed-reality-in-benchmark-maxing",
         "rel": "collects",
         "label": "基准刷榜中的封闭实存 / Closed Reality in Benchmark Maxing"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "distillation-compression-agency",
+        "rel": "collects",
+        "label": "蒸馏、压缩与能动性 / Distillation Chooses What to Lose"
       },
       {
         "from": "book:index-of-premises",
@@ -104598,6 +104604,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "apparent-regulation-and-the-primacy-of-choice",
+        "rel": "collects",
+        "label": "表面调节与选择的优先性 / Apparent Regulation and the Primacy of Choice"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-boundary-of-the-frame",
         "rel": "collects",
         "label": "框架的边界 / The Boundary of the Frame"
@@ -104619,6 +104631,12 @@
         "to": "the-twin-paradox-and-the-hidden-observer",
         "rel": "collects",
         "label": "双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+        "rel": "collects",
+        "label": "投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality"
       },
       {
         "from": "book:index-of-premises",
@@ -104835,6 +104853,12 @@
         "to": "fixed-by-nothing",
         "rel": "collects",
         "label": "没有固定者的固定 / Fixed by Nothing"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+        "rel": "collects",
+        "label": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere"
       },
       {
         "from": "book:index-of-premises",
@@ -105066,6 +105090,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-velocity-of-visibility",
+        "rel": "collects",
+        "label": "可见性的速度差 / The Velocity of Visibility"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "time-is-causality-not-a-dimension",
         "rel": "collects",
         "label": "时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality"
@@ -105162,6 +105192,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-perceiver-and-the-trace",
+        "rel": "collects",
+        "label": "感知者与痕迹的不可坍缩 / The Perceiver and the Trace Cannot Collapse"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "fate-loves-irony-refined",
         "rel": "collects",
         "label": "生产创造自己的意识形态消费 / Production Creates Its Own Ideological Consumption"
@@ -105186,9 +105222,27 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "demanding-a-toe-freezes-time-into-a-catalog",
+        "rel": "collects",
+        "label": "索求万物理论是在将当下冻结为清单 / Demanding a Theory of Everything Freezes Time into a Catalog"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "rationality-never-travels-across-the-mind",
+        "rel": "collects",
+        "label": "理性从不跨越心智 / Rationality Never Travels Across the Mind"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "self-rl-for-humans",
         "rel": "collects",
         "label": "看似AI的强化学习，实为人类的自我强化学习 / What Looks Like RL for AIs Is Self-RL for Humans"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "intelligence-belongs-only-to-the-mind",
+        "rel": "collects",
+        "label": "智能只属于心智 / Intelligence Belongs Only to the Mind"
       },
       {
         "from": "book:index-of-premises",
@@ -105312,6 +105366,18 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+        "rel": "collects",
+        "label": "投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+        "rel": "collects",
+        "label": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "freedom-as-ground",
         "rel": "collects",
         "label": "自由即地基 / Freedom as Ground"
@@ -105351,6 +105417,12 @@
         "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
         "rel": "collects",
         "label": "黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+        "rel": "collects",
+        "label": "投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality"
       },
       {
         "from": "book:index-of-premises",
@@ -105456,6 +105528,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "Analysis_Adolescence_of_Technology",
+        "rel": "collects",
+        "label": "指数级进程与线性之眼 / The Exponential and the Linear Eye"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
         "rel": "collects",
         "label": "意识的难题与学习相容 / The Hard Problem of Consciousness Is Consistent with Learning"
@@ -105471,6 +105549,12 @@
         "to": "the-grammar-of-finding-and-the-fading-observer",
         "rel": "collects",
         "label": "寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-unclosable-trace",
+        "rel": "collects",
+        "label": "无法闭合的痕迹 / The Unclosable Trace"
       },
       {
         "from": "book:index-of-premises",
@@ -105501,6 +105585,12 @@
         "to": "four-night-questions",
         "rel": "collects",
         "label": "令人彻夜难眠的四个追问与投射的边界 / Four Questions That Keep You Up at Night"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-mark-and-the-act",
+        "rel": "collects",
+        "label": "印迹与行动 / The Mark and the Act"
       },
       {
         "from": "book:index-of-premises",
@@ -105579,6 +105669,12 @@
         "to": "four-night-questions",
         "rel": "collects",
         "label": "令人彻夜难眠的四个追问与投射的边界 / Four Questions That Keep You Up at Night"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-cut-moves-but-never-vanishes",
+        "rel": "collects",
+        "label": "割点可移不可除 / The Cut Moves but Never Vanishes"
       },
       {
         "from": "book:index-of-premises",
@@ -105840,6 +105936,18 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-generative-contradiction",
+        "rel": "collects",
+        "label": "生成性的矛盾 / The Generative Contradiction"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "data-is-local-intelligence-is-allocated",
+        "rel": "collects",
+        "label": "数据是局部的，智能是分配的 / Data Is Local, Intelligence Is Allocated"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
         "rel": "collects",
         "label": "造神的障眼法与隐秘阶序的说辞 / The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank"
@@ -105894,12 +106002,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "intelligence-belongs-only-to-the-mind",
-        "rel": "collects",
-        "label": "智能只属于心智 / Intelligence Belongs Only to the Mind"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "agi-and-asi-are-temporary-goalposts",
         "rel": "collects",
         "label": "AGI 与 ASI 是加速通用智能的暂时球门 / AGI and ASI Are Temporary Goalposts"
@@ -105942,6 +106044,18 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-fixed-image-of-transcendence",
+        "rel": "collects",
+        "label": "超越的定相 / The Fixed Image of Transcendence"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
+        "rel": "collects",
+        "label": "远方的轮廓与无处之境的清单 / The Distant Silhouette and the Inventory from Nowhere"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
         "rel": "collects",
         "label": "黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe"
@@ -105972,6 +106086,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "three-distinctions-in-the-silicon-misalignment",
+        "rel": "collects",
+        "label": "硅基错位的三重区分 / Three Distinctions in the Silicon Misalignment"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
         "rel": "collects",
         "label": "对“AI 糟粕”的反感是反复出现的模式 / The Distaste for “AI Slop” Is a Recurring Pattern"
@@ -105993,6 +106113,12 @@
         "to": "growing-the-solver-not-solving-the-child",
         "rel": "collects",
         "label": "让解决者生长，而非解决孩子 / Growing the Solver, Not Solving the Child"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "on-education",
+        "rel": "collects",
+        "label": "论教育、共振与给人真东西 / On Education, Resonance, and Giving Someone the Real Thing"
       },
       {
         "from": "book:index-of-premises",
@@ -106086,12 +106212,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "the-paradoxical-nature-of-bystander-insights",
-        "rel": "collects",
-        "label": "旁观者洞察的悖论 / The Paradoxical Nature of Bystander Insights"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "deceleration-is-the-drag-felt-when-accelerating",
         "rel": "collects",
         "label": "减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating"
@@ -106125,6 +106245,12 @@
         "to": "causality-all-the-way",
         "rel": "collects",
         "label": "因果贯穿始终 / Causality All the Way"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "not-a-theory-of-everything",
+        "rel": "collects",
+        "label": "非万物之理 / Not a Theory of Everything"
       },
       {
         "from": "book:index-of-premises",
@@ -106194,6 +106320,18 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "coordinates-in-flux-negation-and-self-anchoring",
+        "rel": "collects",
+        "label": "流动中的坐标 / Coordinates in Flux"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-paradoxical-nature-of-bystander-insights",
+        "rel": "collects",
+        "label": "旁观者洞察的悖论 / The Paradoxical Nature of Bystander Insights"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "nobody-has-seen-anything-yet",
         "rel": "collects",
         "label": "还没有人见过任何东西 / Nobody Has Seen Anything Yet"
@@ -106260,6 +106398,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "why-explanation-fails",
+        "rel": "collects",
+        "label": "解释为何失效 / Why Explanation Fails"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
         "rel": "collects",
         "label": "强求善意的残暴与范畴反馈的因果遮蔽 / Compulsory Kindness and the Obscuration of Categorical Feedback"
@@ -106320,9 +106464,21 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-perceiver-and-the-trace",
+        "rel": "collects",
+        "label": "感知者与痕迹的不可坍缩 / The Perceiver and the Trace Cannot Collapse"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "reality-doesnt-invoice-by-committee",
         "rel": "collects",
         "label": "现实不按委员会开账单 / Reality Doesn't Invoice by Committee"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-causal-inversion-of-philosophical-agency",
+        "rel": "collects",
+        "label": "哲学能动性的因果倒置 / The Causal Inversion of Philosophical Agency"
       },
       {
         "from": "book:index-of-premises",
@@ -106386,9 +106542,15 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "on-education",
+        "to": "school_essay_final",
         "rel": "collects",
-        "label": "论教育、共振与给人真东西 / On Education, Resonance, and Giving Someone the Real Thing"
+        "label": "人工智能为何正在暴露现代学校教育的致命缺陷 / Why AI Is Exposing the Fatal Flaw in Modern Schooling"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-reversal-of-education-and-science",
+        "rel": "collects",
+        "label": "教育与科学的倒置 / The Inversion of Education and Science"
       },
       {
         "from": "book:index-of-premises",
@@ -106458,6 +106620,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
+        "rel": "collects",
+        "label": "四维长鹿的幻象与当下的模型 / The Myth of the Four-Dimensional Deer and the Present Model"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-discount-on-agency",
         "rel": "collects",
         "label": "主体性的折现 / The Discount on Agency"
@@ -106485,6 +106653,12 @@
         "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "rel": "collects",
         "label": "自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+        "rel": "collects",
+        "label": "外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth"
       },
       {
         "from": "book:index-of-premises",
@@ -106563,12 +106737,6 @@
         "to": "the-ladder-of-abstraction-and-the-executable-entity",
         "rel": "collects",
         "label": "抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "why-explanation-fails",
-        "rel": "collects",
-        "label": "解释为何失效 / Why Explanation Fails"
       },
       {
         "from": "book:index-of-premises",
@@ -106680,6 +106848,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+        "rel": "collects",
+        "label": "个人选择、社会化与做自己 / Individual Choice, Socialization and Being Oneself"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "rel": "collects",
         "label": "“物理学才是定律”的障眼法 / The Sleight of Hand in \"Physics Is the Law\""
@@ -106755,6 +106929,12 @@
         "to": "the-generative-topology-of-free-variables",
         "rel": "collects",
         "label": "自由变量的生成拓扑 / The Generative Topology of Free Variables"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-only-coherent-uncaused-effect",
+        "rel": "collects",
+        "label": "唯一自洽的无因之果 / The Only Coherent Uncaused Effect"
       },
       {
         "from": "book:index-of-premises",
@@ -106851,6 +107031,12 @@
         "to": "mistaking-the-expression-for-the-intelligence",
         "rel": "collects",
         "label": "错把表达当成智能 / Mistaking the Expression for the Intelligence"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "distillation-compression-agency",
+        "rel": "collects",
+        "label": "蒸馏、压缩与能动性 / Distillation Chooses What to Lose"
       },
       {
         "from": "book:index-of-premises",
@@ -107088,9 +107274,21 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "on-education",
+        "rel": "collects",
+        "label": "论教育、共振与给人真东西 / On Education, Resonance, and Giving Someone the Real Thing"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "intelligence-belongs-only-to-the-mind",
         "rel": "collects",
         "label": "智能只属于心智 / Intelligence Belongs Only to the Mind"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-causal-inversion-of-philosophical-agency",
+        "rel": "collects",
+        "label": "哲学能动性的因果倒置 / The Causal Inversion of Philosophical Agency"
       },
       {
         "from": "book:index-of-premises",
@@ -107334,6 +107532,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "price-as-utterance-understanding-as-trade",
+        "rel": "collects",
+        "label": "价格是言说，理解是交易 / Price as Utterance, Understanding as Trade"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "curiosity-has-no-final-form",
         "rel": "collects",
         "label": "好奇没有最终的形态 / Curiosity Has No Final Form"
@@ -107403,6 +107607,12 @@
         "to": "the-residue-of-exercise-and-the-stabilization-of-politics",
         "rel": "collects",
         "label": "行使的残余与政治的稳定 / The Residue of Exercise and the Stabilization of Politics"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "sovereignty-belief-and-regulatory-structures",
+        "rel": "collects",
+        "label": "主权、信念与规制结构的生成 / Sovereignty, Belief, and the Generation of Regulatory Structures"
       },
       {
         "from": "book:index-of-premises",
@@ -107487,6 +107697,12 @@
         "to": "the-ultimate-constraint-of-the-net-producer",
         "rel": "collects",
         "label": "净生产者的最终约束 / The Ultimate Constraint of the Net Producer"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+        "rel": "collects",
+        "label": "投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality"
       },
       {
         "from": "book:index-of-premises",
@@ -107682,12 +107898,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "when-malfunction-is-scored-as-intelligence",
-        "rel": "collects",
-        "label": "失灵被记作聪明 / When Malfunction Is Scored as Intelligence"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "order-surplus-and-the-moral-intercept",
         "rel": "collects",
         "label": "秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept"
@@ -107742,6 +107952,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-paradoxical-nature-of-bystander-insights",
+        "rel": "collects",
+        "label": "旁观者洞察的悖论 / The Paradoxical Nature of Bystander Insights"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "felt-resistance-and-the-speed-differential",
         "rel": "collects",
         "label": "阻力体感与速率差 / Felt Resistance and the Speed Differential"
@@ -107760,12 +107976,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "the-freedom-of-will-to-deny-itself",
-        "rel": "collects",
-        "label": "自由意志的自否自由 / The Freedom of Will to Deny Itself"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "when-observation-becomes-performance",
         "rel": "collects",
         "label": "当观察变成表演 / When Observation Becomes Performance"
@@ -107775,12 +107985,6 @@
         "to": "displayed-solitude-is-residual-after-secured-connection",
         "rel": "collects",
         "label": "展示的独处是已确保连接后的残余 / Displayed Solitude Is Residual After Secured Connection"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-causal-inversion-of-philosophical-agency",
-        "rel": "collects",
-        "label": "哲学能动性的因果倒置 / The Causal Inversion of Philosophical Agency"
       },
       {
         "from": "book:index-of-premises",
@@ -108018,9 +108222,21 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-mark-and-the-act",
+        "rel": "collects",
+        "label": "印迹与行动 / The Mark and the Act"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-other-coherence",
         "rel": "collects",
         "label": "另一种相干 / The Other Coherence"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "consciousness-never-appears-as-data-among-data",
+        "rel": "collects",
+        "label": "意识从不作为数据出现在数据之中 / Consciousness Never Appears as Data Among Data"
       },
       {
         "from": "book:index-of-premises",
@@ -108129,6 +108345,18 @@
         "to": "the-folded-self-image-and-the-bound-of-simulation",
         "rel": "collects",
         "label": "折返的自我形象与模拟的上界 / The Folded Self-Image and the Bound of Simulation"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "chollet-intelligence-explosion-analysis",
+        "rel": "collects",
+        "label": "被误认作实体的阴影 / The Shadow Mistaken for the Object"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "intelligence-belongs-only-to-the-mind",
+        "rel": "collects",
+        "label": "智能只属于心智 / Intelligence Belongs Only to the Mind"
       },
       {
         "from": "book:index-of-premises",
@@ -108261,6 +108489,12 @@
         "to": "constraints_are_ground",
         "rel": "collects",
         "label": "约束即基底与作为平台的个体 / Constraints Are Ground"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "mises-state-analysis",
+        "rel": "collects",
+        "label": "米塞斯论国家与强制力的向量和 / Mises on the State and the Vector Sum of Coercion"
       },
       {
         "from": "book:index-of-premises",
@@ -108402,6 +108636,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-explanatory-trap-of-the-ordinary-perspective",
+        "rel": "collects",
+        "label": "“普通人视角”的解释陷阱 / The Explanatory Trap of the \"Ordinary Perspective\""
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "du-zhongwen-zhexue-jianshi-you-gan",
         "rel": "collects",
         "label": "读《中文哲学简史》有感 / Reflections on A Short History of Philosophy in Chinese"
@@ -108489,6 +108729,12 @@
         "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
         "rel": "collects",
         "label": "个人选择、社会化与做自己 / Individual Choice, Socialization and Being Oneself"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-mark-and-the-act",
+        "rel": "collects",
+        "label": "印迹与行动 / The Mark and the Act"
       },
       {
         "from": "book:index-of-premises",
@@ -108582,6 +108828,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "distillation-compression-agency",
+        "rel": "collects",
+        "label": "蒸馏、压缩与能动性 / Distillation Chooses What to Lose"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the_moving_ground",
         "rel": "collects",
         "label": "移动的基底与智能体委派的渐近线 / The Moving Ground"
@@ -108633,6 +108885,12 @@
         "to": "present-contact-and-the-obscuration-of-desired-feeling",
         "rel": "collects",
         "label": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "zi-you-de-ce-bu-zhun",
+        "rel": "collects",
+        "label": "自由的测不准 / The Uncertainty of Freedom"
       },
       {
         "from": "book:index-of-premises",
@@ -108750,6 +109008,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+        "rel": "collects",
+        "label": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "objects-are-stabilized-relationships",
         "rel": "collects",
         "label": "对象是被稳定化的关系 / Objects Are Stabilized Relationships"
@@ -108807,6 +109071,18 @@
         "to": "silicon-oracles-and-the-asymmetry-of-consequence",
         "rel": "collects",
         "label": "硅基神谕与后果的非对称性 / Silicon Oracles and the Asymmetry of Consequence"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-limitation-is-doing-work",
+        "rel": "collects",
+        "label": "限制正在做功 / The Limitation Is Doing Work"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-sovereign-blinding",
+        "rel": "collects",
+        "label": "自愿的致盲 / The Sovereign Blinding"
       },
       {
         "from": "book:index-of-premises",
@@ -108963,6 +109239,12 @@
         "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
         "rel": "collects",
         "label": "黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "demanding-a-toe-freezes-time-into-a-catalog",
+        "rel": "collects",
+        "label": "索求万物理论是在将当下冻结为清单 / Demanding a Theory of Everything Freezes Time into a Catalog"
       },
       {
         "from": "book:index-of-premises",
@@ -109128,6 +109410,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-density-of-judgment",
+        "rel": "collects",
+        "label": "判断的密度 / The Density of Judgment"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-name-revolution-files-a-life-as-evidence",
         "rel": "collects",
         "label": "革命之名把生活收成证据 / The Name Revolution Files a Life as Evidence"
@@ -109185,6 +109473,12 @@
         "to": "observation-distinguishing-activity-and-the-open-ground-of-mind",
         "rel": "collects",
         "label": "观察、区分活动与心智的开放地基 / Observation, Distinguishing Activity, and the Open Ground of Mind"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "not-a-theory-of-everything",
+        "rel": "collects",
+        "label": "非万物之理 / Not a Theory of Everything"
       },
       {
         "from": "book:index-of-premises",
@@ -109290,6 +109584,30 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-mind-as-vector-and-coordinate-system",
+        "rel": "collects",
+        "label": "向量、坐标系与自指心智 / The Mind as Vector and Coordinate System"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
+        "rel": "collects",
+        "label": "远方的轮廓与无处之境的清单 / The Distant Silhouette and the Inventory from Nowhere"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-ledger-of-the-unencountered",
+        "rel": "collects",
+        "label": "未被遭遇之物的账本 / The Ledger of the Unencountered"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-origin-of-god-and-the-flattening-of-we",
+        "rel": "collects",
+        "label": "上帝的起源与“我们”的降维 / The Origin of God and the Flattening of \"We\""
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-closed-loop-of-representation",
         "rel": "collects",
         "label": "表征的闭环 / The Closed Loop of Representation"
@@ -109305,6 +109623,12 @@
         "to": "emotional-support-as-causal-interference",
         "rel": "collects",
         "label": "作为因果干扰的情感支持 / Emotional Support as Causal Interference"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "when-the-effect-authors-the-frame",
+        "rel": "collects",
+        "label": "当效果主宰了框架的叙事 / When the Effect Authors the Frame"
       },
       {
         "from": "book:index-of-premises",
@@ -109326,9 +109650,15 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "qian-yin-hou-guo",
+        "to": "demanding-a-toe-freezes-time-into-a-catalog",
         "rel": "collects",
-        "label": "前因，后果 / Cause Before, Effect After"
+        "label": "索求万物理论是在将当下冻结为清单 / Demanding a Theory of Everything Freezes Time into a Catalog"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
+        "rel": "collects",
+        "label": "四维长鹿的幻象与当下的模型 / The Myth of the Four-Dimensional Deer and the Present Model"
       },
       {
         "from": "book:index-of-premises",
@@ -109416,6 +109746,30 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "what-cannot-be-kept",
+        "rel": "collects",
+        "label": "留不住的 / What Cannot Be Kept"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "stability-and-excess",
+        "rel": "collects",
+        "label": "稳定与溢出 / Stability and Excess"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "coordinates-in-flux-negation-and-self-anchoring",
+        "rel": "collects",
+        "label": "流动中的坐标 / Coordinates in Flux"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "huberman-winners-losers",
+        "rel": "collects",
+        "label": "赢家与输家的转化框架 / Winners and Losers in the Transmutation Frame"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
         "rel": "collects",
         "label": "感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding"
@@ -109425,6 +109779,18 @@
         "to": "tokens-and-the-observational-boundary",
         "rel": "collects",
         "label": "词元与观测边界 / Tokens and the Observational Boundary"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-boundary-crossing-of-choice",
+        "rel": "collects",
+        "label": "抉择的跨界 / The Boundary Crossing of Choice"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "complexity-obscures-emergence-as-the-act-of-mind",
+        "rel": "collects",
+        "label": "复杂性遮蔽了涌现之为心智的行动 / Complexity Obscures Emergence as the Act of Mind"
       },
       {
         "from": "book:index-of-premises",
@@ -109446,6 +109812,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-freedom-of-will-to-deny-itself",
+        "rel": "collects",
+        "label": "自由意志的自否自由 / The Freedom of Will to Deny Itself"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "you-tiao-jian-de-zi-you",
         "rel": "collects",
         "label": "有条件的自由 / Conditional Freedom"
@@ -109455,6 +109827,12 @@
         "to": "conscience-power-delegation",
         "rel": "collects",
         "label": "良知、委托与管辖权错位 / Conscience, Delegation, and the Jurisdiction Error"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-orthogonal-refusal",
+        "rel": "collects",
+        "label": "正交的拒绝 / The Orthogonal Refusal"
       },
       {
         "from": "book:index-of-premises",
@@ -109479,6 +109857,12 @@
         "to": "the-two-readings-of-shared-and-the-observational-bound",
         "rel": "collects",
         "label": "“共享”的两种读法与观察的边界 / The Two Readings of Shared and the Observational Bound"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-origin-of-god-and-the-flattening-of-we",
+        "rel": "collects",
+        "label": "上帝的起源与“我们”的降维 / The Origin of God and the Flattening of \"We\""
       },
       {
         "from": "book:index-of-premises",
@@ -109842,6 +110226,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-irreducible-observer",
+        "rel": "collects",
+        "label": "不可还原的观察者 / The Irreducible Observer"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "judgment-is-not-a-stock",
         "rel": "collects",
         "label": "判断力不是可囤积的存量 / Judgment Is Not a Stock"
@@ -109893,12 +110283,6 @@
         "to": "tokens-and-the-observational-boundary",
         "rel": "collects",
         "label": "词元与观测边界 / Tokens and the Observational Boundary"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "humans-tokens-and-the-scope-of-valuation",
-        "rel": "collects",
-        "label": "人、Token 与估值的范围 / Humans, Tokens, and the Scope of Valuation"
       },
       {
         "from": "book:index-of-premises",
@@ -110064,6 +110448,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "relative-differentials-and-the-compounding-of-comparison",
+        "rel": "collects",
+        "label": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-dual-cut",
         "rel": "collects",
         "label": "指令与载荷的双重切分 / The Dual Cut of Command and Payload"
@@ -110157,6 +110547,18 @@
         "to": "accelerating-replacement-and-image-lag",
         "rel": "collects",
         "label": "加速替换与形象滞后 / Accelerating Replacement and Image Lag"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-flywheel-of-the-mind",
+        "rel": "collects",
+        "label": "心智的飞轮 / The Flywheel of the Mind"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-causal-inversion-of-philosophical-agency",
+        "rel": "collects",
+        "label": "哲学能动性的因果倒置 / The Causal Inversion of Philosophical Agency"
       },
       {
         "from": "book:index-of-premises",
