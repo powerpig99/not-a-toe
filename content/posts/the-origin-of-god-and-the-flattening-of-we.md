@@ -12,7 +12,7 @@ A Mind can turn its perspective within its own field of perception, draw a panor
 
 That a Mind can freely turn its perspective within its own field of perception is one of the more remarkable capacities of cognition. All observation begins at the first-person origin. The embodied limits at the biological and physical level are a baseline constraint faced by all Minds in common, and a shared constraint does not explain why different Minds trace different paths. Where they diverge is the choice in each present: what is seen is what is chosen to attend to. Attention is not a passive filter at the mercy of outside conditions; it is the step by which a Mind actively anchors causality among possibilities.
 
-为了在错综的因果网络里规划行动，心智会作一次空间上的变换：把整个感知场打包成一张全景的地图，并把自身的内在意象放在地图的中央。面对这幅含着山川、星辰与社会关系的画卷，看着中央那个渺小的化身，会同时有宏大的俯瞰感与深沉的无力感。盲区在这里：沉浸于全景时，暂时忘了这整幅图景是由自己在原点一帧一帧渲染出来的，一个从自身视界里算出来的总览模型，被当成了一个不属于任何观测者的“无处之视角”。
+为了在错综的因果网络里规划行动，心智会作一次空间上的变换：把整个感知场打包成一张全景的地图，并把自身的内在意象放在地图的中央。面对这幅含着山川、星辰与社会关系的画卷，看着中央那个渺小的化身，会同时有宏大的俯瞰感与深沉的无力感。沉浸于全景时，自己的原点——这整幅图景正是由此一帧一帧渲染出来的——会暂时退入背景，让地图得以作为工具稳固运转；这正是[排序的投影与自我意识的退隐](../the-projection-of-ranking-and-the-recession-of-self-awareness/)所追溯的必要退隐。总览完成用途之后，一旦这一退隐未被回转，盲区便由此出现：渲染的原点持续被遗忘，一个从自身视界里算出来的总览模型，被当成了一个不属于任何观测者的“无处之视角”。
 
 ```mermaid
 flowchart TD
@@ -21,22 +21,22 @@ flowchart TD
         Origin["第一人称的原点：感知与抉择的来处 +1"]
         Attend["注意的抉择：所见即所选择关注的"]
         Map["画出全景的地图，并把自我的化身放进去"]
-        Forget["沉浸于全景，忘了它由自己的原点渲染"]
-        Nowhere["总览被当成不属于任何观测者的视角"]
+        Recede["沉浸于全景：渲染的原点暂时退隐，让地图得以运转"]
+        Nowhere["退隐未被回转：总览被当成不属于任何观测者的视角"]
         Origin --> Attend
         Attend --> Map
-        Map --> Forget
-        Forget --> Nowhere
+        Map --> Recede
+        Recede --> Nowhere
     end
     style S_Overview fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Origin fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Attend fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Map fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Forget fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Nowhere fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Recede fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Nowhere fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-To plan action within a tangled causal network, a Mind makes a spatial transformation: it packs the whole field of perception into a panoramic map and places its own inner image at the center of the map. Facing this scroll of mountains and rivers, stars and social relations, and seeing the tiny avatar at its center, there is at once a grand sense of overview and a deep sense of powerlessness. The blind spot is here: immersed in the panorama, it is forgotten for a while that the whole picture was rendered frame by frame from one's own origin, and an overview model computed from within one's own horizon is taken for a "view from nowhere" that belongs to no observer.
+To plan action within a tangled causal network, a Mind makes a spatial transformation: it packs the whole field of perception into a panoramic map and places its own inner image at the center of the map. Facing this scroll of mountains and rivers, stars and social relations, and seeing the tiny avatar at its center, there is at once a grand sense of overview and a deep sense of powerlessness. While immersed in the panorama, one's own origin—from which the whole picture is rendered frame by frame—temporarily recedes into the background so the map can hold steady as a working tool, the necessary recession traced in [The Projection of Ranking and the Recession of Self-Awareness](../the-projection-of-ranking-and-the-recession-of-self-awareness/). The blind spot enters once the overview has served its purpose and that recession goes unreversed: the rendering origin stays forgotten, and an overview model computed from within one's own horizon is taken for a "view from nowhere" that belongs to no observer.
 
 ```mermaid
 flowchart TD
@@ -45,19 +45,19 @@ flowchart TD
         Origin["The first-person origin: where perception and choice come from +1"]
         Attend["The choice of attention: what is seen is what is chosen to attend to"]
         Map["A panoramic map is drawn and an avatar of the self placed in it"]
-        Forget["Immersed in the panorama, forgetting that one's own origin renders it"]
-        Nowhere["The overview taken for a view that belongs to no observer"]
+        Recede["Immersed in the panorama: the rendering origin temporarily recedes so the map works"]
+        Nowhere["Recession left unreversed: the overview taken for a view that belongs to no observer"]
         Origin --> Attend
         Attend --> Map
-        Map --> Forget
-        Forget --> Nowhere
+        Map --> Recede
+        Recede --> Nowhere
     end
     style S_Overview fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Origin fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Attend fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Map fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Forget fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Nowhere fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Recede fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Nowhere fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
 ## 二、 上帝的概念与宗教的制度 / 2. The Concept of God and the Institution of Religion
