@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-26T13:38:48.668Z",
+    "generated_at": "2026-11-26T14:06:52.667Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -11,7 +11,7 @@
       "content/posts/Analysis_Adolescence_of_Technology.md": "8e90f7c0c0ae",
       "content/posts/a-creation-cannot-replace-its-source.md": "094e8f09be00",
       "content/posts/a-living-external-cortex.md": "900ecb1415c7",
-      "content/posts/a-new-deeper-look-at-antifragility.md": "b0a697bdde69",
+      "content/posts/a-new-deeper-look-at-antifragility.md": "d99300e31efd",
       "content/posts/abstract-pain-and-living-hunger.md": "521edf2dc946",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "c52d6149ba98",
       "content/posts/abstraction-determination-and-the-three-structural-flaws-of-machine-learning.md": "7da14d0c454c",
@@ -28,7 +28,7 @@
       "content/posts/ai-as-augmentation.md": "b2d79fbb1120",
       "content/posts/ai-wont-kill-software-engineering.md": "cc0137e82426",
       "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "e1052154972b",
-      "content/posts/amplification-paradox.md": "a275c141a687",
+      "content/posts/amplification-paradox.md": "cd21cf7d76ad",
       "content/posts/an-observation-by-its-own-standard.md": "b15d59b5cc11",
       "content/posts/apparent-regulation-and-the-primacy-of-choice.md": "5e6d80555130",
       "content/posts/architecture-of-recursive-distinction.md": "0b68647cd784",
@@ -90,7 +90,7 @@
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "a51e70a14209",
       "content/posts/eternally-wrong-questions-that-haunt-practice.md": "1e712c17ce49",
       "content/posts/every-limitation-is-self-limitation.md": "b32af09836ce",
-      "content/posts/everything-is-changing-as-always.md": "0a29a79b4870",
+      "content/posts/everything-is-changing-as-always.md": "5be209ddda71",
       "content/posts/evil-as-projected-resistance.md": "ace4e4222a2d",
       "content/posts/evil-as-the-minds-own-creation.md": "5bf25c7e99da",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "99b62ab3d3f3",
@@ -114,7 +114,7 @@
       "content/posts/generation-beyond-the-boundary-and-internal-rearrangement.md": "2f9811047c3f",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "14faa72aa2b5",
       "content/posts/grok-420-framework-drift.md": "8bdca7e537fb",
-      "content/posts/growing-the-solver-not-solving-the-child.md": "fbdc3b82441e",
+      "content/posts/growing-the-solver-not-solving-the-child.md": "bcf91b49211a",
       "content/posts/guan-yu-gui-yin.md": "ce3be54d282b",
       "content/posts/guidance-is-not-ownership.md": "1331f84418fc",
       "content/posts/handing-off-residue.md": "1c487ff6ad91",
@@ -499,10 +499,10 @@
     },
     "stats": {
       "posts": 472,
-      "edges": 14746,
-      "unique_directed": 7252,
+      "edges": 14742,
+      "unique_directed": 7250,
       "missing_targets": 0,
-      "one_way": 1690,
+      "one_way": 1688,
       "isolated": 0,
       "posts_with_outbound": 472,
       "book_pages": 16,
@@ -759,7 +759,7 @@
       "slug": "a-new-deeper-look-at-antifragility",
       "path": "content/posts/a-new-deeper-look-at-antifragility.md",
       "title": "重新审视反脆弱 / A New Deeper Look at Antifragility",
-      "hash": "b0a697bdde69",
+      "hash": "d99300e31efd",
       "in_degree": 7,
       "out_degree": 8,
       "links_out": [
@@ -1248,7 +1248,7 @@
       "slug": "amplification-paradox",
       "path": "content/posts/amplification-paradox.md",
       "title": "放大悖论 / The Amplification Paradox",
-      "hash": "a275c141a687",
+      "hash": "cd21cf7d76ad",
       "in_degree": 7,
       "out_degree": 9,
       "links_out": [
@@ -1855,7 +1855,7 @@
       "path": "content/posts/claudes-constitution-analysis.md",
       "title": "名为 Claude 的投射 / The Projection Called Claude",
       "hash": "2905a740b2f2",
-      "in_degree": 6,
+      "in_degree": 5,
       "out_degree": 4,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -2517,7 +2517,7 @@
       "path": "content/posts/cybersecurity-arms-race.md",
       "title": "网络安全军备竞赛与感知范畴边界 / The Cybersecurity Arms Race",
       "hash": "be1bf3d1f44c",
-      "in_degree": 2,
+      "in_degree": 1,
       "out_degree": 3,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -2983,13 +2983,11 @@
       "slug": "everything-is-changing-as-always",
       "path": "content/posts/everything-is-changing-as-always.md",
       "title": "万物一如既往地流变 / Everything Is Changing, as Always",
-      "hash": "0a29a79b4870",
+      "hash": "5be209ddda71",
       "in_degree": 5,
-      "out_degree": 5,
+      "out_degree": 3,
       "links_out": [
         "the-scaffolding-we-forget",
-        "claudes-constitution-analysis",
-        "cybersecurity-arms-race",
         "your-codebase-is-memory",
         "accelerating-replacement-and-image-lag"
       ]
@@ -3607,7 +3605,7 @@
       "slug": "growing-the-solver-not-solving-the-child",
       "path": "content/posts/growing-the-solver-not-solving-the-child.md",
       "title": "让解决者生长，而非解决孩子 / Growing the Solver, Not Solving the Child",
-      "hash": "fbdc3b82441e",
+      "hash": "bcf91b49211a",
       "in_degree": 6,
       "out_degree": 14,
       "links_out": [
@@ -29587,33 +29585,9 @@
     },
     {
       "from": "everything-is-changing-as-always",
-      "to": "claudes-constitution-analysis",
-      "rel": "points_to",
-      "label": "名为 Claude 的投射"
-    },
-    {
-      "from": "everything-is-changing-as-always",
-      "to": "cybersecurity-arms-race",
-      "rel": "points_to",
-      "label": "网络安全军备竞赛与感知范畴边界"
-    },
-    {
-      "from": "everything-is-changing-as-always",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The Scaffolding We Forget"
-    },
-    {
-      "from": "everything-is-changing-as-always",
-      "to": "claudes-constitution-analysis",
-      "rel": "points_to",
-      "label": "The Projection Called Claude"
-    },
-    {
-      "from": "everything-is-changing-as-always",
-      "to": "cybersecurity-arms-race",
-      "rel": "points_to",
-      "label": "The Cybersecurity Arms Race"
     },
     {
       "from": "everything-is-changing-as-always",

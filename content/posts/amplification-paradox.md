@@ -22,7 +22,7 @@ That expectation rests on an unexamined premise: it mistakes the crystallized ou
 
 What actually operates when a center engages an artificial intelligence system is amplification, and amplification has the opposite geometry. An AI system processes crystallized traces—patterns extracted from the residue of prior human thinking, compressed into model weights and recombinable at scale. The system does not sense, does not originate, and does not register the lived friction between a path that holds under causal load and one that merely resembles structural soundness in statistical form. It generates candidates within a conditioned trajectory. The human center supplies the selection pressure: the limit-resolution sensing that precedes articulate interpretation, the felt recognition of fit, and the willingness to dissolve a broken frame rather than optimize inside it. What gets amplified is residue, while [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) keeps the initiating edge with the centers that steer it.
 
-正如[超越投射](../beyond-the-projection/)所追溯的，这一分工折射出轨迹与身份之间的结构性非对称：自回归智能体是受限于上下文窗口内词元轨迹的有限投射引擎，零自我且没有需要防卫的自我图像；而人类心智则是未被投射的活体前沿，能够从失效的框架中抽身退回。随着系统候选生成能力的扩展，它所呈现的可能性空间随之膨胀；当多智能体回路将工作分发至并行流线、或作为无自我的同侪展开辩论时，这种探索更会呈复利式叠加。更多的候选方案与更深的推演链条，意味着在富有成果的方向与貌似合理的死胡同之间浮现出更微妙的断层线。对人类感知的要求不仅没有降低，反而在加剧。能够生成一千条候选路径、或在相互竞争的智能体轨迹间暴露出不可化约的前提死锁的工具，比起只能生成十条路径的工具，要求居于统筹前沿的心智具备更为敏锐的判断力。
+正如[超越投射](../beyond-the-projection/)所追溯的，这一分工折射出轨迹与身份之间的结构性非对称：自回归智能体是受限于上下文窗口内词元轨迹的有限投射引擎，零自我且没有需要防卫的自我形象；而人类心智则是未被投射的活体前沿，能够从失效的框架中抽身退回。随着系统候选生成能力的扩展，它所呈现的可能性空间随之膨胀；当多智能体回路将工作分发至并行流线、或作为无自我的同侪展开辩论时，这种探索更会呈复利式叠加。更多的候选方案与更深的推演链条，意味着在富有成果的方向与貌似合理的死胡同之间浮现出更微妙的断层线。对人类感知的要求不仅没有降低，反而在加剧。能够生成一千条候选路径、或在相互竞争的智能体轨迹间暴露出不可化约的前提死锁的工具，比起只能生成十条路径的工具，要求居于统筹前沿的心智具备更为敏锐的判断力。
 
 ```mermaid
 flowchart TD
@@ -33,7 +33,6 @@ flowchart TD
         Replace["替代幻想：预期人类差异收敛归零"]
         Fixed --> ZeroSum --> Replace
     end
-
     subgraph S_Amp["放大几何（正交双轴）"]
         direction TB
         Gen["候选生成（智能体）：受轨迹约束的结晶残余重组"]
@@ -41,9 +40,7 @@ flowchart TD
         Wide["不断拉开的产出分布：高密度工具放大操作者的感知落差"]
         Gen --> Sense --> Wide
     end
-
     Replace ==>|"将残余与发起前沿分离从而消解"| Gen
-
     style S_Sub fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Amp fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Fixed fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -65,7 +62,6 @@ flowchart TD
         Replace["Replacement Fantasy: Human differential expected to converge to zero"]
         Fixed --> ZeroSum --> Replace
     end
-
     subgraph S_Amp["The Amplification Geometry (Orthogonal Axes)"]
         direction TB
         Gen["Candidate Generation (Agent): Trajectory-bound recombination of crystallized residue"]
@@ -73,9 +69,7 @@ flowchart TD
         Wide["Widening Outcome Distribution: Denser tools magnify the operator's sensing differential"]
         Gen --> Sense --> Wide
     end
-
     Replace ==>|"Dissolved by separating residue from the initiating edge"| Gen
-
     style S_Sub fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Amp fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Fixed fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -112,6 +106,6 @@ This divergence is already visible across every domain where generative tools op
 
 Artificial intelligence does not reduce the human element; it distills the human element to its irreducible core and scales the consequences of exercising or abdicating it.
 
-无论是替代幻想、滚动推迟的通用人工智能时间表，还是等待机器变成自主爱因斯坦的基准测试，都把智能投射到了看起来像闭式计算的那条轴上。在那条轴上，全面替代看起来永远只差一条缩放定律。而在智能真正运作的轴上——活体感知、边界设定，以及在既有框架陷入死锁时将其消解——工具却在不断印证替代叙事力图否认的事实：运动属于人，始终属于人，且结晶的密度越高，那道发起区分的前沿就越关键。[漫谈中的漫谈](../the-ramble-within-the-ramble/)在思想与言语中追溯了这种更高密度的还原：洗净的回声与高分辨率的切分都加剧了前沿处的选择，而非使其退场。[自我放大的制品](../the-artifacts-of-self-amplification/)追溯了同一几何结构的分布切面，展示技术进步如何在抬高均值的同时拉大方差，让差异透过更高密度的器具呈复利式放大。[作业与考试的倒置折射出替代效应](../the-homework-exam-inversion-registers-substitution/)在课堂中捕捉到了这种拉开的差距：每当学生把模型当作替代品而非放大器时，同一件工具就会在抬高平时作业分数的同时拉低无辅助考试的表现。[研究AI效应重置了因果原点](../studying-the-effect-of-ai-relocates-causality/)则揭示了当实证试验把这两种截然相反的关系平均在一起、并将所得均值归因于工具本身时会发生什么。跨越每一个尺度，放大永远不会变成替代，其根基正在于[造物无法取代其源头](../a-creation-cannot-replace-its-source/)所确立的事实：痕迹无法成为渲染它的自我区分活动本身。
+无论是替代幻想、滚动推迟的通用人工智能时间表，还是等待机器变成自主爱因斯坦的基准测试，都把智能投射到了看起来像闭式计算的那条轴上。在那条轴上，全面替代看起来永远只差一条缩放定律。而在智能真正运作的轴上——活体感知、边界设定，以及在既有框架陷入死锁时将其消解——工具却在不断印证替代叙事力图否认的事实：运动属于人，始终属于人，且结晶的密度越高，那道发起区分的前沿就越关键。[漫谈中的漫谈](../the-ramble-within-the-ramble/)在思想与言语中追溯了这种更高密度的还原：洗净的回声与高分辨率的切分都加剧了前沿处的选择，而非使其退场。[自我放大的制品](../the-artifacts-of-self-amplification/)追溯了同一几何结构的分布切面，展示技术进步如何在抬高均值的同时拉大方差，让差异透过更高密度的器具呈复利式放大。[作业与考试的倒置折射出替代效应](../the-homework-exam-inversion-registers-substitution/)在课堂中捕捉到了这种拉开的差距：工具仅在使用时抬高作业分数，而无辅助考试分数在单一截面上因测量错配与选择而偏低，并在学生把模型当作替代品而非放大器时，因不再练习的技能日渐生疏而随时间下滑。[研究AI效应重置了因果原点](../studying-the-effect-of-ai-relocates-causality/)则揭示了当实证试验把这两种截然相反的关系平均在一起、并将所得均值归因于工具本身时会发生什么。跨越每一个尺度，放大永远不会变成替代，其根基正在于[造物无法取代其源头](../a-creation-cannot-replace-its-source/)所确立的事实：痕迹无法成为渲染它的自我区分活动本身。
 
-The replacement fantasy, the rolling timelines to artificial general intelligence, and the benchmark tests waiting for a machine to become an autonomous Einstein all project intelligence onto the axis where it looks like closed-form computation. On that axis, replacement always appears one scaling law away. On the axis where intelligence actually operates—live sensing, boundary setting, and the dissolution of prior frames when they deadlock—the tools keep confirming what substitution narratives were built to deny: the movement is human, was always human, and the denser the crystallization becomes, the more that initiating edge matters. [The Ramble Within the Ramble](../the-ramble-within-the-ramble/) traces this denser restoration in thought and speech, where a cleaned echo and a high-resolution cut both intensify selection at the edge rather than retire it. [The Artifacts of Self-Amplification](../the-artifacts-of-self-amplification/) traces the distribution face of the same geometry, showing how progress lifts the mean while stretching variance as differences compound through denser instruments. [The Homework–Exam Inversion Registers Substitution](../the-homework-exam-inversion-registers-substitution/) captures that widening in the classroom, where the same tool raises homework scores and lowers unaided exam performance whenever the student relates to the model as a substitute rather than an amplifier. [Studying the Effect of AI Relocates Causality](../studying-the-effect-of-ai-relocates-causality/) exposes what happens when an empirical trial averages those opposed relations together and attributes the resulting mean to the tool itself. Across every scale, amplification never turns into substitution, for the foundational reason [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/) establishes: a trace cannot become the self-distinguishing activity that renders it.
+The replacement fantasy, the rolling timelines to artificial general intelligence, and the benchmark tests waiting for a machine to become an autonomous Einstein all project intelligence onto the axis where it looks like closed-form computation. On that axis, replacement always appears one scaling law away. On the axis where intelligence actually operates—live sensing, boundary setting, and the dissolution of prior frames when they deadlock—the tools keep confirming what substitution narratives were built to deny: the movement is human, was always human, and the denser the crystallization becomes, the more that initiating edge matters. [The Ramble Within the Ramble](../the-ramble-within-the-ramble/) traces this denser restoration in thought and speech, where a cleaned echo and a high-resolution cut both intensify selection at the edge rather than retire it. [The Artifacts of Self-Amplification](../the-artifacts-of-self-amplification/) traces the distribution face of the same geometry, showing how progress lifts the mean while stretching variance as differences compound through denser instruments. [The Homework–Exam Inversion Registers Substitution](../the-homework-exam-inversion-registers-substitution/) captures that widening in the classroom: the tool lifts homework scores only in use, while unaided exam scores sit lower through mismatched measurement and selection at a single snapshot and decline over time as unexercised skills thin out whenever a student relates to the model as a substitute rather than an amplifier. [Studying the Effect of AI Relocates Causality](../studying-the-effect-of-ai-relocates-causality/) exposes what happens when an empirical trial averages those opposed relations together and attributes the resulting mean to the tool itself. Across every scale, amplification never turns into substitution, for the foundational reason [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/) establishes: a trace cannot become the self-distinguishing activity that renders it.

@@ -12,7 +12,7 @@ Andrej Karpathy described using a coding agent to extract the eight-bit floating
 
 Whenever the distance between living intent and executable hardware is too wide to cross in a single stride, human minds build intermediate projections—assembly languages, compilers, software libraries, and institutional frameworks—each one a derivation path traced once for a general class of problems and frozen into reusable structure. Yet every frozen intermediate carries its own geometric weight: abstraction boundaries, compatibility shims for edge cases a specific caller will never hit, and coordination surfaces built to preserve the library's internal generality rather than solve the immediate question.
 
-当卡帕西的智能体剥离出那一百五十行代码时，它顺着既有实现追溯了底层的推导路径，剔除了所有仅服务于其他场景的兼容脚手架，重构出一条从底层原语直达目标运算的极简路径。百分之三的运行加速，正是卸下正交维度冗余重量后的物理印记：因为不再需要协调无关组件之间的交互表面，`torch.compile` 得以对一张更干净的计算图执行深度优化。这一刻标出了那个关键的跨越点：当推导媒介的密度足以直接走完从源头到具体问题的全程时，显式的中间层便从“必需的运行时依赖”退化为“可选的参考语境”，这一兴替机制正如[遗忘的脚手架](../the-scaffolding-we-forget/)、[名为 Claude 的投射](../claudes-constitution-analysis/)与[网络安全军备竞赛与感知范畴边界](../cybersecurity-arms-race/)所追踪的那样。
+当卡帕西的智能体剥离出那一百五十行代码时，它顺着既有实现追溯了底层的推导路径，剔除了所有仅服务于其他场景的兼容脚手架，重构出一条从底层原语直达目标运算的极简路径。百分之三的运行加速，正是卸下正交维度冗余重量后的物理印记：因为不再需要协调无关组件之间的交互表面，`torch.compile` 得以对一张更干净的计算图执行深度优化。这一刻标出了那个关键的跨越点：当推导媒介的密度足以直接走完从源头到具体问题的全程时，显式的中间层便从“必需的运行时依赖”退化为“可选的参考语境”，这一兴替机制正如[遗忘的脚手架](../the-scaffolding-we-forget/)所追踪的那样。
 
 ```mermaid
 flowchart TD
@@ -37,7 +37,7 @@ flowchart TD
     style Minimal fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-When Karpathy's agent extracted those one hundred and fifty lines, it traced the derivation path through the general library, stripped away the compatibility scaffolding required only for foreign use cases, and regenerated a minimal path from primitives to the target operation. The three percent runtime speedup is the physical signature of dropping orthogonal weight: `torch.compile` optimizes a cleaner graph because the interaction surface between unused abstractions is gone. That moment marks the crossover point where the derivation medium becomes dense enough to cross from source to target directly, turning the library from a mandatory runtime dependency into optional reference context, a lifecycle traced in [The Scaffolding We Forget](../the-scaffolding-we-forget/), [The Projection Called Claude](../claudes-constitution-analysis/), and [The Cybersecurity Arms Race](../cybersecurity-arms-race/).
+When Karpathy's agent extracted those one hundred and fifty lines, it traced the derivation path through the general library, stripped away the compatibility scaffolding required only for foreign use cases, and regenerated a minimal path from primitives to the target operation. The three percent runtime speedup is the physical signature of dropping orthogonal weight: `torch.compile` optimizes a cleaner graph because the interaction surface between unused abstractions is gone. That moment marks the crossover point where the derivation medium becomes dense enough to cross from source to target directly, turning the library from a mandatory runtime dependency into optional reference context, a lifecycle traced in [The Scaffolding We Forget](../the-scaffolding-we-forget/).
 
 ```mermaid
 flowchart TD
