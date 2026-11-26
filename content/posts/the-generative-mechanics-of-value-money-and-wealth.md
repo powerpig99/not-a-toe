@@ -154,9 +154,9 @@ This mechanical failure also shows a misplacement inside the contemporary concep
 
 ## 十二、 父母的遗产陷阱 / 12. The Parental Inheritance Trap
 
-这个陷阱最温和、也最普遍的形态，不在国家政治里，而在家庭之中：把父母累积的财富转给孩子。经历过强烈挣扎才获得高成就的父母，常想让孩子免受同样的摩擦，于是把巨大的累积财富、声望与物质的舒适给了并没有书写那份剩余的继承人。财富跟随自我价值，绕开它的转移会让财富反向流动，[自我价值、反向财富转移与过去成功的陷阱](../self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success/)论证了这一点。
+这个陷阱最温和、也最普遍的形态，不在国家政治里，而在家庭之中：把父母累积的财富转给孩子。经历过强烈挣扎才获得高成就的父母，常想让孩子免受同样的摩擦，于是把巨大的累积财富、声望与物质的舒适给了并没有书写那份剩余的继承人。财富紧随对自我价值的追求而来，未参与生成便得到一笔巨额财富，会留下一份没有内部预测损失函数的账本，正如[自我价值、反向财富转移与过去成功的陷阱](../self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success/)所追溯的。
 
-The mildest and most widespread form of this trap lies not in state politics but in the family: passing accumulated parental wealth to children. Parents who reached high achievement through hard struggle often want to spare their children the same friction, and so give great accumulated wealth, prestige and material comfort to heirs who did not author that surplus. Wealth follows self-worth, and transfers that bypass it reverse the flow, as [Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success](../self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success/) argues.
+The mildest and most widespread form of this trap lies not in state politics but in the family: passing accumulated parental wealth to children. Parents who reached high achievement through hard struggle often want to spare their children the same friction, and so give great accumulated wealth, prestige and material comfort to heirs who did not author that surplus. Wealth trails the pursuit of self-worth, and receiving a fortune without having taken part in generating it leaves a balance sheet without an inner predictive loss function, as [Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success](../self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success/) traces.
 
 其机制是可以追溯的：大量非自己挣来的剩余，使孩子的反馈信号饱和、沉默；消费需求不要求任何产出就被慷慨满足，内部的纠错回路就不启动；孩子没有建立高带宽能力、练出韧性或扩展感知地平线的生物与经济上的紧迫；本意是保护性祝福的遗产，起了一剂操作上的镇静剂的作用——这正是[成功之后的育儿谬误](../the-fallacy-of-post-success-parenting/)所追溯的那种缓冲隔离的依赖陷阱。除非继承人严格地不把遗产当作消费的垫子，而只当作行使自己自主能动性、建立新能力的外部杠杆，否则倚靠这笔非自己挣来的剩余作缓冲，就会让纠错回路闲置，而不是让人留在自己选择的掌舵边缘。
 
