@@ -26,7 +26,7 @@ The confusion is a projection collapse. Perception and perspective are not two i
 
 Collapsing two descriptions of the same movement into opposed alternatives creates a false choice. There is no raw perception without a perspective organizing it, and no perspective floating free of a mind's perceiving.
 
-当你“采纳他人的视角”时，并没有发生任何跨出自身的越界。相反，你是在延展自身感知所记录的版图——收集额外的信号，为对方的约束条件建模，并在你自己的框架内部将对方的激励格局重构为一个子模型。这一重构真实而有效，但它从未离开你的感知。感知不是把你困在里面的盒子；它就是正在发生的投射活动本身，并不存在一个可供踏入的“外部”。
+当你“采纳他人的视角”时，并没有发生任何跨出自身的越界。相反，你是在延展自身感知所记录的版图——收集额外的信号，为对方的约束条件建模，并在你自己的框架内部将对方的激励格局重构为一个子模型。这一重构真实而有效，但它从未离开你的感知。感知不是把你困在里面的盒子；它就是正在发生的投射活动本身，并不存在一个可供踏入的“外部”——当单个心智在持续运转的感知内部，将到来的印迹与信念驱动的补全分开时，[感知中的填补与唯一的走出中心](../filling-in-in-perception-and-the-single-center-that-steps-out/)所追溯的正是这同一道切口。
 
 ```mermaid
 flowchart TD
@@ -37,7 +37,6 @@ flowchart TD
         F_Blind["盲目自信陷阱：把内部子模型错当成他人的内在体验"]
         F_Split --> F_Exit --> F_Blind
     end
-
     subgraph S_Expand["在鲜活框架内展开的维度延展"]
         direction TB
         E_Act["感知即投射：正在运作的自我区分活动"]
@@ -45,9 +44,7 @@ flowchart TD
         E_Widen["拓宽坐标维度：在更宽广的投射中同时容纳双方视角"]
         E_Act --> E_Model --> E_Widen
     end
-
     F_Blind ==>|"放下越界迷思；从内部拓宽当下投射"| E_Act
-
     style S_False fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Expand fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style F_Split fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -58,7 +55,7 @@ flowchart TD
     style E_Widen fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-When you "take someone else's perspective," no exit occurs. Instead, you expand what your own perceiving registers—gathering additional signal, modeling the other person's constraints, and reconstructing their incentive landscape as a sub-model within your own frame. That reconstruction is real and effective, yet it never leaves your perceiving. Perceiving is not a box you are trapped inside; it is the live act of projecting itself, which has no "outside" to step into.
+When you "take someone else's perspective," no exit occurs. Instead, you expand what your own perceiving registers—gathering additional signal, modeling the other person's constraints, and reconstructing their incentive landscape as a sub-model within your own frame. That reconstruction is real and effective, yet it never leaves your perceiving. Perceiving is not a box you are trapped inside; it is the live act of projecting itself, which has no "outside" to step into—the same cut [Filling-In in Perception and the Single Center That Steps Out](../filling-in-in-perception-and-the-single-center-that-steps-out/) traces when a single Mind separates arriving marks from belief-driven completion inside ongoing perception.
 
 ```mermaid
 flowchart TD
@@ -69,7 +66,6 @@ flowchart TD
         F_Blind["Overconfidence Trap: Mistaking one's internal model for the other's interior"]
         F_Split --> F_Exit --> F_Blind
     end
-
     subgraph S_Expand["Dimensional Expansion Within the Living Frame"]
         direction TB
         E_Act["Perceiving as Projecting: The self-distinguishing activity already underway"]
@@ -77,9 +73,7 @@ flowchart TD
         E_Widen["Richer Coordinate Width: Holding both viewpoints inside a wider projection"]
         E_Act --> E_Model --> E_Widen
     end
-
     F_Blind ==>|"Drop the exit myth; widen the active projection"| E_Act
-
     style S_False fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Expand fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style F_Split fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc

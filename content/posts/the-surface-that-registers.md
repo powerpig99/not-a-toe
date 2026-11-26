@@ -188,9 +188,9 @@ Tracing information back to the founding cut makes the inverse relationship betw
 
 ## 四、 表面的边界与第一人称的延展 / 4. The Boundary of the Surface and the First-Person Extension
 
-这一切分标出的是边界，而非禁令。在已经共享的框架内部，低维符号依然可用于协同；但一旦需要区分或修正的对象正是框架本身，它们便即刻不再足以充当指针。到了那一刻，表面只是一处供各个模型登记彼此既有重叠的场所，却推不动在其上相遇的那些模型。鲜活的区分，依然是第一人称的行动——要么将链条继续向前延展，要么任由那句话停留在原处成为残迹。
+这一切分标出的是边界，而非禁令。在已经共享的框架内部，低维符号依然可用于协同；但一旦需要区分或修正的对象正是框架本身，它们便即刻不再足以充当指针。到了那一刻，表面只是一处供各个模型登记彼此既有重叠的场所，却推不动在其上相遇的那些模型。鲜活的区分依然是第一人称的行动，要么将链条继续向前延展，要么任由那句话停留在原处成为残迹——这正是[感知中的填补与唯一的走出中心](../filling-in-in-perception-and-the-single-center-that-steps-out/)所追溯的同一道边界：既有信念填补单薄的印迹，而走出只在单个心智内部发起。
 
-The cut marks a boundary, not a prohibition. Low-dimensional tokens remain usable for coordination inside already-shared frames. They cease to suffice as pointers the moment the frame itself is what must be distinguished or revised. At that point the surface is only a site where models register their prior overlap; it cannot move the models that meet on it. The living distinction remains the first-person act that either extends the chain or leaves the sentence as residue.
+The cut marks a boundary, not a prohibition. Low-dimensional tokens remain usable for coordination inside already-shared frames. They cease to suffice as pointers the moment the frame itself is what must be distinguished or revised. At that point the surface is only a site where models register their prior overlap; it cannot move the models that meet on it. The living distinction remains the first-person act that either extends the chain or leaves the sentence as residue—the same boundary [Filling-In in Perception and the Single Center That Steps Out](../filling-in-in-perception-and-the-single-center-that-steps-out/) traces where prior beliefs fill thin marks and stepping out initiates only inside a single Mind.
 
 参与者若围绕致密的实操工作维持着共在边界——比如同一个代码库里的团队、承受过相近现实摩擦的践行者——一句简短的格言或指针便足以协调那场交换，而无需从头复述那条链条，正如[共享的边界，而非共享的语境](../shared-boundaries-not-shared-context/)所追溯的。符号之所以在那里奏效，是因为受约束的轴向已被先前的第一人称工作就地锚定。一旦离开这样的共在边界，指望一句关于“独立思考”的流转语录去传递独立思考，无异于要求表面去替路径做功。领会这条建议的要义而非照搬其字面，意味着放下借来的表面所给予的满足感，在自己的位点上把前提、边界与修正的实际链条一一铺开——在那里，心智做出下一次切分，而不是在上一次切分的重叠处原地登记。
 
