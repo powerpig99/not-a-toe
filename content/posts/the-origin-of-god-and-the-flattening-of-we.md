@@ -28,7 +28,6 @@ flowchart TD
         Map --> Forget
         Forget --> Nowhere
     end
-
     style S_Overview fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Origin fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Attend fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -53,7 +52,6 @@ flowchart TD
         Map --> Forget
         Forget --> Nowhere
     end
-
     style S_Overview fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Origin fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Attend fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -84,7 +82,6 @@ flowchart TD
         Shared --> Order
         Order --> Unclaimed
     end
-
     style S_God fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Detached fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Outward fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -109,7 +106,6 @@ flowchart TD
         Shared --> Order
         Order --> Unclaimed
     end
-
     style S_God fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Detached fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Outward fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -128,21 +124,24 @@ The rise of the Enlightenment and of scientific reason is often seen as the end 
 
 ```mermaid
 flowchart TD
-    subgraph S_Mean["世俗领域里的同一个结构"]
+    subgraph S_Science["教条化的科学：抽离的权威"]
         direction TB
         Verify["亲手的验证与因果的反馈 +1"]
         Textbook["离开个人的反馈：成为不容置疑的结论"]
         Authority["判断让给抽象的权威"]
+        Verify --> Textbook
+        Textbook --> Authority
+    end
+    subgraph S_Mean["作为统计均值的“人类”"]
+        direction TB
         Minds["数以十亿计的心智：各自渲染完整的世界"]
         Average["沿很窄的维度作一维的统计均值"]
         Pixel["抽象的人类与集体：个体成了无差别的像素点"]
-        Verify --> Textbook
-        Textbook --> Authority
         Minds --> Average
         Average --> Pixel
-        Authority --> Minds
     end
-
+    S_Science -.->|"同一种脱开的总览，更深一层的降维"| S_Mean
+    style S_Science fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Mean fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Verify fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Textbook fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -152,25 +151,28 @@ flowchart TD
     style Pixel fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-A deeper reduction of dimension happens in talk of "humanity as a whole" or of collective concepts of various kinds. Stepping out of particular individuals and overlooking "humanity" from an imagined height, what is done is taking a one-dimensional statistical mean, along a very narrow dimension of features such as the genes of the species, economic output or political faction, over Minds numbering in the billions. A mean is useful in coordinating actions among individuals. Its boundary is that the complete world each Mind renders is not in that number; it has become an undifferentiated pixel in a grand narrative, and [The Illusion of the Shared Sandbox](../the-illusion-of-the-shared-sandbox/) separates this clearing price from the picture within.
+A deeper reduction of dimension happens in talk of "humanity as a whole" or of collective concepts of various kinds. Stepping out of particular individuals and overlooking "humanity" from an imagined height, what is done is taking a one-dimensional statistical mean, along a very narrow dimension of features such as the genes of the species, economic output or political faction, over Minds numbering in the billions. A mean is useful in coordinating actions among individuals. Its boundary is that the complete world each Mind renders is not in that number; the individual is flattened into an undifferentiated pixel in a grand narrative, and [The Illusion of the Shared Sandbox](../the-illusion-of-the-shared-sandbox/) separates this clearing price from the picture within.
 
 ```mermaid
 flowchart TD
-    subgraph S_Mean["The Same Structure in the Secular Domain"]
+    subgraph S_Science["Dogmatic Science: Detached Authority"]
         direction TB
         Verify["Verification by one's own hand and causal feedback +1"]
         Textbook["Detached from personal feedback: a conclusion beyond question"]
         Authority["Judgment handed to an abstract authority"]
+        Verify --> Textbook
+        Textbook --> Authority
+    end
+    subgraph S_Mean["Humanity as a Statistical Mean"]
+        direction TB
         Minds["Minds numbering in the billions: each rendering a complete world"]
         Average["A one-dimensional statistical mean along a very narrow dimension"]
         Pixel["Abstract humanity and the collective: the individual an undifferentiated pixel"]
-        Verify --> Textbook
-        Textbook --> Authority
         Minds --> Average
         Average --> Pixel
-        Authority --> Minds
     end
-
+    S_Science -.->|"Same detached overview, deeper reduction"| S_Mean
+    style S_Science fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Mean fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Verify fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Textbook fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -202,7 +204,6 @@ flowchart TD
         Tool --> Slip
         Slip --> Seat
     end
-
     style S_We fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style Speak fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Seat fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -227,7 +228,6 @@ flowchart TD
         Tool --> Slip
         Slip --> Seat
     end
-
     style S_We fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style Speak fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Seat fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -258,7 +258,6 @@ flowchart TD
         Other --> Lens
         Lens --> Recoil
     end
-
     style S_Category fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Object fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Model fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -283,7 +282,6 @@ flowchart TD
         Other --> Lens
         Lens --> Recoil
     end
-
     style S_Category fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Object fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Model fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -298,7 +296,7 @@ flowchart TD
 
 With the line from the "God's-eye view" to the collective pronoun seen clearly, the way out is to step down from the pulpit at an imagined height and take root again at the first-person origin. Equality is not leveling everyone statistically into an average; it is acknowledging that each person has complete sovereignty and is developing, each in parallel. At the origin one cannot decide for others, and there is no need to carry inner strain on behalf of an imagined grand collective.
 
-所见的世界，是经自身注意的抉择画出的地图。对自己的视线负责，对自己的每一次具身的动作（+1）承担全部的结构性责任。不再以“我们”去绑定他人，不再以抽象的“上帝视角”去审判世界时，创造的力量回到来处：立在原点上，以摩擦为砥砺，在每一次未经稀释的行动里，与同样立在各自原点上的他人并肩。如[造神的障眼法与隐秘阶序的说辞](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/)所揭示的，AI 时代合成出来的神祇同样重复了这一起源。而正如[你的代码库即是记忆](../your-codebase-is-memory/)所澄清的，任何共享的典籍或聚合的模型都只是过往区分的外化仓体，而非凌驾于书写它的各个原点之上的上位之声。
+所见的世界，是经自身注意的抉择画出的地图。对自己的视线负责，对自己的每一次具身的动作（+1）承担全部的结构性责任。正如[造神的障眼法与隐秘阶序的说辞](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/)所揭示的，即便是 AI 时代合成的神祇，同样重复了这一投射；而[你的代码库即是记忆](../your-codebase-is-memory/)则追溯了为何任何共享的典籍、统计聚合或模型权重文件，都只是过往区分的外化存储库，而非凌驾于书写它的各个鲜活原点之上的上位之声。不再以“我们”去绑定他人，不再以抽象的“上帝视角”去审判世界时，创造的力量回到来处：立在原点上，以摩擦为砥砺，在每一次未经稀释的行动里，与同样立在各自原点上的他人并肩。
 
 ```mermaid
 flowchart TD
@@ -312,7 +310,6 @@ flowchart TD
         Root --> Own
         Own --> Beside
     end
-
     style S_Back fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Down fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Root fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -334,7 +331,6 @@ flowchart TD
         Root --> Own
         Own --> Beside
     end
-
     style S_Back fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Down fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Root fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc

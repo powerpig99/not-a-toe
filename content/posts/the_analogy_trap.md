@@ -6,9 +6,9 @@
 
 An analogy works by exposing shared logic between two domains. "You can lead a horse to water, but you can't make it drink" operates because it isolates a single mechanism—autonomous will cannot be overridden by external arrangement—and maps it from animal behavior to human persuasion. The power of the analogy lies precisely in what it does not claim: it says nothing about horses being equivalent to people, water being equivalent to truth, or leading being equivalent to argument. It traces one structural parallel and stops.
 
-这正是类比有用的原因：它揭示了表面差异之下运作的共同逻辑，使两个系统在不共享同一性的前提下共享同一机制。然而正如[你的代码库即是记忆](../your-codebase-is-memory/)所揭示的，任何表征或映射都是有损的压缩，一旦使用者遗忘了映射所丢弃的原生维度，把低维投影当成了被投射物本身，类比就会从照明工具蜕变为认知陷阱。
+这正是类比有用的原因：它揭示了表面差异之下运作的共同逻辑，使两个系统在不共享同一性的前提下共享同一机制。然而，任何表征或映射都是有损的压缩，只保留早先切口的残余形态，而非延续区分本身——即[你的代码库即是记忆](../your-codebase-is-memory/)在外化制品上追溯的那道边界——一旦使用者遗忘了映射所丢弃的原生维度，把低维投影当成了被投射物本身，类比就会从照明工具蜕变为认知陷阱。
 
-This is what makes analogy useful: it reveals a logic operating beneath surface differences, allowing two systems to share a mechanism without sharing identity. Yet as [Your Codebase Is Memory](../your-codebase-is-memory/) demonstrates, every representation or mapping is a lossy compression; the moment a user forgets the native dimensions discarded by the mapping and mistakes the low-dimensional projection for the object itself, analogy turns from an instrument of illumination into a cognitive trap.
+This is what makes analogy useful: it reveals a logic operating beneath surface differences, allowing two systems to share a mechanism without sharing identity. Yet every representation or mapping is a lossy compression that holds only the residual shape of a prior cut rather than continuing the distinguishing itself—the boundary [Your Codebase Is Memory](../your-codebase-is-memory/) traces across externalized artifacts—and the moment a user forgets the native dimensions discarded by the mapping and mistakes the low-dimensional projection for the object itself, analogy turns from an instrument of illumination into a cognitive trap.
 
 ## 一、 类比坍缩的三重轨迹 / 1. The Three-Layer Trajectory of Analogy Collapse
 
