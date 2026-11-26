@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-26T07:25:07.116Z",
+    "generated_at": "2026-11-26T07:46:55.648Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -20,7 +20,7 @@
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "fc6dd32eeea8",
       "content/posts/agency-and-the-pattern.md": "b02ee5b125ec",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "ae5b6e28af81",
-      "content/posts/agency-contradiction-and-the-relocation-of-power.md": "275043c4033b",
+      "content/posts/agency-contradiction-and-the-relocation-of-power.md": "eaadfa355d33",
       "content/posts/agency-does-not-arise.md": "9408ef08d93f",
       "content/posts/agency-relocated-into-the-formal-model.md": "3e1fa31e14a3",
       "content/posts/agents_leia_ontological_clarity.md": "c9f0ffd4dcee",
@@ -323,7 +323,7 @@
       "content/posts/the-illusion-of-multi-agent-collaboration.md": "861aa47fe3ce",
       "content/posts/the-illusion-of-the-shared-sandbox.md": "7ee1a3a906bf",
       "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "5fcb9da98a3d",
-      "content/posts/the-illusion-of-the-unmediated.md": "6167af604584",
+      "content/posts/the-illusion-of-the-unmediated.md": "7a003cad31d7",
       "content/posts/the-imagining-of-ai-risk.md": "94a3c0af210d",
       "content/posts/the-initial-distinction.md": "597771bb1303",
       "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "c4013341a276",
@@ -362,7 +362,7 @@
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "66bccae48654",
       "content/posts/the-myth-of-population-collapse-explained.md": "4117d5bf3cab",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "8a7e42b480b4",
-      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "28675c00f6af",
+      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "857fb92e6fb8",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "3f5ac44b93cc",
       "content/posts/the-npc-impression-is-structural.md": "4ac951ad5341",
       "content/posts/the-observational-cut-in-ai-debates.md": "7df2fc299ebb",
@@ -1031,7 +1031,7 @@
       "slug": "agency-contradiction-and-the-relocation-of-power",
       "path": "content/posts/agency-contradiction-and-the-relocation-of-power.md",
       "title": "能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power",
-      "hash": "275043c4033b",
+      "hash": "eaadfa355d33",
       "in_degree": 30,
       "out_degree": 24,
       "links_out": [
@@ -9471,7 +9471,7 @@
       "slug": "the-illusion-of-the-unmediated",
       "path": "content/posts/the-illusion-of-the-unmediated.md",
       "title": "“非中介化”的幻象 / The Illusion of the Unmediated",
-      "hash": "6167af604584",
+      "hash": "7a003cad31d7",
       "in_degree": 6,
       "out_degree": 17,
       "links_out": [
@@ -9481,10 +9481,10 @@
         "liberation-rhetoric-begins-by-defining-captivity",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "residual-individualism",
-        "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "beyond-the-projection",
+        "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "your-codebase-is-memory",
         "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -10444,7 +10444,7 @@
       "slug": "the-name-revolution-files-a-life-as-evidence",
       "path": "content/posts/the-name-revolution-files-a-life-as-evidence.md",
       "title": "革命之名把生活收成证据 / The Name Revolution Files a Life as Evidence",
-      "hash": "28675c00f6af",
+      "hash": "857fb92e6fb8",
       "in_degree": 11,
       "out_degree": 14,
       "links_out": [
@@ -73902,12 +73902,6 @@
     },
     {
       "from": "the-illusion-of-the-unmediated",
-      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
-      "rel": "points_to",
-      "label": "“物理学才是定律”的障眼法"
-    },
-    {
-      "from": "the-illusion-of-the-unmediated",
       "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "rel": "points_to",
       "label": "涌现的伪因果"
@@ -73917,12 +73911,6 @@
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
       "label": "政客是责任扩散的显性症状"
-    },
-    {
-      "from": "the-illusion-of-the-unmediated",
-      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
-      "rel": "points_to",
-      "label": "The Sleight of Hand in \"Physics Is the Law\""
     },
     {
       "from": "the-illusion-of-the-unmediated",
@@ -73941,6 +73929,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "超越投射"
+    },
+    {
+      "from": "the-illusion-of-the-unmediated",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "“物理学才是定律”的障眼法"
     },
     {
       "from": "the-illusion-of-the-unmediated",
@@ -73971,6 +73965,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-illusion-of-the-unmediated",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "The Sleight of Hand in \"Physics Is the Law\""
     },
     {
       "from": "the-illusion-of-the-unmediated",
