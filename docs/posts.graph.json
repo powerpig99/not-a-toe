@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-26T11:29:37.145Z",
+    "generated_at": "2026-11-26T11:53:57.953Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -69,7 +69,7 @@
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "d399e29f1ee7",
       "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "a305cbdeb8dd",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "1da47f25b2c3",
-      "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "de3299fb5449",
+      "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "e44d01c4e90c",
       "content/posts/curiosity-has-no-final-form.md": "b8c3260cb644",
       "content/posts/cybersecurity-arms-race.md": "be1bf3d1f44c",
       "content/posts/data-is-local-intelligence-is-allocated.md": "0e06bf97bd60",
@@ -465,7 +465,7 @@
       "content/posts/when-need-stops-being-the-measure.md": "8fb9603a309e",
       "content/posts/when-observation-becomes-performance.md": "dfaf6fac81d1",
       "content/posts/when-the-effect-authors-the-frame.md": "e13bb77fb570",
-      "content/posts/why-explanation-fails.md": "7983bb8f8771",
+      "content/posts/why-explanation-fails.md": "226e38ff6bd0",
       "content/posts/why-mathematics-can-never-be-solved.md": "72891eea1ab4",
       "content/posts/writing-without-the-image.md": "157f6998ee85",
       "content/posts/xian-shi-de-bian-jie.md": "4ced2122a338",
@@ -499,10 +499,10 @@
     },
     "stats": {
       "posts": 472,
-      "edges": 14742,
-      "unique_directed": 7250,
+      "edges": 14744,
+      "unique_directed": 7251,
       "missing_targets": 0,
-      "one_way": 1688,
+      "one_way": 1689,
       "isolated": 0,
       "posts_with_outbound": 472,
       "book_pages": 16,
@@ -2457,7 +2457,7 @@
       "slug": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "path": "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md",
       "title": "好奇先行 / Curiosity First",
-      "hash": "de3299fb5449",
+      "hash": "e44d01c4e90c",
       "in_degree": 22,
       "out_degree": 20,
       "links_out": [
@@ -3333,7 +3333,7 @@
       "path": "content/posts/filling-in-in-perception-and-the-single-center-that-steps-out.md",
       "title": "感知中的填补与唯一的走出中心 / Filling-In in Perception and the Single Center That Steps Out",
       "hash": "dde905b69ac4",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 16,
       "links_out": [
         "the-strongest-belief-of-the-mind",
@@ -13210,12 +13210,13 @@
       "slug": "why-explanation-fails",
       "path": "content/posts/why-explanation-fails.md",
       "title": "解释为何失效 / Why Explanation Fails",
-      "hash": "7983bb8f8771",
+      "hash": "226e38ff6bd0",
       "in_degree": 6,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
         "your-codebase-is-memory",
+        "filling-in-in-perception-and-the-single-center-that-steps-out",
         "how-belief-actually-changes",
         "the-observational-cut-in-ai-debates",
         "not-a-theory-of-everything"
@@ -99560,6 +99561,18 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "why-explanation-fails",
+      "to": "filling-in-in-perception-and-the-single-center-that-steps-out",
+      "rel": "points_to",
+      "label": "感知中的填补与唯一的走出中心"
+    },
+    {
+      "from": "why-explanation-fails",
+      "to": "filling-in-in-perception-and-the-single-center-that-steps-out",
+      "rel": "points_to",
+      "label": "Filling-In in Perception and the Single Center That Steps Out"
     },
     {
       "from": "why-explanation-fails",

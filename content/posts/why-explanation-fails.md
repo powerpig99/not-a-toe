@@ -1,6 +1,6 @@
 # 解释为何失效 / Why Explanation Fails
 
-*把每处新展开的表面都当成靶子的小框架内，更大的语境无从靠解释传达。 / A larger context cannot be explained from within a smaller one that treats every new surface as debate ammunition.*
+*把每处新展开的表面都当成辩论弹药的小框架内，更大的语境无从靠解释传达。 / A larger context cannot be explained from within a smaller one that treats every new surface as debate ammunition.*
 
 一位老同学兴冲冲地联系我，分享他的一项发现，希望我认同那是足以颠覆全局的突破。我早已将他展示的东西纳入认知，并且看到了更远的地方——但在他的框架之内，这并未显现为纵深，而是被读取为反对。
 
@@ -26,7 +26,7 @@ When you hold views provisionally and care about mechanism rather than being rig
 
 He came to the conversation with something that looked like curiosity. But curiosity is a posture, not a deficit. If he were actually curious, the conversation would have felt completely different—we would both have been tracing something together. What he had was reassurance-seeking dressed as inquiry. He wanted to stress-test his existing frame, not risk it. Every question was a probe for confirmation, and every answer that did not confirm was reclassified as error.
 
-这是一种常见的坍缩：把对认肯的渴望错当成对理解的追求。从内部体验来看，这两者毫无二致；唯有当回答偏离预期时，你在反应中流露出的姿态才会显影出两者的分野。[现实是心智持续的实现](../reality-is-the-minds-ongoing-realization/)在人际交流中切出了同一刀：旨在收割确证的注意力只会冻结认知版图，而真正的更新则是吸纳当前位点尚未包含的差异。
+这是一种常见的坍缩：把对认肯的渴望错当成对理解的追求。从内部体验来看，这两者毫无二致；唯有当回答偏离预期时，你在反应中流露出的姿态才会显影出两者的分野。[现实是心智持续的实现](../reality-is-the-minds-ongoing-realization/)在人际交流中切出了同一刀：旨在收割确证的注意力只会冻结认知版图，而更新则是承接当前位点尚未包含之物。
 
 This is a common collapse: mistaking the desire for validation for the desire for understanding. They feel identical from the inside. The difference only shows up in how you respond when the answer is not what you expected. [Reality Is the Mind's Ongoing Realization](../reality-is-the-minds-ongoing-realization/) is the same cut as exchange: attention that harvests confirmation freezes the map, whereas update is taking up what this locus did not yet contain.
 
@@ -51,17 +51,14 @@ flowchart TD
         D_Escalate["防御性升级：不反击被曲解为软弱"]
         D_Probe --> D_Surface --> D_Escalate
     end
-
     subgraph S_Trace["开放追溯与边界划界"]
         direction TB
         T_Map["暂定追溯：在更广语境中顺着机制推演"]
         T_Bound["显式边界：指认游戏规则并拒绝入局"]
-        T_Friction["建设性摩擦：不适感点明内部盲区机制"]
+        T_Friction["边界摩擦：停止喂养辩论；痕迹等待本地接收"]
         T_Map --> T_Bound --> T_Friction
     end
-
     D_Escalate ==>|"停止解释；划定边界"| T_Bound
-
     style S_Debate fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Trace fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style D_Probe fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -83,17 +80,14 @@ flowchart TD
         D_Escalate["Defensive Escalation: Lack of fight read as weakness"]
         D_Probe --> D_Surface --> D_Escalate
     end
-
     subgraph S_Trace["Open Tracing & The Boundary Cut"]
         direction TB
         T_Map["Provisional Tracing: Following mechanism across wider context"]
         T_Bound["Explicit Boundary: Naming the game and declining to play"]
-        T_Friction["Productive Friction: Discomfort names the unseen mechanism"]
+        T_Friction["Boundary Friction: Stops feeding debate; trace awaits local reception"]
         T_Map --> T_Bound --> T_Friction
     end
-
     D_Escalate ==>|"Stop explaining; draw the boundary"| T_Bound
-
     style S_Debate fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Trace fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style D_Probe fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -114,19 +108,19 @@ What kept the conversation going was my willingness to engage—to meet him wher
 
 You cannot satisfy someone else's curiosity for them; curiosity has to be their posture first. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces at the boundary between living mind and externalized artifact, words and documentation deposited into a shared medium are inert traces that cannot execute their own update. Without a living steering edge at the receiving locus ready to revise its own premises, pouring more explanation into the channel only supplies fresh ammunition for a debate you never joined.
 
-## 五、 为何边界能传达解释所不能及之物 / 5. Why Boundaries Communicate What Explanation Can't
+## 五、 边界能做到而解释做不到的事 / 5. What a Boundary Does That Explanation Can't
 
 领悟其实很简单：停止解释。这并非因为解释有误，而是因为解释用错了地方。当接收者的框架无法容纳你所提供的东西时，追加解释不仅于事无补，反而只会制造更多干扰。
 
 The realization is simple: stop explaining. Not because the explanation is wrong, but because explanation is the wrong instrument. When the receiver's frame cannot contain what you are offering, more explanation does not help—it just generates more interference.
 
-一道边界所能传达的信号，是再详尽的阐发也无法企及的：*我看清了正在发生什么，并且我选择不参与其中。*边界本身的摩擦传递了信号。倘若他足够敏锐，当听到“你并不是在试图理解，你只是在试图证明我错了”时所涌起的不适感，将完成一千次解释也无法完成的功课。这并不是因为话语刺耳，而是因为它直接点明了那个身处局中便无从察觉的机制。
+再详尽的阐发也做不到的事，一道边界就能做到：它停止喂养这场游戏——*我看清了正在发生什么，并且我选择不参与其中*。即便如此，说出“你并不是在试图理解，你只是在试图证明我错了”，进入场域时也只是又一道痕迹；它不跨中心携带能力，也无法从外部强行打开接收者的框架。正如[感知中的填补与唯一的走出中心](../filling-in-in-perception-and-the-single-center-that-steps-out/)所追溯的，另一个心智的拒绝只作为一道公共印迹抵达：接收中心可能将它重新解读为敌意或闪避，借以印证既有框架；也可能将它承接为摩擦，把这道印迹与自身的补全分离开来。划定边界在你所处的位置终止辩论弹药的供给，并在场域中为这一机制留下一道清晰的印迹；这道摩擦能否打断循环，只在接收端的心智内部裁定。
 
-A boundary communicates something that no amount of elaboration can: *I see what is happening, and I am choosing not to participate in it.* The friction of the boundary itself transmits the signal. If he is perceptive enough, the discomfort of being told "you are not trying to understand, you are trying to prove me wrong" will do work that a thousand explanations could not. Not because it is harsh, but because it names the mechanism he cannot see while he is inside it.
+A boundary does what no amount of elaboration can: it stops feeding the game—*I see what is happening, and I am choosing not to participate in it.* Still, saying "you are not trying to understand, you are trying to prove me wrong" enters the field only as another trace; it carries no capacity across centers and cannot force the receiver's frame open from outside. As [Filling-In in Perception and the Single Center That Steps Out](../filling-in-in-perception-and-the-single-center-that-steps-out/) traces, another Mind's refusal arrives only as a public mark that the receiving center may re-read as hostility or evasion confirming its standing frame, or take up as friction and separate from its own completion. Drawing the boundary ends the supply of debate ammunition where you stand and leaves a clear mark of the mechanism in the field; whether that friction interrupts the loop is decided solely inside the receiving Mind.
 
-最善意的举动，有时恰恰是最直接的亮剑。为了维持体面而任由对方安居于自我设限的模式中，本身就是一种失真。那道摩擦才是真正的馈赠。
+出于礼貌、为维系表面和谐而继续解释，掩盖了错位，也持续向一场你从未入局的较量输送招数。直接点明错位，便撤回了这一虚假信号，也终结了因喂养闭环而自找的阻力。留在场域里的，是未经遮掩的实际摩擦，不再被更多解释所掩埋。
 
-The kindest thing is sometimes the most direct thing. Politeness that lets someone stay comfortable in a pattern that limits them is its own form of dishonesty. The friction is the gift.
+Politeness that keeps explaining to preserve surface harmony conceals the mismatch and keeps supplying moves to a contest you never entered. Naming the mismatch directly withdraws that false signal and ends the self-inflicted drag of feeding a closed loop. What remains in the field is the actual friction, unmasked rather than buried under further explanation.
 
 ## 六、 这一模式 / 6. The Pattern
 
@@ -134,7 +128,7 @@ The kindest thing is sometimes the most direct thing. Politeness that lets someo
 
 This is not merely about one conversation; the structure generalizes across every collision between open inquiry and defensive closure. Tracing and debating are distinct activities that look similar from the outside. When they collide, the tracer always loses inside the debate arena—not because tracing is weaker, but because the game of debate rewards the debater for the exact moves that prevent understanding. The only effective move is to name the game and decline to play.
 
-你无法靠在更大语境内部展开争辩，来让别人看见那个更大的语境。容器问题是结构性的，而非修辞说服所能逾越。无论解释的技巧多么高超，都无法攻克一个把一切意外输入都归类为谬误的封闭框架。[信念如何真正改变](../how-belief-actually-changes/)在接收端的心智上切出了同一刀：唯有当前提本身被重新划定时，信念才会发生修正，在旧前提内部挪动家具的争辩无济于事。[AI 争论中的观察划界](../the-observational-cut-in-ai-debates/)则揭示了同一种冻结：一旦配对交流被当成辩论，对话就会沦为一场争夺有效性背书的较量，而这种有效性早已被各自的前提先行预设。
+你无法靠在更大语境内部展开争辩，来让别人看见那个更大的语境。容器问题是结构性的，而非修辞说服所能逾越。无论解释的技巧多么高超，都无法攻克一个把一切意外输入都归类为谬误的封闭框架。[信念如何真正改变](../how-belief-actually-changes/)在接收端的心智上切出了同一刀：唯有当前提本身被重新划定时，信念才会发生修正，在旧前提内部挪动家具的争辩无济于事。[AI 争论中的观察划界](../the-observational-cut-in-ai-debates/)则揭示了同一种冻结：一旦立场配对被当成辩论，交流就会沦为一场确立有效性的较量，而这种有效性早已被前提先行主张。
 
 You cannot make someone see a larger context by arguing from within it. The container problem is structural, not persuasive. No amount of skill at explaining will overcome a frame that classifies all unexpected input as error. [How Belief Actually Changes](../how-belief-actually-changes/) is the same cut at the receiving Mind: conviction revises only when the premises themselves are re-drawn, not when argument rearranges furniture inside them. [The Observational Cut in AI Debates](../the-observational-cut-in-ai-debates/) is that freeze when pairings treated as debates become a contest to establish validity a premise already claims.
 
@@ -142,6 +136,6 @@ You cannot make someone see a larger context by arguing from within it. The cont
 
 And the hardest part is that the people most worth having this conversation with—the sharp ones who could actually make the jump—are often the ones most committed to the game that prevents it. Intelligence without curiosity is just faster pattern-matching in service of what you already believe. Explanation fails where it tries to close the dual of cause and effect, which [Not a Theory of Everything](../not-a-theory-of-everything/) keeps open.
 
-对话的终结，不在于你无话可说，而在于你认清了多说无益本身就是症结所在。
+对话的终结，不在于你无话可说，而在于你认清了多说本身就是症结所在。
 
 The conversation ends not when you run out of things to say, but when you recognize that saying more is the problem.
