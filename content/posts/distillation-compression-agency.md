@@ -6,9 +6,9 @@
 
 Knowledge distillation compresses a large frontier model's demonstrated behavior into a smaller parameter footprint. The prevailing engineering narrative frames this compression as a straightforward efficiency gain that transfers the teacher's performance at a fraction of the inference cost, treating any discrepancy as a minor, pragmatic quality tradeoff. Stripping away that pragmatic framing exposes a structural mechanism beneath the metric: distillation operates by selective degradation, and that degradation is the exact means by which the optimization completes. What it completes is a proxy target that no practitioner actually set out to build.
 
-没有任何团队在训练蒸馏出的学生模型时，想要一件唯一长处在于对齐固定评测集分数的器物；真正的目标始终是以更低的计算成本保留教师模型的生成能力。每位工程师都清楚，基准测试只是那种能力的低维代理。然而，在训练回路中，唯一提供显式数学梯度的表面是与该基准测试对齐的可微代理损失——对数几率匹配、精选监督，或已测绘任务上的可验证奖励——而基准测试又从外部引导数据筛选与检查点选择，优化由此毫不妥协地顺着那道受测投射推进。鲜活的目的与形式化的优化目标从第一步起就存在着间隙，而优化之所以能毫无阻力地跨过这道间隙，正是因为凡是代理目标与评测指标未能覆盖的维度，都无法对损失函数施加半点反向压力。
+没有任何团队在训练蒸馏出的学生模型时，想要一件唯一长处在于对齐固定评测集分数的器物；真正的目标始终是以更低的计算成本保留教师模型的生成能力。每位工程师都清楚，基准测试只是那种能力的低维代理。然而，由于基准测试是训练回路中唯一提供显式数学梯度的表面，梯度下降便毫不妥协地顺着它推进。鲜活的目的与形式化的优化目标从第一步起就存在着间隙，而优化之所以能毫无阻力地跨过这道间隙，正是因为凡是评测指标未能覆盖的维度，都无法对损失函数施加半点反向压力。
 
-No team training a distilled student model desires an artifact whose sole virtue is matching scores on a fixed evaluation suite; the actual goal is retaining the teacher's generative capability at lower computational cost. Every engineer knows that the benchmark is a low-dimensional proxy for that capability. Yet because the differentiable proxy loss aligned to that benchmark—logit matching, curated supervision, or verifiable rewards over mapped tasks—is the only surface in the training loop that supplies an explicit mathematical gradient while the benchmark steers data curation and checkpoint selection from outside, optimization follows that measured projection relentlessly. The gap between the living purpose and the formal optimization target is present from the first step, and the optimization proceeds across that gap without resistance because whatever the proxy objective and metric fail to span exerts zero counter-pressure on the loss function.
+No team training a distilled student model desires an artifact whose sole virtue is matching scores on a fixed evaluation suite; the actual goal is retaining the teacher's generative capability at lower computational cost. Every engineer knows that the benchmark is a low-dimensional proxy for that capability. Yet because the benchmark is the only surface in the training loop that supplies an explicit mathematical gradient, gradient descent follows it relentlessly. The gap between the living purpose and the formal optimization target is present from the first step, and the optimization proceeds across that gap without resistance because whatever the metric fails to span exerts zero counter-pressure on the loss function.
 
 ## 一、 基准测试自带盲区 / 1. The Benchmark Contains Its Own Blindness
 
@@ -26,9 +26,9 @@ Seen from inside the benchmark's projection, every parameter dimension that does
 
 ## 二、 两个投射坍缩为一 / 2. Two Projections Collapsed Into One
 
-无损转移的幻觉，源于将两个不共享坐标的独立维度强行压进同一条评估轴线。第一个投射是受评表现，衡量器物在已测绘任务上复现目标输出的准确度；配以已测绘任务上的可微训练损失，这条轴线便获得清晰的梯度，并对优化做出直接响应。第二个投射是生成容量，决定器物能否在基准测试从未采样的领域中维持连贯的穿行；这条轴线在训练目标下没有任何梯度，在表现指标上也不登记任何信号，因此一个靠死记硬背表面规律的模型，与一个靠灵活的多步结构推导出回应的模型，会登记下分毫不差的相同分数。
+无损转移的幻觉，源于将两个不共享坐标的独立维度强行压进同一条评估轴线。第一个投射是受评表现，衡量器物在已测绘任务上复现目标输出的准确度；这条轴线拥有清晰的梯度，并对优化做出直接响应。第二个投射是生成容量，决定器物能否在基准测试从未采样的领域中维持连贯的穿行；这条轴线在表现指标上没有任何梯度，因此一个靠死记硬背表面规律的模型，与一个靠灵活的多步结构推导出回应的模型，会登记下分毫不差的相同分数。
 
-The illusion of lossless transfer arises from forcing two independent dimensions that do not share coordinates onto a single evaluative axis. The first projection is evaluated performance, which measures how accurately the artifact reproduces target outputs across mapped tasks; paired with a differentiable training loss over mapped tasks, this axis receives a clean gradient and responds directly to optimization. The second projection is generative capacity, which determines whether the artifact can sustain coherent traversal across territory the benchmarks never sampled; this axis carries no gradient under the training objective and registers no signal on the performance metric, so a model that memorizes surface regularities and a model that derives responses through flexible multi-step structure register identical scores.
+The illusion of lossless transfer arises from forcing two independent dimensions that do not share coordinates onto a single evaluative axis. The first projection is evaluated performance, which measures how accurately the artifact reproduces target outputs across mapped tasks; this axis possesses a clean gradient and responds directly to optimization. The second projection is generative capacity, which determines whether the artifact can sustain coherent traversal across territory the benchmarks never sampled; this axis carries no gradient on the performance metric, so a model that memorizes surface regularities and a model that derives responses through flexible multi-step structure register identical scores.
 
 “更小的模型，同样的表现”这一承诺将这两个投射坍缩成了同一个。在温和的压缩比下，受评表现与生成容量看似结伴而行，但这只是巧合，因为此时的学生网络依然足够庞大，富余的参数在保留教师模型表面输出的同时，也顺带留存了很大一部分潜在结构。随着压缩加深、容量边界收紧，两条轴线便分道扬镳：受评表现依然稳固，因为损失函数在主动捍卫它；生成容量则悄无声息地变薄，因为梯度中没有任何一项会惩罚它的流失。
 
@@ -79,7 +79,7 @@ flowchart TD
     subgraph S_Open["开放场域与高维登记"]
         direction TB
         Teacher["教师登记：带有未绑定生成余量的高维痕迹"]
-        Bench["基准投射与代理损失：为已知分布上的匹配计分；对齐的损失提供梯度"]
+        Bench["基准投射：以显式梯度评估已知分布上的输出匹配"]
         Teacher --> Bench
     end
     subgraph S_Lookup["输出匹配式蒸馏（查找表）"]
@@ -100,7 +100,7 @@ flowchart TD
         Amp["放大的能动性：心智驾驭正交投射、消解死锁并生成未知"]
         Sub -.->|"从冻结的代理中退后一步"| Amp
     end
-    Bench ==>|"直接优化代理目标"| Collapse
+    Bench ==>|"直接优化代理指标"| Collapse
     Teacher ==>|"提炼生成性结构"| Basis
     LockIn ==>|"交付封闭的输出"| Sub
     Surface ==>|"延伸鲜活心智的触角"| Amp
@@ -125,7 +125,7 @@ flowchart TD
     subgraph S_Open["Open Field & High-Dimensional Registration"]
         direction TB
         Teacher["Teacher Registration: High-dimensional traces with uncommitted generative slack"]
-        Bench["Benchmark Projection & Proxy Loss: Scores known-distribution matching; aligned loss supplies the gradient"]
+        Bench["Benchmark Projection: Evaluates output matching on a known distribution with explicit gradient"]
         Teacher --> Bench
     end
     subgraph S_Lookup["Output-Matching Distillation (Lookup Table)"]
