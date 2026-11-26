@@ -26,6 +26,14 @@ const contentDir = path.join(scriptDir, 'content', 'posts');
 const outputDir = path.join(scriptDir, 'public');
 const coversDir = path.join(scriptDir, 'assets', 'covers');
 const figuresDir = path.join(scriptDir, 'assets', 'figures');
+const presentationsDir = path.join(scriptDir, 'assets', 'presentations');
+const PRESENTATION_ROUTES = [
+  {
+    slug: 'no-second-edge',
+    template: 'no-second-edge.html',
+    socialImage: 'assets/covers/the-model-never-becomes-a-second-edge.jpg',
+  },
+];
 // The films of a post: data/youtube.json is the uploader's ledger, { videos: { <slug>: { en: { id }, zh: { id } } } }.
 const youtubeFile = path.join(scriptDir, 'data', 'youtube.json');
 const YOUTUBE = fs.existsSync(youtubeFile) ? (JSON.parse(fs.readFileSync(youtubeFile, 'utf8')).videos ?? {}) : {};
@@ -1529,6 +1537,11 @@ ${tocItems}
         <span class="toc-title">${renderBilingualInline(premiseIndex.title)}</span>
         <span class="meta">${counts}</span>
       </a>
+      <a class="toc-index" href="${withBase('no-second-edge/')}">
+        <span class="toc-num">${bilingualSpan('交互演示', 'Interactive Deck')}</span>
+        <span class="toc-title">${bilingualSpan('没有第二重前沿', 'No Second Edge')}</span>
+        <span class="meta">${bilingualSpan('致《最后一页无聊的幻灯片》的正交回应 · 方向键翻页，A 自动播放，L 切换中英', 'An orthogonal response to “The Last Boring Slide” · Arrows to move, A autoplay, L EN/中文')}</span>
+      </a>
     </section>
     <section class="journal-latest">
       <h2 class="book-section-title">${bilingualSpan('最近的日志', 'Latest from the Journal')}</h2>
@@ -1956,6 +1969,11 @@ function generateSitemap(posts, book = null) {
   if (book) {
     staticPaths.push('journal/', 'about/', book.premiseIndex.outputPath, ...book.parts.map((part) => part.outputPath));
   }
+  for (const pres of PRESENTATION_ROUTES) {
+    if (fs.existsSync(path.join(presentationsDir, pres.template))) {
+      staticPaths.push(`${pres.slug}/`);
+    }
+  }
   const staticRows = staticPaths.map((p) => `  <url><loc>${xmlEscape(absoluteUrl(p))}</loc></url>`);
   const postRows = posts.map(
     (post) =>
@@ -2060,6 +2078,43 @@ function copyStaticAssets() {
   }
 }
 
+function buildPresentations(posts, book = null) {
+  const entryCount = book ? book.premiseIndex.sections.reduce((n, s) => n + s.entries.length, 0) : 0;
+  const bookData = {
+    postCount: posts.length,
+    partCount: book ? book.parts.length : 0,
+    premiseCount: entryCount,
+    parts: book
+      ? book.parts.map((part) => {
+          const titles = splitBilingual(part.title);
+          return {
+            slug: part.slug,
+            number: part.number,
+            titleZh: titles.zh,
+            titleEn: titles.en || titles.zh,
+            count: part.slugs.length,
+            url: `../${part.outputPath}`,
+          };
+        })
+      : [],
+  };
+  const safeBookJson = JSON.stringify(bookData).replaceAll('</', '<\\/');
+
+  for (const pres of PRESENTATION_ROUTES) {
+    const templatePath = path.join(presentationsDir, pres.template);
+    if (!fs.existsSync(templatePath)) continue;
+    const raw = fs.readFileSync(templatePath, 'utf8');
+    const canonicalUrl = absoluteUrl(`${pres.slug}/`);
+    const socialImageUrl = pres.socialImage ? absoluteSourceUrl(pres.socialImage) : SITE.socialImage;
+    const html = raw
+      .replaceAll('__CANONICAL_URL__', canonicalUrl)
+      .replaceAll('__SOCIAL_IMAGE_URL__', socialImageUrl)
+      .replaceAll('__FAVICON_DATA_URI__', faviconDataUri)
+      .replaceAll('__BOOK_DATA_JSON__', safeBookJson);
+    writeFile(path.join(pres.slug, 'index.html'), html);
+  }
+}
+
 function build() {
   const files = listPostFiles();
   restorePostMtimesFromGit(files);
@@ -2081,6 +2136,8 @@ function build() {
   } else {
     writeFile('index.html', renderIndex(posts));
   }
+
+  buildPresentations(posts, book);
 
   posts.forEach((post, index) => {
     const newer = index > 0 ? posts[index - 1] : null;

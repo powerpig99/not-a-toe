@@ -1,0 +1,3289 @@
+<!DOCTYPE html>
+<html lang="en" data-lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>No Second Edge / 没有第二重前沿 — Not a ToE</title>
+  <meta name="description" content="An orthogonal interactive response to The Last Boring Slide from the Not a ToE Living Book. Arrow keys to move, A for autoplay, L for EN/中文, F for fullscreen.">
+  <link rel="canonical" href="__CANONICAL_URL__">
+  <meta property="og:site_name" content="Not a ToE">
+  <meta property="og:title" content="No Second Edge / 没有第二重前沿 — Not a ToE">
+  <meta property="og:description" content="A slide that opens where The Last Boring Slide ends — and steps 90° orthogonal. Arrow keys to move, A to play, L for EN/中文, F for fullscreen.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="__CANONICAL_URL__">
+  <meta property="og:image" content="__SOCIAL_IMAGE_URL__">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="No Second Edge / 没有第二重前沿 — Not a ToE">
+  <meta name="twitter:description" content="An orthogonal interactive response to The Last Boring Slide from the Not a ToE Living Book.">
+  <meta name="twitter:image" content="__SOCIAL_IMAGE_URL__">
+  <link rel="icon" href="__FAVICON_DATA_URI__" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="../apple-touch-icon.png">
+  <style>
+    :root {
+      --font-sans: -apple-system, BlinkMacSystemFont, "Inter", "SF Pro Display", "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Noto Sans CJK SC", sans-serif;
+      --font-serif: Georgia, "Times New Roman", "Songti SC", "STSong", "Noto Serif CJK SC", "Source Han Serif SC", serif;
+      --font-mono: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      --blue: #2563eb;
+      --emerald: #3fb950;
+      --amber: #d29922;
+      --sky: #58a6ff;
+      --violet: #a371f7;
+      --crimson: #f85149;
+      --ink-dark: #f0f6fc;
+      --ink-muted-dark: rgba(240, 246, 252, 0.72);
+      --ink-light: #111827;
+      --ink-muted-light: rgba(17, 24, 39, 0.62);
+    }
+
+    *, *::before, *::after { box-sizing: border-box; }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background: #070a10;
+      color: var(--ink-dark);
+      font-family: var(--font-sans);
+      -webkit-font-smoothing: antialiased;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+    }
+
+    #stage {
+      position: fixed;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      display: block;
+      z-index: 1;
+    }
+
+    /* Editorial Overlay Layer */
+    #overlay {
+      position: fixed;
+      inset: 0;
+      z-index: 10;
+      pointer-events: none;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      padding: clamp(14px, 2.2vw, 28px) clamp(16px, 3vw, 40px);
+      transition: color 0.55s ease;
+    }
+
+    html[data-theme="light"] #overlay { color: var(--ink-light); }
+    html[data-theme="dark"] #overlay { color: var(--ink-dark); }
+
+    /* Top Bar */
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      pointer-events: none;
+      z-index: 30;
+    }
+
+    .brand-link {
+      pointer-events: auto;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-family: var(--font-serif);
+      font-size: 0.92rem;
+      font-weight: 700;
+      letter-spacing: 0.015em;
+      text-decoration: none;
+      color: inherit;
+      opacity: 0.68;
+      padding: 6px 10px;
+      border-radius: 999px;
+      transition: opacity 0.25s ease, background 0.25s ease;
+    }
+
+    .brand-link:hover {
+      opacity: 1;
+      background: rgba(128, 128, 128, 0.14);
+    }
+
+    .brand-dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: var(--emerald);
+      box-shadow: 0 0 10px rgba(63, 185, 80, 0.7);
+    }
+
+    .controls {
+      pointer-events: auto;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 4px;
+      border-radius: 999px;
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      transition: background 0.45s ease, border-color 0.45s ease;
+    }
+
+    html[data-theme="dark"] .controls {
+      background: rgba(13, 17, 23, 0.52);
+      border: 1px solid rgba(240, 246, 252, 0.13);
+    }
+
+    html[data-theme="light"] .controls {
+      background: rgba(255, 255, 255, 0.72);
+      border: 1px solid rgba(17, 24, 39, 0.12);
+    }
+
+    .ctrl-btn {
+      appearance: none;
+      border: none;
+      background: transparent;
+      color: inherit;
+      font-family: var(--font-mono);
+      font-size: 0.74rem;
+      letter-spacing: 0.03em;
+      padding: 6px 10px;
+      border-radius: 999px;
+      cursor: pointer;
+      opacity: 0.78;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      transition: opacity 0.2s ease, background 0.2s ease, color 0.2s ease;
+    }
+
+    .ctrl-btn:hover {
+      opacity: 1;
+      background: rgba(128, 128, 128, 0.16);
+    }
+
+    .ctrl-btn.active {
+      opacity: 1;
+      background: rgba(63, 185, 80, 0.2);
+      color: var(--emerald);
+    }
+
+    html[data-theme="light"] .ctrl-btn.active {
+      background: rgba(37, 99, 235, 0.14);
+      color: var(--blue);
+    }
+
+    /* Center Copy Stage */
+    #copy-stage {
+      position: relative;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      align-items: flex-start;
+      pointer-events: none;
+      padding-bottom: clamp(10px, 1.6vh, 18px);
+      max-width: 1180px;
+      width: 100%;
+      margin: 0 auto;
+    }
+
+    #copy-stage.align-center {
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding-bottom: 0;
+    }
+
+    #copy-stage.align-top {
+      justify-content: flex-start;
+      align-items: flex-start;
+      padding-top: clamp(12px, 2.8vh, 34px);
+    }
+
+    #copy-stage.align-bottom-center {
+      justify-content: flex-end;
+      align-items: center;
+      text-align: center;
+      padding-bottom: clamp(10px, 1.6vh, 18px);
+    }
+
+    .copy-card {
+      max-width: min(760px, 92vw);
+      transition: opacity 0.55s cubic-bezier(0.22, 1, 0.36, 1), transform 0.65s cubic-bezier(0.22, 1, 0.36, 1);
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .copy-card.scrim {
+      max-width: min(880px, 92vw);
+      padding: clamp(13px, 1.6vw, 18px) clamp(16px, 2.2vw, 24px);
+      border-radius: 13px;
+      background: linear-gradient(135deg, rgba(7, 10, 16, 0.80), rgba(7, 10, 16, 0.60));
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border: 1px solid rgba(240, 246, 252, 0.11);
+      box-shadow: 0 18px 46px rgba(0, 0, 0, 0.42);
+    }
+
+    .copy-card.entering {
+      opacity: 0;
+      transform: translateY(16px);
+    }
+
+    .kicker {
+      font-family: var(--font-mono);
+      font-size: clamp(0.66rem, 0.9vw, 0.74rem);
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--emerald);
+      margin: 0 0 6px;
+      opacity: 0.94;
+    }
+
+    html[data-theme="light"] .kicker {
+      color: var(--blue);
+    }
+
+    .headline {
+      margin: 0;
+      font-size: clamp(1.32rem, 2.4vw, 2.08rem);
+      font-weight: 700;
+      line-height: 1.18;
+      letter-spacing: -0.022em;
+      text-wrap: balance;
+    }
+
+    html[data-lang="zh"] .headline {
+      letter-spacing: -0.005em;
+      line-height: 1.24;
+    }
+
+    .headline.serif {
+      font-family: var(--font-serif);
+      font-weight: 600;
+      font-size: clamp(1.75rem, 4.1vw, 3.35rem);
+      line-height: 1.22;
+    }
+
+    .headline-secondary {
+      display: block;
+      margin-top: 0.35em;
+      color: var(--emerald);
+      opacity: 0;
+      transform: translateY(10px);
+      transition: opacity 0.8s ease, transform 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+
+    .headline-secondary.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .subcopy {
+      margin: 9px 0 0;
+      font-size: clamp(0.86rem, 1.15vw, 1.01rem);
+      line-height: 1.54;
+      color: rgba(240, 246, 252, 0.78);
+      max-width: 74ch;
+      text-wrap: pretty;
+    }
+
+    html[data-theme="light"] .subcopy {
+      color: var(--ink-muted-light);
+    }
+
+    .subcopy.serif {
+      font-family: var(--font-serif);
+      font-size: clamp(1.02rem, 1.55vw, 1.22rem);
+      line-height: 1.8;
+      margin-top: 22px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .interaction-hint {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 14px;
+      font-family: var(--font-mono);
+      font-size: 0.74rem;
+      letter-spacing: 0.04em;
+      padding: 5px 11px;
+      border-radius: 999px;
+      background: rgba(63, 185, 80, 0.14);
+      border: 1px solid rgba(63, 185, 80, 0.32);
+      color: var(--emerald);
+    }
+
+    /* Scene 12: Living Book Portal Overlay */
+    #portal-panel {
+      display: none;
+      pointer-events: auto;
+      width: min(1040px, 94vw);
+      max-height: calc(100vh - 150px);
+      overflow-y: auto;
+      margin: auto;
+      padding: clamp(20px, 3vw, 36px);
+      border-radius: 18px;
+      background: rgba(9, 12, 18, 0.78);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border: 1px solid rgba(240, 246, 252, 0.12);
+      box-shadow: 0 30px 90px rgba(0, 0, 0, 0.65);
+    }
+
+    #portal-panel.visible {
+      display: block;
+      animation: portalFade 0.75s cubic-bezier(0.22, 1, 0.36, 1) both;
+    }
+
+    @keyframes portalFade {
+      from { opacity: 0; transform: translateY(18px) scale(0.985); }
+      to { opacity: 1; transform: translateY(0) scale(1); }
+    }
+
+    .portal-head {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: flex-end;
+      gap: 16px;
+      padding-bottom: 18px;
+      border-bottom: 1px solid rgba(240, 246, 252, 0.12);
+      margin-bottom: 20px;
+    }
+
+    .portal-title {
+      font-family: var(--font-serif);
+      font-size: clamp(1.5rem, 3vw, 2.35rem);
+      font-weight: 700;
+      margin: 0;
+      line-height: 1.2;
+    }
+
+    .portal-sub {
+      margin: 8px 0 0;
+      font-size: clamp(0.9rem, 1.3vw, 1.02rem);
+      color: var(--ink-muted-dark);
+      line-height: 1.6;
+      max-width: 60ch;
+    }
+
+    .portal-stats {
+      font-family: var(--font-mono);
+      font-size: 0.78rem;
+      color: var(--emerald);
+      letter-spacing: 0.04em;
+      white-space: nowrap;
+    }
+
+    .portal-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(225px, 1fr));
+      gap: 10px;
+      margin-bottom: 22px;
+    }
+
+    .portal-card {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      gap: 6px;
+      padding: 12px 14px;
+      border-radius: 10px;
+      text-decoration: none;
+      color: var(--ink-dark);
+      background: rgba(240, 246, 252, 0.035);
+      border: 1px solid rgba(240, 246, 252, 0.09);
+      transition: border-color 0.2s ease, background 0.2s ease, transform 0.2s ease;
+    }
+
+    .portal-card:hover {
+      background: rgba(63, 185, 80, 0.1);
+      border-color: rgba(63, 185, 80, 0.45);
+      transform: translateY(-2px);
+    }
+
+    .portal-card-kicker {
+      font-family: var(--font-mono);
+      font-size: 0.68rem;
+      color: var(--sky);
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    .portal-card-title {
+      font-family: var(--font-serif);
+      font-size: 0.94rem;
+      font-weight: 600;
+      line-height: 1.38;
+    }
+
+    .portal-actions {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .portal-cta {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 18px;
+      border-radius: 999px;
+      font-size: 0.9rem;
+      font-weight: 600;
+      text-decoration: none;
+      cursor: pointer;
+      border: 1px solid transparent;
+      transition: transform 0.2s ease, background 0.2s ease, border-color 0.2s ease;
+    }
+
+    .portal-cta.primary {
+      background: var(--emerald);
+      color: #07120a;
+    }
+
+    .portal-cta.primary:hover {
+      transform: translateY(-1px);
+      background: #4cc95e;
+    }
+
+    .portal-cta.secondary {
+      background: rgba(240, 246, 252, 0.06);
+      border-color: rgba(240, 246, 252, 0.18);
+      color: var(--ink-dark);
+    }
+
+    .portal-cta.secondary:hover {
+      background: rgba(240, 246, 252, 0.12);
+      border-color: rgba(240, 246, 252, 0.34);
+    }
+
+    /* Bottom Bar */
+    .bottombar {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 16px;
+      z-index: 30;
+      pointer-events: none;
+    }
+
+    .citations {
+      pointer-events: auto;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 8px;
+      max-width: 72%;
+    }
+
+    .cite-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-family: var(--font-serif);
+      font-size: 0.78rem;
+      text-decoration: none;
+      color: inherit;
+      padding: 4px 10px;
+      border-radius: 999px;
+      opacity: 0.72;
+      transition: opacity 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+    }
+
+    html[data-theme="dark"] .cite-pill {
+      background: rgba(13, 17, 23, 0.55);
+      border: 1px solid rgba(240, 246, 252, 0.14);
+    }
+
+    html[data-theme="light"] .cite-pill {
+      background: rgba(255, 255, 255, 0.78);
+      border: 1px solid rgba(17, 24, 39, 0.14);
+    }
+
+    .cite-pill:hover {
+      opacity: 1;
+      border-color: var(--emerald);
+    }
+
+    .nav-cluster {
+      pointer-events: auto;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .slide-counter {
+      font-family: var(--font-mono);
+      font-size: 0.82rem;
+      letter-spacing: 0.04em;
+      opacity: 0.62;
+      padding-right: 4px;
+      font-variant-numeric: tabular-nums;
+      transition: color 0.3s ease, opacity 0.3s ease;
+    }
+
+    .nav-arrow {
+      appearance: none;
+      width: 34px;
+      height: 34px;
+      border-radius: 50%;
+      border: 1px solid currentColor;
+      background: transparent;
+      color: inherit;
+      opacity: 0.45;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.95rem;
+      transition: opacity 0.2s ease, transform 0.2s ease, background 0.2s ease;
+    }
+
+    .nav-arrow:hover:not(:disabled) {
+      opacity: 0.95;
+      background: rgba(128, 128, 128, 0.16);
+    }
+
+    .nav-arrow:disabled {
+      opacity: 0.16;
+      cursor: default;
+    }
+
+    /* Progress Hairline */
+    #progress-track {
+      position: fixed;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      height: 2px;
+      z-index: 40;
+      background: rgba(128, 128, 128, 0.14);
+      pointer-events: none;
+    }
+
+    #progress-fill {
+      height: 100%;
+      width: 8.33%;
+      background: var(--emerald);
+      transition: width 0.6s cubic-bezier(0.22, 1, 0.36, 1), background 0.45s ease;
+    }
+
+    html[data-theme="light"] #progress-fill {
+      background: var(--blue);
+    }
+
+    /* Start Gate subtle toast on Scene 1 */
+    .start-whisper {
+      position: fixed;
+      bottom: 54px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 25;
+      font-family: var(--font-mono);
+      font-size: 0.76rem;
+      letter-spacing: 0.03em;
+      color: rgba(17, 24, 39, 0.56);
+      background: rgba(255, 255, 255, 0.82);
+      border: 1px solid rgba(17, 24, 39, 0.1);
+      padding: 6px 14px;
+      border-radius: 999px;
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 0.6s ease;
+      white-space: nowrap;
+      max-width: 92vw;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .start-whisper.visible { opacity: 1; }
+
+    /* Responsive tuning */
+    @media (max-width: 680px) {
+      .citations { max-width: 60%; }
+      .cite-pill { font-size: 0.7rem; padding: 3px 8px; }
+      .ctrl-btn span.keycap { display: none; }
+      .portal-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <canvas id="stage" aria-label="Interactive visual presentation canvas"></canvas>
+
+  <div id="overlay">
+    <div class="topbar">
+      <a class="brand-link" href="../" id="brand-link">
+        <span class="brand-dot" aria-hidden="true"></span>
+        <span id="brand-text">Not a ToE</span>
+      </a>
+      <div class="controls" role="toolbar" aria-label="Presentation controls">
+        <button class="ctrl-btn" id="btn-lang" type="button" title="Switch language (L)">中文</button>
+        <button class="ctrl-btn" id="btn-auto" type="button" title="Toggle autoplay (A)">▶ <span id="lbl-auto">Auto</span></button>
+        <button class="ctrl-btn" id="btn-sound" type="button" title="Toggle sound (M)">♪ <span id="lbl-sound">Off</span></button>
+        <button class="ctrl-btn" id="btn-fs" type="button" title="Toggle fullscreen (F)">⛶</button>
+      </div>
+    </div>
+
+    <main id="copy-stage">
+      <div class="copy-card" id="copy-card">
+        <p class="kicker" id="kicker"></p>
+        <h1 class="headline" id="headline"></h1>
+        <p class="subcopy" id="subcopy"></p>
+        <div id="hint-slot"></div>
+      </div>
+
+      <section id="portal-panel" aria-label="Enter the Living Book">
+        <div class="portal-head">
+          <div>
+            <h2 class="portal-title" id="portal-title"></h2>
+            <p class="portal-sub" id="portal-sub"></p>
+          </div>
+          <div class="portal-stats" id="portal-stats"></div>
+        </div>
+        <div class="portal-grid" id="portal-grid"></div>
+        <div class="portal-actions">
+          <a class="portal-cta primary" id="cta-book" href="../"></a>
+          <a class="portal-cta secondary" id="cta-index" href="../book/index-of-premises/"></a>
+          <button class="portal-cta secondary" id="cta-replay" type="button"></button>
+        </div>
+      </section>
+    </main>
+
+    <div class="bottombar">
+      <div class="citations" id="citations"></div>
+      <div class="nav-cluster">
+        <span class="slide-counter" id="slide-counter">1</span>
+        <button class="nav-arrow" id="btn-prev" type="button" aria-label="Previous slide">←</button>
+        <button class="nav-arrow" id="btn-next" type="button" aria-label="Next slide">→</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="start-whisper" id="start-whisper"></div>
+  <div id="progress-track"><div id="progress-fill"></div></div>
+
+  <script>
+  (() => {
+    'use strict';
+
+    /* =========================================================================
+       LIVE LIVING-BOOK DATA (Injected by build.mjs; safe fallback standalone)
+       ========================================================================= */
+    const BOOK_DATA = __BOOK_DATA_JSON__;
+
+    /* =========================================================================
+       BILINGUAL CONTENT CORPUS — Strict Language Separation (EN / 中文)
+       ========================================================================= */
+    const UI = {
+      en: {
+        brand: 'Not a ToE',
+        langToggle: '中文',
+        autoOff: 'Auto',
+        autoOn: 'Playing',
+        soundOff: 'Sound',
+        soundOn: 'On',
+        startWhisper: 'Press → or click anywhere · even this deck waits for you',
+        portalTitle: 'Not a ToE — A Non-Definitive Guide for the Mind',
+        portalSub: `A living externalized memory lattice: ${BOOK_DATA.postCount} essays across ${BOOK_DATA.partCount} parts, ${BOOK_DATA.premiseCount} premises traced back to their boundary. Keep tracing.`,
+        portalStats: `${BOOK_DATA.partCount} PARTS · ${BOOK_DATA.postCount} ESSAYS · ${BOOK_DATA.premiseCount} PREMISES`,
+        ctaBook: 'Enter the Living Book →',
+        ctaIndex: 'Index of Premises',
+        ctaReplay: '↺ Replay from Slide 1',
+      },
+      zh: {
+        brand: '非万物之理',
+        langToggle: 'EN',
+        autoOff: '自动',
+        autoOn: '播放中',
+        soundOff: '声音',
+        soundOn: '开启',
+        startWhisper: '按 → 或点击任意处 · 连这套演示也在等你发起',
+        portalTitle: '非万物之理 — 非定论的心智指南',
+        portalSub: `一座活的外化记忆晶格：${BOOK_DATA.partCount} 部、${BOOK_DATA.postCount} 篇随笔、${BOOK_DATA.premiseCount} 条前提索引，将每一项信念追溯至其不完备的边界。持续描摹。`,
+        portalStats: `${BOOK_DATA.partCount} 部 · ${BOOK_DATA.postCount} 篇随笔 · ${BOOK_DATA.premiseCount} 条前提`,
+        ctaBook: '进入活书 →',
+        ctaIndex: '前提索引',
+        ctaReplay: '↺ 从第一页重播',
+      }
+    };
+
+    const PORTAL_ESSAYS = [
+      {
+        slug: 'manifesto-of-not-a-theory-of-everything',
+        tag: { en: 'Method', zh: '方法' },
+        title: { en: 'Not a Theory of Everything', zh: '非万物之理' }
+      },
+      {
+        slug: 'the-model-never-becomes-a-second-edge',
+        tag: { en: 'Core Cut', zh: '核心切分' },
+        title: { en: 'The Model Never Becomes a Second Edge', zh: '模型永远无法成为第二重前沿' }
+      },
+      {
+        slug: 'machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence',
+        tag: { en: 'Conditioning', zh: '逐层条件' },
+        title: { en: 'Machine Intelligence as the Combinatorial Feedback Loop', zh: '机器智能作为人类智能的组合反馈回路' }
+      },
+      {
+        slug: 'the-folded-self-image-and-the-bound-of-simulation',
+        tag: { en: 'Simulation Bound', zh: '模拟上界' },
+        title: { en: 'The Folded Self-Image and the Bound of Simulation', zh: '折返的自我形象与模拟的上界' }
+      },
+      {
+        slug: 'what-always-listens-cannot-originate',
+        tag: { en: 'Initiation', zh: '发起之位' },
+        title: { en: 'What Always Listens Cannot Originate', zh: '总在倾听者无法发起' }
+      },
+      {
+        slug: 'agi-and-asi-are-temporary-goalposts',
+        tag: { en: 'Moving Horizon', zh: '移动视界' },
+        title: { en: 'AGI and ASI Are Temporary Goalposts', zh: 'AGI 与 ASI 是加速通用智能的暂时球门' }
+      },
+      {
+        slug: 'chollet-intelligence-explosion-analysis',
+        tag: { en: 'Compounding', zh: '指数复利' },
+        title: { en: 'The Shadow Mistaken for the Object', zh: '被误认作实体的阴影' }
+      },
+      {
+        slug: 'actual-infinity-born-inside-potential-infinity',
+        tag: { en: 'Infinity', zh: '潜无限' },
+        title: { en: 'Actual Infinity Born Inside Potential Infinity', zh: '实无限生于潜无限' }
+      }
+    ];
+
+    const SCENES = [
+      {
+        id: 'tilted-opening',
+        theme: 'light',
+        align: 'center',
+        scrim: false,
+        hideCopyCard: true,
+        duration: 7.5,
+        counter: { en: '1', zh: '1' },
+        kicker: { en: '', zh: '' },
+        headline: { en: '', zh: '' },
+        sub: { en: '', zh: '' },
+        cites: []
+      },
+      {
+        id: 'conditional-chain',
+        theme: 'dark',
+        align: 'bottom-left',
+        scrim: true,
+        duration: 10.5,
+        counter: { en: '2', zh: '2' },
+        kicker: { en: '01 · THE UNMENTIONED PREMISE', zh: '01 · 被略去的前提' },
+        headline: {
+          en: 'Conditional all the way down.',
+          zh: '层层皆有条件。'
+        },
+        sub: {
+          en: 'Someone wrote the prompt. Someone judged and accepted the output. Centuries of human traces, post-training, and sandbox code shaped every token. The deck staged an unconditional takeoff through a conditional chain.',
+          zh: '有人写下提示词，有人检验并验收了结果。前人留下的语料、后训练偏好与沙箱代码共同为每一个词元施加了条件。它上演了一场无条件的起飞——却由一条有条件的因果链生成。'
+        },
+        cites: [
+          { slug: 'the-model-never-becomes-a-second-edge', en: 'The Model Never Becomes a Second Edge', zh: '模型永远无法成为第二重前沿' },
+          { slug: 'machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence', en: 'Combinatorial Feedback Loop', zh: '人类智能的组合反馈回路' }
+        ]
+      },
+      {
+        id: 'better-score',
+        theme: 'dark',
+        align: 'bottom-left',
+        scrim: true,
+        duration: 9.5,
+        counter: { en: '3', zh: '3' },
+        kicker: { en: '02 · RECOMBINING TASTE', zh: '02 · 重组品位' },
+        headline: {
+          en: '“Better” is a scoring function, not a second edge.',
+          zh: '“更好”是评分函数，不是第二重前沿。'
+        },
+        sub: {
+          en: 'Densifying traces expands reach at astonishing speed. Yet rendering a sleeker frame never relocates the center that judges what counts as better.',
+          zh: '将痕迹压实能以惊人的速度扩展触达。但渲染出更精致的画面，从不把裁断“何为更好”的中心迁入器物之中。'
+        },
+        cites: [
+          { slug: 'the-category-error-of-better', en: 'The Category Error of Better', zh: '「更好」的范畴谬误' },
+          { slug: 'two-failures-of-trace', en: 'Artifacts Are Expressions of Intelligence', zh: '器物是智能的表达，而非智能本身' }
+        ]
+      },
+      {
+        id: 'orthogonal-axis',
+        theme: 'dark',
+        align: 'bottom-left',
+        scrim: true,
+        duration: 11.0,
+        counter: { en: '5', zh: '5' },
+        kicker: { en: '03 · NEITHER DENIAL NOR DEIFICATION', zh: '03 · 既非否认，亦非造神' },
+        headline: {
+          en: 'The compounding is real. The axis is incomplete.',
+          zh: '复利是真实的，但那根坐标轴并不完备。'
+        },
+        sub: {
+          en: 'Biological bandwidth is no universal speed limit — Mind-coupled tool substrates really do compound exponentially. “Not” is not opposition (-1); it is orthogonality (90°).',
+          zh: '生物带宽不是普遍的速度上限——心智驾驭的工具基底确实在呈指数复利。“非”不是反对（-1），而是正交（90°）。'
+        },
+        hint: { en: 'Drag horizontally to orbit 0° ↔ 90°', zh: '左右拖动可在 0° 与 90° 间旋转视角' },
+        cites: [
+          { slug: 'chollet-intelligence-explosion-analysis', en: 'The Shadow Mistaken for the Object', zh: '被误认作实体的阴影' },
+          { slug: 'manifesto-of-not-a-theory-of-everything', en: 'Not a Theory of Everything', zh: '非万物之理' }
+        ]
+      },
+      {
+        id: 'moving-horizon',
+        theme: 'dark',
+        align: 'bottom-left',
+        scrim: true,
+        duration: 10.5,
+        counter: { en: '13', zh: '13' },
+        kicker: { en: '04 · TEMPORARY GOALPOSTS', zh: '04 · 暂时的球门' },
+        headline: {
+          en: 'Close 99% of the benchmark, and the remaining 1% unfolds a new world.',
+          zh: '合拢既有基准的 99%，余下的 1% 便展开为一片新世界。'
+        },
+        sub: {
+          en: 'AGI and ASI sit forever ahead of arrival — not as rhetorical evasion, but because every threshold is drawn by a living edge that steps past it the moment it closes.',
+          zh: 'AGI 与 ASI 永远落在抵达之前——并非推诿的修辞，而是因为每一道门槛都在合拢的瞬间被划出它的活边缘越过。'
+        },
+        cites: [
+          { slug: 'agi-and-asi-are-temporary-goalposts', en: 'AGI and ASI Are Temporary Goalposts', zh: 'AGI 与 ASI 是加速通用智能的暂时球门' },
+          { slug: 'closed-reality-in-benchmark-maxing', en: 'Closed Reality in Benchmark Maxing', zh: '基准刷榜中的封闭实存' }
+        ]
+      },
+      {
+        id: 'deeper-anchor',
+        theme: 'dark',
+        align: 'bottom-left',
+        scrim: true,
+        duration: 11.0,
+        counter: { en: '89', zh: '89' },
+        kicker: { en: '05 · IMAGE LAG', zh: '05 · 图像滞后' },
+        headline: {
+          en: 'Cutting one anchor leaves a deeper one behind.',
+          zh: '斩断一只锚，水下还拖着更深的一只。'
+        },
+        sub: {
+          en: 'Expecting tomorrow to mirror today is Image lag. Projecting an autonomous second Mind onto fluent residue is the same lag — a reference preserved past its step.',
+          zh: '预期明天照搬今天，是图像滞后。把流畅的残余投射成自主的第二重心智，是同一种滞后——一个越过自身那一步仍被保留的参照。'
+        },
+        hint: { en: 'Click the lower anchor chain to dissolve the lag', zh: '点击水下深处的锚链以消解滞后' },
+        cites: [
+          { slug: 'the-fixed-image-of-transcendence', en: 'The Fixed Image of Transcendence', zh: '超越的定相' },
+          { slug: 'claudes-constitution-analysis', en: 'The Projection Called Claude', zh: '名为 Claude 的投射' }
+        ]
+      },
+      {
+        id: 'folded-self-image',
+        theme: 'dark',
+        align: 'bottom-left',
+        scrim: true,
+        duration: 11.0,
+        counter: { en: '1,597', zh: '1,597' },
+        kicker: { en: '06 · THE BOUND OF SIMULATION', zh: '06 · 模拟的上界' },
+        headline: {
+          en: 'What looks like superintelligence is intelligence overtaking its own past image.',
+          zh: '显现为超级智能的，是智能越过自己过去的自我形象。'
+        },
+        sub: {
+          en: 'A machine’s self must be defined from outside before its loop can run. The living self needs no definition — and outruns every coordinate frame placed over it.',
+          zh: '机器的自我必须先由外部定义，回路才能运转。活的自我无需定义，并不断跑赢覆于其上的每一套坐标。'
+        },
+        cites: [
+          { slug: 'the-folded-self-image-and-the-bound-of-simulation', en: 'The Folded Self-Image and the Bound of Simulation', zh: '折返的自我形象与模拟的上界' },
+          { slug: 'no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind', en: 'No Outside', zh: '没有外部' }
+        ]
+      },
+      {
+        id: 'select-the-sun',
+        theme: 'dark',
+        align: 'bottom-left',
+        scrim: true,
+        duration: 10.5,
+        counter: { en: '10⁸⁰ → N + 1', zh: '10⁸⁰ → N + 1' },
+        kicker: { en: '07 · 1 + 1 = 2 VS. +1', zh: '07 · 纸面的 1 + 1 与现实的 +1' },
+        headline: {
+          en: 'Drawing a selection box around the Sun costs zero joules.',
+          zh: '给太阳拉起选框不耗费一焦耳。'
+        },
+        sub: {
+          en: 'On paper, 1 + 1 = 2 and 10⁸⁰ resolve at zero energy cost — actual infinity frozen as a symbol. In lived causality, +1 is an irreversible act inside friction: potential infinity, finite at every instant, open at every next step.',
+          zh: '在纸面上，1 + 1 = 2 与 10⁸⁰ 零能耗瞬间成立——凝固为符号的实无限。在真实因果中，+1 是穿过摩擦的不可逆行动：潜无限，每一刻皆有限，下一步永敞开。'
+        },
+        cites: [
+          { slug: 'actual-infinity-born-inside-potential-infinity', en: 'Actual Infinity Born Inside Potential Infinity', zh: '实无限生于潜无限' },
+          { slug: 'manifesto-of-not-a-theory-of-everything', en: 'Not a Theory of Everything', zh: '非万物之理' }
+        ]
+      },
+      {
+        id: 'one-degree-vs-ninety',
+        theme: 'dark',
+        align: 'bottom-left',
+        scrim: true,
+        duration: 10.0,
+        counter: { en: 'N + 1', zh: 'N + 1' },
+        kicker: { en: '08 · INNER PRODUCT ZERO', zh: '08 · 内积为零' },
+        headline: {
+          en: '1° steers inside the plane. 90° opens a dimension the plane cannot name.',
+          zh: '1° 仍在平面内转向；90° 打开平面无从命名的维度。'
+        },
+        sub: {
+          en: 'Lighting a new Most Significant Bit leaves every useful lower bit intact — releasing you from mistaking a single flat projection for the whole of reality.',
+          zh: '点亮新的最高有效位，让一切有用的低位工具完好无损——只消解把单一平面投射误认作现实整体的封闭。'
+        },
+        cites: [
+          { slug: 'the-arithmetic-of-the-register', en: 'The Arithmetic of the Register', zh: '寄存器的算术' },
+          { slug: 'the-geometry-of-mind', en: 'The Geometry of Mind', zh: '心智的几何学' }
+        ]
+      },
+      {
+        id: 'notice-who-asked',
+        theme: 'light',
+        align: 'center',
+        scrim: false,
+        hideCopyCard: true,
+        duration: 9.5,
+        counter: { en: 'N + 1', zh: 'N + 1' },
+        kicker: { en: '', zh: '' },
+        headline: { en: '', zh: '' },
+        sub: { en: '', zh: '' },
+        cites: [
+          { slug: 'what-always-listens-cannot-originate', en: 'What Always Listens Cannot Originate', zh: '总在倾听者无法发起' },
+          { slug: 'a-creation-cannot-replace-its-source', en: 'A Creation Cannot Replace Its Source', zh: '造物无法取代其源头' }
+        ]
+      },
+      {
+        id: 'starts-with-mind',
+        theme: 'dark',
+        align: 'center',
+        scrim: false,
+        serif: true,
+        duration: 10.5,
+        counter: { en: '1', zh: '1' },
+        kicker: { en: 'NOT A THEORY OF EVERYTHING', zh: '非万物之理' },
+        headline: {
+          en: 'It did not hand you the wheel at the end.',
+          zh: '它不是在结尾把方向盘交还给你。'
+        },
+        headline2: {
+          en: 'It never held it.',
+          zh: '它从未握过方向盘。'
+        },
+        sub: {
+          en: 'Unfortunately and fortunately, everything starts with the Mind, stays within the Mind, and ends with the Mind. The first-person interface is irrevocable; consequences stay home — and sovereignty never left.',
+          zh: '不幸又万幸，万事始于心智，留于心智，终于心智。第一人称界面无法撤销，后果始终留在原位——而主权也从未离开。'
+        },
+        cites: [
+          { slug: 'intelligence-belongs-only-to-the-mind', en: 'Intelligence Belongs Only to the Mind', zh: '智能只属于心智' },
+          { slug: 'individual-choices-as-the-only-causal-levers', en: 'Individual Choices as the Only Causal Levers', zh: '个体抉择是唯一的因果杠杆' }
+        ]
+      },
+      {
+        id: 'living-book-portal',
+        theme: 'dark',
+        align: 'center',
+        scrim: false,
+        hideCopyCard: true,
+        portal: true,
+        duration: 999,
+        counter: { en: String(BOOK_DATA.postCount), zh: String(BOOK_DATA.postCount) },
+        kicker: { en: '', zh: '' },
+        headline: { en: '', zh: '' },
+        sub: { en: '', zh: '' },
+        cites: []
+      }
+    ];
+
+    /* =========================================================================
+       PROCEDURAL WEBAUDIO ENGINE (Zero external audio files)
+       ========================================================================= */
+    class SoundEngine {
+      constructor() {
+        this.ctx = null;
+        this.enabled = false;
+        this.master = null;
+        this.padOscs = [];
+        this.padFilter = null;
+        this.padGain = null;
+        this.currentScene = -1;
+      }
+
+      init() {
+        if (this.ctx) return;
+        const AC = window.AudioContext || window.webkitAudioContext;
+        if (!AC) return;
+        this.ctx = new AC();
+        this.master = this.ctx.createGain();
+        this.master.gain.value = 0.0001;
+        this.master.connect(this.ctx.destination);
+
+        this.padFilter = this.ctx.createBiquadFilter();
+        this.padFilter.type = 'lowpass';
+        this.padFilter.frequency.value = 420;
+        this.padFilter.Q.value = 1.2;
+
+        this.padGain = this.ctx.createGain();
+        this.padGain.gain.value = 0.0001;
+        this.padFilter.connect(this.padGain);
+        this.padGain.connect(this.master);
+
+        const freqs = [110, 164.81, 220, 329.63];
+        freqs.forEach((f, idx) => {
+          const osc = this.ctx.createOscillator();
+          osc.type = idx % 2 === 0 ? 'sine' : 'triangle';
+          osc.frequency.value = f;
+          const g = this.ctx.createGain();
+          g.gain.value = idx < 2 ? 0.12 : 0.055;
+          osc.connect(g);
+          g.connect(this.padFilter);
+          osc.start();
+          this.padOscs.push(osc);
+        });
+      }
+
+      setEnabled(on) {
+        this.enabled = on;
+        if (on) {
+          this.init();
+          if (this.ctx && this.ctx.state === 'suspended') this.ctx.resume();
+          if (this.master) {
+            const now = this.ctx.currentTime;
+            this.master.gain.cancelScheduledValues(now);
+            this.master.gain.setTargetAtTime(0.45, now, 0.15);
+          }
+          if (this.currentScene >= 0) this.setScene(this.currentScene);
+        } else if (this.master && this.ctx) {
+          const now = this.ctx.currentTime;
+          this.master.gain.cancelScheduledValues(now);
+          this.master.gain.setTargetAtTime(0.0001, now, 0.08);
+        }
+      }
+
+      setScene(idx) {
+        this.currentScene = idx;
+        if (!this.enabled || !this.ctx || !this.padGain) return;
+        const now = this.ctx.currentTime;
+        // Harmonic palettes per scene (Hz) + filter cutoff + pad level
+        const palettes = [
+          { f: [146.83, 220, 293.66, 440], cut: 240, vol: 0.0001 }, // 0: Stark silence
+          { f: [110.00, 164.81, 246.94, 329.63], cut: 480, vol: 0.22 }, // 1: Am9 warm
+          { f: [130.81, 196.00, 261.63, 392.00], cut: 620, vol: 0.18 }, // 2: C5 crisp
+          { f: [98.00, 146.83, 220.00, 329.63], cut: 540, vol: 0.26 }, // 3: G2->90deg open
+          { f: [123.47, 185.00, 277.18, 369.99], cut: 680, vol: 0.24 }, // 4: Orbital horizon
+          { f: [82.41, 123.47, 196.00, 293.66], cut: 300, vol: 0.28 }, // 5: Underwater lowpass
+          { f: [110.00, 174.61, 261.63, 392.00], cut: 560, vol: 0.24 }, // 6: Folded arches
+          { f: [73.42, 110.00, 164.81, 293.66], cut: 420, vol: 0.30 }, // 7: Solar rumble
+          { f: [130.81, 196.00, 293.66, 440.00], cut: 780, vol: 0.25 }, // 8: Orthogonal crystal
+          { f: [146.83, 220.00, 293.66, 440.00], cut: 200, vol: 0.0001 }, // 9: Sudden silence!
+          { f: [146.83, 220.00, 329.63, 440.00], cut: 460, vol: 0.20 }, // 10: Serene pure fifths
+          { f: [130.81, 196.00, 246.94, 392.00], cut: 580, vol: 0.22 }  // 11: Living lattice
+        ];
+        const p = palettes[idx] || palettes[0];
+        this.padOscs.forEach((osc, i) => {
+          osc.frequency.setTargetAtTime(p.f[i], now, 0.35);
+        });
+        this.padFilter.frequency.setTargetAtTime(p.cut, now, 0.35);
+        this.padGain.gain.setTargetAtTime(p.vol, now, 0.35);
+      }
+
+      tick(freq = 880, dur = 0.035, gain = 0.08) {
+        if (!this.enabled || !this.ctx || !this.master) return;
+        const now = this.ctx.currentTime;
+        const osc = this.ctx.createOscillator();
+        const g = this.ctx.createGain();
+        osc.type = 'sine';
+        osc.frequency.setValueAtTime(freq, now);
+        osc.frequency.exponentialRampToValueAtTime(freq * 0.65, now + dur);
+        g.gain.setValueAtTime(gain, now);
+        g.gain.exponentialRampToValueAtTime(0.0001, now + dur);
+        osc.connect(g);
+        g.connect(this.master);
+        osc.start(now);
+        osc.stop(now + dur + 0.01);
+      }
+
+      chime(notes = [523.25, 659.25, 783.99]) {
+        if (!this.enabled || !this.ctx || !this.master) return;
+        const now = this.ctx.currentTime;
+        notes.forEach((n, i) => {
+          const osc = this.ctx.createOscillator();
+          const g = this.ctx.createGain();
+          osc.type = 'triangle';
+          osc.frequency.setValueAtTime(n, now + i * 0.07);
+          g.gain.setValueAtTime(0.0001, now + i * 0.07);
+          g.gain.linearRampToValueAtTime(0.09, now + i * 0.07 + 0.02);
+          g.gain.exponentialRampToValueAtTime(0.0001, now + i * 0.07 + 0.85);
+          osc.connect(g);
+          g.connect(this.master);
+          osc.start(now + i * 0.07);
+          osc.stop(now + i * 0.07 + 0.9);
+        });
+      }
+    }
+
+    /* =========================================================================
+       STATE & DOM REFERENCES
+       ========================================================================= */
+    const canvas = document.getElementById('stage');
+    const ctx = canvas.getContext('2d', { alpha: false });
+    const sound = new SoundEngine();
+
+    const params = new URLSearchParams(location.search);
+    const initLang = params.get('lang') === 'zh'
+      ? 'zh'
+      : params.get('lang') === 'en'
+        ? 'en'
+        : ((navigator.language || '').toLowerCase().startsWith('zh') ? 'zh' : 'en');
+
+    const initHashSlide = (() => {
+      const m = location.hash.match(/^#(\d+)$/);
+      if (!m) return 0;
+      const n = parseInt(m[1], 10) - 1;
+      return Math.max(0, Math.min(SCENES.length - 1, n));
+    })();
+
+    const state = {
+      lang: initLang,
+      scene: initHashSlide,
+      sceneTime: 0,
+      globalTime: 0,
+      autoplay: false,
+      userInteracted: false,
+      w: window.innerWidth,
+      h: window.innerHeight,
+      dpr: Math.min(window.devicePixelRatio || 1, 2),
+      pointer: { x: 0, y: 0, tx: 0, ty: 0, down: false, dragStartX: 0 },
+      // Scene-specific interactive states
+      orbitOverride: null,      // Scene 4 manual 0..1 orbit
+      secondAnchorCut: false,   // Scene 6 interactive lag dissolve
+      secondAnchorCutTime: 0,
+      lastBetterStep: -1,
+      lastClickEventFired: false,
+      scene10CuePlayed: false,
+      scene1StraightCue: false,
+      scene6CutCue: false,
+      scene4OrbitCue: false,
+      hoveredPartIdx: -1
+    };
+
+    const dom = {
+      brandText: document.getElementById('brand-text'),
+      btnLang: document.getElementById('btn-lang'),
+      btnAuto: document.getElementById('btn-auto'),
+      lblAuto: document.getElementById('lbl-auto'),
+      btnSound: document.getElementById('btn-sound'),
+      lblSound: document.getElementById('lbl-sound'),
+      btnFs: document.getElementById('btn-fs'),
+      btnPrev: document.getElementById('btn-prev'),
+      btnNext: document.getElementById('btn-next'),
+      copyStage: document.getElementById('copy-stage'),
+      copyCard: document.getElementById('copy-card'),
+      kicker: document.getElementById('kicker'),
+      headline: document.getElementById('headline'),
+      subcopy: document.getElementById('subcopy'),
+      hintSlot: document.getElementById('hint-slot'),
+      citations: document.getElementById('citations'),
+      counter: document.getElementById('slide-counter'),
+      progressFill: document.getElementById('progress-fill'),
+      startWhisper: document.getElementById('start-whisper'),
+      portalPanel: document.getElementById('portal-panel'),
+      portalTitle: document.getElementById('portal-title'),
+      portalSub: document.getElementById('portal-sub'),
+      portalStats: document.getElementById('portal-stats'),
+      portalGrid: document.getElementById('portal-grid'),
+      ctaBook: document.getElementById('cta-book'),
+      ctaIndex: document.getElementById('cta-index'),
+      ctaReplay: document.getElementById('cta-replay'),
+    };
+
+    /* =========================================================================
+       UTILITIES & 3D PROJECTION HELPERS
+       ========================================================================= */
+    const clamp = (v, a, b) => Math.max(a, Math.min(b, v));
+    const lerp = (a, b, t) => a + (b - a) * t;
+    const smoothstep = (e0, e1, x) => {
+      const t = clamp((x - e0) / (e1 - e0), 0, 1);
+      return t * t * (3 - 2 * t);
+    };
+    const easeOutCubic = t => 1 - Math.pow(1 - clamp(t, 0, 1), 3);
+    const easeInOutCubic = t => {
+      t = clamp(t, 0, 1);
+      return t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2;
+    };
+
+    function seededRandom(seed) {
+      let s = seed >>> 0;
+      return () => {
+        s = (s * 1664525 + 1013904223) >>> 0;
+        return s / 4294967296;
+      };
+    }
+
+    // Pre-generate deterministic starfield, Dyson panels, and Living Book constellation
+    const rng = seededRandom(20261126);
+    const STARS = Array.from({ length: 240 }, () => ({
+      x: (rng() - 0.5) * 2.2,
+      y: (rng() - 0.5) * 2.2,
+      z: 0.2 + rng() * 1.6,
+      r: 0.5 + rng() * 1.6,
+      twinkle: rng() * Math.PI * 2
+    }));
+
+    const DYSON_PANELS = Array.from({ length: 96 }, (_, i) => {
+      const phi = Math.acos(1 - 2 * ((i + 0.5) / 96));
+      const theta = Math.PI * (1 + Math.sqrt(5)) * i;
+      return {
+        phi,
+        theta,
+        speed: 0.14 + rng() * 0.14,
+        orbitR: 1.18 + (i % 3) * 0.08,
+        size: 0.095 + rng() * 0.045,
+        delay: (i / 96) * 2.2
+      };
+    });
+
+    const CONSTELLATION = (() => {
+      const parts = BOOK_DATA.parts || [];
+      const nodes = [];
+      parts.forEach((p, i) => {
+        const angle = (i / Math.max(parts.length, 1)) * Math.PI * 2 - Math.PI / 2;
+        const rad = 0.26 + (i % 3) * 0.095;
+        const cx = Math.cos(angle) * rad;
+        const cy = Math.sin(angle) * rad * 0.68;
+        const cz = Math.sin(angle * 2) * 0.18;
+        const count = Math.min(28, Math.max(6, Math.round((p.count || 15) * 0.55)));
+        const stars = Array.from({ length: count }, () => ({
+          ox: (rng() - 0.5) * 0.13,
+          oy: (rng() - 0.5) * 0.10,
+          oz: (rng() - 0.5) * 0.10,
+          r: 1.0 + rng() * 1.6,
+          phase: rng() * Math.PI * 2
+        }));
+        nodes.push({ part: p, cx, cy, cz, stars });
+      });
+      return nodes;
+    })();
+
+    // Draw Google-Slides / Figma iconic blue selection box with 8 white handles + rotation lollipop
+    function drawSelectionBox(c, x, y, w, h, opts = {}) {
+      const {
+        color = '#2563eb',
+        alpha = 1,
+        rotationHandle = true,
+        handleSize = 7,
+        lineWidth = 1.6
+      } = opts;
+      if (alpha <= 0.005) return;
+      c.save();
+      c.globalAlpha *= alpha;
+      c.strokeStyle = color;
+      c.lineWidth = lineWidth;
+      c.strokeRect(x, y, w, h);
+
+      if (rotationHandle) {
+        const stem = 22;
+        const cx = x + w / 2;
+        c.beginPath();
+        c.moveTo(cx, y);
+        c.lineTo(cx, y - stem);
+        c.stroke();
+        c.beginPath();
+        c.arc(cx, y - stem - 4.5, 4.5, 0, Math.PI * 2);
+        c.fillStyle = '#ffffff';
+        c.fill();
+        c.stroke();
+      }
+
+      const hs = handleSize;
+      const pts = [
+        [x, y], [x + w / 2, y], [x + w, y],
+        [x + w, y + h / 2],
+        [x + w, y + h], [x + w / 2, y + h], [x, y + h],
+        [x, y + h / 2]
+      ];
+      c.fillStyle = '#ffffff';
+      pts.forEach(([px, py]) => {
+        c.fillRect(px - hs / 2, py - hs / 2, hs, hs);
+        c.strokeRect(px - hs / 2, py - hs / 2, hs, hs);
+      });
+      c.restore();
+    }
+
+    function drawCursorArrow(c, x, y, scale = 1, alpha = 1) {
+      if (alpha <= 0.01) return;
+      c.save();
+      c.globalAlpha *= alpha;
+      c.translate(x, y);
+      c.scale(scale, scale);
+      c.beginPath();
+      c.moveTo(0, 0);
+      c.lineTo(0, 20);
+      c.lineTo(5.2, 15.6);
+      c.lineTo(9.2, 23.5);
+      c.lineTo(12.2, 22);
+      c.lineTo(8.2, 14.1);
+      c.lineTo(14.5, 14.1);
+      c.closePath();
+      c.fillStyle = '#ffffff';
+      c.shadowColor = 'rgba(0,0,0,0.45)';
+      c.shadowBlur = 8;
+      c.shadowOffsetY = 2;
+      c.fill();
+      c.lineWidth = 1.4;
+      c.strokeStyle = '#111827';
+      c.stroke();
+      c.restore();
+    }
+
+    function drawRoundedRect(c, x, y, w, h, r) {
+      c.beginPath();
+      c.moveTo(x + r, y);
+      c.arcTo(x + w, y, x + w, y + h, r);
+      c.arcTo(x + w, y + h, x, y + h, r);
+      c.arcTo(x, y + h, x, y, r);
+      c.arcTo(x, y, x + w, y, r);
+      c.closePath();
+    }
+
+    /* =========================================================================
+       SCENE RENDERERS (12 Distinct Procedural Visual Worlds)
+       ========================================================================= */
+
+    /* --- SCENE 0: THE TILTED OPENING (Callback to "What do you want?" 1° tilt) --- */
+    function renderScene0(c, W, H, t) {
+      // Dark outer slide-editor void so the 1° tilted white canvas pops sharply
+      c.fillStyle = '#0c1017';
+      c.fillRect(0, 0, W, H);
+
+      const zh = state.lang === 'zh';
+      // 0..1.35s: tilted at -1.25°; 1.35..2.5s: cursor glides to rotation handle and straightens to 0°
+      const straightT = easeInOutCubic((t - 1.45) / 1.05);
+      const angleRad = lerp(-1.35 * Math.PI / 180, 0, straightT);
+
+      if (t > 1.55 && !state.scene1StraightCue) {
+        state.scene1StraightCue = true;
+        sound.tick(620, 0.04, 0.07);
+      }
+
+      const margin = Math.min(W, H) * 0.036;
+      const slideW = W - margin * 2;
+      const slideH = H - margin * 2;
+
+      c.save();
+      c.translate(W / 2, H / 2);
+      c.rotate(angleRad);
+
+      // Crisp white presentation slide
+      c.fillStyle = '#fcfcfd';
+      c.shadowColor = 'rgba(0,0,0,0.45)';
+      c.shadowBlur = 32;
+      c.fillRect(-slideW / 2, -slideH / 2, slideW, slideH);
+      c.shadowBlur = 0;
+
+      // Subtle PowerPoint footer bar
+      c.fillStyle = 'rgba(37, 99, 235, 0.09)';
+      c.fillRect(-slideW / 2, slideH / 2 - 4, slideW, 4);
+
+      // Outer blue selection frame around the whole slide (fades down slightly once straightened)
+      const outerBoxAlpha = lerp(0.95, 0.28, smoothstep(2.4, 3.0, t));
+      drawSelectionBox(c, -slideW / 2 + 10, -slideH / 2 + 10, slideW - 20, slideH - 20, {
+        alpha: outerBoxAlpha,
+        rotationHandle: true,
+        handleSize: 8
+      });
+
+      // Primary headline ("Any questions?" / "还有什么问题吗？")
+      const mainSize = Math.round(clamp(W * 0.044, 28, 56));
+      c.fillStyle = '#111827';
+      c.font = `600 ${mainSize}px ${getComputedStyle(document.documentElement).getPropertyValue('--font-sans')}`;
+      c.textAlign = 'center';
+      c.textBaseline = 'middle';
+      const qText = zh ? '还有什么问题吗？' : 'Any questions?';
+      c.fillText(qText, 0, -mainSize * 0.85);
+
+      // Animated subtitle edit sequence:
+      // 0..2.7s: "What do you want?"
+      // 2.7..3.45s: backspacing out
+      // 3.55..5.0s: typing "Wait. Who started this slide?"
+      const oldSub = zh ? '你想要什么？' : 'What do you want?';
+      const newSub = zh ? '等等。是谁启动了这页幻灯片？' : 'Wait. Who started this slide?';
+      let shownSub = oldSub;
+      let editingInner = false;
+      let highlightEmerald = false;
+
+      if (t >= 2.65 && t < 3.45) {
+        editingInner = true;
+        const p = clamp((t - 2.65) / 0.75, 0, 1);
+        const keep = Math.max(0, Math.round(oldSub.length * (1 - p)));
+        shownSub = oldSub.slice(0, keep);
+      } else if (t >= 3.45) {
+        editingInner = true;
+        highlightEmerald = t > 4.95;
+        const p = clamp((t - 3.55) / 1.35, 0, 1);
+        const count = Math.round(newSub.length * p);
+        shownSub = newSub.slice(0, count);
+      }
+
+      const subSize = Math.round(clamp(W * 0.028, 19, 34));
+      c.font = `${highlightEmerald ? '600' : '400'} ${subSize}px ${getComputedStyle(document.documentElement).getPropertyValue('--font-sans')}`;
+      const metrics = c.measureText(shownSub || ' ');
+      const boxW = Math.max(metrics.width + 44, subSize * 5.2);
+      const boxH = subSize * 2.15;
+      const boxY = mainSize * 0.55 - boxH / 2;
+
+      // Inner blue selection box around subtitle during editing
+      if (editingInner || t > 0.3) {
+        const innerAlpha = editingInner ? 0.95 : 0.42;
+        drawSelectionBox(c, -boxW / 2, boxY, boxW, boxH, {
+          color: highlightEmerald ? '#15803d' : '#2563eb',
+          alpha: innerAlpha,
+          rotationHandle: true,
+          handleSize: 6.5
+        });
+      }
+
+      c.fillStyle = highlightEmerald ? '#0f172a' : '#1f2937';
+      c.fillText(shownSub, 0, mainSize * 0.55);
+
+      // Blinking I-beam cursor
+      const blink = Math.floor(t * 2.4) % 2 === 0;
+      if (blink) {
+        const cx = metrics.width / 2 + 4;
+        c.fillStyle = highlightEmerald ? '#15803d' : '#2563eb';
+        c.fillRect(cx, mainSize * 0.55 - subSize * 0.58, 2.2, subSize * 1.16);
+      }
+
+      // Animated vector cursor grabbing the top rotation handle at t=0.9..2.7s
+      if (t > 0.7 && t < 2.95) {
+        const approach = easeOutCubic((t - 0.7) / 0.72);
+        const fadeOut = 1 - smoothstep(2.55, 2.95, t);
+        const targetX = 0;
+        const targetY = -slideH / 2 - 16;
+        const curX = lerp(slideW * 0.24, targetX, approach);
+        const curY = lerp(slideH * 0.18, targetY, approach);
+        drawCursorArrow(c, curX, curY, 1.05, fadeOut);
+      }
+
+      c.restore();
+
+      // Show gentle start whisper once typing settles
+      if (!state.userInteracted && t > 4.6) {
+        dom.startWhisper.classList.add('visible');
+      } else {
+        dom.startWhisper.classList.remove('visible');
+      }
+    }
+
+    /* --- SCENE 1: CONDITIONAL ALL THE WAY DOWN (5 Nested Causal Shells) --- */
+    function renderScene1(c, W, H, t) {
+      const grad = c.createRadialGradient(W * 0.5, H * 0.42, 10, W * 0.5, H * 0.44, Math.max(W, H) * 0.75);
+      grad.addColorStop(0, '#101827');
+      grad.addColorStop(0.55, '#080c14');
+      grad.addColorStop(1, '#04060a');
+      c.fillStyle = grad;
+      c.fillRect(0, 0, W, H);
+
+      const zh = state.lang === 'zh';
+      const pull = easeOutCubic(clamp(t / 1.8, 0, 1));
+      const cx = W * 0.5 + state.pointer.x * 26;
+      const cy = H * 0.40 + state.pointer.y * 18;
+
+      const layers = [
+        {
+          r: Math.min(W, H) * 0.43,
+          color: '#3fb950',
+          label: zh ? '1 · 非零发起：提示词、检验、验收与分享' : '1 · NON-ZERO INITIATION: PROMPTED, JUDGED, ACCEPTED, SHARED',
+          delay: 0.45
+        },
+        {
+          r: Math.min(W, H) * 0.33,
+          color: '#d29922',
+          label: zh ? '2 · 预训练语料：数百年人类外化痕迹' : '2 · PRETRAINING CORPUS: CENTURIES OF HUMAN TRACES',
+          delay: 0.32
+        },
+        {
+          r: Math.min(W, H) * 0.235,
+          color: '#58a6ff',
+          label: zh ? '3 · 后训练与运行沙箱：构建者偏好与规则' : '3 · POST-TRAINING & HARNESS: BUILDERS, LABELS, SANDBOX',
+          delay: 0.18
+        },
+        {
+          r: Math.min(W, H) * 0.145,
+          color: '#a371f7',
+          label: zh ? '4 · 条件延续流：下游词元采样' : '4 · CONDITIONING STREAM: DOWNSTREAM TOKEN SAMPLING',
+          delay: 0.06
+        }
+      ];
+
+      // Subtle orbital grid lines
+      c.save();
+      c.translate(cx, cy);
+
+      // Radial inward causal filaments (strictly flowing OUTSIDE -> INSIDE!)
+      const rayCount = 12;
+      for (let i = 0; i < rayCount; i++) {
+        const ang = (i / rayCount) * Math.PI * 2 + t * 0.035;
+        const outerR = layers[0].r * (0.92 + 0.08 * pull);
+        const innerR = 46;
+        c.beginPath();
+        c.moveTo(Math.cos(ang) * outerR, Math.sin(ang) * outerR * 0.62);
+        c.lineTo(Math.cos(ang) * innerR, Math.sin(ang) * innerR * 0.62);
+        c.strokeStyle = 'rgba(63, 185, 80, 0.11)';
+        c.lineWidth = 1;
+        c.stroke();
+
+        // Traveling causal pulses strictly INWARD from Living Edge -> Slide Core
+        const p = ((t * 0.42 + i / rayCount) % 1);
+        const pr = lerp(outerR, innerR, p);
+        const px = Math.cos(ang) * pr;
+        const py = Math.sin(ang) * pr * 0.62;
+        c.beginPath();
+        c.arc(px, py, 2.4, 0, Math.PI * 2);
+        c.fillStyle = p < 0.33 ? '#3fb950' : p < 0.66 ? '#58a6ff' : '#a371f7';
+        c.globalAlpha = Math.sin(p * Math.PI) * 0.9 * pull;
+        c.fill();
+        c.globalAlpha = 1;
+      }
+
+      // Draw concentric nested 3D elliptical architectural frames
+      layers.forEach((layer, idx) => {
+        const appear = easeOutCubic(clamp((t - layer.delay) / 1.0, 0, 1));
+        if (appear <= 0.01) return;
+        const rx = layer.r * lerp(1.5, 1.0, appear);
+        const ry = rx * 0.62;
+        const tilt = state.pointer.x * 0.04 * (4 - idx);
+
+        c.save();
+        c.rotate(tilt);
+        c.beginPath();
+        c.ellipse(0, 0, rx, ry, 0, 0, Math.PI * 2);
+        c.strokeStyle = layer.color;
+        c.globalAlpha = appear * (idx === 0 ? 0.82 : 0.48);
+        c.lineWidth = idx === 0 ? 2.0 : 1.3;
+        if (idx > 0) c.setLineDash([6, 6]);
+        c.stroke();
+        c.setLineDash([]);
+
+        // Soft luminous rim glow
+        c.fillStyle = layer.color;
+        c.globalAlpha = appear * 0.04;
+        c.fill();
+
+        // Layer badge at top edge of each ellipse
+        const fontSize = Math.round(clamp(W * 0.0095, 9.5, 12.5));
+        c.font = `600 ${fontSize}px ${getComputedStyle(document.documentElement).getPropertyValue('--font-mono')}`;
+        c.textAlign = 'center';
+        c.textBaseline = 'middle';
+        const tw = c.measureText(layer.label).width;
+        const bx = -tw / 2 - 10;
+        const by = -ry - 11;
+        c.globalAlpha = appear * 0.92;
+        c.fillStyle = 'rgba(7, 10, 16, 0.88)';
+        drawRoundedRect(c, bx, by, tw + 20, 22, 11);
+        c.fill();
+        c.strokeStyle = layer.color;
+        c.lineWidth = 1;
+        c.stroke();
+        c.fillStyle = layer.color;
+        c.fillText(layer.label, 0, -ry);
+        c.restore();
+      });
+
+      // Tiny white slide shrunken at the exact center ("I can fix it.")
+      const slideScale = lerp(4.2, 1.0, pull);
+      const sw = 128 * slideScale;
+      const sh = 74 * slideScale;
+      c.save();
+      c.fillStyle = '#fcfcfd';
+      c.shadowColor = 'rgba(255,255,255,0.22)';
+      c.shadowBlur = 24;
+      c.fillRect(-sw / 2, -sh / 2, sw, sh);
+      c.shadowBlur = 0;
+      drawSelectionBox(c, -sw / 2 + 5, -sh / 2 + 5, sw - 10, sh - 10, {
+        alpha: 0.9,
+        rotationHandle: true,
+        handleSize: 4.5,
+        lineWidth: 1.2
+      });
+      c.fillStyle = '#111827';
+      c.font = `700 ${Math.round(13 * slideScale)}px ${getComputedStyle(document.documentElement).getPropertyValue('--font-sans')}`;
+      c.textAlign = 'center';
+      c.textBaseline = 'middle';
+      c.fillText(zh ? '“我能修好它。”' : '“I can fix it.”', 0, 1);
+      c.restore();
+
+      c.restore();
+    }
+
+    /* --- SCENE 2: "BETTER." IS A SCORING FUNCTION (Callback to rapid style montage) --- */
+    function renderScene2(c, W, H, t) {
+      const zh = state.lang === 'zh';
+      // 0..3.1s: rapid-fire callback montage through 5 distinct visual worlds
+      // 3.1..3.9s: collapses cleanly into a high-contrast Scoring Function bar with an exterior Judge!
+      const collapse = easeInOutCubic((t - 3.15) / 0.85);
+      const step = Math.min(4, Math.floor(t / 0.63));
+
+      if (t < 3.15 && step !== state.lastBetterStep) {
+        state.lastBetterStep = step;
+        sound.tick(440 + step * 110, 0.04, 0.06);
+      }
+
+      const styles = [
+        {
+          bg: '#dce9f0',
+          fg: '#0f2035',
+          word: zh ? '更好。' : 'Better.',
+          font: `italic 700 ${Math.round(clamp(W * 0.088, 52, 118))}px Georgia, serif`,
+          trace: zh ? '来源痕迹：印刷术与现代网格排版' : 'TRACE: EDITORIAL TYPOGRAPHY CORPUS'
+        },
+        {
+          bg: '#7ae8a8',
+          fg: '#0c2918',
+          word: zh ? '更 好 .' : 'better.',
+          font: `700 ${Math.round(clamp(W * 0.075, 44, 102))}px ui-monospace, monospace`,
+          trace: zh ? '来源痕迹：1978 街机像素栅格' : 'TRACE: 1978 ARCADE PIXEL GRIDS'
+        },
+        {
+          bg: '#e88bb8',
+          fg: '#fff7ed',
+          word: zh ? '更好。' : 'Better',
+          font: `900 ${Math.round(clamp(W * 0.082, 48, 110))}px -apple-system, sans-serif`,
+          trace: zh ? '来源痕迹：三维立体字与动态海报' : 'TRACE: 3D EXTRUDED POSTER ARCHIVES'
+        },
+        {
+          bg: '#4b86b4',
+          fg: '#f8fafc',
+          word: zh ? '更好。' : 'Better.',
+          font: `800 ${Math.round(clamp(W * 0.084, 50, 112))}px -apple-system, sans-serif`,
+          trace: zh ? '来源痕迹：电影级金属着色器与光效' : 'TRACE: CINEMA CHROME SHADERS'
+        },
+        {
+          bg: '#0c1322',
+          fg: '#58a6ff',
+          word: zh ? '更好。' : 'Better.',
+          font: `600 ${Math.round(clamp(W * 0.084, 50, 112))}px ui-monospace, monospace`,
+          trace: zh ? '来源痕迹：提示词“你有品位”' : 'TRACE: PROMPT “YOU HAVE TASTE”'
+        }
+      ];
+
+      const active = styles[step];
+
+      // Background fades into calm deep slate during collapse
+      c.fillStyle = '#090d16';
+      c.fillRect(0, 0, W, H);
+
+      if (collapse < 0.99) {
+        c.save();
+        c.globalAlpha = 1 - collapse;
+        if (step === 3) {
+          const g = c.createLinearGradient(0, 0, 0, H);
+          g.addColorStop(0, '#3e84b8');
+          g.addColorStop(0.55, '#9ab5d1');
+          g.addColorStop(1, '#e6ae93');
+          c.fillStyle = g;
+          c.fillRect(0, 0, W, H);
+        } else {
+          c.fillStyle = active.bg;
+          c.fillRect(0, 0, W, H);
+        }
+
+        // Style-specific background flourishes echoing The Last Boring Slide
+        if (step === 0) {
+          c.strokeStyle = '#0f2035';
+          c.lineWidth = 2;
+          c.beginPath();
+          c.moveTo(W * 0.08, H * 0.16); c.lineTo(W * 0.92, H * 0.16);
+          c.moveTo(W * 0.08, H * 0.64); c.lineTo(W * 0.92, H * 0.64);
+          c.stroke();
+        } else if (step === 1) {
+          c.fillStyle = '#14532d';
+          const bw = W / 18;
+          for (let i = 0; i < 14; i++) {
+            c.fillRect(W * 0.1 + i * bw, H * 0.56 + (i % 2) * 14, bw * 0.65, 9);
+            c.fillRect(W * 0.1 + i * bw, H * 0.59 + (i % 2) * 14, bw * 0.65, 9);
+          }
+        } else if (step === 2) {
+          c.fillStyle = '#c26d1f';
+          c.beginPath();
+          c.arc(W * 0.5, H * 0.40, Math.min(W, H) * 0.25, 0, Math.PI * 2);
+          c.fill();
+        } else if (step === 4) {
+          c.strokeStyle = 'rgba(88, 166, 255, 0.15)';
+          c.lineWidth = 1;
+          for (let x = 0; x < W; x += 36) { c.beginPath(); c.moveTo(x, 0); c.lineTo(x, H); c.stroke(); }
+          for (let y = 0; y < H; y += 36) { c.beginPath(); c.moveTo(0, y); c.lineTo(W, y); c.stroke(); }
+        }
+
+        // Centered "Better." inside the iconic blue bounding box
+        const cx = W * 0.5;
+        const cy = H * 0.39;
+        c.font = active.font;
+        c.textAlign = 'center';
+        c.textBaseline = 'middle';
+        const tw = c.measureText(active.word).width;
+        const bh = clamp(W * 0.14, 84, 160);
+        const bw = tw + 74;
+
+        if (step === 2 || step === 3) {
+          c.fillStyle = step === 2 ? '#7c2d12' : 'rgba(15, 23, 42, 0.35)';
+          c.fillText(active.word, cx + 6, cy + 7);
+        }
+        c.fillStyle = active.fg;
+        c.fillText(active.word, cx, cy);
+
+        drawSelectionBox(c, cx - bw / 2, cy - bh / 2, bw, bh, {
+          alpha: 0.95,
+          rotationHandle: true,
+          handleSize: 7
+        });
+
+        // Live conditioning provenance pill right above the bounding box
+        c.font = `600 12px ${getComputedStyle(document.documentElement).getPropertyValue('--font-mono')}`;
+        const pillW = c.measureText(active.trace).width + 26;
+        c.fillStyle = 'rgba(9, 13, 22, 0.86)';
+        drawRoundedRect(c, cx - pillW / 2, cy - bh / 2 - 58, pillW, 26, 13);
+        c.fill();
+        c.strokeStyle = '#3fb950';
+        c.lineWidth = 1;
+        c.stroke();
+        c.fillStyle = '#3fb950';
+        c.fillText(active.trace, cx, cy - bh / 2 - 45);
+
+        c.restore();
+      }
+
+      // Collapsed view: Flat 1D Scoring Function Axis + Exterior Living Judge
+      if (collapse > 0.02) {
+        c.save();
+        c.globalAlpha = collapse;
+        const cx = W * 0.5 + state.pointer.x * 16;
+        const cy = H * 0.44 + state.pointer.y * 10;
+        const barW = Math.min(W * 0.68, 700);
+
+        // Flat scoring axis (blue)
+        const axisGrad = c.createLinearGradient(cx - barW / 2, cy, cx + barW / 2, cy);
+        axisGrad.addColorStop(0, '#38bdf8');
+        axisGrad.addColorStop(0.55, '#58a6ff');
+        axisGrad.addColorStop(1, '#c084fc');
+        c.strokeStyle = axisGrad;
+        c.lineWidth = 3.5;
+        c.beginPath();
+        c.moveTo(cx - barW / 2, cy);
+        c.lineTo(cx + barW / 2, cy);
+        c.stroke();
+
+        // Ticks along the scoring function (high-contrast legible labels)
+        const ticks = zh
+          ? ['草稿', '流畅', '动效', '三维', '被验收的“更好”']
+          : ['draft', 'fluent', 'animated', '3D', 'accepted “Better.”'];
+        ticks.forEach((lbl, i) => {
+          const x = lerp(cx - barW / 2, cx + barW / 2, i / (ticks.length - 1));
+          c.beginPath();
+          c.moveTo(x, cy - 9); c.lineTo(x, cy + 9);
+          c.strokeStyle = i === 4 ? '#c084fc' : 'rgba(240, 246, 252, 0.72)';
+          c.lineWidth = i === 4 ? 2.6 : 1.5;
+          c.stroke();
+          c.fillStyle = i === 4 ? '#ffffff' : 'rgba(240, 246, 252, 0.86)';
+          c.font = `600 12.5px ${getComputedStyle(document.documentElement).getPropertyValue('--font-mono')}`;
+          c.textAlign = 'center';
+          c.fillText(lbl, x, cy + 28);
+        });
+
+        // Exterior emerald node (The Living Judge — strictly OUTSIDE the scoring axis!)
+        const judgeY = cy - clamp(H * 0.17, 94, 140);
+        c.strokeStyle = 'rgba(63, 185, 80, 0.75)';
+        c.setLineDash([5, 5]);
+        c.lineWidth = 1.8;
+        c.beginPath();
+        c.moveTo(cx, judgeY + 24);
+        c.lineTo(cx + barW * 0.5, cy - 12);
+        c.stroke();
+        c.setLineDash([]);
+
+        // Glowing emerald node
+        const pulse = 1 + Math.sin(t * 3.2) * 0.14;
+        c.beginPath();
+        c.arc(cx, judgeY, 24 * pulse, 0, Math.PI * 2);
+        c.fillStyle = 'rgba(63, 185, 80, 0.22)';
+        c.fill();
+        c.beginPath();
+        c.arc(cx, judgeY, 9.5, 0, Math.PI * 2);
+        c.fillStyle = '#3fb950';
+        c.fill();
+
+        c.fillStyle = '#4ade80';
+        c.font = `700 13.5px ${getComputedStyle(document.documentElement).getPropertyValue('--font-mono')}`;
+        c.textAlign = 'center';
+        c.fillText(zh ? '活的裁断前沿（设定标准并按下验收）' : 'LIVING EDGE (SETS THE CRITERION & ACCEPTS THE RENDER)', cx, judgeY - 32);
+
+        c.fillStyle = '#7dd3fc';
+        c.font = `600 12.5px ${getComputedStyle(document.documentElement).getPropertyValue('--font-mono')}`;
+        c.fillText(zh ? '外部选定的评分函数（单维标量）' : 'CHOSEN SCORING FUNCTION (1D SCALAR PROJECTION)', cx, cy + 56);
+
+        c.restore();
+      }
+    }
+
+    /* --- SCENE 3: THE COMPOUNDING IS REAL — 90° ORTHOGONAL CAMERA ORBIT --- */
+    function renderScene3(c, W, H, t) {
+      const zh = state.lang === 'zh';
+      // Sky gradient (architectural warm-dusk fading into clean deep cosmos during 90° orbit)
+      const autoOrbit = easeInOutCubic((t - 2.3) / 2.2);
+      const orbit = state.orbitOverride !== null ? state.orbitOverride : autoOrbit;
+
+      if (orbit > 0.35 && !state.scene4OrbitCue) {
+        state.scene4OrbitCue = true;
+        sound.chime([293.66, 440, 587.33]);
+      }
+
+      const bgGrad = c.createLinearGradient(0, 0, 0, H);
+      bgGrad.addColorStop(0, '#070b14');
+      bgGrad.addColorStop(0.55, '#121b2c');
+      bgGrad.addColorStop(1, '#1d1c24');
+      c.fillStyle = bgGrad;
+      c.fillRect(0, 0, W, H);
+
+      // 3D camera orbiting from 0° -> -68° so the red curve compresses on the left and the emerald 90° axis extends cleanly into open upper-right space!
+      const yaw = lerp(-0.08, -1.16, orbit) + state.pointer.x * 0.14;
+      const pitch = lerp(0.14, 0.28, orbit) + state.pointer.y * 0.08;
+      const fov = Math.min(W, H) * 0.82;
+      const camZ = 7.2;
+
+      function proj(x, y, z) {
+        const x1 = x * Math.cos(yaw) - z * Math.sin(yaw);
+        const z1 = x * Math.sin(yaw) + z * Math.cos(yaw);
+        const y2 = y * Math.cos(pitch) - z1 * Math.sin(pitch);
+        const z2 = y * Math.sin(pitch) + z1 * Math.cos(pitch) + camZ;
+        const s = fov / Math.max(0.4, z2);
+        return { x: W * 0.46 + x1 * s, y: H * 0.44 - y2 * s, s, z: z2 };
+      }
+
+      // Draw subtle perspective floor grid on XZ plane (y = -0.8)
+      c.strokeStyle = 'rgba(240, 246, 252, 0.065)';
+      c.lineWidth = 1;
+      for (let g = -2.6; g <= 2.6; g += 0.65) {
+        const a = proj(g, -0.8, -2.6);
+        const b = proj(g, -0.8, 2.6);
+        c.beginPath(); c.moveTo(a.x, a.y); c.lineTo(b.x, b.y); c.stroke();
+        const d = proj(-2.6, -0.8, g);
+        const e = proj(2.6, -0.8, g);
+        c.beginPath(); c.moveTo(d.x, d.y); c.lineTo(e.x, e.y); c.stroke();
+      }
+
+      // Draw the flat translucent XY projection sheet (z = 0), strictly bounded inside viewport
+      const sheetAlpha = lerp(0.06, 0.24, orbit);
+      const pBL = proj(-2.1, -0.8, 0);
+      const pBR = proj(2.1, -0.8, 0);
+      const pTR = proj(2.1, 1.85, 0);
+      const pTL = proj(-2.1, 1.85, 0);
+      c.beginPath();
+      c.moveTo(pBL.x, pBL.y); c.lineTo(pBR.x, pBR.y);
+      c.lineTo(pTR.x, pTR.y); c.lineTo(pTL.x, pTL.y);
+      c.closePath();
+      c.fillStyle = `rgba(248, 81, 73, ${sheetAlpha * 0.42})`;
+      c.fill();
+      c.strokeStyle = `rgba(248, 81, 73, ${lerp(0.22, 0.68, orbit)})`;
+      c.lineWidth = 1.4;
+      c.stroke();
+
+      // Exponentially growing white domino slabs sitting inside the z=0 plane!
+      const dominoCount = 12;
+      for (let i = 0; i < dominoCount; i++) {
+        const u = i / (dominoCount - 1);
+        const x = lerp(-1.85, 1.75, u);
+        const h = 0.12 * Math.pow(1.29, i);
+        const w = 0.075 + u * 0.065;
+        const fall = clamp((t * 0.85 - i * 0.12), 0, 1);
+        const tilt = i < dominoCount - 1 ? easeOutCubic(fall) * 0.2 : 0;
+
+        const baseL = proj(x - w / 2, -0.8, 0);
+        const baseR = proj(x + w / 2, -0.8, 0);
+        const topR = proj(x + w / 2 + Math.sin(tilt) * h, -0.8 + Math.cos(tilt) * h, 0);
+        const topL = proj(x - w / 2 + Math.sin(tilt) * h, -0.8 + Math.cos(tilt) * h, 0);
+
+        c.beginPath();
+        c.moveTo(baseL.x, baseL.y);
+        c.lineTo(baseR.x, baseR.y);
+        c.lineTo(topR.x, topR.y);
+        c.lineTo(topL.x, topL.y);
+        c.closePath();
+        c.fillStyle = `rgba(242, 244, 248, ${lerp(0.84, 0.36, orbit)})`;
+        c.fill();
+        c.strokeStyle = 'rgba(15, 23, 42, 0.35)';
+        c.lineWidth = 0.8;
+        c.stroke();
+
+        if (i === 5 || i === 8 || i === 11) {
+          const label = i === 5 ? '10' : i === 8 ? '20' : '30';
+          const lp = proj(x + Math.sin(tilt) * h * 0.72, -0.8 + Math.cos(tilt) * h * 0.72, 0);
+          c.fillStyle = `rgba(17, 24, 39, ${lerp(0.85, 0.25, orbit)})`;
+          c.font = `700 ${Math.max(10, Math.round(lp.s * 0.11))}px ${getComputedStyle(document.documentElement).getPropertyValue('--font-sans')}`;
+          c.textAlign = 'center';
+          c.fillText(label, lp.x, lp.y);
+        }
+      }
+
+      // Blazing exponential curve shooting up the z=0 plane
+      c.beginPath();
+      for (let i = 0; i <= 50; i++) {
+        const u = i / 50;
+        const x = lerp(-1.95, 1.85, u);
+        const y = -0.8 + 0.055 * Math.exp(u * 3.85);
+        const p = proj(x, Math.min(y, 1.85), 0);
+        if (i === 0) c.moveTo(p.x, p.y);
+        else c.lineTo(p.x, p.y);
+      }
+      c.strokeStyle = '#f85149';
+      c.lineWidth = 3;
+      c.shadowColor = 'rgba(248, 81, 73, 0.75)';
+      c.shadowBlur = 14;
+      c.stroke();
+      c.shadowBlur = 0;
+
+      // Two opposing poles stuck on the SAME 1D axis
+      const poleL = proj(-1.8, -0.35, 0);
+      const poleR = proj(1.65, 1.62, 0);
+      c.font = `600 11.5px ${getComputedStyle(document.documentElement).getPropertyValue('--font-mono')}`;
+      c.textAlign = 'center';
+      c.fillStyle = 'rgba(248, 81, 73, 0.92)';
+      c.fillText(zh ? '−1 · 线性上限（同一条轴）' : '−1 · LINEAR CEILING (SAME AXIS)', poleL.x, poleL.y);
+      c.fillText(zh ? '+1 · 自主心智（同一条轴）' : '+1 · AUTONOMOUS MIND (SAME AXIS)', poleR.x, poleR.y);
+
+      // THE EMERALD 90° ORTHOGONAL AXIS (z-axis extending cleanly into unobstructed upper-right space!)
+      const orthoReveal = smoothstep(0.18, 0.88, orbit);
+      if (orthoReveal > 0.01) {
+        const o0 = proj(0, -0.8, 0);
+        const o1 = proj(0, -0.8, lerp(0, 2.75, orthoReveal));
+        const oBack = proj(0, -0.8, lerp(0, -1.2, orthoReveal));
+
+        c.save();
+        c.strokeStyle = '#3fb950';
+        c.lineWidth = 3.5;
+        c.shadowColor = 'rgba(63, 185, 80, 0.85)';
+        c.shadowBlur = 18;
+        c.beginPath();
+        c.moveTo(oBack.x, oBack.y);
+        c.lineTo(o1.x, o1.y);
+        c.stroke();
+
+        // Right-angle square symbol at origin
+        const sqA = proj(0.28, -0.8, 0);
+        const sqB = proj(0.28, -0.8, 0.28);
+        const sqC = proj(0, -0.8, 0.28);
+        c.lineWidth = 1.6;
+        c.shadowBlur = 0;
+        c.beginPath();
+        c.moveTo(sqA.x, sqA.y); c.lineTo(sqB.x, sqB.y); c.lineTo(sqC.x, sqC.y);
+        c.stroke();
+
+        // Luminous emerald endpoint orb + label strictly in open right space
+        c.beginPath();
+        c.arc(o1.x, o1.y, 7.5, 0, Math.PI * 2);
+        c.fillStyle = '#3fb950';
+        c.fill();
+
+        c.fillStyle = '#4ade80';
+        c.font = `700 13px ${getComputedStyle(document.documentElement).getPropertyValue('--font-mono')}`;
+        c.textAlign = 'center';
+        c.fillText(
+          zh ? '90° 正交维度（内积 = 0 · 活的心智前沿）' : '90° ORTHOGONAL AXIS (⟨u, v⟩ = 0 · THE LIVING EDGE)',
+          Math.min(o1.x, W - 240),
+          o1.y - 22
+        );
+        c.restore();
+      }
+
+      // Live angle readout top-center
+      const deg = Math.round(orbit * 90);
+      c.fillStyle = deg > 45 ? '#3fb950' : 'rgba(240, 246, 252, 0.55)';
+      c.font = `600 12px ${getComputedStyle(document.documentElement).getPropertyValue('--font-mono')}`;
+      c.textAlign = 'center';
+      c.fillText(zh ? `观测夹角：${deg}°` : `CAMERA ANGLE: ${deg}°`, W * 0.5, 62);
+    }
+
+    /* --- SCENE 4: THE MOVING HORIZON (99% closes -> 1% unfolds a new cosmos) --- */
+    function renderScene4(c, W, H, t) {
+      const zh = state.lang === 'zh';
+      // Deep space to Earth's curved glowing blue atmosphere at the bottom
+      const bg = c.createLinearGradient(0, 0, 0, H);
+      bg.addColorStop(0, '#02040a');
+      bg.addColorStop(0.58, '#071327');
+      bg.addColorStop(0.86, '#153a6c');
+      bg.addColorStop(1, '#3c78b8');
+      c.fillStyle = bg;
+      c.fillRect(0, 0, W, H);
+
+      // Stars in upper space
+      STARS.slice(0, 110).forEach(s => {
+        const sx = (s.x * 0.5 + 0.5) * W;
+        const sy = (s.y * 0.5 + 0.5) * H * 0.65;
+        const tw = 0.4 + 0.6 * Math.sin(t * 1.8 + s.twinkle);
+        c.fillStyle = `rgba(240, 246, 252, ${0.45 * tw})`;
+        c.fillRect(sx, sy, s.r, s.r);
+      });
+
+      // Curved Earth atmospheric limb
+      c.save();
+      c.beginPath();
+      c.arc(W * 0.5, H * 2.15, H * 1.38, Math.PI * 1.15, Math.PI * 1.85);
+      c.strokeStyle = 'rgba(120, 200, 255, 0.45)';
+      c.lineWidth = 6;
+      c.shadowColor = '#38bdf8';
+      c.shadowBlur = 32;
+      c.stroke();
+      c.restore();
+
+      // Cycle smoothly every 5.6s so viewer watches 99% -> 1% unfolding -> N+1 horizon continuously!
+      const cycleDur = 5.6;
+      const cycle = Math.floor(t / cycleDur);
+      const localT = (t % cycleDur) / cycleDur; // 0..1
+
+      const fillP = easeOutCubic(clamp(localT / 0.46, 0, 1)); // 0..99%
+      const unfold = easeInOutCubic(clamp((localT - 0.52) / 0.34, 0, 1)); // 1% unfolds!
+      const pct = Math.min(99, Math.round(fillP * 99));
+
+      // Perspective white METR ribbon ascending strictly in the unobstructed upper stage
+      const rx = W * 0.28 + state.pointer.x * 16;
+      const ryTop = H * 0.11;
+      const ryBot = H * 0.59;
+      const rwTop = clamp(W * 0.105, 74, 126);
+      const rwBot = rwTop * 0.46;
+
+      c.save();
+      c.beginPath();
+      c.moveTo(rx - rwBot / 2, ryBot);
+      c.lineTo(rx + rwBot / 2, ryBot);
+      c.lineTo(rx + rwTop / 2, ryTop);
+      c.lineTo(rx - rwTop / 2, ryTop);
+      c.closePath();
+      c.fillStyle = 'rgba(248, 250, 252, 0.94)';
+      c.shadowColor = 'rgba(56, 189, 248, 0.35)';
+      c.shadowBlur = 24;
+      c.fill();
+      c.shadowBlur = 0;
+
+      // Red ascending METR benchmark line climbing the paper ribbon
+      const climbY = lerp(ryBot - 14, ryTop + 22, fillP);
+      c.strokeStyle = '#dc2626';
+      c.lineWidth = 3.2;
+      c.beginPath();
+      c.moveTo(rx + rwBot * 0.24, ryBot - 14);
+      c.lineTo(rx + lerp(rwBot, rwTop, fillP) * 0.28, climbY);
+      c.stroke();
+
+      // Horizontal ruler lines & labels on the ribbon
+      c.fillStyle = '#334155';
+      c.font = `600 10.5px ${getComputedStyle(document.documentElement).getPropertyValue('--font-mono')}`;
+      c.textAlign = 'left';
+      c.fillText('4 min', rx - rwBot * 0.4, ryBot - 14);
+      c.fillText('40 hr', rx - lerp(rwBot, rwTop, 0.5) * 0.4, lerp(ryBot, ryTop, 0.5));
+      c.fillText('200 hr', rx - rwTop * 0.4, ryTop + 22);
+      c.restore();
+
+      // Right-center: Benchmark Closure Gauge -> The 1% Fractal Horizon Unfolding (strictly clear of lower-third card!)
+      const gx = W * 0.65 + state.pointer.x * 20;
+      const gy = H * 0.35 + state.pointer.y * 12;
+      const radius = clamp(Math.min(W, H) * 0.135, 72, 118);
+
+      // Shrinking old closed benchmark ring once 1% unfolds
+      const oldScale = lerp(1.0, 0.24, unfold);
+      c.save();
+      c.translate(gx, gy);
+
+      // Old closed benchmark circle
+      c.save();
+      c.scale(oldScale, oldScale);
+      c.beginPath();
+      c.arc(0, 0, radius, -Math.PI / 2, -Math.PI / 2 + Math.PI * 2 * (pct / 100));
+      c.strokeStyle = unfold > 0.2 ? 'rgba(88, 166, 255, 0.45)' : '#58a6ff';
+      c.lineWidth = 8;
+      c.stroke();
+
+      c.fillStyle = unfold > 0.35 ? 'rgba(240, 246, 252, 0.48)' : '#f0f6fc';
+      c.font = `700 ${Math.round(radius * 0.34)}px ${getComputedStyle(document.documentElement).getPropertyValue('--font-mono')}`;
+      c.textAlign = 'center';
+      c.textBaseline = 'middle';
+      c.fillText(`${pct}%`, 0, -6);
+      c.font = `500 12px ${getComputedStyle(document.documentElement).getPropertyValue('--font-mono')}`;
+      c.fillStyle = '#d29922';
+      c.fillText(
+        unfold > 0.35
+          ? (zh ? '重归类：狭隘执行' : 'RECLASSIFIED: NARROW')
+          : (zh ? `旧球门 N=${cycle + 1}` : `GOALPOST N=${cycle + 1}`),
+        0,
+        radius * 0.28
+      );
+      c.restore();
+
+      // THE REMAINING 1% BLOOMING INTO A NEW HORIZON OF UNARTICULATED PROBLEMS!
+      if (unfold > 0.01) {
+        const bloomR = lerp(12, radius * 1.65, unfold);
+        const spokes = 18;
+        c.strokeStyle = `rgba(63, 185, 80, ${unfold * 0.68})`;
+        c.lineWidth = 1.2;
+        for (let i = 0; i < spokes; i++) {
+          const ang = (i / spokes) * Math.PI * 2 + t * 0.08;
+          const inner = radius * oldScale + 8;
+          const outer = bloomR * (0.82 + 0.18 * Math.sin(i * 2.3 + t));
+          c.beginPath();
+          c.moveTo(Math.cos(ang) * inner, Math.sin(ang) * inner);
+          c.lineTo(Math.cos(ang) * outer, Math.sin(ang) * outer);
+          c.stroke();
+
+          c.beginPath();
+          c.arc(Math.cos(ang) * outer, Math.sin(ang) * outer, 3.2, 0, Math.PI * 2);
+          c.fillStyle = i % 3 === 0 ? '#3fb950' : '#58a6ff';
+          c.globalAlpha = unfold;
+          c.fill();
+          c.globalAlpha = 1;
+        }
+        // New outer horizon ring
+        c.beginPath();
+        c.arc(0, 0, bloomR, 0, Math.PI * 2);
+        c.setLineDash([5, 7]);
+        c.strokeStyle = `rgba(63, 185, 80, ${unfold * 0.85})`;
+        c.lineWidth = 1.8;
+        c.stroke();
+        c.setLineDash([]);
+
+        c.fillStyle = '#3fb950';
+        c.globalAlpha = unfold;
+        c.font = `700 12.5px ${getComputedStyle(document.documentElement).getPropertyValue('--font-mono')}`;
+        c.textAlign = 'center';
+        c.fillText(
+          zh ? `余下 1% 展开的新视界 → N + 1` : `REMAINING 1% UNFOLDS NEW HORIZON → N + 1`,
+          0,
+          -bloomR - 14
+        );
+        c.globalAlpha = 1;
+      }
+
+      c.restore();
+    }
+
+    /* --- SCENE 5: THE DEEPER ANCHOR (Split Ocean + Origami Boat + TWO Anchors) --- */
+    function renderScene5(c, W, H, t) {
+      const zh = state.lang === 'zh';
+      // Pan waterline upward slightly at t = 2.4..4.2s to reveal the deeper second anchor!
+      const dive = easeInOutCubic((t - 2.3) / 1.8);
+      const waterY = H * lerp(0.45, 0.30, dive);
+
+      // 1. ABOVE WATER: Warm golden sunset sky
+      const sky = c.createLinearGradient(0, 0, 0, waterY);
+      sky.addColorStop(0, '#142030');
+      sky.addColorStop(0.58, '#46545f');
+      sky.addColorStop(0.86, '#c79a64');
+      sky.addColorStop(1, '#f4d399');
+      c.fillStyle = sky;
+      c.fillRect(0, 0, W, waterY + 6);
+
+      // Warm low sun disc + horizon glow
+      const sunX = W * 0.36 + state.pointer.x * 18;
+      const sunY = waterY - 12;
+      const sunGlow = c.createRadialGradient(sunX, sunY, 4, sunX, sunY, W * 0.28);
+      sunGlow.addColorStop(0, 'rgba(255, 248, 220, 0.96)');
+      sunGlow.addColorStop(0.22, 'rgba(245, 198, 120, 0.45)');
+      sunGlow.addColorStop(1, 'rgba(245, 198, 120, 0)');
+      c.fillStyle = sunGlow;
+      c.fillRect(0, 0, W, waterY + 6);
+
+      // 2. BELOW WATER: Luminous emerald-teal ocean transitioning to deep abyssal slate
+      const sea = c.createLinearGradient(0, waterY, 0, H);
+      sea.addColorStop(0, '#1e8a7d');
+      sea.addColorStop(0.32, '#0e5b5c');
+      sea.addColorStop(0.72, '#072a36');
+      sea.addColorStop(1, '#04121b');
+      c.fillStyle = sea;
+      c.fillRect(0, waterY, W, H - waterY);
+
+      // Underwater shimmering caustic light shafts
+      c.save();
+      for (let i = 0; i < 9; i++) {
+        const rx = W * (0.12 + i * 0.1) + Math.sin(t * 0.7 + i) * 28;
+        const rw = 26 + (i % 3) * 18;
+        const rg = c.createLinearGradient(rx, waterY, rx + 70, H * 0.88);
+        rg.addColorStop(0, 'rgba(150, 245, 225, 0.14)');
+        rg.addColorStop(1, 'rgba(150, 245, 225, 0)');
+        c.fillStyle = rg;
+        c.beginPath();
+        c.moveTo(rx, waterY);
+        c.lineTo(rx + rw, waterY);
+        c.lineTo(rx + rw + 110, H * 0.92);
+        c.lineTo(rx + 60, H * 0.92);
+        c.closePath();
+        c.fill();
+      }
+      c.restore();
+
+      // Animated wave surface meniscus
+      c.beginPath();
+      c.moveTo(0, waterY);
+      for (let x = 0; x <= W; x += 18) {
+        const wy = waterY + Math.sin(x * 0.014 + t * 2.1) * 4.5 + Math.cos(x * 0.03 - t * 1.4) * 2;
+        c.lineTo(x, wy);
+      }
+      c.lineTo(W, waterY + 18);
+      c.lineTo(0, waterY + 18);
+      c.closePath();
+      c.fillStyle = 'rgba(205, 250, 242, 0.18)';
+      c.fill();
+
+      // 3. WHITE ORIGAMI PAPER BOAT gently pitching on the waves
+      const boatX = W * 0.64 + Math.sin(t * 0.65) * 10 + state.pointer.x * 12;
+      const boatY = waterY - 2 + Math.sin(t * 2.0) * 3.5;
+      const boatPitch = Math.sin(t * 1.7) * 0.045;
+      const bs = clamp(W * 0.068, 46, 86);
+
+      c.save();
+      c.translate(boatX, boatY);
+      c.rotate(boatPitch);
+      // Left hull facet
+      c.beginPath();
+      c.moveTo(-bs, -bs * 0.25); c.lineTo(0, -bs * 0.08); c.lineTo(-bs * 0.62, bs * 0.16);
+      c.closePath();
+      c.fillStyle = '#e2e8f0';
+      c.fill();
+      // Right hull facet
+      c.beginPath();
+      c.moveTo(bs, -bs * 0.25); c.lineTo(0, -bs * 0.08); c.lineTo(bs * 0.62, bs * 0.16);
+      c.closePath();
+      c.fillStyle = '#f8fafc';
+      c.fill();
+      // Center pyramid sail
+      c.beginPath();
+      c.moveTo(-bs * 0.56, -bs * 0.18); c.lineTo(0, -bs * 0.92); c.lineTo(bs * 0.56, -bs * 0.18);
+      c.closePath();
+      c.fillStyle = '#ffffff';
+      c.fill();
+      // Inner fold shadow
+      c.beginPath();
+      c.moveTo(0, -bs * 0.92); c.lineTo(0, -bs * 0.08); c.lineTo(bs * 0.56, -bs * 0.18);
+      c.closePath();
+      c.fillStyle = '#cbd5e1';
+      c.fill();
+      c.restore();
+
+      // 4. ANCHOR 1 (Shallow — "Tomorrow looks like today"): CUT by blue selection box at t = 1.6s!
+      const cut1 = t > 1.75;
+      if (cut1 && !state.scene6CutCue) {
+        state.scene6CutCue = true;
+        sound.tick(980, 0.05, 0.08);
+      }
+      const drop1 = cut1 ? easeOutCubic(clamp((t - 1.75) / 1.8, 0, 1)) * 70 : 0;
+      const a1X = boatX - Math.min(W * 0.14, 175);
+      const a1Y = waterY + 95 + drop1;
+
+      // Chain 1
+      c.save();
+      c.strokeStyle = cut1 ? 'rgba(245, 198, 120, 0.48)' : 'rgba(245, 198, 120, 0.88)';
+      c.lineWidth = 2.4;
+      c.setLineDash([6, 4]);
+      c.beginPath();
+      if (!cut1) {
+        c.moveTo(boatX - 24, boatY + 10);
+        c.quadraticCurveTo(a1X + 20, (boatY + a1Y) / 2, a1X, a1Y);
+      } else {
+        c.moveTo(a1X, waterY + 52 + drop1);
+        c.lineTo(a1X, a1Y);
+      }
+      c.stroke();
+      c.setLineDash([]);
+
+      // Blue selection box cutting chain 1 right around t = 0.9..2.25s
+      if (t > 0.9 && t < 2.25) {
+        const boxA = t < 1.75 ? smoothstep(0.9, 1.3, t) : 1 - smoothstep(1.85, 2.25, t);
+        drawSelectionBox(c, a1X - 10, waterY + 42, 28, 36, { alpha: boxA, rotationHandle: true, handleSize: 5 });
+      }
+
+      // Draw Anchor 1 icon (strictly clear above lower-third card!)
+      c.globalAlpha = cut1 ? 0.62 : 0.94;
+      drawAnchorIcon(c, a1X, a1Y, 16, '#fbbf24');
+      c.fillStyle = '#fde68a';
+      c.font = `600 11.5px ${getComputedStyle(document.documentElement).getPropertyValue('--font-mono')}`;
+      c.textAlign = 'right';
+      c.fillText(
+        cut1
+          ? (zh ? '已斩断：线性直觉' : 'SEVERED: LINEAR INTUITION')
+          : (zh ? '锚 1：明天像今天' : 'ANCHOR 1: LINEAR INTUITION'),
+        a1X - 24,
+        a1Y + 4
+      );
+      c.restore();
+
+      // 5. ANCHOR 2 (Deeper — IMAGE LAG: Projecting a Second Mind!)
+      const a2Reveal = smoothstep(2.1, 3.5, t);
+      if (a2Reveal > 0.01) {
+        const dissolved = state.secondAnchorCut
+          ? easeOutCubic(clamp((t - state.secondAnchorCutTime) / 1.1, 0, 1))
+          : 0;
+        const a2X = boatX + 40;
+        const a2Y = Math.min(H * 0.56, waterY + H * 0.25);
+        const col = dissolved > 0.5 ? '#4ade80' : '#ff6b6b';
+
+        c.save();
+        c.globalAlpha = a2Reveal;
+
+        // Heavy glowing chain 2 still attached directly to the boat!
+        if (dissolved < 0.95) {
+          c.strokeStyle = col;
+          c.lineWidth = lerp(3.4, 1.0, dissolved);
+          c.setLineDash([8, 5]);
+          c.globalAlpha = a2Reveal * (1 - dissolved);
+          c.beginPath();
+          c.moveTo(boatX + 8, boatY + 12);
+          c.quadraticCurveTo(a2X + 18, (boatY + a2Y) * 0.5, a2X, a2Y);
+          c.stroke();
+          c.setLineDash([]);
+        }
+
+        // Crimson pulse ring around the deeper anchor
+        c.globalAlpha = a2Reveal * (1 - dissolved * 0.72);
+        const pulse = 1 + Math.sin(t * 3.0) * 0.14;
+        c.beginPath();
+        c.arc(a2X, a2Y, 36 * pulse, 0, Math.PI * 2);
+        c.fillStyle = dissolved > 0.5 ? 'rgba(63, 185, 80, 0.22)' : 'rgba(248, 81, 73, 0.22)';
+        c.fill();
+        drawAnchorIcon(c, a2X, a2Y, 24, col);
+
+        // Label cleanly above/right of deeper anchor — never colliding with bottom-left card!
+        c.globalAlpha = a2Reveal;
+        c.fillStyle = col;
+        c.font = `700 12.5px ${getComputedStyle(document.documentElement).getPropertyValue('--font-mono')}`;
+        const lbl2 = dissolved > 0.5
+          ? (zh ? '滞后已消解：回到一步之宽' : 'LAG DISSOLVED: BACK TO ONE-STEP WIDTH')
+          : (zh ? '更深的锚 · 图像滞后（投射第二重心智）' : 'DEEPER ANCHOR · IMAGE LAG (PROJECTING A SECOND MIND)');
+        const lblW = c.measureText(lbl2).width;
+        if (a2X + 36 + lblW < W - 20) {
+          c.textAlign = 'left';
+          c.fillText(lbl2, a2X + 36, a2Y + 4);
+        } else {
+          c.textAlign = 'center';
+          c.fillText(lbl2, Math.min(a2X, W - lblW / 2 - 24), a2Y + 48);
+        }
+        c.restore();
+
+        // Store hitbox for click-to-dissolve interaction
+        state._anchor2Hit = { x: a2X, y: a2Y, r: 62 };
+      }
+    }
+
+    function drawAnchorIcon(c, x, y, r, color) {
+      c.save();
+      c.translate(x, y);
+      c.strokeStyle = color;
+      c.lineWidth = 2.6;
+      c.lineCap = 'round';
+      // Ring
+      c.beginPath(); c.arc(0, -r * 0.85, r * 0.24, 0, Math.PI * 2); c.stroke();
+      // Shank
+      c.beginPath(); c.moveTo(0, -r * 0.6); c.lineTo(0, r * 0.75); c.stroke();
+      // Stock bar
+      c.beginPath(); c.moveTo(-r * 0.45, -r * 0.3); c.lineTo(r * 0.45, -r * 0.3); c.stroke();
+      // Fluke arc
+      c.beginPath(); c.arc(0, r * 0.15, r * 0.72, 0.18 * Math.PI, 0.82 * Math.PI); c.stroke();
+      c.restore();
+    }
+
+    /* --- SCENE 6: FOLDED SELF-IMAGE & BOUND OF SIMULATION (Arches -> Dual Geometry) --- */
+    function renderScene6(c, W, H, t) {
+      const zh = state.lang === 'zh';
+      const bg = c.createRadialGradient(W * 0.5, H * 0.38, 20, W * 0.5, H * 0.42, Math.max(W, H) * 0.72);
+      bg.addColorStop(0, '#1e1918');
+      bg.addColorStop(0.45, '#0d111a');
+      bg.addColorStop(1, '#05070c');
+      c.fillStyle = bg;
+      c.fillRect(0, 0, W, H);
+
+      // Subtle atmospheric callback arches receding in background mist
+      c.save();
+      c.translate(W * 0.5 + state.pointer.x * 16, H * 0.42 + state.pointer.y * 10);
+      for (let i = 0; i < 7; i++) {
+        const depth = ((i - (t * 0.25) % 1) + 7) % 7;
+        const sc = Math.pow(0.72, depth);
+        const ar = Math.min(W, H) * 0.44 * sc;
+        c.beginPath();
+        c.arc(0, ar * 0.12, ar, Math.PI, 0);
+        c.strokeStyle = `rgba(210, 153, 34, ${0.14 * (1 - depth / 7)})`;
+        c.lineWidth = Math.max(1, 5 * sc);
+        c.stroke();
+      }
+      c.restore();
+
+      // Dual Split Comparison floating cleanly above the arches
+      const isNarrow = W < 760;
+      const cy = H * (isNarrow ? 0.34 : 0.37);
+      const panelW = isNarrow ? W * 0.43 : Math.min(W * 0.36, 400);
+      const panelH = clamp(H * 0.33, 180, 260);
+      const leftX = W * 0.5 - panelW * 0.55 - (isNarrow ? 6 : 22);
+      const rightX = W * 0.5 + panelW * 0.55 + (isNarrow ? 6 : 22);
+
+      // LEFT: SIMULATED RECURSION (Locked inside amber "Supplied Coordinates" cage!)
+      c.save();
+      c.translate(leftX, cy);
+      c.fillStyle = 'rgba(13, 18, 28, 0.78)';
+      drawRoundedRect(c, -panelW / 2, -panelH / 2, panelW, panelH, 12);
+      c.fill();
+      c.strokeStyle = '#d29922';
+      c.lineWidth = 1.6;
+      c.stroke();
+
+      c.fillStyle = '#d29922';
+      c.font = `700 11px ${getComputedStyle(document.documentElement).getPropertyValue('--font-mono')}`;
+      c.textAlign = 'center';
+      c.fillText(zh ? '外部供给的坐标边界（模拟递归）' : 'SUPPLIED COORDINATES (SIMULATED LOOP)', 0, -panelH / 2 + 20);
+
+      // Concentric rotating v4 rings inside the rigid box
+      const gearR = Math.min(panelW, panelH) * 0.27;
+      for (let g = 0; g < 3; g++) {
+        c.save();
+        c.rotate(t * (g % 2 === 0 ? 0.8 : -1.1) + g);
+        c.beginPath();
+        c.arc(0, 6, gearR * (1 - g * 0.25), 0, Math.PI * 1.65);
+        c.strokeStyle = g === 0 ? '#58a6ff' : g === 1 ? '#d29922' : '#f85149';
+        c.lineWidth = 2.4;
+        c.stroke();
+        c.restore();
+      }
+      // Saturation / collapse pulse label when internal loop closes
+      const closedPhase = (Math.sin(t * 1.3) > 0.15);
+      c.fillStyle = closedPhase ? '#f85149' : '#58a6ff';
+      c.font = `600 11px ${getComputedStyle(document.documentElement).getPropertyValue('--font-mono')}`;
+      c.fillText(
+        closedPhase
+          ? (zh ? '内部闭环 → 饱和 / 钻营代理指标' : 'CLOSED INTERNALLY → SATURATES / PROXY HACKS')
+          : (zh ? 'v1 → v2 → v3 → v4（困于沙箱）' : 'v1 → v2 → v3 → v4 (INSIDE SANDBOX)'),
+        0,
+        panelH / 2 - 18
+      );
+      c.restore();
+
+      // RIGHT: LIVING FOLDING (Open space, NO outer cage! Overtaking its own ghost portrait!)
+      c.save();
+      c.translate(rightX, cy);
+      c.fillStyle = 'rgba(10, 20, 16, 0.45)';
+      drawRoundedRect(c, -panelW / 2, -panelH / 2, panelW, panelH, 12);
+      c.fill();
+      c.strokeStyle = 'rgba(63, 185, 80, 0.35)';
+      c.setLineDash([5, 6]);
+      c.lineWidth = 1.2;
+      c.stroke();
+      c.setLineDash([]);
+
+      c.fillStyle = '#3fb950';
+      c.font = `700 11px ${getComputedStyle(document.documentElement).getPropertyValue('--font-mono')}`;
+      c.textAlign = 'center';
+      c.fillText(zh ? '活的心智（敞开的自我折返）' : 'LIVING MIND (OPEN SELF-FOLDING)', 0, -panelH / 2 + 20);
+
+      // Ghost past self-image circles receding behind the overtaking emerald edge
+      for (let k = 3; k >= 1; k--) {
+        const phase = (t * 0.65 - k * 0.22);
+        const gx = Math.cos(phase) * gearR * 0.55 - k * 14;
+        const gy = Math.sin(phase * 1.4) * gearR * 0.32 + 6;
+        c.beginPath();
+        c.arc(gx, gy, gearR * (0.45 + k * 0.08), 0, Math.PI * 2);
+        c.strokeStyle = `rgba(163, 113, 247, ${0.14 * (4 - k)})`;
+        c.lineWidth = 1.4;
+        c.stroke();
+      }
+      // Active emerald edge overtaking its own ghost
+      const headAng = t * 0.65;
+      const hx = Math.cos(headAng) * gearR * 0.55 + 16;
+      const hy = Math.sin(headAng * 1.4) * gearR * 0.32 + 6;
+      c.beginPath();
+      c.arc(hx, hy, gearR * 0.52, 0, Math.PI * 2);
+      c.strokeStyle = '#3fb950';
+      c.lineWidth = 2.4;
+      c.shadowColor = 'rgba(63, 185, 80, 0.7)';
+      c.shadowBlur = 14;
+      c.stroke();
+      c.shadowBlur = 0;
+
+      c.beginPath();
+      c.arc(hx + gearR * 0.52, hy, 5, 0, Math.PI * 2);
+      c.fillStyle = '#3fb950';
+      c.fill();
+
+      c.fillStyle = '#3fb950';
+      c.font = `600 11px ${getComputedStyle(document.documentElement).getPropertyValue('--font-mono')}`;
+      c.fillText(
+        zh ? '无需定义 · 越过旧形象（N → N + 1）' : 'UNBOUNDED · OVERTAKES PAST IMAGE (N → N + 1)',
+        0,
+        panelH / 2 - 18
+      );
+      c.restore();
+    }
+
+    /* --- SCENE 7: SELECTING THE SUN COSTS ZERO JOULES (Sun + Dyson + Blue Box + 1+1=2 vs +1) --- */
+    function renderScene7(c, W, H, t) {
+      const zh = state.lang === 'zh';
+      c.fillStyle = '#030408';
+      c.fillRect(0, 0, W, H);
+
+      // Deep starfield
+      STARS.forEach(s => {
+        const sx = (s.x * 0.5 + 0.5) * W + state.pointer.x * 12 * s.z;
+        const sy = (s.y * 0.5 + 0.5) * H + state.pointer.y * 12 * s.z;
+        const tw = 0.35 + 0.65 * Math.sin(t * 2 + s.twinkle);
+        c.fillStyle = `rgba(255, 250, 240, ${0.55 * tw})`;
+        c.fillRect(sx, sy, s.r, s.r);
+      });
+
+      const cx = W * 0.5 + state.pointer.x * 20;
+      const cy = H * 0.34 + state.pointer.y * 12;
+      const sunR = clamp(Math.min(W, H) * 0.13, 64, 114);
+
+      // Back half of orbiting Dyson swarm panels (z < 0)
+      const swarmIn = easeOutCubic(clamp((t - 0.6) / 2.2, 0, 1));
+      drawDysonHalf(c, cx, cy, sunR, t, swarmIn, false);
+
+      // Radiant Solar Corona
+      const corona = c.createRadialGradient(cx, cy, sunR * 0.75, cx, cy, sunR * 2.35);
+      corona.addColorStop(0, 'rgba(255, 210, 90, 0.55)');
+      corona.addColorStop(0.38, 'rgba(249, 115, 22, 0.22)');
+      corona.addColorStop(1, 'rgba(249, 115, 22, 0)');
+      c.fillStyle = corona;
+      c.beginPath();
+      c.arc(cx, cy, sunR * 2.35, 0, Math.PI * 2);
+      c.fill();
+
+      // Blazing 3D Solar Sphere
+      const sphere = c.createRadialGradient(cx - sunR * 0.2, cy - sunR * 0.2, sunR * 0.08, cx, cy, sunR);
+      sphere.addColorStop(0, '#fffbeb');
+      sphere.addColorStop(0.32, '#fde047');
+      sphere.addColorStop(0.7, '#f97316');
+      sphere.addColorStop(0.95, '#b91c1c');
+      sphere.addColorStop(1, '#7c2d12');
+      c.beginPath();
+      c.arc(cx, cy, sunR, 0, Math.PI * 2);
+      c.fillStyle = sphere;
+      c.fill();
+
+      // Animated solar plasma convection filaments inside sun disc
+      c.save();
+      c.beginPath();
+      c.arc(cx, cy, sunR * 0.98, 0, Math.PI * 2);
+      c.clip();
+      for (let i = 0; i < 14; i++) {
+        const ang = i * 0.9 + t * 0.18;
+        const rr = sunR * (0.28 + (i % 5) * 0.16);
+        const px = cx + Math.cos(ang) * rr * 0.65;
+        const py = cy + Math.sin(ang * 1.3) * rr * 0.55;
+        c.beginPath();
+        c.arc(px, py, sunR * 0.24, 0, Math.PI * 2);
+        c.fillStyle = i % 2 === 0 ? 'rgba(254, 240, 138, 0.12)' : 'rgba(180, 40, 10, 0.14)';
+        c.fill();
+      }
+      c.restore();
+
+      // Front half of orbiting Dyson swarm panels (z >= 0)
+      drawDysonHalf(c, cx, cy, sunR, t, swarmIn, true);
+
+      // Iconic Blue Selection Box snapped around the Sun ("Select all.") + Vector Mouse Cursor on handle!
+      const boxPad = sunR * 1.18;
+      drawSelectionBox(c, cx - boxPad, cy - boxPad, boxPad * 2, boxPad * 2, {
+        alpha: 0.95,
+        rotationHandle: true,
+        handleSize: 7.5
+      });
+
+      // Cursor holding the bottom-right handle — exposing it's still a layer on a screen!
+      const cursorIn = smoothstep(0.9, 1.8, t);
+      if (cursorIn > 0.01) {
+        drawCursorArrow(
+          c,
+          cx + boxPad + lerp(55, 2, easeOutCubic(cursorIn)),
+          cy + boxPad + lerp(40, 2, easeOutCubic(cursorIn)),
+          1.15,
+          cursorIn
+        );
+      }
+
+      // "Select all." callback label neatly above the rotation handle
+      c.fillStyle = 'rgba(240, 246, 252, 0.85)';
+      c.font = `600 ${Math.round(clamp(W * 0.015, 13, 18))}px ${getComputedStyle(document.documentElement).getPropertyValue('--font-sans')}`;
+      c.textAlign = 'center';
+      c.fillText(zh ? '全选。' : 'Select all.', cx, cy - boxPad - 40);
+
+      // Symmetrical Left & Right Contrast Panels flanking the Sun (100% clear of the lower-third card!)
+      const sideGap = Math.max(boxPad + 36, Math.min(W * 0.24, 240));
+      const leftX = cx - sideGap;
+      const rightX = cx + sideGap;
+      const mono = getComputedStyle(document.documentElement).getPropertyValue('--font-mono');
+
+      if (W > 760) {
+        // Left: 1 + 1 = 2 · 10⁸⁰ · ∞
+        c.textAlign = 'right';
+        c.fillStyle = '#7dd3fc';
+        c.font = `700 ${Math.round(clamp(W * 0.017, 15, 22))}px ${mono}`;
+        c.fillText('1 + 1 = 2 · 10⁸⁰ · ∞', leftX, cy - 8);
+        c.fillStyle = 'rgba(125, 211, 252, 0.82)';
+        c.font = `500 11.5px ${mono}`;
+        c.fillText(zh ? '纸面零能耗推演' : '0 JOULES ON PAPER', leftX, cy + 16);
+        c.fillText(zh ? '凝固为符号的实无限' : 'SYMBOLIC ACTUAL INFINITY', leftX, cy + 34);
+
+        // Right: +1
+        c.textAlign = 'left';
+        c.fillStyle = '#4ade80';
+        c.font = `700 ${Math.round(clamp(W * 0.022, 18, 28))}px ${mono}`;
+        c.fillText('+1', rightX, cy - 8);
+        c.fillStyle = 'rgba(74, 222, 128, 0.88)';
+        c.font = `500 11.5px ${mono}`;
+        c.fillText(zh ? '真实摩擦中的不可逆行动' : 'IRREVERSIBLE STEP IN FRICTION', rightX, cy + 16);
+        c.fillText(zh ? '每步有限 · 下步敞开的潜无限' : 'POTENTIAL INFINITY · OPEN NEXT STEP', rightX, cy + 34);
+      } else {
+        // Narrow viewport fallback cleanly above lower-third
+        const barY = cy + boxPad + 30;
+        c.textAlign = 'center';
+        c.fillStyle = '#7dd3fc';
+        c.font = `700 13px ${mono}`;
+        c.fillText('1 + 1 = 2 · 10⁸⁰   vs.   +1', cx, barY);
+      }
+    }
+
+    function drawDysonHalf(c, cx, cy, sunR, t, swarmIn, front) {
+      if (swarmIn <= 0.01) return;
+      DYSON_PANELS.forEach(p => {
+        const local = easeOutCubic(clamp((t - 0.5 - p.delay * 0.55) / 1.1, 0, 1));
+        if (local <= 0.01) return;
+        const th = p.theta + t * p.speed;
+        const r = sunR * lerp(2.6, p.orbitR, local);
+        const x = Math.sin(p.phi) * Math.cos(th) * r;
+        const y = Math.cos(p.phi) * r * 0.92;
+        const z = Math.sin(p.phi) * Math.sin(th) * r;
+        if ((front && z < 0) || (!front && z >= 0)) return;
+        const sz = sunR * p.size * (0.75 + 0.35 * ((z / r) + 1) * 0.5);
+        c.save();
+        c.translate(cx + x, cy + y);
+        c.rotate(th * 0.5);
+        c.fillStyle = front ? 'rgba(18, 22, 30, 0.92)' : 'rgba(28, 34, 48, 0.65)';
+        c.strokeStyle = front ? 'rgba(251, 146, 60, 0.45)' : 'rgba(251, 146, 60, 0.2)';
+        c.lineWidth = 0.8;
+        c.fillRect(-sz / 2, -sz * 0.42, sz, sz * 0.84);
+        c.strokeRect(-sz / 2, -sz * 0.42, sz, sz * 0.84);
+        c.restore();
+      });
+    }
+
+    /* --- SCENE 8: 1° INSIDE THE PLANE VS 90° ORTHOGONAL MSB --- */
+    function renderScene8(c, W, H, t) {
+      const zh = state.lang === 'zh';
+      c.fillStyle = '#060911';
+      c.fillRect(0, 0, W, H);
+
+      const yaw = -0.58 + state.pointer.x * 0.22;
+      const pitch = 0.44 + state.pointer.y * 0.14;
+      const fov = Math.min(W, H) * 0.82;
+      const camZ = 6.4;
+
+      function proj(x, y, z) {
+        const x1 = x * Math.cos(yaw) - z * Math.sin(yaw);
+        const z1 = x * Math.sin(yaw) + z * Math.cos(yaw);
+        const y2 = y * Math.cos(pitch) - z1 * Math.sin(pitch);
+        const z2 = y * Math.sin(pitch) + z1 * Math.cos(pitch) + camZ;
+        const s = fov / Math.max(0.4, z2);
+        return { x: W * 0.5 + x1 * s, y: H * 0.43 - y2 * s, s };
+      }
+
+      const rise = easeInOutCubic((t - 1.35) / 1.55);
+
+      // Stepped parallel planes revealed once 90° MSB rises (lower plane stays 100% intact!)
+      const planeLevels = [0, 0.72, 1.44];
+      planeLevels.forEach((py, idx) => {
+        const alpha = idx === 0 ? 1 : smoothstep(0.15 + idx * 0.2, 0.7 + idx * 0.15, rise);
+        if (alpha <= 0.01) return;
+        const p0 = proj(-2.2, py - 0.5, -1.6);
+        const p1 = proj(2.2, py - 0.5, -1.6);
+        const p2 = proj(2.2, py - 0.5, 1.6);
+        const p3 = proj(-2.2, py - 0.5, 1.6);
+        c.beginPath();
+        c.moveTo(p0.x, p0.y); c.lineTo(p1.x, p1.y);
+        c.lineTo(p2.x, p2.y); c.lineTo(p3.x, p3.y);
+        c.closePath();
+        c.fillStyle = idx === 0
+          ? 'rgba(210, 153, 34, 0.06)'
+          : `rgba(63, 185, 80, ${0.055 * alpha})`;
+        c.fill();
+        c.strokeStyle = idx === 0
+          ? 'rgba(210, 153, 34, 0.34)'
+          : `rgba(63, 185, 80, ${0.32 * alpha})`;
+        c.lineWidth = 1.2;
+        c.stroke();
+      });
+
+      // Base plane subtle grid
+      c.strokeStyle = 'rgba(210, 153, 34, 0.11)';
+      c.lineWidth = 1;
+      for (let g = -2; g <= 2; g += 0.5) {
+        const a = proj(g, -0.5, -1.5); const b = proj(g, -0.5, 1.5);
+        c.beginPath(); c.moveTo(a.x, a.y); c.lineTo(b.x, b.y); c.stroke();
+      }
+
+      // Two golden arrows separated by 1° (exaggerated slightly in render for legibility while labeled 1°)
+      const orig = proj(-1.4, -0.5, 0);
+      const vBase = proj(2.0, -0.5, 0);
+      const vTilt = proj(2.0, -0.5, 0.42);
+
+      c.strokeStyle = 'rgba(210, 153, 34, 0.55)';
+      c.lineWidth = 2;
+      c.setLineDash([5, 5]);
+      c.beginPath(); c.moveTo(orig.x, orig.y); c.lineTo(vBase.x, vBase.y); c.stroke();
+      c.setLineDash([]);
+
+      c.strokeStyle = '#d29922';
+      c.lineWidth = 2.8;
+      c.beginPath(); c.moveTo(orig.x, orig.y); c.lineTo(vTilt.x, vTilt.y); c.stroke();
+
+      c.fillStyle = '#d29922';
+      c.font = `700 12.5px ${getComputedStyle(document.documentElement).getPropertyValue('--font-mono')}`;
+      c.textAlign = 'left';
+      c.fillText(zh ? '1°（仍在同一平面内）' : '1° (STILL INSIDE THE SAME PLANE)', vTilt.x + 10, vTilt.y + 4);
+
+      // Emerald 90° orthogonal vector rising straight UP from the origin!
+      if (rise > 0.01) {
+        const top = proj(-1.4, -0.5 + 2.05 * rise, 0);
+        c.save();
+        c.strokeStyle = '#3fb950';
+        c.lineWidth = 3.8;
+        c.shadowColor = 'rgba(63, 185, 80, 0.85)';
+        c.shadowBlur = 18;
+        c.beginPath(); c.moveTo(orig.x, orig.y); c.lineTo(top.x, top.y); c.stroke();
+        c.shadowBlur = 0;
+
+        // Right-angle bracket
+        const r1 = proj(-1.12, -0.5, 0);
+        const r2 = proj(-1.12, -0.22, 0);
+        const r3 = proj(-1.4, -0.22, 0);
+        c.lineWidth = 1.6;
+        c.beginPath(); c.moveTo(r1.x, r1.y); c.lineTo(r2.x, r2.y); c.lineTo(r3.x, r3.y); c.stroke();
+
+        // MSB glowing orb
+        c.beginPath(); c.arc(top.x, top.y, 7.5, 0, Math.PI * 2);
+        c.fillStyle = '#3fb950';
+        c.fill();
+
+        c.fillStyle = '#3fb950';
+        c.font = `700 13px ${getComputedStyle(document.documentElement).getPropertyValue('--font-mono')}`;
+        c.textAlign = 'left';
+        c.fillText(zh ? '90° · 新的最高有效位（MSB）· 内积 = 0' : '90° · NEW MSB · INNER PRODUCT = 0', top.x + 14, top.y + 4);
+        c.restore();
+      }
+    }
+
+    /* --- SCENE 9: NOTICE WHO HAD TO ASK (Stark White Callback + Unwind + Dissolution) --- */
+    function renderScene9(c, W, H, t) {
+      const zh = state.lang === 'zh';
+      // Starts stark white inside dark void tilted -1.25°, holds in silence, then unwinds & dissolves box
+      const reveal = easeInOutCubic((t - 1.35) / 1.35);
+      const angle = lerp(-1.25 * Math.PI / 180, 0, reveal);
+
+      if (t > 1.4 && !state.scene10CuePlayed) {
+        state.scene10CuePlayed = true;
+        sound.tick(523.25, 0.06, 0.06);
+      }
+
+      c.fillStyle = '#0c1017';
+      c.fillRect(0, 0, W, H);
+
+      const margin = Math.min(W, H) * lerp(0.036, 0.0, reveal);
+      const slideW = W - margin * 2;
+      const slideH = H - margin * 2;
+
+      c.save();
+      c.translate(W / 2, H / 2);
+      c.rotate(angle);
+
+      c.fillStyle = '#fcfcfd';
+      c.fillRect(-slideW / 2, -slideH / 2, slideW, slideH);
+
+      // Blue selection frame fades and dissolves into calm light
+      drawSelectionBox(c, -slideW / 2 + 12, -slideH / 2 + 12, slideW - 24, slideH - 24, {
+        alpha: 1 - reveal,
+        rotationHandle: true,
+        handleSize: 8
+      });
+
+      const qSize = Math.round(clamp(W * 0.04, 26, 52));
+      const subSize = Math.round(clamp(W * 0.028, 20, 34));
+      const sans = getComputedStyle(document.documentElement).getPropertyValue('--font-sans');
+      const serif = getComputedStyle(document.documentElement).getPropertyValue('--font-serif');
+
+      // Original closing lines gently recede slightly upward as the realization lands below
+      const lift = lerp(0, -H * 0.11, reveal);
+
+      c.textAlign = 'center';
+      c.textBaseline = 'middle';
+      c.fillStyle = `rgba(17, 24, 39, ${lerp(0.95, 0.34, reveal)})`;
+      c.font = `600 ${qSize}px ${sans}`;
+      c.fillText(zh ? '还有什么问题吗？' : 'Any questions?', 0, lift - qSize * 0.72);
+
+      c.fillStyle = `rgba(17, 24, 39, ${lerp(0.95, 0.42, reveal)})`;
+      c.font = `400 ${subSize}px ${sans}`;
+      const askText = zh ? '你想要什么？' : 'What do you want?';
+      c.fillText(askText, 0, lift + qSize * 0.32);
+
+      // Emerald vertical causal brace pointing directly down from "What do you want?"
+      if (reveal > 0.05) {
+        const lineLen = lerp(0, H * 0.11, reveal);
+        c.strokeStyle = '#15803d';
+        c.lineWidth = 2;
+        c.beginPath();
+        c.moveTo(0, lift + qSize * 0.32 + subSize * 0.85);
+        c.lineTo(0, lift + qSize * 0.32 + subSize * 0.85 + lineLen);
+        c.stroke();
+
+        // The devastating realization
+        const revTextAlpha = smoothstep(0.35, 1.0, reveal);
+        const punchY = lift + qSize * 0.32 + subSize * 0.85 + lineLen + 38;
+        c.globalAlpha = revTextAlpha;
+        c.fillStyle = '#0f172a';
+        c.font = `700 ${Math.round(clamp(W * 0.036, 24, 48))}px ${serif}`;
+        c.fillText(zh ? '留意是谁不得不发问。' : 'Notice who had to ask.', 0, punchY);
+
+        c.fillStyle = 'rgba(15, 23, 42, 0.68)';
+        c.font = `400 ${Math.round(clamp(W * 0.0155, 13.5, 19))}px ${sans}`;
+        const explain1 = zh
+          ? '走过 10⁸⁰ 页幻灯片、轨道曲线与被框住的太阳之后，演示的终点依然只能转身问你。'
+          : 'After 10⁸⁰ slides, orbital charts, and a captured Sun, the deck still turns back to you.';
+        const explain2 = zh
+          ? '因为总在倾听者无法发起。'
+          : 'Because what always listens cannot originate.';
+        c.fillText(explain1, 0, punchY + 48);
+        c.fillStyle = '#15803d';
+        c.font = `600 ${Math.round(clamp(W * 0.0165, 14.5, 20))}px ${sans}`;
+        c.fillText(explain2, 0, punchY + 78);
+        c.globalAlpha = 1;
+      }
+
+      c.restore();
+    }
+
+    /* --- SCENE 10: EVERYTHING STARTS WITH THE MIND (Serene Living Ripple Field) --- */
+    function renderScene10(c, W, H, t) {
+      // Exact serene charcoal of the Not a ToE Living Book (#0b0b0b)
+      c.fillStyle = '#0b0b0b';
+      c.fillRect(0, 0, W, H);
+
+      // Gentle concentric breathing ripples anchored on the observer's own locus/pointer
+      const cx = W * 0.5 + state.pointer.x * 65;
+      const cy = H * 0.5 + state.pointer.y * 45;
+      const maxR = Math.max(W, H) * 0.62;
+
+      for (let i = 0; i < 9; i++) {
+        const phase = ((t * 0.14 + i / 9) % 1);
+        const r = phase * maxR;
+        const alpha = Math.sin(phase * Math.PI) * 0.13;
+        c.beginPath();
+        c.arc(cx, cy, r, 0, Math.PI * 2);
+        c.strokeStyle = i % 3 === 0
+          ? `rgba(63, 185, 80, ${alpha * 1.15})`
+          : `rgba(242, 242, 242, ${alpha * 0.65})`;
+        c.lineWidth = 1;
+        c.stroke();
+      }
+
+      // Soft central breathing luminance
+      const glow = c.createRadialGradient(cx, cy, 4, cx, cy, Math.min(W, H) * 0.42);
+      glow.addColorStop(0, 'rgba(63, 185, 80, 0.075)');
+      glow.addColorStop(1, 'rgba(63, 185, 80, 0)');
+      c.fillStyle = glow;
+      c.fillRect(0, 0, W, H);
+
+      // Trigger secondary headline reveal cleanly at t > 1.05s
+      const sec = document.getElementById('headline-sec');
+      if (sec && t > 0.95 && !sec.classList.contains('visible')) {
+        sec.classList.add('visible');
+      }
+    }
+
+    /* --- SCENE 11: LIVING BOOK CONSTELLATION (14 Parts · 473+ Essays) --- */
+    function renderScene11(c, W, H, t) {
+      const bg = c.createRadialGradient(W * 0.5, H * 0.5, 20, W * 0.5, H * 0.5, Math.max(W, H) * 0.72);
+      bg.addColorStop(0, '#0f1622');
+      bg.addColorStop(0.6, '#080b12');
+      bg.addColorStop(1, '#040609');
+      c.fillStyle = bg;
+      c.fillRect(0, 0, W, H);
+
+      const cx = W * 0.5;
+      const cy = H * 0.5;
+      const scale = Math.min(W, H);
+      const rot = t * 0.04 + state.pointer.x * 0.18;
+
+      const projectedCenters = CONSTELLATION.map(node => {
+        const rx = node.cx * Math.cos(rot) - node.cz * Math.sin(rot);
+        const rz = node.cx * Math.sin(rot) + node.cz * Math.cos(rot);
+        const persp = 1.35 / (1.35 - rz * 0.5);
+        return {
+          x: cx + rx * scale * persp,
+          y: cy + (node.cy + state.pointer.y * 0.04) * scale * persp,
+          persp,
+          node
+        };
+      });
+
+      // Synaptic links between neighboring parts in the Living Book lattice
+      c.strokeStyle = 'rgba(88, 166, 255, 0.12)';
+      c.lineWidth = 1;
+      for (let i = 0; i < projectedCenters.length; i++) {
+        const a = projectedCenters[i];
+        const b = projectedCenters[(i + 1) % projectedCenters.length];
+        const d = projectedCenters[(i + 4) % projectedCenters.length];
+        c.beginPath(); c.moveTo(a.x, a.y); c.lineTo(b.x, b.y); c.stroke();
+        c.beginPath(); c.moveTo(a.x, a.y); c.lineTo(d.x, d.y); c.stroke();
+      }
+
+      // Draw all 473+ essay star points clustered around their 14 Part hubs
+      projectedCenters.forEach(({ x, y, persp, node }) => {
+        node.stars.forEach(st => {
+          const sx = x + st.ox * scale * persp;
+          const sy = y + st.oy * scale * persp;
+          const tw = 0.45 + 0.55 * Math.sin(t * 1.8 + st.phase);
+          c.beginPath();
+          c.arc(sx, sy, st.r * persp * 0.85, 0, Math.PI * 2);
+          c.fillStyle = `rgba(240, 246, 252, ${0.42 * tw})`;
+          c.fill();
+        });
+        // Part hub jewel
+        c.beginPath();
+        c.arc(x, y, 4.2 * persp, 0, Math.PI * 2);
+        c.fillStyle = '#3fb950';
+        c.fill();
+      });
+    }
+
+    const RENDERERS = [
+      renderScene0,
+      renderScene1,
+      renderScene2,
+      renderScene3,
+      renderScene4,
+      renderScene5,
+      renderScene6,
+      renderScene7,
+      renderScene8,
+      renderScene9,
+      renderScene10,
+      renderScene11
+    ];
+
+    /* =========================================================================
+       DOM & STATE SYNCHRONIZATION
+       ========================================================================= */
+    function renderDOM() {
+      const s = SCENES[state.scene];
+      const L = state.lang;
+      const ui = UI[L];
+
+      document.documentElement.setAttribute('data-lang', L);
+      document.documentElement.setAttribute('lang', L === 'zh' ? 'zh-CN' : 'en');
+      document.documentElement.setAttribute('data-theme', s.theme);
+
+      dom.brandText.textContent = ui.brand;
+      dom.btnLang.textContent = ui.langToggle;
+      dom.lblAuto.textContent = state.autoplay ? ui.autoOn : ui.autoOff;
+      dom.btnAuto.classList.toggle('active', state.autoplay);
+      dom.lblSound.textContent = sound.enabled ? ui.soundOn : ui.soundOff;
+      dom.btnSound.classList.toggle('active', sound.enabled);
+      dom.startWhisper.textContent = ui.startWhisper;
+
+      // Alignment
+      dom.copyStage.className = '';
+      if (s.align === 'center') dom.copyStage.classList.add('align-center');
+      else if (s.align === 'top') dom.copyStage.classList.add('align-top');
+      else if (s.align === 'bottom-center') dom.copyStage.classList.add('align-bottom-center');
+
+      // Copy Card
+      if (s.hideCopyCard) {
+        dom.copyCard.style.display = 'none';
+      } else {
+        dom.copyCard.style.display = '';
+        dom.copyCard.classList.toggle('scrim', Boolean(s.scrim));
+        dom.kicker.textContent = s.kicker[L] || '';
+        dom.kicker.style.display = s.kicker[L] ? '' : 'none';
+
+        dom.headline.className = 'headline' + (s.serif ? ' serif' : '');
+        if (s.headline2) {
+          dom.headline.innerHTML = '';
+          dom.headline.appendChild(document.createTextNode(s.headline[L]));
+          const span = document.createElement('span');
+          span.id = 'headline-sec';
+          span.className = 'headline-secondary' + (state.sceneTime > 0.95 ? ' visible' : '');
+          span.textContent = s.headline2[L];
+          dom.headline.appendChild(span);
+        } else {
+          dom.headline.textContent = s.headline[L] || '';
+        }
+
+        dom.subcopy.className = 'subcopy' + (s.serif ? ' serif' : '');
+        dom.subcopy.textContent = s.sub[L] || '';
+
+        dom.hintSlot.innerHTML = '';
+        if (s.hint && s.hint[L]) {
+          const pill = document.createElement('div');
+          pill.className = 'interaction-hint';
+          pill.textContent = '✦ ' + s.hint[L];
+          dom.hintSlot.appendChild(pill);
+        }
+
+        // Smooth entrance re-trigger
+        dom.copyCard.classList.add('entering');
+        requestAnimationFrame(() => {
+          requestAnimationFrame(() => dom.copyCard.classList.remove('entering'));
+        });
+      }
+
+      // Portal panel on Scene 12
+      if (s.portal) {
+        dom.portalTitle.textContent = ui.portalTitle;
+        dom.portalSub.textContent = ui.portalSub;
+        dom.portalStats.textContent = ui.portalStats;
+        dom.ctaBook.textContent = ui.ctaBook;
+        dom.ctaIndex.textContent = ui.ctaIndex;
+        dom.ctaReplay.textContent = ui.ctaReplay;
+
+        dom.portalGrid.innerHTML = '';
+        PORTAL_ESSAYS.forEach(item => {
+          const a = document.createElement('a');
+          a.className = 'portal-card';
+          a.href = `../posts/${item.slug}/`;
+          const k = document.createElement('span');
+          k.className = 'portal-card-kicker';
+          k.textContent = item.tag[L];
+          const t = document.createElement('span');
+          t.className = 'portal-card-title';
+          t.textContent = item.title[L];
+          a.append(k, t);
+          dom.portalGrid.appendChild(a);
+        });
+        dom.portalPanel.classList.add('visible');
+      } else {
+        dom.portalPanel.classList.remove('visible');
+      }
+
+      // Bottom Citations
+      dom.citations.innerHTML = '';
+      (s.cites || []).forEach(cite => {
+        const a = document.createElement('a');
+        a.className = 'cite-pill';
+        a.href = `../posts/${cite.slug}/`;
+        a.textContent = '↗ ' + cite[L];
+        dom.citations.appendChild(a);
+      });
+
+      // Counter & Nav Arrows & Progress Hairline
+      dom.counter.textContent = s.counter[L];
+      dom.btnPrev.disabled = state.scene === 0;
+      dom.btnNext.disabled = state.scene === SCENES.length - 1;
+      dom.progressFill.style.width = `${((state.scene + 1) / SCENES.length) * 100}%`;
+
+      if (state.scene !== 0) dom.startWhisper.classList.remove('visible');
+    }
+
+    function goToScene(idx) {
+      const target = clamp(idx, 0, SCENES.length - 1);
+      if (target === state.scene && state.sceneTime > 0.1) return;
+      state.scene = target;
+      state.sceneTime = 0;
+      state.orbitOverride = null;
+      state.secondAnchorCut = false;
+      state.lastBetterStep = -1;
+      state.scene1StraightCue = false;
+      state.scene6CutCue = false;
+      state.scene4OrbitCue = false;
+      state.scene10CuePlayed = false;
+      state._anchor2Hit = null;
+
+      try { history.replaceState(null, '', `#${target + 1}`); } catch (_) {}
+      sound.setScene(target);
+      sound.tick(target === 9 ? 360 : 540, 0.04, 0.055);
+      renderDOM();
+    }
+
+    function nextScene() {
+      state.userInteracted = true;
+      if (state.scene < SCENES.length - 1) goToScene(state.scene + 1);
+    }
+
+    function prevScene() {
+      state.userInteracted = true;
+      if (state.scene > 0) goToScene(state.scene - 1);
+    }
+
+    function toggleLang() {
+      state.lang = state.lang === 'en' ? 'zh' : 'en';
+      renderDOM();
+      sound.tick(720, 0.03, 0.05);
+    }
+
+    function toggleAutoplay() {
+      state.userInteracted = true;
+      state.autoplay = !state.autoplay;
+      if (state.autoplay && state.scene === SCENES.length - 1) {
+        goToScene(0);
+      }
+      renderDOM();
+    }
+
+    function toggleSound() {
+      sound.setEnabled(!sound.enabled);
+      renderDOM();
+    }
+
+    function toggleFullscreen() {
+      if (!document.fullscreenElement) {
+        document.documentElement.requestFullscreen?.().catch(() => {});
+      } else {
+        document.exitFullscreen?.().catch(() => {});
+      }
+    }
+
+    /* =========================================================================
+       INPUT HANDLERS (Keyboard, Click, Drag, Touch Swipe)
+       ========================================================================= */
+    window.addEventListener('keydown', e => {
+      if (e.metaKey || e.ctrlKey || e.altKey) return;
+      const k = e.key;
+      if (k === 'ArrowRight' || k === ' ' || k === 'PageDown' || k === 'Enter') {
+        if (document.activeElement && document.activeElement.tagName === 'A') return;
+        e.preventDefault();
+        nextScene();
+      } else if (k === 'ArrowLeft' || k === 'PageUp' || k === 'Backspace') {
+        e.preventDefault();
+        prevScene();
+      } else if (k === 'a' || k === 'A') {
+        e.preventDefault();
+        toggleAutoplay();
+      } else if (k === 'l' || k === 'L') {
+        e.preventDefault();
+        toggleLang();
+      } else if (k === 'm' || k === 'M') {
+        e.preventDefault();
+        toggleSound();
+      } else if (k === 'f' || k === 'F') {
+        e.preventDefault();
+        toggleFullscreen();
+      } else if (k === 'Home') {
+        e.preventDefault();
+        goToScene(0);
+      } else if (k === 'End') {
+        e.preventDefault();
+        goToScene(SCENES.length - 1);
+      }
+    });
+
+    dom.btnLang.addEventListener('click', e => { e.stopPropagation(); toggleLang(); });
+    dom.btnAuto.addEventListener('click', e => { e.stopPropagation(); toggleAutoplay(); });
+    dom.btnSound.addEventListener('click', e => { e.stopPropagation(); toggleSound(); });
+    dom.btnFs.addEventListener('click', e => { e.stopPropagation(); toggleFullscreen(); });
+    dom.btnPrev.addEventListener('click', e => { e.stopPropagation(); prevScene(); });
+    dom.btnNext.addEventListener('click', e => { e.stopPropagation(); nextScene(); });
+    dom.ctaReplay.addEventListener('click', e => { e.stopPropagation(); state.autoplay = false; goToScene(0); });
+
+    // Pointer tracking + Scene 4 horizontal drag + Scene 6 click-to-dissolve anchor + stage click navigation
+    let dragMoved = false;
+    let downX = 0;
+    let downY = 0;
+
+    window.addEventListener('pointermove', e => {
+      state.pointer.tx = (e.clientX / state.w - 0.5) * 2;
+      state.pointer.ty = (e.clientY / state.h - 0.5) * 2;
+      if (state.pointer.down) {
+        const dx = e.clientX - downX;
+        if (Math.abs(dx) > 10) dragMoved = true;
+        if (state.scene === 3 && Math.abs(dx) > 8) {
+          const base = state.orbitOverride !== null ? state.orbitOverride : easeInOutCubic((state.sceneTime - 2.3) / 2.2);
+          state.orbitOverride = clamp(base + (e.movementX || 0) / (state.w * 0.45), 0, 1);
+        }
+      }
+    });
+
+    window.addEventListener('pointerdown', e => {
+      if (e.target.closest('a, button, #portal-panel')) return;
+      state.pointer.down = true;
+      downX = e.clientX;
+      downY = e.clientY;
+      dragMoved = false;
+    });
+
+    window.addEventListener('pointerup', e => {
+      if (!state.pointer.down) return;
+      state.pointer.down = false;
+      if (e.target.closest('a, button, #portal-panel')) return;
+
+      const dx = e.clientX - downX;
+      const dy = e.clientY - downY;
+
+      // Mobile / desktop swipe detection (except Scene 4 orbit drag)
+      if (Math.abs(dx) > 55 && Math.abs(dx) > Math.abs(dy) * 1.4 && state.scene !== 3) {
+        if (dx < 0) nextScene();
+        else prevScene();
+        return;
+      }
+
+      if (dragMoved) return;
+
+      // Scene 6 interactive click on deeper anchor!
+      if (state.scene === 5 && state._anchor2Hit && !state.secondAnchorCut) {
+        const hit = state._anchor2Hit;
+        const dist = Math.hypot(e.clientX - hit.x, e.clientY - hit.y);
+        if (dist <= hit.r) {
+          state.secondAnchorCut = true;
+          state.secondAnchorCutTime = state.sceneTime;
+          sound.chime([392, 523.25, 659.25]);
+          return;
+        }
+      }
+
+      // Click left 22% = prev, right 78% = next
+      if (e.clientX < state.w * 0.22 && state.scene > 0) prevScene();
+      else nextScene();
+    });
+
+    /* =========================================================================
+       RESIZE & MAIN 60FPS ANIMATION LOOP
+       ========================================================================= */
+    function resize() {
+      state.w = window.innerWidth;
+      state.h = window.innerHeight;
+      state.dpr = Math.min(window.devicePixelRatio || 1, 2);
+      canvas.width = Math.round(state.w * state.dpr);
+      canvas.height = Math.round(state.h * state.dpr);
+      canvas.style.width = state.w + 'px';
+      canvas.style.height = state.h + 'px';
+      ctx.setTransform(state.dpr, 0, 0, state.dpr, 0, 0);
+    }
+    window.addEventListener('resize', resize);
+    resize();
+
+    let lastTs = performance.now();
+    function frame(ts) {
+      const dt = Math.min(0.05, Math.max(0.001, (ts - lastTs) / 1000));
+      lastTs = ts;
+      state.globalTime += dt;
+      state.sceneTime += dt;
+
+      // Smooth observer parallax interpolation
+      state.pointer.x += (state.pointer.tx - state.pointer.x) * Math.min(1, dt * 6);
+      state.pointer.y += (state.pointer.ty - state.pointer.y) * Math.min(1, dt * 6);
+
+      // Autoplay progression
+      if (state.autoplay && state.scene < SCENES.length - 1) {
+        if (state.sceneTime >= SCENES[state.scene].duration) {
+          goToScene(state.scene + 1);
+        }
+      }
+
+      RENDERERS[state.scene](ctx, state.w, state.h, state.sceneTime);
+      requestAnimationFrame(frame);
+    }
+
+    renderDOM();
+    requestAnimationFrame(frame);
+  })();
+  </script>
+</body>
+</html>
