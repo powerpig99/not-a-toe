@@ -2152,7 +2152,7 @@ Substantialist ontology takes Being as primary and Non-Being as mere absence, wh
 
 Presumes "better" is an observer-independent attribute inside an artifact rather than the scalar output of one center's local scoring projection; reliable in bounded regimes where no other center pushes back and the measured trace does not re-orient in response to being measured, it becomes incomplete once the artifact crosses into other centers that register distinctions along their own axes, where non-resonance returns as friction marking where the projection stops.
 
-→ [「更好」的范畴谬误 / The Category Error of Better](../../posts/the-category-error-of-better/)
+→ [「更好」的范畴谬误 / The Category Error of Better](../../posts/the-category-error-of-better/) · [排序的投影与自我意识的退隐 / The Projection of Ranking and the Recession of Self-Awareness](../../posts/the-projection-of-ranking-and-the-recession-of-self-awareness/)
 
 ### 大数据全知全能论 / Big Data Omniscience
 `技术 / Technological`
@@ -3538,7 +3538,7 @@ Perfectionist critique evaluates realized achievements against an unblemished id
 
 Dispositional moral attribution passes verdicts on others' rises and falls—such as "cleverness undone by cleverness"—which is of use in rapidly compressing social observations; it reaches its boundary in that an observer cannot cross first-person horizons to verify an inner defect in another, what registers as conflict is a mismatch in the observer's own interpretive model on biased visible samples, and stopping at judgment leaves one's own parameters uncalibrated.
 
-→ [止步于评判，是认知的歧途 / Stopping at Judgment Is a Wrong Turn of Cognition](../../posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/)
+→ [止步于评判，是认知的歧途 / Stopping at Judgment Is a Wrong Turn of Cognition](../../posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/) · [排序的投影与自我意识的退隐 / The Projection of Ranking and the Recession of Self-Awareness](../../posts/the-projection-of-ranking-and-the-recession-of-self-awareness/)
 
 ### 道德语言与价值判断 / Moral Language and Value Judgment
 `哲学 / Philosophical`
@@ -3628,7 +3628,7 @@ Seeking an objective or retrospective meaning of life presumes that meaning is e
 
 Objectivity registers what remains invariant across distinct observers, measurements, and coordinate transformations, which is of use in establishing shared public reference and testing consequences in common; it reaches its boundary when cross-observer invariance is misread as a view without any observer, since every invariant measurement is still initiated, framed, and verified within first-person experience.
 
-→ [决策与后果的不可约先验 / The Irreducible Prior of Decision and Consequence](../../posts/the-irreducible-prior-of-decision-and-consequence/) · [不可还原的观察者 / The Irreducible Observer](../../posts/the-irreducible-observer/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/)
+→ [决策与后果的不可约先验 / The Irreducible Prior of Decision and Consequence](../../posts/the-irreducible-prior-of-decision-and-consequence/) · [不可还原的观察者 / The Irreducible Observer](../../posts/the-irreducible-observer/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/) · [排序的投影与自我意识的退隐 / The Projection of Ranking and the Recession of Self-Awareness](../../posts/the-projection-of-ranking-and-the-recession-of-self-awareness/)
 
 ### 开放认识论的一致性 / Open Epistemic Consistency
 `哲学 / Philosophical`
@@ -4240,7 +4240,7 @@ Safetyism presumes that shielding developing minds from every interpersonal disc
 
 Instrumental models and newly erected defaults must drop out of focus for the step in which they are used so further action can land; preserved past that step and exempted from re-tracing, the built scaffolding—or an architectural routing default whose construction has faded from view—is mistaken for the fixed baseline of reality.
 
-→ [遗忘的脚手架 / The Scaffolding We Forget](../../posts/the-scaffolding-we-forget/) · [以本地模型为默认是被遗忘的脚手架 / Local Models as Default Is Forgotten Scaffolding](../../posts/the-scaffolding-we-forget-local-models-as-default/) · [边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement](../../posts/generation-beyond-the-boundary-and-internal-rearrangement/) · [持续生长的脚手架 / The Scaffolding That Keeps Growing](../../posts/the-scaffolding-that-keeps-growing/)
+→ [遗忘的脚手架 / The Scaffolding We Forget](../../posts/the-scaffolding-we-forget/) · [以本地模型为默认是被遗忘的脚手架 / Local Models as Default Is Forgotten Scaffolding](../../posts/the-scaffolding-we-forget-local-models-as-default/) · [边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement](../../posts/generation-beyond-the-boundary-and-internal-rearrangement/) · [持续生长的脚手架 / The Scaffolding That Keeps Growing](../../posts/the-scaffolding-that-keeps-growing/) · [排序的投影与自我意识的退隐 / The Projection of Ranking and the Recession of Self-Awareness](../../posts/the-projection-of-ranking-and-the-recession-of-self-awareness/)
 
 ### 公共标量投影 / Scalar Metric Projection
 `数学 / Mathematical`

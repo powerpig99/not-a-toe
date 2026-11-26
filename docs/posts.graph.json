@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-26T14:29:32.100Z",
+    "generated_at": "2026-11-26T18:49:05.835Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -381,6 +381,7 @@
       "content/posts/the-power-law-of-surrendered-agency.md": "39a10e28e9cc",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "f764f2d674d0",
       "content/posts/the-price-of-closing-optionality.md": "6de4077a2517",
+      "content/posts/the-projection-of-ranking-and-the-recession-of-self-awareness.md": "26ee186a22cb",
       "content/posts/the-question-that-installs-the-war.md": "abbfac881964",
       "content/posts/the-ramble-within-the-ramble.md": "334a81eee6ce",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "194665515dc5",
@@ -481,9 +482,9 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "cc867c93a1a5",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
       "content/book/causality.md": "2cf0bbb6cb82",
-      "content/book/consciousness.md": "5f302d15f373",
+      "content/book/consciousness.md": "dd669bf8563f",
       "content/book/economics.md": "ac9fdbf2221e",
-      "content/book/index-of-premises.md": "2c80ad215193",
+      "content/book/index-of-premises.md": "a0e9f0b518c4",
       "content/book/intelligence.md": "ff7c08b8ecea",
       "content/book/knowledge-and-learning.md": "1ddd7286abfb",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -498,16 +499,16 @@
       "content/book/tools-and-progress.md": "276037119294"
     },
     "stats": {
-      "posts": 472,
-      "edges": 14742,
-      "unique_directed": 7250,
+      "posts": 473,
+      "edges": 14760,
+      "unique_directed": 7259,
       "missing_targets": 0,
-      "one_way": 1688,
+      "one_way": 1697,
       "isolated": 0,
-      "posts_with_outbound": 472,
+      "posts_with_outbound": 473,
       "book_pages": 16,
-      "book_edges": 1642,
-      "posts_reached_by_book": 472
+      "book_edges": 1647,
+      "posts_reached_by_book": 473
     }
   },
   "hubs_in": [
@@ -533,7 +534,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 83
+      "in_degree": 84
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -3865,7 +3866,7 @@
       "path": "content/posts/hierarchy-from-individual-difference.md",
       "title": "来自个体差异的层级 / Hierarchy from Individual Difference",
       "hash": "0284ab9a61c7",
-      "in_degree": 34,
+      "in_degree": 35,
       "out_degree": 31,
       "links_out": [
         "the-generative-contradiction",
@@ -6055,7 +6056,7 @@
       "path": "content/posts/preference-clusters-and-the-language-of-judgment.md",
       "title": "偏好聚类与评判语言 / Preference Clusters and the Language of Judgment",
       "hash": "6bba473b6776",
-      "in_degree": 27,
+      "in_degree": 28,
       "out_degree": 28,
       "links_out": [
         "the-source-of-shared-change",
@@ -7527,7 +7528,7 @@
       "path": "content/posts/the-blind-spot-of-the-frame.md",
       "title": "框架的盲区 / The Blind Spot of the Frame",
       "hash": "82abd27922b6",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 9,
       "links_out": [
         "the-distant-silhouette-and-the-inventory-from-nowhere",
@@ -7780,7 +7781,7 @@
       "path": "content/posts/the-category-error-of-better.md",
       "title": "「更好」的范畴谬误 / The Category Error of Better",
       "hash": "c0452a80eb5a",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 13,
       "links_out": [
         "the-irreducible-observer",
@@ -9238,7 +9239,7 @@
       "path": "content/posts/the-grammar-of-finding-and-the-fading-observer.md",
       "title": "寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer",
       "hash": "d45887ba64eb",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 14,
       "links_out": [
         "on-closed-systems-open-minds-and-the-limits-of-proof",
@@ -10532,7 +10533,7 @@
       "path": "content/posts/the-npc-impression-is-structural.md",
       "title": "NPC 印象是结构性的，而非心智的排名 / The NPC Impression Is Structural, Not a Ranking of Minds",
       "hash": "4ac951ad5341",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 17,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
@@ -10944,6 +10945,27 @@
         "closed-reality-in-benchmark-maxing",
         "agi-and-asi-are-temporary-goalposts",
         "the-imagining-of-ai-risk"
+      ]
+    },
+    {
+      "id": "post:the-projection-of-ranking-and-the-recession-of-self-awareness",
+      "kind": "post",
+      "slug": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+      "path": "content/posts/the-projection-of-ranking-and-the-recession-of-self-awareness.md",
+      "title": "排序的投影与自我意识的退隐 / The Projection of Ranking and the Recession of Self-Awareness",
+      "hash": "26ee186a22cb",
+      "in_degree": 0,
+      "out_degree": 9,
+      "links_out": [
+        "the-category-error-of-better",
+        "hierarchy-from-individual-difference",
+        "the-grammar-of-finding-and-the-fading-observer",
+        "the-scaffolding-we-forget",
+        "the-blind-spot-of-the-frame",
+        "the-npc-impression-is-structural",
+        "the-self-portrait-in-the-projection",
+        "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+        "preference-clusters-and-the-language-of-judgment"
       ]
     },
     {
@@ -11564,7 +11586,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "遗忘的脚手架 / The Scaffolding We Forget",
       "hash": "c1628ffd356a",
-      "in_degree": 83,
+      "in_degree": 84,
       "out_degree": 71,
       "links_out": [
         "the-extendable-horizon",
@@ -11690,7 +11712,7 @@
       "path": "content/posts/the-self-portrait-in-the-projection.md",
       "title": "投射中的自画像 / The Self-Portrait in the Projection",
       "hash": "6424b0173770",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 10,
       "links_out": [
         "the-aesthetic-escalator-and-the-melancholy-of-the-balcony",
@@ -13436,7 +13458,7 @@
       "path": "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md",
       "title": "止步于评判，是认知的歧途 / Stopping at Judgment Is a Wrong Turn of Cognition",
       "hash": "ca64ac6bbf0b",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 13,
       "links_out": [
         "the-paradoxical-nature-of-bystander-insights",
@@ -83530,6 +83552,114 @@
       "label": "The Imagining of AI Risk"
     },
     {
+      "from": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+      "to": "the-category-error-of-better",
+      "rel": "points_to",
+      "label": "「更好」的范畴谬误"
+    },
+    {
+      "from": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "来自个体差异的层级"
+    },
+    {
+      "from": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+      "to": "the-category-error-of-better",
+      "rel": "points_to",
+      "label": "The Category Error of Better"
+    },
+    {
+      "from": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
+    },
+    {
+      "from": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+      "to": "the-grammar-of-finding-and-the-fading-observer",
+      "rel": "points_to",
+      "label": "寻觅的语法与淡出的观察者"
+    },
+    {
+      "from": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+      "to": "the-grammar-of-finding-and-the-fading-observer",
+      "rel": "points_to",
+      "label": "The Grammar of Finding and the Fading Observer"
+    },
+    {
+      "from": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+      "to": "the-blind-spot-of-the-frame",
+      "rel": "points_to",
+      "label": "框架的盲区"
+    },
+    {
+      "from": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+      "to": "the-blind-spot-of-the-frame",
+      "rel": "points_to",
+      "label": "The Blind Spot of the Frame"
+    },
+    {
+      "from": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+      "to": "the-npc-impression-is-structural",
+      "rel": "points_to",
+      "label": "NPC 印象是结构性的，而非心智的排名"
+    },
+    {
+      "from": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+      "to": "the-self-portrait-in-the-projection",
+      "rel": "points_to",
+      "label": "投射中的自画像"
+    },
+    {
+      "from": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+      "to": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "rel": "points_to",
+      "label": "止步于评判，是认知的歧途"
+    },
+    {
+      "from": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+      "to": "the-npc-impression-is-structural",
+      "rel": "points_to",
+      "label": "The NPC Impression Is Structural, Not a Ranking of Minds"
+    },
+    {
+      "from": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+      "to": "the-self-portrait-in-the-projection",
+      "rel": "points_to",
+      "label": "The Self-Portrait in the Projection"
+    },
+    {
+      "from": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+      "to": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "rel": "points_to",
+      "label": "Stopping at Judgment Is a Wrong Turn of Cognition"
+    },
+    {
+      "from": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "偏好聚类与评判语言"
+    },
+    {
+      "from": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference Clusters and the Language of Judgment"
+    },
+    {
       "from": "the-question-that-installs-the-war",
       "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "rel": "points_to",
@@ -102063,8 +102193,8 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "5f302d15f373",
-        "out_degree": 43
+        "hash": "dd669bf8563f",
+        "out_degree": 44
       },
       {
         "id": "book:economics",
@@ -102081,8 +102211,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "2c80ad215193",
-        "out_degree": 472
+        "hash": "a0e9f0b518c4",
+        "out_degree": 473
       },
       {
         "id": "book:intelligence",
@@ -102667,6 +102797,12 @@
         "to": "three-distinctions-in-the-silicon-misalignment",
         "rel": "collects",
         "label": "硅基错位的三重区分 / Three Distinctions in the Silicon Misalignment"
+      },
+      {
+        "from": "book:consciousness",
+        "to": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+        "rel": "collects",
+        "label": "排序的投影与自我意识的退隐 / The Projection of Ranking and the Recession of Self-Awareness"
       },
       {
         "from": "book:economics",
@@ -105778,6 +105914,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+        "rel": "collects",
+        "label": "排序的投影与自我意识的退隐 / The Projection of Ranking and the Recession of Self-Awareness"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "data-is-local-intelligence-is-allocated",
         "rel": "collects",
         "label": "数据是局部的，智能是分配的 / Data Is Local, Intelligence Is Allocated"
@@ -107188,6 +107330,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+        "rel": "collects",
+        "label": "排序的投影与自我意识的退隐 / The Projection of Ranking and the Recession of Self-Awareness"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
         "rel": "collects",
         "label": "道德语言稀释自由复利的反馈 / Moral Language Dilutes the Feedback That Scales Freedom"
@@ -107329,6 +107477,12 @@
         "to": "the-grammar-of-finding-and-the-fading-observer",
         "rel": "collects",
         "label": "寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+        "rel": "collects",
+        "label": "排序的投影与自我意识的退隐 / The Projection of Ranking and the Recession of Self-Awareness"
       },
       {
         "from": "book:index-of-premises",
@@ -108103,6 +108257,12 @@
         "to": "the-scaffolding-that-keeps-growing",
         "rel": "collects",
         "label": "持续生长的脚手架 / The Scaffolding That Keeps Growing"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-projection-of-ranking-and-the-recession-of-self-awareness",
+        "rel": "collects",
+        "label": "排序的投影与自我意识的退隐 / The Projection of Ranking and the Recession of Self-Awareness"
       },
       {
         "from": "book:index-of-premises",
