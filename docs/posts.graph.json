@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-26T12:42:25.223Z",
+    "generated_at": "2026-11-26T13:15:12.355Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -44,7 +44,7 @@
       "content/posts/causality-and-the-irreducible-prior.md": "23039b57892e",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "66ed4983eed8",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "18721bead0c6",
-      "content/posts/cheng-gong-xue.md": "05f6794abfe4",
+      "content/posts/cheng-gong-xue.md": "cfddc09dfe10",
       "content/posts/choice-itself-has-no-inherent-weight.md": "d294c438cd43",
       "content/posts/chollet-intelligence-explosion-analysis.md": "35675f123c70",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "b2def21d59e6",
@@ -208,7 +208,7 @@
       "content/posts/rebellion-as-symptom-not-property.md": "173dbf1aeb71",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "a1a865aa2e91",
       "content/posts/relative-differentials-and-the-compounding-of-comparison.md": "fd12c5bc620e",
-      "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "9f43f5131ba5",
+      "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "7d80f5dead38",
       "content/posts/residual-control-recedes-to-the-edge.md": "1e41f477d826",
       "content/posts/residual-individualism.md": "07993abeddee",
       "content/posts/restriction-is-a-selective-tax.md": "bfdd4ca0b587",
@@ -349,7 +349,7 @@
       "content/posts/the-loop-accelerates.md": "e148a32baf20",
       "content/posts/the-loop-that-cant-see-itself.md": "93b89204c643",
       "content/posts/the-maintenance-paradox.md": "3f1f65a8893d",
-      "content/posts/the-map-after-the-territory.md": "7c4c6f4b27cf",
+      "content/posts/the-map-after-the-territory.md": "38b9b3234d52",
       "content/posts/the-mark-and-the-act.md": "8466f1098225",
       "content/posts/the-market-repricing-of-productive-base.md": "0952106c7e56",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "104d4d3b68bc",
@@ -463,7 +463,7 @@
       "content/posts/when-electrons-think.md": "828aea06a9d0",
       "content/posts/when-malfunction-is-scored-as-intelligence.md": "f8fa463d0ed3",
       "content/posts/when-need-stops-being-the-measure.md": "8fb9603a309e",
-      "content/posts/when-observation-becomes-performance.md": "dfaf6fac81d1",
+      "content/posts/when-observation-becomes-performance.md": "581674883a1e",
       "content/posts/when-the-effect-authors-the-frame.md": "e13bb77fb570",
       "content/posts/why-explanation-fails.md": "226e38ff6bd0",
       "content/posts/why-mathematics-can-never-be-solved.md": "72891eea1ab4",
@@ -471,14 +471,14 @@
       "content/posts/xian-shi-de-bian-jie.md": "4ced2122a338",
       "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "c0d5e0f4536d",
       "content/posts/you-cant-benchmark-the-fluid.md": "0c261c0f07f5",
-      "content/posts/you-tiao-jian-de-zi-you.md": "cf4a79d4e934",
+      "content/posts/you-tiao-jian-de-zi-you.md": "65de879a2952",
       "content/posts/you-wu-zhi-bian.md": "1649764f0e52",
       "content/posts/your-codebase-is-memory.md": "3be591f7871f",
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "ca64ac6bbf0b",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "0e1467e4549c",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "81aebb7d0bf3",
       "content/posts/zi-you-de-ce-bu-zhun.md": "63461ffab582",
-      "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "c5096ce3a0d8",
+      "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "cc867c93a1a5",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "5f302d15f373",
@@ -1734,7 +1734,7 @@
       "slug": "cheng-gong-xue",
       "path": "content/posts/cheng-gong-xue.md",
       "title": "成功学 / Theories After Success",
-      "hash": "05f6794abfe4",
+      "hash": "cfddc09dfe10",
       "in_degree": 24,
       "out_degree": 20,
       "links_out": [
@@ -6413,7 +6413,7 @@
       "slug": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
       "path": "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md",
       "title": "人生是一个持续的自我迭代过程 / Life as a Continuous Process of Self-Iteration",
-      "hash": "9f43f5131ba5",
+      "hash": "7d80f5dead38",
       "in_degree": 5,
       "out_degree": 6,
       "links_out": [
@@ -10085,7 +10085,7 @@
       "slug": "the-map-after-the-territory",
       "path": "content/posts/the-map-after-the-territory.md",
       "title": "行路之后的地图 / The Map After the Territory",
-      "hash": "7c4c6f4b27cf",
+      "hash": "38b9b3234d52",
       "in_degree": 4,
       "out_degree": 5,
       "links_out": [
@@ -13151,7 +13151,7 @@
       "slug": "when-observation-becomes-performance",
       "path": "content/posts/when-observation-becomes-performance.md",
       "title": "当观察变成表演 / When Observation Becomes Performance",
-      "hash": "dfaf6fac81d1",
+      "hash": "581674883a1e",
       "in_degree": 20,
       "out_degree": 18,
       "links_out": [
@@ -13372,7 +13372,7 @@
       "slug": "you-tiao-jian-de-zi-you",
       "path": "content/posts/you-tiao-jian-de-zi-you.md",
       "title": "有条件的自由 / Conditional Freedom",
-      "hash": "cf4a79d4e934",
+      "hash": "65de879a2952",
       "in_degree": 10,
       "out_degree": 8,
       "links_out": [
@@ -13550,7 +13550,7 @@
       "slug": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "path": "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md",
       "title": "自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution",
-      "hash": "c5096ce3a0d8",
+      "hash": "cc867c93a1a5",
       "in_degree": 16,
       "out_degree": 16,
       "links_out": [
@@ -77655,13 +77655,13 @@
       "from": "the-map-after-the-territory",
       "to": "how-belief-actually-changes",
       "rel": "points_to",
-      "label": "How belief actually changes"
+      "label": "How Belief Actually Changes"
     },
     {
       "from": "the-map-after-the-territory",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
-      "label": "The meaning of life is in the drafting"
+      "label": "The Meaning of Life Is in the Drafting"
     },
     {
       "from": "the-map-after-the-territory",
@@ -77679,7 +77679,7 @@
       "from": "the-map-after-the-territory",
       "to": "expertise-as-reference-not-replacement",
       "rel": "points_to",
-      "label": "Expertise as reference, not replacement"
+      "label": "Expertise as Reference, Not Replacement"
     },
     {
       "from": "the-map-after-the-territory",

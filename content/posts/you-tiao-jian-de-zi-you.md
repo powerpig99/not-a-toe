@@ -88,9 +88,9 @@ flowchart TD
     style N1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-这两张画像方向相反，结构却同构：它们都不承认对方是一个有独立意志、会继续说出下一句台词的活人。所谓“无条件的爱”，给的是前一张虚幻的偶像；随后“有条件的切割、起诉与文学化的示众”，砸向的是后一张妖魔化的模具。在这场数年的纠葛里，他一次也没有把对方当作可以自由改写画像的活人来相处。
+这两张画像方向相反，结构却同构：它们都不承认对方是一个有独立意志、会继续说出下一句台词的活人。所谓“无条件的爱”，给的是前一张虚幻的偶像；随后“有条件的切割、起诉与文学化的示众”，砸向的是后一张妖魔化的模具。在关于那场数年纠葛的公开记述里，对方一次也没有作为可以自由改写画像的活人出现。
 
-The two portraits face opposite ways yet share one structure: neither acknowledges the other as a living person with an independent will who will go on to speak the next line. So-called "unconditional love" was given to the first, an illusory idol; the "conditional severing, lawsuit, and literary public display" that followed struck the second, a demonised mould. Through the years of this entanglement, he never once engaged the other as a living person free to revise the portrait.
+The two portraits face opposite ways yet share one structure: neither acknowledges the other as a living person with an independent will who will go on to speak the next line. So-called "unconditional love" was given to the first, an illusory idol; the "conditional severing, lawsuit, and literary public display" that followed struck the second, a demonised mould. Across the published account of that multi-year entanglement, the other never once appears as a living person free to revise the portrait.
 
 ## 四、 广场审判：把裁决权交出去 / 4. Trial in the Square: Handing Over the Right of Decision
 
