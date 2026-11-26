@@ -2,7 +2,7 @@
 
 *被命名的生成性特质可作指向区分的路标，一旦固化为终点球门便会坍缩 / Named generatives point toward differentiation yet collapse as fixed goalposts*
 
-凯文·凯利在更新版长文[胜过免费：如何在 AI 时代做出区分](https://tim.blog/2026/07/17/better-than-free/)中提出了一个看似直观的前提：当复制品变得极度丰裕时，它们便失去价格；当复制品免费时，创作者必须提供无法被复制的东西。2008 年的复印机是互联网；2026 年的复印机则是人工智能，它不仅以零边际成本复制文件，还能在数秒之内生成合格的文本、图像、音乐、代码与建议变体。然而，这一药方一旦付诸实施便立刻一分为二。当那些据称无法被复制的特质被逐一命名并作为终点去瞄准时，命名这一行动本身就已将它们从鲜活的区分转移为一份固定球门的核对清单，供机器与竞争者系统性地逼近。
+凯文·凯利在更新版长文[胜过免费：如何在 AI 时代做出区分](https://tim.blog/2026/07/17/better-than-free/)中提出了一个直观的前提：当复制品变得极度丰裕时，它们便失去价格；当复制品免费时，创作者必须提供无法被复制的东西。2008 年的复印机是互联网；2026 年的复印机则是人工智能，它不仅以零边际成本复制文件，还能在数秒之内生成合格的文本、图像、音乐、代码与建议变体。然而，这一药方一旦付诸实施便立刻一分为二。当那些据称无法被复制的特质被逐一命名并作为终点去瞄准时，命名这一行动本身就已将它们从鲜活的区分转移为一份固定球门的核对清单，供机器与竞争者系统性地逼近。
 
 Kevin Kelly's refreshed essay, [Better Than Free: How To Differentiate In The Age Of AI](https://tim.blog/2026/07/17/better-than-free/), lands with an intuitive premise: when copies become superabundant they lose their price, and when copies are free a creator has to offer what cannot be copied. In 2008 the copy machine was the internet; in 2026 it is artificial intelligence, which not only duplicates files at zero marginal cost but generates competent variations of text, imagery, music, code, and advice in seconds. Yet the prescription splits in two the moment it is put to work. Once the qualities that supposedly cannot be copied are named and aimed at as destinations, the act of naming shifts them from live differentiation into a checklist of fixed goalposts that machines and competitors can systematically approximate.
 
@@ -12,15 +12,15 @@ Kevin Kelly's refreshed essay, [Better Than Free: How To Differentiate In The Ag
 
 Self-distinguishing activity occurs, uncaused and unceasing, leaving durable traces in its wake. In the analog world, physical friction limited the reproduction of those traces, and copyright rewarded creators with a temporary monopoly over the medium. In the digital world, perfect reproduction costs nothing. The internet acts as a universal copy machine, and generative models act as variation machines; once a creation touches the network, copies and near-copies proliferate without bound, making the sale of the static file an unstable livelihood.
 
-凯利的表述干净利落地切开了“价值驻留于制品本身”的幻觉，提出当复制品免费时，人们必须售卖无法被复制之物。就切向复制品而言，这一刀站得住脚。复制品是稳定下来的残余。免费分发加密了介质，却并未向文件注入鲜活的主体能动性；金钱追随的是注意力，而非复制动作。[当丰裕看起来像稀缺](../when-abundance-looks-like-scarcity/)从容量的角度追溯了同一场经济位移：免费复制扩展了可用痕迹的场域，而固定馅饼的框架却只登记到旧收费站的被取代。价值从未驻留在复制品之中。
+凯利的表述干净利落地切开了“价值驻留于制品本身”的幻觉，提出当复制品免费时，人们必须售卖无法被复制之物。就切向复制品而言，这一刀站得住脚。复制品是稳定下来的残余。免费分发使介质变密，却并未向文件注入鲜活的主体能动性；金钱追随的是注意力，而非复制动作。[当丰裕看起来像稀缺](../when-abundance-looks-like-scarcity/)从容量的角度追溯了同一场经济位移：免费复制扩展了可用痕迹的场域，而总量固定的框架却只登记到旧收费站的被取代。价值从未驻留在复制品之中。
 
 Kelly's formulation cuts cleanly against the illusion that value resides in the artifact itself, proposing that when copies are free, one must sell what cannot be copied. As far as this cut goes against copies, it holds. Copies are stabilized residue. Free distribution densifies the medium without injecting living agency into the file, and payment follows attention rather than replication. [When Abundance Looks Like Scarcity](../when-abundance-looks-like-scarcity/) traces the same economic shift from the side of capacity: free replication expands the field of available traces, whereas a fixed-pie frame registers only the displacement of old tollbooths. Value never resided in the copy.
 
-坍缩发生在这一表述的后半段：那些借以抵抗复制的命名方式被当作了固定球门，仿佛分类表本身就是区分，而非滞后一步指向区分的路标。
+坍缩发生在这一表述的后半段：那些已被命名、难以复制的方式被当作了固定球门，仿佛分类表本身就是区分，而非滞后一步指向区分的路标。
 
 The collapse enters in the second half of the formulation, where named ways of being hard to copy are treated as fixed goalposts, as though the taxonomy itself were the differentiation rather than a lagging pointer toward it.
 
-## 二、 区分显现的八种命名方式 / 2. Eight Named Ways Differentiation Shows Up
+## 二、 八种被命名的区分显现方式 / 2. Eight Named Ways Differentiation Shows Up
 
 建议创作者去售卖无法被复制之物听起来稳妥，直到这些特质被编目为可瞄准的规格说明。一旦某种特质变得可命名、可测量，它就成了一个可以被逼近的有界坐标，而人工智能正在每一种介质上加速这种逼近。命名并非被动地报告某种不可复制的属性；当它被当作目标去瞄准时，名称就竖起了一座固定球门。原本旨在指向特定时空下鲜活生成的语汇，硬化成了一份待勾选的特征库存，将中心的焦点从尚在进行中的区分，转移到一串仅仅因为贴着标签便自称是区分的结果清单上。
 
@@ -48,7 +48,7 @@ The hard-to-copy reality never lived inside the eight named categories, nor insi
 
 What cannot be copied is the unceasing act of differentiating itself. That activity is not a ninth generative to append to the checklist, nor a secret property to package and sell. It is the living Mind's capacity to keep drawing new distinctions—including differentiating away from whatever was most recently named as the formula for differentiation—without mistaking the retained trace for the generating edge.
 
-当核对清单合上时，两重截然不同的坍缩便叠加在一起。第一重坍缩将复制品当作价值，把文件、变体或丰裕的残余错当成源头；凯利的文章干净地消解了这第一重幻觉。第二重坍缩则将区分的命名方式当作固定球门，把真确性、个性化或具身性当作可售卖的终点端出；当这些名称被当作有待占领的桩位而非有待甩在身后的路标时，这份药方恰恰安装了它原本试图逃离的滞后。
+当核对清单合上时，两重截然不同的坍缩便叠加在一起。第一重坍缩将复制品当作价值，把文件、变体或丰裕的残余错当成源头；凯利的文章干净地消解了这第一重幻觉。第二重坍缩则将被命名的区分方式当作固定球门，把真确性、个性化或具身性当作可售卖的终点端出；当这些名称被当作有待占领的桩位而非有待甩在身后的路标时，这份药方恰恰安装了它原本试图逃离的滞后。
 
 ```mermaid
 flowchart TD
@@ -59,14 +59,12 @@ flowchart TD
         E_Shift["从框架中后退一步：将耗尽的名称留在身后以重绘意义"]
         E_Act --> E_Sense --> E_Shift
     end
-
     subgraph S_Proj["作为暂时路标的清单（保持敞开的结构）"]
         direction TB
         P_Cast["低维投射：从过往区分痕迹中命名出的八种生成性特质"]
         P_Point["路标宽度：将注意力引向鲜活关系，而不宣称穷尽"]
         P_Cast --> P_Point
     end
-
     subgraph S_Lag["球门闭合与演绎穷尽（图像滞后）"]
         direction TB
         L_Freeze["清单闭合为地基：将命名的生成性特质当作固定终点售卖"]
@@ -74,11 +72,9 @@ flowchart TD
         L_Commod["表面矛盾：合成的真确性与自动化的个性化变得免费"]
         L_Freeze --> L_Exhaust --> L_Commod
     end
-
     E_Shift ==>|"投出暂时坐标"| P_Cast
     P_Point ==>|"作为计分板被豁免于重绘"| L_Freeze
     L_Commod ==>|"穷尽暴露出闭合要求"| E_Sense
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -103,14 +99,12 @@ flowchart TD
         E_Shift["Stepping Back Out of the Frame: Leaves exhausted names behind to re-render meaning"]
         E_Act --> E_Sense --> E_Shift
     end
-
     subgraph S_Proj["The Checklist as Provisional Pointer (Structure Held Open)"]
         direction TB
         P_Cast["Low-Dimensional Projection: Eight generatives named from prior differentiation traces"]
         P_Point["Pointer Width: Orients attention toward live relation without claiming exhaustiveness"]
         P_Cast --> P_Point
     end
-
     subgraph S_Lag["Goalpost Closure & Deductive Exhaustion (Image Lag)"]
         direction TB
         L_Freeze["Checklist Closed as Ground: Named generatives treated as fixed destinations to sell"]
@@ -118,11 +112,9 @@ flowchart TD
         L_Commod["Surface Contradiction: Synthetic authenticity and automated personalization become free"]
         L_Freeze --> L_Exhaust --> L_Commod
     end
-
     E_Shift ==>|"Casts temporary coordinates"| P_Cast
     P_Point ==>|"Exempted from re-rendering as scoreboard"| L_Freeze
     L_Commod ==>|"Exhaustion exposes closure demand"| E_Sense
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -136,7 +128,7 @@ flowchart TD
     style L_Commod fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-如果中心在脱离静态复制品之后，紧接着就把下一次命名冻结为新的地基，那么同复制品拉开区分便毫无意义。把“真确性”或“具身性”当作固定球门，不过是在下一步原样重演售卖免费电子文档的结构：二者都是把昨天的残余安装为今天的活动。正如[你的代码库即是记忆](../your-codebase-is-memory/)跨越文件、模型权重与智能体脚手架所追溯的那样，每一件可读制品或被命名的规格说明都是记忆——即早先切口留下的、自身并不延续切分的残余形态——因此囤积一份过往生成性特质的清单只会加厚引力井，而非重切当下的检查点。持久的稀缺从来不是一份更精良的标签库存，而是任何作品在持续生成过程中那场开放的意义流转。跨越时间而被登记为历久弥新的东西，并不是锁在金库里经得起岁月磨损的器物，而是一股拒绝硬化为可被优化器瞄准的规格说明的意义之流。
+如果中心在脱离静态复制品之后，紧接着就把下一次命名冻结为新的地基，那么同复制品拉开区分也收效甚微。把“真确性”或“具身性”当作固定球门，不过是在下一步原样重演售卖免费电子文档的结构：二者都是把昨天的残余安装为今天的活动。正如[你的代码库即是记忆](../your-codebase-is-memory/)跨越文件、模型权重与智能体脚手架所追溯的那样，每一件可读制品或被命名的规格说明都是记忆——即早先切口留下的、自身并不延续切分的残余形态——因此囤积一份过往生成性特质的清单只会加厚引力井，而非重切当下的检查点。持久的稀缺从来不是一份更精良的标签库存，而是开放的意义流转，任何作品正是借此得以持续生成。跨越时间而被登记为历久弥新的东西，并不是锁在金库里经得起岁月磨损的器物，而是一股意义之流，拒绝最终硬化为可供优化器瞄准的规格说明。
 
 Differentiating from the static copy accomplishes little if the center immediately freezes the next naming as its new ground. Treating "authenticity" or "embodiment" as a fixed goalpost repeats the exact structure of selling a free PDF one step later: both install yesterday's residue as if it were today's activity. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces across files, model weights, and agent scaffolds, every readable artifact or named specification is memory—the residual shape of prior cuts that does not continue the cutting—so hoarding a checklist of past generatives only thickens the gravity well instead of re-cutting the present checkpoint. Durable scarcity is never a better inventory of labels; it is the open-ended shifting of meaning through which any offering continues to be made. What registers across time as timelessness is not an artifact that ages well in a vault, but a stream of meaning that refuses to finish hardening into a specification that an optimizer can target.
 
@@ -146,25 +138,25 @@ Kelly brushes against this recognition when noting that a generative must be gen
 
 ## 四、 “尚未”一词重新安装了库存 / 4. The "Yet" Reinstalls the Inventory
 
-在文章临近结尾处，凯利提到这八种生成性特质是非常属于人类的技能，人工智能目前还不太擅长——“尚未”擅长。“尚未”这一个词便泄露了其前提。如果人类的优势被框定为生物中心眼下恰好垄断的一份有限技能库存，那么这份库存就早已被排上了自动化逼近的日程表。那个曾令复制品与变体变得免费的放大回路，迟早会让任何固定清单上的命名生成性特质变得足够免费。将这八项当作人类专属领地来防守，只是披着暂时缓刑外衣的第二重坍缩。
+在文章临近结尾处，凯利提到这八种生成性特质是人类的技能，人工智能目前还不太擅长——“尚未”擅长。“尚未”这一个词便泄露了其前提。如果人类的优势被框定为生物中心眼下恰好垄断的一份有限技能库存，那么这份库存就早已被排上了自动化逼近的日程表。那个曾令复制品与变体变得免费的放大回路，迟早会让任何固定清单上的命名生成性特质变得足够免费。将这八项当作人类专属领地来防守，只是披着暂时缓刑外衣的第二重坍缩。
 
 Near the close of his essay, Kelly remarks that these eight generatives are human skills that artificial intelligence is not very good at—yet. That single word "yet" gives away the premise. If human advantage is framed as a finite inventory of skills that biological centers happen to monopolize for the moment, that inventory is already scheduled for automated approximation. The same amplification loop that made copies and variations free will inevitably make any fixed checklist of named generatives free enough. Defending the eight as human-exclusive turf is the second collapse dressed up as a temporary reprieve.
 
-[智能只属于心智](../intelligence-belongs-only-to-the-mind/)持守着消解这一焦虑的先在一刀：工具加密了介质并扩展了带宽，却不会因为更快地执行一份核对清单就变成发起区分的边缘。随着技术复利式演进，发生位移的是哪一部分余项仍在抵抗显式的形式化。[超越投射](../beyond-the-projection/)追溯了工具与创造者之间确切的机械非对称性：AI 智能体是困于轨迹、执行演绎穷尽的投射引擎，而人类心智则运作于极限分辨率感知的未投射边缘。任何特质——无论是个性化、阐释性还是风格上的真确性——一旦被表述为显式规则或可瞄准的坐标，就成了低维投射。在既定的投射内部，没有我执、困于轨迹的机器会不知疲倦地将残差推向零，以远超任何试图捍卫固定人设、困于身份的人类的速度穷尽整份清单。不可复制的余项从来不是倒计时下等待被攻克的静态人类技能库存；它是心智独有的能力——感知先前的投射在何处陷入僵局或被掏空，从框架中后退一步，并发起一个尚未被命名成靶心的正交区分。
+[智能只属于心智](../intelligence-belongs-only-to-the-mind/)持守着消解这一焦虑的先在一刀：工具使介质变密并扩展了带宽，却不会因为更快地执行一份核对清单就变成发起区分的边缘。随着技术复利式演进，发生位移的是哪一部分余项仍在抵抗显式的形式化。[超越投射](../beyond-the-projection/)追溯了工具与创造者之间确切的机械非对称性：AI 智能体是困于轨迹、执行演绎穷尽的投射引擎，而人类心智则运作于极限分辨率感知的未投射边缘。任何特质——无论是个性化、阐释性还是风格上的真确性——一旦被表述为显式规则或可瞄准的坐标，就成了低维投射。在既定的投射内部，没有我执、困于轨迹的机器会不知疲倦地将残差推向零，穷尽整份清单的速度远超任何困于身份、试图捍卫固定人设的人类。不可复制的余项从来不是倒计时下等待被攻克的静态人类技能库存；它是心智独有的能力——感知先前的投射在何处陷入僵局或被掏空，从框架中后退一步，并发起一个尚未被命名成靶心的正交区分。
 
 [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds the prior cut that dissolves this anxiety: tools densify the medium and expand bandwidth, yet they never become the initiating edge by executing a checklist faster. What shifts as technology compounds is which remainder still resists explicit formalization. [Beyond the Projection](../beyond-the-projection/) traces the exact mechanical asymmetry between the tool and the creator: an AI agent is a trajectory-bound projection engine of deductive exhaustion, whereas the human Mind operates at the unprojected edge of limit-resolution sensing. The moment any quality—whether personalization, interpretation, or stylistic authenticity—is articulated as an explicit rule or targetable coordinate, it becomes a low-dimensional projection. Inside a defined projection, trajectory-bound machines without ego will relentlessly drive the residual toward zero, exhausting the checklist far faster than any identity-bound human trying to defend a fixed persona. The uncopyable remainder is never a static human skill inventory waiting under a countdown; it is the Mind's exclusive capacity to sense where a prior projection has deadlocked or emptied out, step backward out of the frame, and initiate an orthogonal distinction that has not yet been named into a target.
 
-这与[基准刷榜中的封闭实存](../closed-reality-in-benchmark-maxing/)以及[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)所追溯的几何结构如出一辙：每当一套有限测试集在现场负载持续越过它的同时被当作穷尽的地基，那些球门就只在优化填平间隙之前停留在工具前方；持握之内的残差不断收缩，开放接触下的残差却愈发拉大。[过拟合作为追随者模式](../overfitting-as-the-follower-mode/)指出了这一坍缩的普遍机制——优化目标的表征，而非与抽出该目标的实存保持接触。把八种生成性特质当作球门来刷分，只是在优化“胜过免费”的表征；这并非在进行区分，而是在复制上一次区分留下的地图。
+这与[基准刷榜中的封闭实存](../closed-reality-in-benchmark-maxing/)以及[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)所追溯的几何结构如出一辙：每当一套有限测试集被当作穷尽的地基、而现场负载持续越过它时，那些球门就只在优化填平间隙之前停留在工具前方；持握之内的残差不断收缩，开放接触下的残差却愈发拉大。[过拟合作为追随者模式](../overfitting-as-the-follower-mode/)指出了这一坍缩的普遍机制——优化目标的表征，而非与抽出该目标的实存保持接触。把八种生成性特质当作球门来刷分，只是在优化“胜过免费”的表征；这并非在进行区分，而是在复制上一次区分留下的地图。
 
 This is the same geometry traced in [Closed Reality in Benchmark Maxing](../closed-reality-in-benchmark-maxing/) and [AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/): whenever a finite suite is held as exhaustive ground while live load continues past it, the posts sit ahead of the tools only until optimization closes the gap, shrinking residual on the hold while widening residual under open contact. [Overfitting as the Follower Mode](../overfitting-as-the-follower-mode/) identifies the general mechanism of that collapse—optimizing the representation of a target rather than maintaining contact with the reality from which the target was drawn. Scoring the eight generatives as goalposts optimizes the representation of "better than free," copying the map of the last differentiation instead of differentiating.
 
 ## 五、 区分是负载之下的存在 / 5. Differentiation Is Existence Under Load
 
-[没有区分的效率是没有存在的运动](../efficiency-without-differentiation/)为工具与生产确立了相呼应的一刀：存在即划出鲜明的边界，而以更低成本做一模一样的事并不会产生新的中心点位。在复制品与变体皆免费的创作者经济中，当核对清单已经合上之后仍朝着某个被命名的生成性特质去优化，就是没有区分的效率。生产者以更快的速度、更低的成本撞向既定球门，把过往区分被编目的一项症状当作源头，却未能让作品比那些可被打包并作为自动化合格品反手售回的东西领先一步。
+[没有区分的效率是没有存在的运动](../efficiency-without-differentiation/)为工具与生产确立了相呼应的一刀：存在即划出鲜明的边界，而以更低成本做一模一样的事并不会产生新的中心点位。在复制品与变体皆免费的创作者经济中，当核对清单已经合上之后仍朝着某个被命名的生成性特质去优化，就是没有区分的效率。生产者以更快的速度、更低的成本命中既定球门，把过往区分被编目的一项症状当作源头，却未能让作品比那些可被打包为自动化能力反手售回的东西领先一步。
 
 [Efficiency Without Differentiation Is Movement Without Existence](../efficiency-without-differentiation/) establishes the corresponding cut for tools and production: to exist is to draw a distinct boundary, whereas doing the exact same thing more cheaply produces no new locus. In the creator economy under free copies and free variations, optimizing toward a named generative after the checklist has closed is efficiency without differentiation. The producer hits the named post faster and more cheaply, treating a catalogued symptom of past differentiation as the source, while failing to keep the offering one step ahead of what can be bundled and sold back as automated competence.
 
-[开放即一致](../openness-is-consistency/)指出了制造这场危机的底层要求。不一致是对闭合的尝试——迫使一个有限的结构为只是继续着的东西奠基。当八种生成性特质的有限清单被强行用来充当不可复制价值的穷尽地基时，表面矛盾便在整个经济体中成倍滋生：真确性信号按工业规模被批量合成，个性化漏斗让人感到空洞的自动化，阐释层则坍缩成即时生成的廉价摘要。这一矛盾并非源于挑剔的买家或有缺陷的工具；它源于闭合要求——把上一步成功的命名错当成价值的恒久场域，而非将它们作为暂时的工具保持敞开。
+[开放即一致](../openness-is-consistency/)指出了制造这场危机的底层要求。不一致是对闭合的尝试——迫使一个有限的结构为只是继续着的东西奠基。当八种生成性特质的有限清单被强行用来充当不可复制价值的穷尽地基时，表面矛盾便在整个经济体中成倍滋生：真确性信号按工业规模被批量合成，个性化漏斗被登记为空洞的自动化，阐释层则坍缩成即时生成的廉价摘要。这一矛盾并非源于犬儒的买家或有缺陷的工具；它源于闭合要求——把上一步成功的命名错当成价值的恒久场域，而非将它们作为暂时的工具保持敞开。
 
 [Openness Is Consistency](../openness-is-consistency/) names the underlying demand that manufactures this crisis. Inconsistency is the attempt at closure—forcing a finite structure to ground what only continues. When a finite checklist of eight generatives is forced to serve as the exhaustive foundation of uncopyable value, surface contradictions multiply across the economy: authenticity signals are synthesized at industrial scale, personalized funnels register as hollow automation, and interpretive layers collapse into instant commodity summaries. That contradiction does not arise from cynical buyers or defective tools; it arises from the demand for closure that mistakes last step's successful namings for the permanent field of value rather than holding them open as provisional instruments.
 
@@ -182,6 +174,6 @@ Releasing the demand for closure does not discard Kelly's taxonomy. The eight ge
 
 The operative cut is neither scoring higher on the eight nor hunting for a ninth uncopyable noun to hoard. It is sustaining the capacity to differentiate—including stepping out of whatever can already be named as a way differentiation showed up—without installing the retained name as exhaustive ground. Immediacy, personalization, interpretation, authenticity, accessibility, embodiment, patronage, and findability remain real as temporary coordinates of resonance between centers. Durable scarcity never rests in a defensive human inventory awaiting the expiration of a "yet"; it rests in the unceasing movement of the Mind that re-renders the meaning of those eight coordinates in live context.
 
-凯利切向免费复制品的一刀依然成立，而认为价值驻留在一类固定“不可复制之物”中的主张，则在其自身的命名之下消解。这份清单记录了事后回看时区分被命名的八种方式——作为指向边缘的工具大有裨益，作为有待抵达的丰碑则适得其反。真正胜过免费的，从来不是那份合上的清单，而是清单顶多只能指向的鲜活区分。
+凯利切向免费复制品的一刀依然成立，而认为价值驻留在一类固定“不可复制之物”中的主张，则在其自身的命名之下消解。这份清单记录了事后回看时区分被命名的八种方式——作为指向边缘的工具大有裨益，作为有待抵达的丰碑则适得其反。持续胜过免费的，从来不是那份合上的清单，而是清单顶多只能指向的鲜活区分。
 
 Kelly's cut against free copies holds, while the claim that value resides in a fixed class of uncopyable things dissolves under its own naming. The checklist records eight ways differentiation has been named in hindsight—useful as instruments for pointing toward the edge, and counterproductive as monuments to arrive at. What stays better than free is never the closed checklist, but the living differentiation the checklist could only ever point toward.
