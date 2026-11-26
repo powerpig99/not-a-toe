@@ -29,9 +29,9 @@ const figuresDir = path.join(scriptDir, 'assets', 'figures');
 const presentationsDir = path.join(scriptDir, 'assets', 'presentations');
 const PRESENTATION_ROUTES = [
   {
-    slug: 'no-second-edge',
-    template: 'no-second-edge.html',
-    socialImage: 'assets/covers/the-model-never-becomes-a-second-edge.jpg',
+    slug: 'guide',
+    template: 'guide.html',
+    socialImage: 'assets/covers/manifesto-of-not-a-theory-of-everything.jpg',
   },
 ];
 // The films of a post: data/youtube.json is the uploader's ledger, { videos: { <slug>: { en: { id }, zh: { id } } } }.
@@ -1478,6 +1478,7 @@ function renderSiteHeader(active = '') {
   return `    <header class="site-header">
       <a class="site-name" href="${withBase('')}">${escapeHtml(SITE.title)}</a>
       <nav class="site-nav" aria-label="Book">
+        ${item('guide', withBase('guide/'), bilingualSpan('导览', 'Guide'))}
         ${item('contents', `${withBase('')}#contents`, bilingualSpan('目录', 'Contents'))}
         ${item('index', withBase(`book/${BOOK_INDEX_SLUG}/`), bilingualSpan('索引', 'Index'))}
         ${item('journal', withBase('journal/'), bilingualSpan('日志', 'Journal'))}
@@ -1537,10 +1538,10 @@ ${tocItems}
         <span class="toc-title">${renderBilingualInline(premiseIndex.title)}</span>
         <span class="meta">${counts}</span>
       </a>
-      <a class="toc-index" href="${withBase('no-second-edge/')}">
-        <span class="toc-num">${bilingualSpan('交互演示', 'Interactive Deck')}</span>
-        <span class="toc-title">${bilingualSpan('没有第二重前沿', 'No Second Edge')}</span>
-        <span class="meta">${bilingualSpan('致《最后一页无聊的幻灯片》的正交回应 · 方向键翻页，A 自动播放，L 切换中英', 'An orthogonal response to “The Last Boring Slide” · Arrows to move, A autoplay, L EN/中文')}</span>
+      <a class="toc-index" href="${withBase('guide/')}">
+        <span class="toc-num">${bilingualSpan('互动导览', 'Interactive Guide')}</span>
+        <span class="toc-title">${bilingualSpan('非万物之理 · 活书全景导览', 'Not a ToE · Interactive Guide to the Living Book')}</span>
+        <span class="meta">${bilingualSpan(`21 页双语动态导览 · 纵览全书 ${parts.length} 卷、${posts.length} 篇随笔与 ${premiseIndex.sections.reduce((n, s) => n + s.entries.length, 0)} 条前提索引`, `21-slide bilingual dynamic tour · All ${parts.length} parts, ${posts.length} essays & ${premiseIndex.sections.reduce((n, s) => n + s.entries.length, 0)} premises`)}</span>
       </a>
     </section>
     <section class="journal-latest">
@@ -2078,25 +2079,165 @@ function copyStaticAssets() {
   }
 }
 
+function stripMdLinks(text) {
+  return text
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+    .replace(/\*\*([^*]+)\*\*/g, '$1')
+    .replace(/\*([^*]+)\*/g, '$1')
+    .replace(/`([^`]+)`/g, '$1')
+    .trim();
+}
+
 function buildPresentations(posts, book = null) {
   const entryCount = book ? book.premiseIndex.sections.reduce((n, s) => n + s.entries.length, 0) : 0;
+
+  // Compute live synaptic cross-link topology across all posts and parts
+  const partIdxBySlug = new Map();
+  const partCount = book ? book.parts.length : 0;
+  if (book) {
+    book.parts.forEach((part, idx) => {
+      for (const s of part.slugs) partIdxBySlug.set(s, idx);
+    });
+  }
+  const inDegree = new Map();
+  const partMatrix = Array.from({ length: partCount }, () => Array(partCount).fill(0));
+  let totalLinks = 0;
+
+  for (const post of posts) {
+    const srcIdx = partIdxBySlug.get(post.slug);
+    const seenTargets = new Set();
+    const re = /href="(?:\.\.\/|[^"]*\/posts\/)([A-Za-z0-9][A-Za-z0-9_-]*)\/(?:#[^"]*)?"/g;
+    let m;
+    while ((m = re.exec(post.htmlBody))) {
+      const target = m[1];
+      if (target === post.slug || !partIdxBySlug.has(target) || seenTargets.has(target)) continue;
+      seenTargets.add(target);
+      totalLinks += 1;
+      inDegree.set(target, (inDegree.get(target) ?? 0) + 1);
+      const dstIdx = partIdxBySlug.get(target);
+      if (srcIdx !== undefined && dstIdx !== undefined) {
+        partMatrix[srcIdx][dstIdx] += 1;
+        if (srcIdx !== dstIdx) partMatrix[dstIdx][srcIdx] += 1;
+      }
+    }
+  }
+
+  // Ensure pinned manifesto leads Method while preserving top synaptic hubs everywhere
+  const PINNED_PART_LEADS = {
+    method: ['manifesto-of-not-a-theory-of-everything', 'openness-is-consistency', 'the-scaffolding-we-forget'],
+  };
+
+  const partsData = book
+    ? book.parts.map((part, idx) => {
+        const titles = splitBilingual(part.title);
+        const subs = splitBilingual(part.subtitle || '');
+        const lbl = partLabel(part);
+        const partInLinks = part.slugs.reduce((sum, s) => sum + (inDegree.get(s) ?? 0), 0);
+
+        const rankedSlugs = [...part.slugs].sort((a, b) => (inDegree.get(b) ?? 0) - (inDegree.get(a) ?? 0));
+        const leadSeeds = (PINNED_PART_LEADS[part.slug] ?? []).filter((s) => part.slugs.includes(s));
+        const orderedSlugs = [...new Set([...leadSeeds, ...rankedSlugs])];
+
+        const featured = [];
+        for (const s of orderedSlugs) {
+          const p = book.postsBySlug.get(s);
+          if (!p || !p.cover) continue;
+          const pt = splitBilingual(p.title);
+          if (!pt.zh || !pt.en) continue;
+          featured.push({
+            slug: p.slug,
+            titleZh: pt.zh,
+            titleEn: pt.en,
+            coverUrl: p.cover.url,
+            inDegree: inDegree.get(p.slug) ?? 0,
+            url: `../${p.outputPath}`,
+          });
+          if (featured.length >= 3) break;
+        }
+
+        return {
+          slug: part.slug,
+          number: part.number,
+          idx,
+          labelZh: lbl.zh,
+          labelEn: lbl.en,
+          titleZh: titles.zh,
+          titleEn: titles.en || titles.zh,
+          subZh: subs.zh,
+          subEn: subs.en || subs.zh,
+          count: part.slugs.length,
+          inLinks: partInLinks,
+          url: `../${part.outputPath}`,
+          featured,
+        };
+      })
+    : [];
+
+  // Index of Premises live statistics and top entries per label
+  const labelMap = new Map();
+  const sectionsData = book
+    ? book.premiseIndex.sections.map((s) => ({
+        id: s.id,
+        zh: s.zh,
+        en: s.en || s.zh,
+        count: s.entries.length,
+      }))
+    : [];
+
+  if (book) {
+    for (const s of book.premiseIndex.sections) {
+      for (const e of s.entries) {
+        const rawLabel = e.label || '哲学 / Philosophical';
+        if (!labelMap.has(rawLabel)) {
+          const split = splitBilingual(rawLabel);
+          labelMap.set(rawLabel, { key: rawLabel, zh: split.zh, en: split.en || split.zh, count: 0, entries: [] });
+        }
+        const bucket = labelMap.get(rawLabel);
+        bucket.count += 1;
+        bucket.entries.push({ ...e, sectionZh: s.zh, sectionEn: s.en || s.zh });
+      }
+    }
+  }
+
+  const labelsData = [...labelMap.values()]
+    .sort((a, b) => b.count - a.count)
+    .map((bucket) => ({
+      key: bucket.key,
+      zh: bucket.zh,
+      en: bucket.en,
+      count: bucket.count,
+      samples: [...bucket.entries]
+        .sort((a, b) => b.links.length - a.links.length)
+        .slice(0, 4)
+        .map((e) => {
+          const zhPara = e.paras.find((p) => languageOf(p) === 'zh') || e.paras[0] || '';
+          const enPara = e.paras.find((p) => languageOf(p) === 'en') || e.paras[1] || zhPara;
+          return {
+            titleZh: e.zh,
+            titleEn: e.en || e.zh,
+            sectionZh: e.sectionZh,
+            sectionEn: e.sectionEn,
+            zh: stripMdLinks(zhPara),
+            en: stripMdLinks(enPara),
+            linksCount: e.links.length,
+            url: `../${book.premiseIndex.outputPath}#${e.id}`,
+          };
+        }),
+    }));
+
+  const heroPost = book?.postsBySlug.get(SITE.pinnedSlug);
   const bookData = {
     postCount: posts.length,
-    partCount: book ? book.parts.length : 0,
+    partCount,
     premiseCount: entryCount,
-    parts: book
-      ? book.parts.map((part) => {
-          const titles = splitBilingual(part.title);
-          return {
-            slug: part.slug,
-            number: part.number,
-            titleZh: titles.zh,
-            titleEn: titles.en || titles.zh,
-            count: part.slugs.length,
-            url: `../${part.outputPath}`,
-          };
-        })
-      : [],
+    linkCount: totalLinks,
+    heroCoverUrl: heroPost?.cover?.url ?? SITE.socialImage,
+    parts: partsData,
+    partMatrix,
+    indexStats: {
+      sections: sectionsData,
+      labels: labelsData,
+    },
   };
   const safeBookJson = JSON.stringify(bookData).replaceAll('</', '<\\/');
 
