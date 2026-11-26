@@ -27,6 +27,7 @@ The essays here examine the open loop of curiosity, the placement of causal powe
 - [信念如何真正改变 / How Belief Actually Changes](../../posts/how-belief-actually-changes/)
 - [从可辩护的主张到教条的反转 / The Reversal from Defensible Claim to Dogma](../../posts/the-reversal-from-defensible-claim-to-dogma/)
 - [读《中文哲学简史》有感 / Reflections on A Short History of Philosophy in Chinese](../../posts/du-zhongwen-zhexue-jianshi-you-gan/)
+- [基本面的悖论是参照的不自觉切换 / The Paradox of Fundamentals Is the Unaware Switch of Reference](../../posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference/)
 - [作业与考试的倒置折射出替代效应 / The Homework–Exam Inversion Registers Substitution](../../posts/the-homework-exam-inversion-registers-substitution/)
 - [研究AI效应重置了因果原点 / Studying the Effect of AI Relocates Causality](../../posts/studying-the-effect-of-ai-relocates-causality/)
 - [学习中不可观测的驱动力 / The Unobservable Driver of Learning](../../posts/the-unobservable-driver-of-learning/)

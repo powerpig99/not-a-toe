@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-26T21:56:16.531Z",
+    "generated_at": "2026-11-26T22:28:01.671Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -483,10 +483,10 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "dd669bf8563f",
-      "content/book/economics.md": "ac9fdbf2221e",
+      "content/book/economics.md": "a4f628ea701e",
       "content/book/index-of-premises.md": "222743ac4354",
       "content/book/intelligence.md": "ff7c08b8ecea",
-      "content/book/knowledge-and-learning.md": "1ddd7286abfb",
+      "content/book/knowledge-and-learning.md": "573ddb01c140",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
       "content/book/mathematics.md": "15cf0e9db0a5",
       "content/book/meaning-and-transcendence.md": "85824b01375a",
@@ -494,9 +494,9 @@
       "content/book/morality.md": "d7bed5438283",
       "content/book/physics.md": "ba8239e00706",
       "content/book/preface.md": "09791dd76ace",
-      "content/book/state-and-collective.md": "a1b57a68703f",
-      "content/book/success-and-the-self.md": "b9f2395b40ac",
-      "content/book/tools-and-progress.md": "32590d78ee8e"
+      "content/book/state-and-collective.md": "d37a7cb0470b",
+      "content/book/success-and-the-self.md": "4534d044ad94",
+      "content/book/tools-and-progress.md": "df8a9305858c"
     },
     "stats": {
       "posts": 473,
@@ -102332,8 +102332,8 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "ac9fdbf2221e",
-        "out_degree": 39
+        "hash": "a4f628ea701e",
+        "out_degree": 37
       },
       {
         "id": "book:index-of-premises",
@@ -102359,8 +102359,8 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Cognitive Inquiry",
-        "hash": "1ddd7286abfb",
-        "out_degree": 37
+        "hash": "573ddb01c140",
+        "out_degree": 38
       },
       {
         "id": "book:life-and-statistics",
@@ -102431,8 +102431,8 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "a1b57a68703f",
-        "out_degree": 35
+        "hash": "d37a7cb0470b",
+        "out_degree": 36
       },
       {
         "id": "book:success-and-the-self",
@@ -102440,8 +102440,8 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "b9f2395b40ac",
-        "out_degree": 38
+        "hash": "4534d044ad94",
+        "out_degree": 37
       },
       {
         "id": "book:tools-and-progress",
@@ -102449,8 +102449,8 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "32590d78ee8e",
-        "out_degree": 49
+        "hash": "df8a9305858c",
+        "out_degree": 50
       }
     ],
     "edges": [
@@ -102984,12 +102984,6 @@
       },
       {
         "from": "book:economics",
-        "to": "having-more-is-never-the-cause",
-        "rel": "collects",
-        "label": "拥有更多从不是原因 / Having More Is Never the Cause"
-      },
-      {
-        "from": "book:economics",
         "to": "price-as-utterance-understanding-as-trade",
         "rel": "collects",
         "label": "价格是言说，理解是交易 / Price as Utterance, Understanding as Trade"
@@ -103035,12 +103029,6 @@
         "to": "the-knowledge-problem-and-the-illusion-of-delegation",
         "rel": "collects",
         "label": "知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation"
-      },
-      {
-        "from": "book:economics",
-        "to": "the-paradox-of-fundamentals-is-the-unaware-switch-of-reference",
-        "rel": "collects",
-        "label": "基本面的悖论是参照的不自觉切换 / The Paradox of Fundamentals Is the Unaware Switch of Reference"
       },
       {
         "from": "book:economics",
@@ -111084,6 +111072,12 @@
       },
       {
         "from": "book:knowledge-and-learning",
+        "to": "the-paradox-of-fundamentals-is-the-unaware-switch-of-reference",
+        "rel": "collects",
+        "label": "基本面的悖论是参照的不自觉切换 / The Paradox of Fundamentals Is the Unaware Switch of Reference"
+      },
+      {
+        "from": "book:knowledge-and-learning",
         "to": "the-homework-exam-inversion-registers-substitution",
         "rel": "collects",
         "label": "作业与考试的倒置折射出替代效应 / The Homework–Exam Inversion Registers Substitution"
@@ -112110,6 +112104,12 @@
       },
       {
         "from": "book:state-and-collective",
+        "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+        "rel": "collects",
+        "label": "卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems"
+      },
+      {
+        "from": "book:state-and-collective",
         "to": "liberation-rhetoric-begins-by-defining-captivity",
         "rel": "collects",
         "label": "解放的言辞始于定义囚禁 / Liberation Rhetoric Begins by Defining Captivity"
@@ -112254,12 +112254,6 @@
       },
       {
         "from": "book:success-and-the-self",
-        "to": "the-flywheel-of-the-mind",
-        "rel": "collects",
-        "label": "心智的飞轮 / The Flywheel of the Mind"
-      },
-      {
-        "from": "book:success-and-the-self",
         "to": "closed-reality-in-the-pursuit-of-serendipity",
         "rel": "collects",
         "label": "追求机缘中的封闭现实 / Closed Reality in the Pursuit of Serendipity"
@@ -112278,15 +112272,15 @@
       },
       {
         "from": "book:success-and-the-self",
-        "to": "when-observation-becomes-performance",
+        "to": "having-more-is-never-the-cause",
         "rel": "collects",
-        "label": "当观察变成表演 / When Observation Becomes Performance"
+        "label": "拥有更多从不是原因 / Having More Is Never the Cause"
       },
       {
         "from": "book:success-and-the-self",
-        "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+        "to": "when-observation-becomes-performance",
         "rel": "collects",
-        "label": "卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems"
+        "label": "当观察变成表演 / When Observation Becomes Performance"
       },
       {
         "from": "book:success-and-the-self",
@@ -112515,6 +112509,12 @@
         "to": "a-living-external-cortex",
         "rel": "collects",
         "label": "活的外部皮层 / A Living External Cortex"
+      },
+      {
+        "from": "book:tools-and-progress",
+        "to": "the-flywheel-of-the-mind",
+        "rel": "collects",
+        "label": "心智的飞轮 / The Flywheel of the Mind"
       },
       {
         "from": "book:tools-and-progress",

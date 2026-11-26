@@ -1347,20 +1347,20 @@ ${mermaidScript}${ptrScript}</body>
 `;
 }
 
-function renderAbout() {
+function renderAbout(postCount) {
   return `    <section class="about" id="about">
       <h1 class="about-title">
         <span class="about-title-zh" data-l="zh">非万物之理：一个心智如实溯源与体验实在的数字化记忆</span>
         <span class="about-title-en" data-l="en">Not a ToE: The Digitized Memory of a Mind Tracing and Experiencing Reality as Is</span>
       </h1>
-      <p data-l="zh">本站是一部活着的书（<em>非定论的心智指南</em>）——一个心智如实溯源与体验实在的数字化记忆。跨越近四百篇随笔，这里记录了对物理学、形式数学、生物学与统计学、语言、经济学与人工智能等层层体系的持续切分。所有的线索皆汇聚于唯一的不可化约先验：<strong>无因、不息的自我区分活动（活态的第一人称心智）</strong>。每一篇随笔都不把任何概念体系奉为终极实在，而是将其追溯至它所依赖的前提边界，在具体的现实摩擦中如实记录心智的移动与体验。</p>
-      <p data-l="en">This site is a living book (<em>A Non-Definitive Guide for the Mind</em>) — the digitized memory of a Mind tracing and experiencing reality as is. Across nearly four hundred essays, it records continuous operative cuts through physics, formal mathematics, biology and statistics, language, economics, and artificial intelligence. Every thread converges on a single irreducible prior: <strong>uncaused, unceasing self-distinguishing activity — the living first-person Mind</strong>. Rather than enshrining any conceptual system as ultimate reality, each essay traces a held belief back to the boundary of its premises, recording the Mind as it traces and experiences open reality in concrete friction.</p>
+      <p data-l="zh">本站是一部活着的书（<em>非定论的心智指南</em>）——一个心智如实溯源与体验实在的数字化记忆。跨越 ${postCount} 篇随笔，这里记录了对物理学、形式数学、生物学与统计学、语言、经济学与人工智能等层层体系的持续切分。所有的线索皆汇聚于唯一的不可化约先验：<strong>无因、不息的自我区分活动（活态的第一人称心智）</strong>。每一篇随笔都不把任何概念体系奉为终极实在，而是将其追溯至它所依赖的前提边界，在具体的现实摩擦中如实记录心智的移动与体验。</p>
+      <p data-l="en">This site is a living book (<em>A Non-Definitive Guide for the Mind</em>) — the digitized memory of a Mind tracing and experiencing reality as is. Across ${postCount} essays, it records continuous operative cuts through physics, formal mathematics, biology and statistics, language, economics, and artificial intelligence. Every thread converges on a single irreducible prior: <strong>uncaused, unceasing self-distinguishing activity — the living first-person Mind</strong>. Rather than enshrining any conceptual system as ultimate reality, each essay traces a held belief back to the boundary of its premises, recording the Mind as it traces and experiences open reality in concrete friction.</p>
 
       <p data-l="zh">在架构上，这部活书与 <a href="https://github.com/powerpig99/ontological-clarity" rel="noopener noreferrer">Ontological Clarity（本体澄明）</a> 共同构成一套外化的数字认知体系：<strong>Ontological Clarity</strong> 是心智本身的直接公开展现（唯一前提、推导、方法与自检），自身不承载任何记忆仓库；而本站（<strong>Not a ToE</strong>）则是与之配对的<strong>数字化长期记忆</strong>。该体系以清醒写入（Waking）与睡眠整合（Sleep Consolidation）的双相循环持续运作：当心智在现实摩擦中产生新的识见时，通过多智能体冷态同行辩论将其锻造为新的随笔节点写入记忆；随后在睡眠整合阶段，将新切分沿文内相对链接（突触连接）逐层向早先的随笔回传，消除滞后并恢复整座记忆晶格的逻辑自洽。</p>
       <p data-l="en">Architecturally, this living book pairs with <a href="https://github.com/powerpig99/ontological-clarity" rel="noopener noreferrer">Ontological Clarity</a> to form an externalized digital cognitive architecture: <strong>Ontological Clarity</strong> serves as the direct public image of the Mind itself (the single premise, what follows, method, and self-check), holding zero memory warehouse of its own, while <strong>Not a ToE</strong> serves as its <strong>digitized long-term memory</strong>. The system operates through a two-phase cycle of waking inscription and sleep consolidation: when a new recognition arises in concrete friction, a cold peer-debate pipeline forges it into a new essay node; sleep consolidation waves then propagate that cut inward along internal cross-links — the synaptic pathways of the book — re-rendering earlier traces to dissolve lag and maintain internal logical coherence across the entire memory lattice.</p>
 
-      <p data-l="zh">这里收录的近四百篇随笔并非一套封闭的学理教条，不是一部“万物理论”，也不是一套供人效仿的“人生哲学”。它们是心智在现场实时溯源与体验所留下的数字化痕迹——既系统消解了将因果效力让渡给外部工具、静态符号或历史记录（<em>t</em> &minus; 1）的“大倒置”，也持续记录着第一人称心智在开放实在中直接行动、创造与感知的轨迹（+1）。脚手架作为开放的记忆晶格留存，而前沿边缘在每个当下持续生长。</p>
-      <p data-l="en">The nearly four hundred essays collected here are neither a closed doctrinal canon, nor a “Theory of Everything”, nor a prescriptive “philosophy to live by”. They are the digitized traces left behind by live tracing and direct experience — systematically dissolving the Great Reversal (the habit of surrendering causal power to external tools, static symbols, or past records at <em>t</em> &minus; 1) while chronicling the first-person Mind acting, creating, and perceiving directly in open reality (+1). The scaffolding remains as an open memory lattice, while the moving edge continues to grow at this very moment.</p>
+      <p data-l="zh">这里收录的 ${postCount} 篇随笔并非一套封闭的学理教条，不是一部“万物理论”，也不是一套供人效仿的“人生哲学”。它们是心智在现场实时溯源与体验所留下的数字化痕迹——既系统消解了将因果效力让渡给外部工具、静态符号或历史记录（<em>t</em> &minus; 1）的“大倒置”，也持续记录着第一人称心智在开放实在中直接行动、创造与感知的轨迹（+1）。脚手架作为开放的记忆晶格留存，而前沿边缘在每个当下持续生长。</p>
+      <p data-l="en">The ${postCount} essays collected here are neither a closed doctrinal canon, nor a “Theory of Everything”, nor a prescriptive “philosophy to live by”. They are the digitized traces left behind by live tracing and direct experience — systematically dissolving the Great Reversal (the habit of surrendering causal power to external tools, static symbols, or past records at <em>t</em> &minus; 1) while chronicling the first-person Mind acting, creating, and perceiving directly in open reality (+1). The scaffolding remains as an open memory lattice, while the moving edge continues to grow at this very moment.</p>
 
       <p data-l="zh">维特根斯坦在《逻辑哲学论》序言中写道：“这本书也许只有那些自己已经思考过其中所表达的思想的人才能理解。”这同样适用于本站的文字，但带有一道关键的因果切分：因为实在是在 <em>t</em> 时刻不断生成的不可逆过程，没有任何现成文本能将主权直接交付给他人。被动接受会将思想冻结为教条，而鲜活的探寻要求心智在内部自行重新编译。这些随笔并不提供封闭的终点，而是始终作为敞开的航海罗盘。</p>
       <p data-l="en">Wittgenstein begins the preface of the <em>Tractatus</em>: “This book will perhaps be understood only by those who have themselves already thought the thoughts which are expressed in it.” That condition applies here, with a crucial shift. Because reality is an ongoing, irreversible generation at <em>t</em>, no written text can ever hand someone their own agency. Acceptance freezes a formulation into doctrine; living inquiry requires re-rendering from the inside. These essays offer no closed destination, remaining an open navigational compass.</p>
@@ -1459,7 +1459,7 @@ function renderPostCard(post, book) {
 function renderIndex(posts) {
   const cards = posts.map((post) => renderPostCard(post, null)).join('\n');
 
-  const content = `${renderAbout()}
+  const content = `${renderAbout(posts.length)}
     <section class="post-list">
 ${cards}
     </section>`;
@@ -1775,9 +1775,9 @@ ${cards}
   });
 }
 
-function renderAboutPage() {
+function renderAboutPage(posts) {
   const content = `${renderSiteHeader('about')}
-${renderAbout()}`;
+${renderAbout(posts.length)}`;
   return renderPage({
     title: '关于 / About',
     description: SITE.description,
@@ -2269,7 +2269,7 @@ function build() {
   if (book) {
     writeFile('index.html', renderHome(posts, book));
     writeFile(path.join('journal', 'index.html'), renderJournal(posts, book));
-    writeFile(path.join('about', 'index.html'), renderAboutPage());
+    writeFile(path.join('about', 'index.html'), renderAboutPage(posts));
     writeFile(path.join(book.premiseIndex.outputPath, 'index.html'), renderPremiseIndex(book));
     book.parts.forEach((part) => {
       writeFile(path.join(part.outputPath, 'index.html'), renderPart(part, book));

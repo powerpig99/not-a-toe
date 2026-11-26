@@ -29,6 +29,7 @@ The essays in this part examine the vector sum of coercion, the belief in oversi
 - [共同的人性从不共享 / Shared Humanity Is Never Shared](../../posts/shared-humanity-is-never-shared/)
 - [赋权确立权力的集中 / Empowerment Establishes the Centralization of Power](../../posts/empowerment-establishes-the-centralization-of-power/)
 - [对乌托邦的信念是通往反乌托邦之路 / The Belief in Utopia Is the Path to Dystopia](../../posts/the-belief-in-utopia-is-the-path-to-dystopia/)
+- [卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems](../../posts/exceptionality-perception-and-the-self-limiting-field-of-problems/)
 - [解放的言辞始于定义囚禁 / Liberation Rhetoric Begins by Defining Captivity](../../posts/liberation-rhetoric-begins-by-defining-captivity/)
 - [剩余个人主义 / Residual Individualism](../../posts/residual-individualism/)
 - [政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)

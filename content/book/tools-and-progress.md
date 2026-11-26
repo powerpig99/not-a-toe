@@ -24,6 +24,7 @@ The essays in this part trace the architecture of the codebase as externalized m
 - [最小化路径 / The Minimizing Path](../../posts/minimizing-path/)
 - [重新审视反脆弱 / A New Deeper Look at Antifragility](../../posts/a-new-deeper-look-at-antifragility/)
 - [活的外部皮层 / A Living External Cortex](../../posts/a-living-external-cortex/)
+- [心智的飞轮 / The Flywheel of the Mind](../../posts/the-flywheel-of-the-mind/)
 - [一个提示词之遥 / Whatever Is One Prompt Away](../../posts/whatever-is-one-prompt-away/)
 - [气候问题只作为感知被登记 / The Climate Problem Registers Only as Perception](../../posts/the-climate-problem-registers-only-as-perception/)
 - [进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress](../../posts/symptom-and-cause-in-the-narratives-of-progress/)
