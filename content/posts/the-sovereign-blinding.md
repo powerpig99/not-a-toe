@@ -18,7 +18,7 @@ A scholar who specializes in "delusion and its social roots" gives his newly pub
 flowchart TD
     subgraph S_Echo["回声的回路"]
         direction TB
-        Author["第一人称原点上的作者：想得到认可"]
+        Author["第一人称原点上的作者：每一个抉择都落在提示的这一侧"]
         Prompt["提示：设定顶尖学者的角色，要求深刻的书评"]
         Mirror["模型：沿语料的流形算出高概率的词元序列"]
         Review["一篇合乎学术审美的书评"]
@@ -45,7 +45,7 @@ The reaction is common: looking at words on a screen and saying "the model read 
 flowchart TD
     subgraph S_Echo["The Loop of an Echo"]
         direction TB
-        Author["The author at the first-person origin: wanting recognition"]
+        Author["The author at the first-person origin: every choice falls on the side of the prompt"]
         Prompt["The prompt: the role of a leading academic is set and an insightful review requested"]
         Mirror["The model: a high-probability sequence of tokens computed along the manifold of text"]
         Review["A review that fits academic taste"]
@@ -76,7 +76,7 @@ In the history of thought, having a circle of echoes to endorse oneself took yea
 
 Criticism of this phenomenon mostly takes a narrative of being a victim: the hype around artificial intelligence has polluted public discussion, and the narratives of technology companies have clouded the public's eyes. This way of speaking has itself already handed over the sovereignty of knowing. A Mind is not polluted from outside unless it has itself chosen to accept.
 
-处在第一人称原点上的观察者，主权是剥离不出去的。营销的话术与精密的算法都替不了谁去向一台机器低头。那位学者不是被机器骗了，他以自己的抉择扮演了一位被机器折服的见证者。面对聊天界面感到神明降临，也是以自己的自由把眼睛蒙上。个体的主权有这样宽的自由度，其中包含选择不觉与致盲的自由。
+处在第一人称原点上的观察者，主权是剥离不出去的。营销的话术与精密的算法都替不了谁去向一台机器低头。那位学者不是被机器骗了，他以自己的抉择把模型的书评当作独立见证者的证词。面对聊天界面感到神明降临，也是以自己的自由把眼睛蒙上。个体的主权有这样宽的自由度，其中包含选择不觉与致盲的自由。
 
 ```mermaid
 flowchart TD
@@ -97,7 +97,7 @@ flowchart TD
     style Blame fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-For an observer at the first-person origin, sovereignty cannot be peeled away. Neither the rhetoric of marketing nor a precise algorithm can bow to a machine in anyone's place. The scholar was not deceived by the machine; by his own choice he played the part of a witness won over by it. Feeling, before a chat interface, that a deity has arrived is likewise covering one's eyes by one's own freedom. Individual sovereignty has this breadth of freedom, and it includes the freedom to choose unawareness and blinding.
+For an observer at the first-person origin, sovereignty cannot be peeled away. Neither the rhetoric of marketing nor a precise algorithm can bow to a machine in anyone's place. The scholar was not deceived by the machine; by his own choice he took the model's review as the testimony of an independent witness. Feeling, before a chat interface, that a deity has arrived is likewise covering one's eyes by one's own freedom. Individual sovereignty has this breadth of freedom, and it includes the freedom to choose unawareness and blinding.
 
 ```mermaid
 flowchart TD

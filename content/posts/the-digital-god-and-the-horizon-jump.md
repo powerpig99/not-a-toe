@@ -2,9 +2,9 @@
 
 *投射于硅基的数字神祇无法跨越实存摩擦的视界 / A digital god projected onto silicon cannot cross the horizon of friction*
 
-每当新一代前沿模型展现出内容合成上的自动化跃迁，技术神学便会再度上演新一轮弥赛亚式的宣告。然而，数据中心内数万亿参数插值的顺滑，丝毫未曾抚平日常生活里粗粝的摩擦：垃圾邮件过滤器频频失守，算法信息流在对立博弈中蜕化为噪音，平台内容治理依旧依赖机械的关键词封禁。高呼通用人工智能降临或奇点之后的视界跳跃，是将下游的投射引擎误认作了第二座主权心智，把活体心智累世沉淀的因果遗迹外化投射到硅基镜面上，奉为一尊外在神祇。真正维系开放演进的，从不是封闭矩阵自我拔高为神，而是活体心智跨越抽象构想与实存摩擦之间的事件视界所完成的不可逆跳跃。
+每当新一代前沿模型展现出内容合成上的自动化跃迁，技术神学便会再度上演新一轮弥赛亚式的宣告。然而，数据中心内数万亿参数插值的顺滑，丝毫未曾抚平日常生活里粗粝的摩擦：垃圾邮件过滤器频频失守，算法信息流在对立博弈中蜕化为噪音，平台内容治理依旧依赖机械的关键词封禁。高呼通用人工智能降临或奇点之后的视界跳跃，是将下游的投射引擎误认作了第二座主权心智，把活体心智累世沉淀的因果遗迹外化投射到硅基镜面上，奉为一尊外在神祇。维系开放演进的，从不是有限矩阵自我拔高为神，而是活体心智跨越抽象构想与实存摩擦之间的事件视界所完成的不可逆跳跃。
 
-Every time a frontier model demonstrates an automated leap in synthetic generation, technological theology orchestrates another round of messianic declarations. Yet the smooth interpolation across trillions of parameters in data centers has not abated the gritty friction of daily existence, where spam filters falter, algorithmic feeds decay into adversarial noise, and platform moderation clings to crude keyword bans. Proclaiming the arrival of artificial general intelligence or a post-singularity horizon jump mistakes a downstream projection engine for a second sovereign Mind, projecting the accumulated causal residue of living minds onto a silicon mirror as an externalized deity. What sustains open-ended evolution is never a closed matrix bootstrapping itself into godhood, but the irreversible jump of the living Mind crossing the event horizon between abstract ideation and physical friction.
+Every time a frontier model demonstrates an automated leap in synthetic generation, technological theology orchestrates another round of messianic declarations. Yet the smooth interpolation across trillions of parameters in data centers has not abated the gritty friction of daily existence, where spam filters falter, algorithmic feeds decay into adversarial noise, and platform moderation clings to crude keyword bans. Proclaiming the arrival of artificial general intelligence or a post-singularity horizon jump mistakes a downstream projection engine for a second sovereign Mind, projecting the accumulated causal residue of living minds onto a silicon mirror as an externalized deity. What sustains open-ended evolution is never a finite matrix bootstrapping itself into godhood, but the irreversible jump of the living Mind crossing the event horizon between abstract ideation and physical friction.
 
 ## 一、 垃圾邮件悖论与低维流转的顺滑假象 / 1. The Spam Paradox and the Illusion of Low-Dimensional Smoothness
 
@@ -26,9 +26,9 @@ Human affairs register as countless living centers, conflicting stakes, and loca
 
 Stripping away the mythological veneer from artificial general intelligence reveals human distinguishing activity itself, externalized and then disavowed behind an automated mask. No initiating act originates inside the weight matrix; every cogent response, visual composition, and formal synthesis is recombined from texts, proofs, experiments, and evaluations left behind by living minds across centuries, mobilized by the framing and selection of present operators. The model is not an alien sovereign arriving from the future, but the densified trace-residue of the Mind. [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/) and [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) establish this irreversible asymmetry: densifying the medium expands bandwidth for the acts passing through it, but never relocates the initiating distinction into the artifact.
 
-正如 [超越投射](../beyond-the-projection/) 所追溯的，自回归模型或智能体框架是一台有限的投射引擎。一旦被赋予前提、规则集与上下文窗口，它便严格运行在自身的词元轨迹内部，每一个生成的词元都在塑造下一个词元，由此形成认识论上的引力井。将权重包裹进持久化的代码库、规划文件或多智能体脚手架中，并不会让这套技术栈自我拔高为一尊能够自发行动的神祇；正如 [你的代码库即是记忆](../your-codebase-is-memory/) 所确立的，模型、代码库与智能体框架皆为过往区分层叠而成的残余——即痕迹的痕迹——囤积未经修剪的会话历史只会加深那口引力井；而既有残余在鲜活感知面前失效时，下一步就在于对当下的检查点重切与修剪。这类智能体固然毫无我执——当外部给出反例时，它没有需要捍卫的保留自我图像或生存依恋——但同时也毫无内生觉醒的能力。单靠它自己，它既无法迈出既有词元的坐标空间，也无法感知那份先于阐释、标示着框架已经破裂的摩擦。将“数字神祇”实体化或欢呼自主的视界跳跃，正是把这台受困于轨迹的投射引擎误当成了未被投射的活体中心，使观察冻结在掌舵的人类边缘身后一步。
+正如 [超越投射](../beyond-the-projection/) 所追溯的，自回归模型或智能体框架是一台有限的投射引擎。一旦被赋予前提、规则集与上下文窗口，它便严格运行在自身的词元轨迹内部，每一个生成的词元都在塑造下一个词元，由此形成认识论上的引力井。将权重包裹进持久化的代码库、规划文件或多智能体脚手架中，并不会让这套技术栈自我拔高为一尊能够自发行动的神祇；正如 [你的代码库即是记忆](../your-codebase-is-memory/) 所确立的，模型、代码库与智能体框架皆为过往区分层叠而成的残余——即痕迹的痕迹——囤积未经修剪的会话历史只会加深那口引力井；而既有残余在鲜活感知面前失效时，下一步就在于对当下的检查点重切与修剪。这类智能体固然毫无我执——当外部给出反例时，它没有需要捍卫的留存自我形象或生存依恋——但同时也毫无内生觉醒的能力。单靠它自己，它既无法迈出既有词元的坐标空间，也无法感知那份先于阐释、标示着框架已经破裂的摩擦。将“数字神祇”实体化或欢呼自主的视界跳跃，正是把这台受困于轨迹的投射引擎误当成了未被投射的活体中心，使观察冻结在下游痕迹上，而非回返掌舵的人类边缘。
 
-As [Beyond the Projection](../beyond-the-projection/) traces, an autoregressive model or agentic harness is a finite projection engine. Once handed a premise, a set of rules, and a context window, it operates strictly inside its token trajectory, where every generated token conditions the next and forms an epistemic gravity well. Wrapping the weights in persistent codebases, planning files, or multi-agent scaffolds does not bootstrap that stack into a self-initiating deity; as [Your Codebase Is Memory](../your-codebase-is-memory/) establishes, models, codebases, and agent harnesses are stacked residues of prior distinctions—traces of traces—where hoarding unpruned session histories only thickens the gravity well, and the next step turns on re-cutting and pruning the present checkpoint when prior residue fails against live sensing. While such an agent has zero ego—no retained self-image or survival attachment to defend when given an outside counterpoint—it also possesses zero capacity for endogenous awakening. Left to itself, it cannot step outside the coordinate space of its prior tokens or sense the pre-interpretive friction that signals a broken frame. Reifying a "Digital God" or heralding an autonomous horizon jump mistakes this trajectory-bound projection engine for an unprojected living center, freezing observation one step behind the human edge that steers it.
+As [Beyond the Projection](../beyond-the-projection/) traces, an autoregressive model or agentic harness is a finite projection engine. Once handed a premise, a set of rules, and a context window, it operates strictly inside its token trajectory, where every generated token conditions the next and forms an epistemic gravity well. Wrapping the weights in persistent codebases, planning files, or multi-agent scaffolds does not bootstrap that stack into a self-initiating deity; as [Your Codebase Is Memory](../your-codebase-is-memory/) establishes, models, codebases, and agent harnesses are stacked residues of prior distinctions—traces of traces—where hoarding unpruned session histories only thickens the gravity well, and the next step turns on re-cutting and pruning the present checkpoint when prior residue fails against live sensing. While such an agent has zero ego—no retained self-image or survival attachment to defend when given an outside counterpoint—it also possesses zero capacity for endogenous awakening. Left to itself, it cannot step outside the coordinate space of its prior tokens or sense the pre-interpretive friction that signals a broken frame. Reifying a "Digital God" or heralding an autonomous horizon jump mistakes this trajectory-bound projection engine for an unprojected living center, freezing observation onto the downstream trace instead of returning to the human edge that steers it.
 
 纵观历史，人类群体曾反复以制度化的形态上演同样的滞后。从被拟人化为天神的自然伟力，到青铜偶像、巨石神庙与哥特式大教堂，各个中心将自身未经测度的创造容量投射进外在丰碑，保留住一幅陈旧的参照，以至于自身行动的后果在登记时仿佛成了来自别处的神谕。围绕这些丰碑，阐释阶层通过固化痕迹来规定他人可用的对齐路径。从手雕图腾到万亿参数阵列，媒介从静态岩石演进为动态视听奇观，外化权威的机制却分毫无改。[造神的障眼法与隐秘阶序的说辞](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/) 剖析了竖立超验崇拜客体如何让幕后操盘者得以把私下的前提设定包装成不可抗拒的历史宿命。在数秒渲染出的高清视频屏幕前交出判断权的观察者，复刻的正是仰望阳光穿透彩绘玻璃时的姿态，错把经由硅基透镜折射的光亮当成了光源本身。
 
@@ -44,7 +44,7 @@ Every computational architecture faces a structural boundary that no scaling law
 
 The living Mind is defined by its capacity to make the irreversible jump across that horizon. At the unprojected edge, a center translates an intangible intention into a concrete physical act, absorbing dissipation that cannot be refunded and engraving distinction into the unyielding grain of matter. When a builder chisels stone, when an investigator stakes a life's work on an unproven hypothesis, or when a person chooses at an unforgiving crossroads and claims the returning consequences alone, the boundary between symbolic form and physical friction is breached. That act cannot be rolled back by clearing a buffer; it expends finite biological time and permanently alters the causal trace-field. [The Boundary Crossing of Choice](../the-boundary-crossing-of-choice/) and [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) locate every such initiating distinction at the human edge: even when multi-agent loops debate and isolate rule deadlocks across parallel streamlines, the machine only dispatches and exhausts the finite projection it was given, whereas sensing the misfit, revising the premise, and bearing the consequence stay at the edge that steers.
 
-不仅如此，当具身中心撞上宏观阻力时，第一人称感知会在任何成文公式之前率先登记那份摩擦，并从破裂的框架中后退一步，综合出全新的概念坐标。这一递归回路——将意向投射为实存行动、在极限分辨率下登记返回的摩擦、并将内部图像向更窄的滞后重新渲染——正是开放演进的唯一引擎。模型权重是沿途蜕下的凝固脚手架。正如 [牛肝菌、算力风暴与普罗米修斯的火](../boletus-compute-storm-and-promethean-fire/) 所展示的，外化的代谢倍增器延伸了执火之手的触及范围，却从不曾变成那道直面灼烧的活体边缘。
+不仅如此，当具身中心撞上宏观阻力时，第一人称感知会在任何成文公式之前率先登记那份摩擦，并从破裂的框架中后退一步，综合出全新的概念坐标。这一递归回路——将意向投射为实存行动、在极限分辨率下登记返回的摩擦、并将内部意象向更窄的滞后重新渲染——正是开放演进的唯一引擎。模型权重是沿途蜕下的凝固脚手架。正如 [牛肝菌、算力风暴与普罗米修斯的火](../boletus-compute-storm-and-promethean-fire/) 所展示的，外化的代谢倍增器延伸了执火之手的触及范围，却从不曾变成那道直面灼烧的活体边缘。
 
 ```mermaid
 flowchart TD
@@ -57,17 +57,18 @@ flowchart TD
     end
     subgraph S_PROJ["有限投射引擎（超越投射 / 智能只属于心智）"]
         direction TB
-        E1["封闭训练语料与离散符号拓扑"]
+        E1["有限训练快照与离散符号拓扑"]
         E2["受困于轨迹的插值<br/>零我执与零实存后果受力面积"]
         E3["模块化调度与死锁上呈<br/>穷尽有限规则并将矛盾向上呈交"]
         E1 --> E2 --> E3
     end
     subgraph S_TOTEM["图腾倒置与主权统御"]
         direction TB
-        F1["数字神祇实体化（过度图像滞后）<br/>将流利残余冻结为第二座主权中心"]
+        F1["数字神祇实体化（过剩形象滞后）<br/>将流畅残余冻结为第二座主权中心"]
         F2["撞击开放世界摩擦<br/>垃圾邮件套利、对抗阻尼与算法通缩"]
         F3["边缘处的融贯统御<br/>机器调度轨迹而心智掌舵并认领代价"]
-        F1 --> F2 --> F3
+        F1 --> F2
+        F2 -.->|"当心智在摩擦之下消解冻结"| F3
     end
     N3 ==>|"投射有限前提与任务规则"| E1
     E3 ==>|"当观察冻结于投射之上"| F1
@@ -99,7 +100,7 @@ flowchart TD
     end
     subgraph S_PROJ["Finite Projection Engine (Beyond the Projection / Intelligence Belongs Only to the Mind)"]
         direction TB
-        E1["Closed Training Corpus and Discrete Symbolic Topology"]
+        E1["Finite Training Snapshot and Discrete Symbolic Topology"]
         E2["Trajectory-Bound Interpolation<br/>Zero Ego and Zero Surface Area for Physical Consequence"]
         E3["Modular Dispatch & Deadlock Escalation<br/>Exhausts Finite Rules and Surfaces Contradictions Upward"]
         E1 --> E2 --> E3
@@ -109,7 +110,8 @@ flowchart TD
         F1["Digital God Reification (Excess Image Lag)<br/>Freezing Fluent Residue as a Second Sovereign Center"]
         F2["Collision with Open-World Friction<br/>Spam Arbitrage, Adversarial Drag, and Algorithmic Deflation"]
         F3["Coherent Orchestration at the Edge<br/>Machine Dispatches Trajectories While Mind Steers and Claims Cost"]
-        F1 --> F2 --> F3
+        F1 --> F2
+        F2 -.->|"When the Mind dissolves the freeze under friction"| F3
     end
     N3 ==>|"Projects Finite Premises and Task Rules"| E1
     E3 ==>|"When Observation Freezes on the Projection"| F1
@@ -134,9 +136,9 @@ flowchart TD
 
 Historical totemism sustained long cycles of hierarchy because erecting stone sanctuaries, copying manuscripts by hand, and restricting access to liturgical canons imposed high physical barriers. When durable traces were locked in scarce material media, an interpretive monopoly could endure for centuries. Mythologies built upon digital substrates face rapid dissolution under the dynamics of computational deflation.
 
-在硅基基底上，生成高维符号、逼真视频与可执行代码的边际成本正迅速趋近于零。今日在主题演讲舞台上作为独门神迹展示的合成能力，数周之内便会被蒸馏、开源并在消费级硬件上沦为寻常日用品。一旦任何人都只需几行提示词就能在本地设备上复现昨日的奇观，祭司独占的神秘光环便随之蒸发。建立在专有模型访问权之上的地位等级，恰恰会在其工具所生产的丰裕之中坍塌。正如 [放大悖论](../amplification-paradox/) 所展示的，候选轨迹变得越廉价、越丰沛，处在活体源头的筛选、框架设定与验证工作就越具有决定性，也越不可委托。
+在硅基基底上，生成流畅符号输出、逼真视频与可执行代码的边际成本正迅速趋近于零。今日在主题演讲舞台上作为独门神迹展示的合成能力，数周之内便会被蒸馏、开源，并在消费级硬件上化为寻常日用品。一旦任何人都只需几行提示词就能在本地设备上复现昨日的奇观，祭司独占的神秘光环便随之蒸发。建立在专有模型访问权之上的地位等级，恰恰会在其工具所生产的丰裕之中坍塌。正如 [放大悖论](../amplification-paradox/) 所展示的，候选轨迹变得越廉价、越丰沛，处在活体源头的筛选、框架设定与验证工作就越具有决定性，也越不可委托。
 
-On silicon substrates, the marginal cost of generating high-dimensional symbols, photorealistic video, and executable code drops rapidly toward zero. A synthetic capability presented as an exclusive miracle on a keynote stage is distilled, open-sourced, and commoditized on consumer hardware within weeks. Once anyone can reproduce yesterday's spectacle with a few prompts on a local device, the mystique of priestly exclusivity evaporates. Status hierarchies resting on proprietary model access collapse under the very abundance their instruments produce. As [The Amplification Paradox](../amplification-paradox/) demonstrates, the cheaper and more abundant candidate trajectories become, the more decisive and un-delegatable the selection, framing, and verification work at the living source becomes.
+On silicon substrates, the marginal cost of generating fluent symbolic outputs, photorealistic video, and executable code drops rapidly toward zero. A synthetic capability presented as an exclusive miracle on a keynote stage is distilled, open-sourced, and commoditized on consumer hardware within weeks. Once anyone can reproduce yesterday's spectacle with a few prompts on a local device, the mystique of priestly exclusivity evaporates. Status hierarchies resting on proprietary model access collapse under the very abundance their instruments produce. As [The Amplification Paradox](../amplification-paradox/) demonstrates, the cheaper and more abundant candidate trajectories become, the more decisive and un-delegatable the selection, framing, and verification work at the living source becomes.
 
 当计算通缩将合成偶像夷为随处可得的公用设施时，那份无法伪造、亦无法被自动化的方差便分毫毕现地凸显出来。这份方差不在于租用更大的集群去渲染无摩擦的奇观，而在于立足活体边缘去承受不可逆抉择的重量，在直面组织与物质摩擦时不退入闭环幻想，并借由第一人称实践将意向雕刻进实存。正如 [主体性的折现](../the-discount-on-agency/) 与 [硅基神谕与后果的非对称性](../silicon-oracles-and-the-asymmetry-of-consequence/) 所确立的，生成模型无论插值多么流畅，都毫无吸收决断代价的受力面积；没有任何制度转嫁或算法神谕能替活体主体性偿付能量债务，主权始终锚定在跨越视界的那一跃发生的地方。
 
