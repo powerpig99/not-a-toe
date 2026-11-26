@@ -58,9 +58,9 @@ The preferred image often takes the form of a preferred scoring function: a codi
 
 ## 四、 偏好的位置被保存过了它的那一步 / 4. Preferred place preserved past its step
 
-观察持有的是结果；产生结果的原因始终领先一步。这道间隙是任何登记得以发生的方式，无论登记的是他人还是自己。器具是一个被保留的位置，边缘以它为准衡量自己的移动，它在每次更新时被重新渲染。形象滞后就是那份重新渲染被免除：位置被持过了它的那一步。
+观察持有的是结果；产生结果的原因始终领先一步。这道间隙是任何登记得以发生的方式，无论登记的是他人还是自己。器具是一个被保留的位置，边缘以它为准衡量自己的移动，它在每次更新时被重新渲染。形象滞后就是那份重新渲染被免除：位置被持过了它的那一步。在登记他人时，[排序的投影与自我意识的退隐](../the-projection-of-ranking-and-the-recession-of-self-awareness/)追踪同样的免除：自我意识退隐使观察得以落脚，若这份退隐未被回转，留存的局部坐标便边界脱落，硬化为对他人的外部品性评分。
 
-Observation holds effect; the cause that produced it remains one step ahead. That gap is how any registration happens, whether of others or of oneself. The instrument is a retained position against which the edge measures its own movement, re-rendered at every update. Image lag is the exemption from that re-rendering: the position held past its step.
+Observation holds effect; the cause that produced it remains one step ahead. That gap is how any registration happens, whether of others or of oneself. The instrument is a retained position against which the edge measures its own movement, re-rendered at every update. Image lag is the exemption from that re-rendering: the position held past its step. In registering others, [The Projection of Ranking and the Recession of Self-Awareness](../the-projection-of-ranking-and-the-recession-of-self-awareness/) traces that same exemption: when the recession of self-awareness that lets observation land goes unreversed, a retained local coordinate drops its boundary and hardens into an external character grade of another person.
 
 偏好的较高位置被保存过了它的那一步，作为参照，于是当前的位次被登记为来自别处。感受是即时的；而会重新渲染形象的那些动作是延迟的，相对当下的容量代价高昂，结果也不确定。保住被保存的形象、让更新的动作搁着不做，是负载之下要求进一步区分最少的那条路，而走这条路本身就是这个心智的离散动作之一。形象一旦形成，就倾向于保存自己，因为重新渲染正是它为之存在、要去筛掉的那种微小死亡；顺从那份倾向，仍是在边缘作出的抉择，每顺从一步就重新作出一次。[超越的定相](../the-fixed-image-of-transcendence/)在智能中追踪同样的冻结：人类智能，即我们所知一切智能的源头，既不可被自身造物所超越，又在每一刻超越自身，却被持为一份其造物可以超越的既成清单，仿佛智能迁入了它所造之物。在这里，那份既成清单是一个个人的位次，后来的每一次读取都对照它来计分。[好奇先行](../curiosity-first-the-hidden-engine-of-talent-and-development/)是发展上的孪生：被登记为天赋的，是满足好奇心的复利残余，而把这份残余当作一种固定的先在天赋，就冻结了产生它的回路，于是平台期与失败追认了形象，而下一个动作没有被训练。[你的代码库即是记忆](../your-codebase-is-memory/)在外化记忆中追踪同一刀切分：代码、模型与智能体脚手架都是早先区分层叠而成的残余，囤积已过时的状态或碰不得的备份会加厚引力井，让下一步在陈旧的框架里自圆其说，而不是重切活的检查点。一个被持过了它那一步的偏好位次，就是同一种仓库冻结：一张早先的快照被留在重溯路径之外，把当下的读取拉进护卫档案的自圆其说里，而不是为下一个动作更新活的构型。
 
