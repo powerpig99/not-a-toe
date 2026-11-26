@@ -54,7 +54,7 @@ flowchart TD
     P2 ==>|"单向供给全部可抽取剩余"| B_Elite
     M2 -->|"选票杠杆"| B_Vote
     M2 -->|"预期与服从"| B_Auth
-    B_Elite -.->|"将转移支付与敌意导向"| P1
+    B_Elite -.->|"将抽取与敌意导向"| P1
     style S_Prod fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Maj fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Surf fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
@@ -95,7 +95,7 @@ flowchart TD
     P2 ==>|"Supplies all extractable surplus one-way"| B_Elite
     M2 -->|"Ballot leverage"| B_Vote
     M2 -->|"Expectation & compliance"| B_Auth
-    B_Elite -.->|"Channels transfers and hostility onto"| P1
+    B_Elite -.->|"Channels extraction and hostility onto"| P1
     style S_Prod fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Maj fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Surf fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
