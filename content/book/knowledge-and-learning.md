@@ -48,3 +48,4 @@ The essays here examine the open loop of curiosity, the placement of causal powe
 - [作为职业的数学不是作为追求的数学 / Math as a Career Is Not Math as a Pursuit](../../posts/math-as-a-career-is-not-math-as-a-pursuit/)
 - [登记共鸣的表面 / The Surface That Registers](../../posts/the-surface-that-registers/)
 - [接续阅读与协商中的语言边界 / Successive Reading and the Negotiated Boundary of Language](../../posts/successive-reading-and-the-negotiated-boundary-of-language/)
+- [感知中的填补与唯一的走出中心 / Filling-In in Perception and the Single Center That Steps Out](../../posts/filling-in-in-perception-and-the-single-center-that-steps-out/)

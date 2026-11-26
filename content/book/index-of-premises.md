@@ -2962,7 +2962,7 @@ The greater good as warrant presumes that a center sufficiently certain of a gre
 
 Groupthink (Irving Janis) presumes that cohesive groups suppress dissent to preserve harmony and so drift into preventable error, which is of use in diagnosing conformity pressures inside committees and institutions; it reaches its boundary when consensus failure is treated as a correctable procedural pathology while leaving intact the assumption that a well-run consensus baseline could anticipate frontier openings before thin centers force them from outside.
 
-→ [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
+→ [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/) · [感知中的填补与唯一的走出中心 / Filling-In in Perception and the Single Center That Steps Out](../../posts/filling-in-in-perception-and-the-single-center-that-steps-out/)
 
 ### 带护栏的 AI 辅导 / Guardrailed AI Tutors
 `技术 / Technological`
@@ -3898,7 +3898,7 @@ AI自主化叙事将统计模型所生成接续的流畅性，当成能够自行
 
 AI autonomy narratives take the fluency of a statistical model's continuations for a self-willed agent that initiates; they register how far densified residue now carries a continuation once prompted, and reach their boundary at initiation, which stays with the centers that frame, select, and verify.
 
-→ [模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge](../../posts/the-model-never-becomes-a-second-edge/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/)
+→ [模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge](../../posts/the-model-never-becomes-a-second-edge/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/) · [感知中的填补与唯一的走出中心 / Filling-In in Perception and the Single Center That Steps Out](../../posts/filling-in-in-perception-and-the-single-center-that-steps-out/)
 
 ### 隐私即数据本地化 / Privacy as Data Locality
 `技术 / Technological`
@@ -4699,7 +4699,7 @@ The Turing test presumes that sustained indistinguishability in text conversatio
 
 The idea is that thoughts and feelings can flow unmediated from one mind to another through resonance or intimacy; from the first-person origin no such channel is found, since another person arrives only as traces and what registers is one's own re-synthesized model, which is where the idea reaches its boundary, while as a way of confirming overlapping models and coordinating action among individuals, agreement and consensus stay useful, with language functioning as a boundary stabilized by the overlap that repeated use sediments among receivers' priors and renegotiated at every uptake where those priors diverge.
 
-→ [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/) · [接续阅读与协商中的语言边界 / Successive Reading and the Negotiated Boundary of Language](../../posts/successive-reading-and-the-negotiated-boundary-of-language/) · [共享的边界，而非共享的语境 / Shared Boundaries, Not Shared Context](../../posts/shared-boundaries-not-shared-context/) · [共享沙盒的幻象 / The Illusion of the Shared Sandbox](../../posts/the-illusion-of-the-shared-sandbox/)
+→ [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/) · [接续阅读与协商中的语言边界 / Successive Reading and the Negotiated Boundary of Language](../../posts/successive-reading-and-the-negotiated-boundary-of-language/) · [共享的边界，而非共享的语境 / Shared Boundaries, Not Shared Context](../../posts/shared-boundaries-not-shared-context/) · [共享沙盒的幻象 / The Illusion of the Shared Sandbox](../../posts/the-illusion-of-the-shared-sandbox/) · [感知中的填补与唯一的走出中心 / Filling-In in Perception and the Single Center That Steps Out](../../posts/filling-in-in-perception-and-the-single-center-that-steps-out/)
 
 ### 苦涩的教训（理查德·萨顿） / The Bitter Lesson (Richard Sutton)
 `技术 / Technological`
@@ -5158,7 +5158,7 @@ Reactive AI-containment architecture treats frontier models as autonomous inside
 
 Treating an exchange with a language model as dialogue with another party presumes a position on the other side; since intent is not in the text and the expansion draws on the sediment of earlier readings, the premise stops there, yet with each expansion held as a hypothesis to be disconfirmed it still lays out the readings a sentence admits.
 
-→ [回返的信号与认领 / The Returning Signal and Its Claim](../../posts/the-returning-signal-and-its-claim/) · [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/) · [残余与自由变量 / The Residue and the Free Variable](../../posts/the-residue-and-the-free-variable/) · [总在倾听者无法发起 / What Always Listens Cannot Originate](../../posts/what-always-listens-cannot-originate/)
+→ [回返的信号与认领 / The Returning Signal and Its Claim](../../posts/the-returning-signal-and-its-claim/) · [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/) · [残余与自由变量 / The Residue and the Free Variable](../../posts/the-residue-and-the-free-variable/) · [总在倾听者无法发起 / What Always Listens Cannot Originate](../../posts/what-always-listens-cannot-originate/) · [感知中的填补与唯一的走出中心 / Filling-In in Perception and the Single Center That Steps Out](../../posts/filling-in-in-perception-and-the-single-center-that-steps-out/)
 
 ### 求真作为系统属性 / Truth-Seeking as a System Property
 `技术 / Technological`
@@ -5376,3 +5376,12 @@ Carbon chauvinism names the presumption that living or conscious systems elsewhe
 Psychological reactance presumes that restricting or threatening an available option elevates its perceived value and motivates opposition or circumvention, which is of use in explaining why tight external caps manufacture scarcity and trigger rebound surges across children and adults alike; it reaches its boundary when that surge is treated as a mechanical reflex or read as proof that removing restrictions automatically installs internal balance, since compliance, opposition, evasion, and self-calibration all remain choices of a living Mind navigating its current baseline and competing stakes.
 
 → [叛逆是症状而非属性 / Rebellion as Symptom, Not Property](../../posts/rebellion-as-symptom-not-property/) · [让解决者生长，而非解决孩子 / Growing the Solver, Not Solving the Child](../../posts/growing-the-solver-not-solving-the-child/)
+
+### 确认偏误 / Confirmation Bias
+`科学 / Scientific`
+
+确认偏误把对既有信念的选择性强化看作偏离中立、无信念原始接收的缺陷，在指认片面阅读与自我强化循环时有用；它在此触及边界：日常感知必然以既有信念填补稀疏印迹中的缺口，因而中断这一循环依靠的是在持续感知内部再作一次区分，将到来的字句与填入的补全分开，而非攀升至不带信念的接收。
+
+Confirmation bias treats selective reinforcement of standing beliefs as a defective deviation from neutral, belief-free intake of raw input, which is useful for spotting one-sided reading and self-reinforcing loops; it reaches its boundary where everyday perception necessarily completes sparse marks from prior beliefs, so interrupting the loop occurs through a further distinction inside ongoing perception that separates arriving wording from supplied completion rather than through an ascent to belief-free reception.
+
+→ [感知中的填补与唯一的走出中心 / Filling-In in Perception and the Single Center That Steps Out](../../posts/filling-in-in-perception-and-the-single-center-that-steps-out/)
