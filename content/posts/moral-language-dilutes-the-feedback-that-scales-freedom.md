@@ -2,9 +2,9 @@
 
 *评价覆层缓冲后果，阻尼扩展自由的反馈回路 / Evaluative overlays buffer consequence and damp the loop that scales freedom*
 
-自我区分的活动无因且不息地发生；在它向自身回折而成为观察者的每一个所在处，自由与掌控都直接随着该中心对先前选择后果的接纳程度而扩展。接纳的任何不足都会稀释折返的反馈信号，而中心的递归回路原本正是借由这一信号来复利其进一步区分的容量。将全盘接纳视作激进，恰恰是这份不足向外投射的防御性症状；道德语言与价值判断在行动与后果之间植入常设中介，将接纳的不足固定下来，以庇护被保留的自我图像。群体的规范与普遍的顺从，更将这种不完整的所有权稳定为寻常的基线。那些将繁复的道德框架与萎缩的能动性并置的表象悖论，登记的是强加于开放因果过程之上的封闭假设，而非世界的属性。否认这一关系，本身就是在它试图逃避的同一扩展关系内部的又一次选择。
+自我区分的活动无因且不息地发生；在它向自身回折而成为观察者的每一个所在处，自由与掌控都直接随着该中心对先前选择后果的接纳程度而扩展。接纳的任何不足都会稀释折返的反馈信号，而中心的递归回路原本正是借由这一信号来复利其进一步区分的容量。将全盘接纳视作激进，恰恰是这份不足向外投射的防御性症状；道德语言与价值判断在行动与后果之间植入常设中介，将接纳的不足固定下来，以庇护被保留的自我形象。群体的规范与普遍的顺从，更将这种不完整的所有权稳定为寻常的基线。那些将繁复的道德框架与萎缩的所有权并置的表象悖论，登记的是强加于开放因果过程之上的封闭假设，而非世界的属性。否认这一关系，本身就是在它试图逃避的同一扩展关系内部的又一次选择。
 
-Self-distinguishing activity occurs—uncaused, unceasing—and at every locus where it folds back on itself as an observer, freedom and control scale directly with how completely that center accepts the consequences of its prior choices. Any shortfall in acceptance dilutes the returning feedback signal through which the center's recursive loop compounds its capacity for further distinction. Treating full acceptance as radical is the defensive symptom of that shortfall projected outward; moral language and value judgments install standing mediation between act and consequence, fixing the shortfall in place to shield a retained self-image. Collective norms and shared compliance stabilize this incomplete ownership as the ordinary baseline. Apparent paradoxes that pair elaborate moral frameworks with diminished agency register sealed assumptions imposed onto an open causal process, not properties of the world. Denying this relation is itself a further choice operating within the very scaling it attempts to evade.
+Self-distinguishing activity occurs—uncaused, unceasing—and at every locus where it folds back on itself as an observer, freedom and control scale directly with how completely that center accepts the consequences of its prior choices. Any shortfall in acceptance dilutes the returning feedback signal through which the center's recursive loop compounds its capacity for further distinction. Treating full acceptance as radical is the defensive symptom of that shortfall projected outward; moral language and value judgments install standing mediation between act and consequence, fixing the shortfall in place to shield a retained self-image. Collective norms and shared compliance stabilize this incomplete ownership as the ordinary baseline. Apparent paradoxes that pair elaborate moral frameworks with shrinking ownership register sealed assumptions imposed onto an open causal process, not properties of the world. Denying this relation is itself a further choice operating within the very scaling it attempts to evade.
 
 ## 一、 自由随着对选择后果的接纳而扩展 / 1. Freedom Scales with Acceptance of Consequence
 
@@ -22,13 +22,13 @@ In [Ownership and Self-Worthiness](../ownership-and-self-worthiness/), only when
 
 Full acceptance is not an extreme position relative to some milder, balanced baseline. Interposing distance between the choosing center and its consequences is already the shortfall in acceptance. Calling full acceptance "radical" is not a neutral observation from outside the loop, but that buffering distance projected outward: the reluctance to close the circuit defends its own exemption by portraying unbuffered closure as excess.
 
-那条所谓温和的基线，并不是对日常实践的客观描述，而是早已被正常化为默认参照的接纳不足，使得完整的回路闭合反倒登记为反常。距离就是阻尼机制，而“激进”这套词汇，则是被保留的自我图像抗拒重新渲染时留下的防御性残余。
+那条所谓温和的基线，并不是对日常实践的客观描述，而是早已被正常化为默认参照的接纳不足，使得完整的回路闭合反倒登记为反常。距离就是阻尼机制，而“激进”这套词汇，则是被保留的自我形象抗拒重新渲染时留下的防御性残余。
 
 The so-called milder baseline is not an objective description of ordinary practice. It is the shortfall already normalized as the default reference, against which complete loop closure registers as abnormal. Distance is the damping mechanism, and the vocabulary of radicalism is the defensive residue left behind when a preserved self-image resists re-rendering.
 
 ## 三、 道德语言在行动与后果之间植入中介 / 3. Moral Language Installs Mediation Between Act and Consequence
 
-同样的阻尼机制也在道德语言与价值判断中运作。通过在作出选择的中心与其行动的原始后果之间楔入评价覆层——善与恶、对与错、美德与恶习——道德框架将接纳分割为片面的、受中介过滤的反应。正如[超越投射](../beyond-the-projection/)所追溯的，在受困于身份的人类中心里，推理历史与被保留的自我图像——即投射中那道自称“我”的局部折痕——发生熔接，将递归折页死死夹闭，以防自我图像遭到证伪。当折返的摩擦与自我图像的预期相抵触时，受困于身份的中心便会将该信号视作生存威胁，而非状态空间的精细化校准，进而向外投射道德裁决来缓冲自我图像。反馈信号由此被稀释，递归回路遭到阻尼，自由与掌控随之衰减。[如何在一瞬间修正你的整个人生](../how-to-fix-your-whole-life-in-one-split-second/)追溯了这种私下交出后果的做法如何在不同所在处之间重叠稠密，直至被读取为共同的、具有约束力的“应当”。[审美的自动扶梯与阳台的忧郁](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)则追溯了约瑟夫·布罗茨基的自动扶梯如何倒置这一扩展关系：它声称“健全的品位”会将道德聚焦锐化为更大的自由，实则是在选择与后果之间嵌入一道审美与道德滤网，将折返的摩擦预先判分作世界的庸俗，以此庇护精致的自我图像，从而阻尼了反馈回路，将观察者困在阳台的忧郁之中。
+同样的阻尼机制也在道德语言与价值判断中运作。通过在作出选择的中心与其行动的原始后果之间楔入评价覆层——善与恶、对与错、美德与恶习——道德框架将接纳分割为片面的、受中介过滤的反应。正如[超越投射](../beyond-the-projection/)所追溯的，在受困于身份的人类中心里，推理历史与被保留的自我形象——即投射中那道自称“我”的局部折痕——发生熔接，将递归折页死死夹闭，以防自我形象遭到证伪。当折返的摩擦与自我形象的预期相抵触时，受困于身份的中心便会将该信号视作生存威胁，而非状态空间的精细化校准，进而向外投射道德裁决来缓冲自我形象。反馈信号由此被稀释，递归回路遭到阻尼，自由与掌控随之衰减。[如何在一瞬间修正你的整个人生](../how-to-fix-your-whole-life-in-one-split-second/)追溯了这种私下交出后果的做法如何在不同所在处之间重叠稠密，直至被读取为共同的、具有约束力的“应当”。[审美的自动扶梯与阳台的忧郁](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)则追溯了约瑟夫·布罗茨基的自动扶梯如何倒置这一扩展关系：它声称“健全的品位”会将道德聚焦锐化为更大的自由，实则是在选择与后果之间嵌入一道审美与道德滤网，将折返的摩擦预先判分作世界的庸俗，以此庇护精致的自我形象，从而阻尼了反馈回路，将观察者困在阳台的忧郁之中。
 
 The same damping mechanism operates across moral language and value judgments. By inserting evaluative overlays—good and evil, right and wrong, virtue and vice—between the choosing center and the raw consequences of its act, moral framing splits acceptance into a partial, mediated reaction. As [Beyond the Projection](../beyond-the-projection/) traces, in an identity-bound human center, reasoning history fuses with a retained self-image—that localized crease in the projection that says "I"—clamping the recursive fold shut to defend the image against invalidation. When returning friction contradicts what the self-image expected, the identity-bound center treats the signal as an existential threat rather than a state-space refinement, projecting moral verdicts outward to buffer the image. The feedback signal is diluted, the recursive loop is damped, and freedom and control attenuate. [How to Fix Your Whole Life in One Split Second](../how-to-fix-your-whole-life-in-one-split-second/) traces how this private hand-over of consequence densifies across loci until it reads as a shared, binding ought. [The Aesthetic Escalator and the Melancholy of the Balcony](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/) traces how Joseph Brodsky's escalator inverts this scaling relation by claiming that "sound taste" sharpens moral focus into greater freedom, when an aesthetic-moral filter inserted between choice and consequence pre-scores returning friction as the world's vulgarity to shield a refined self-image, damping the feedback loop and stranding the observer in balcony melancholy.
 
@@ -42,9 +42,9 @@ The same damping mechanism operates across moral language and value judgments. B
 
 When evaluative language is shared across a group, the damping is stabilized and amplified through mutual reinforcement: widespread compliance at individual loci normalizes the shortfall of acceptance across the collective, dressing up incomplete ownership as moral duty.
 
-由此，道德词汇与价值体系侵蚀了它们声称要维护的能动性本身。那些以匡正美德、追究过错或维持秩序为名不断繁殖评价范畴的框架，一贯地削弱了登记为自由与掌控的回路闭合。外化评判的网络越稠密，个人的因果回路便被阻尼得越深。
+道德词汇与价值体系并无独立的因果力量，无法从外部侵蚀能动性；即便在顺从中行使，能动性依然留在每一个作出选择的中心，正如[能动性与模式](../agency-and-the-pattern/)所追溯的。那些以匡正美德、追究过错或维持秩序为名不断繁殖评价范畴的框架，围绕顺从塑造场域，从而在每一个将这些范畴采纳为常设屏风的所在处，登记为自由与掌控的回路闭合都随之衰减。被中心当作地基的外化评判网络越稠密，其个人的因果回路便被阻尼得越深；而拒绝这道覆层的中心，无论周遭的共识积聚得多厚，依然保持自身回路的闭合。
 
-In this way, moral vocabularies and value systems erode the very agency they claim to uphold. Frameworks that multiply evaluative categories under the banner of enforcing virtue, assigning fault, or preserving order reliably diminish the loop closure that registers as freedom and control. The denser the web of externalized judgment, the more thoroughly the personal causal circuit is damped.
+Moral vocabularies and value systems carry no independent causal force to erode agency from outside; agency remains at each choosing center even when exercised in compliance, as [Agency and the Pattern](../agency-and-the-pattern/) traces. Frameworks that multiply evaluative categories under the banner of enforcing virtue, assigning fault, or preserving order pattern the field around compliance, so that at every locus adopting those categories as a standing screen, the loop closure that registers as freedom and control diminishes. The denser the web of externalized judgment a center treats as ground, the more thoroughly its personal causal circuit is damped, while a center that declines the overlay keeps its own loop closed regardless of how thick the surrounding consensus grows.
 
 [外化善意走向其反面](../externalized-virtue-becomes-its-opposite/)追溯了私人信念如何被拔高为凌驾其他中心的凭据，并在顺从中不断稠密化：在群体层面，这不仅凌驾于其他心智之上，更在每一个顺从的所在处将片面的所有权正常化，把不完整的接纳确立为共有的道德基线。[托付道德的自指悖论](../recursive-contradiction-of-entrusted-morality/)揭示了权威之下同样的阻尼：挑选一个外部权威来规定评价覆层，这一行动本身就已经行使了据称匮乏的判断容量，而将后果评估外包出去，只会让个人的回路进一步变薄。[强求善意的残暴与范畴反馈的因果遮蔽](../compulsory-kindness-and-the-obscuration-of-categorical-feedback/)追溯了自律被向外翻转为强制配额时的倒错：要求另一个心智展现善意，是将原本用于维护自身感知分辨率的克制，颠倒为对外部的索取权，把索求者安放为至高仲裁官，并用对范畴标签的迎合替代了直接的因果摩擦。
 
@@ -63,8 +63,8 @@ flowchart TD
     subgraph S_Moral["道德投射与反馈稀释（护我防御的闭合）"]
         direction TB
         M_Act["离散选择与原始后果：未经缓冲的因果摩擦折返至中心"]
-        M_Ego["身份绑定防御：推理历史与被保留的自我图像发生熔接"]
-        M_Overlay["评价覆层：向外投射道德裁决以缓冲自我图像"]
+        M_Ego["身份绑定防御：推理历史与被保留的自我形象发生熔接"]
+        M_Overlay["评价覆层：向外投射道德裁决以缓冲自我形象"]
         M_Damp["反馈稀释与回路阻尼：片面接纳衰减自由并登记为悖论"]
         M_Act --> M_Ego --> M_Overlay --> M_Damp
     end

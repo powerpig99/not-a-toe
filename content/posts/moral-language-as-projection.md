@@ -2,7 +2,7 @@
 
 *道德语言不描述现实，它投射说话者的位置；边界一旦敞开，道德效价便消散 / Moral language does not describe reality but projects the speaker's position; once boundaries open, its valence dissolves.*
 
-从第一人称追溯，显现于感知的现实本身不带道德属性：它就是它，敞开而完整。道德的、不道德的、无关道德的，这些范畴并不作为世界的独立属性存在；它们是由心智划出、再借道德语言与社会惯例稳定下来的区分。道德语言不描述现实；它投射说话者的相对位置，以伦理判断的形态，编码地位、所感到的威胁与防御姿态。把制度摩擦称作“审慎”，说话者就站到了集体稳妥与共同责任一边；把同一份摩擦称作“减速”，说话者就站到了前沿进步与个人主动一边。词汇追踪的是运作中的位置，而不是因果机制。社会道德化为美德或病态的东西，是个人中心在归因上推卸能动性、并将其向外投射到集体结构之后留下的残余，以便在那里协调、控制或归咎。
+从第一人称追溯，显现于感知的现实本身不带道德属性：它就是它，敞开而完整。道德的、不道德的、无关道德的，这些范畴并不作为世界的独立属性存在；它们是由心智划出、再借道德语言与社会惯例稳定下来的区分。道德语言不描述现实；它投射说话者的相对位置，以伦理判断的形态，编码地位、所感到的威胁与防御姿态。把制度摩擦称作“审慎”，说话者就站到了集体稳妥与共同责任一边；把同一份摩擦称作“减速”，说话者就站到了前沿进步与个人主动一边。词汇追踪的是运作中的位置，而不是因果机制。社会道德化为美德或病态的东西，是个人中心在归因上推卸能动性、并将其向外投射到集体结构之后留下的残余——在那里，它可以被协调、控制或归咎。
 
 Traced from the first person, reality as it registers carries no moral property of its own: it simply is, open and complete. The categories of the moral, the immoral, and the amoral do not exist as independent properties of the world; they are distinctions drawn by the Mind and stabilized through moral language and social conventions. Moral language does not describe reality; it projects the speaker's relative position, encoding status, perceived threat, and defensive posture in the form of ethical judgment. Calling institutional friction "caution" places the speaker on the side of collective prudence and shared responsibility. Calling the same friction "deceleration" places the speaker on the side of frontier progress and individual initiative. The vocabulary tracks operational position, not causal mechanism. What society moralizes as virtue or pathology is the residue of agency disowned in attribution at individual centers and projected outward onto collective structures, where it can be coordinated, controlled, or blamed.
 
@@ -20,7 +20,7 @@ In a closed world, every expansion of the frontier registers, for those anchored
 
 The consistent social response to a perceived zero-sum vulnerability is to disown individual agency in attribution and project it outward: entrusting causal authority to standards bodies, regulatory regimes, administrative apparatuses, and shared norms charged with rationing scarcity and managing risk.
 
-能动性的归因一旦向外位移，随之而来的指令、合规门槛与把关规则，便作为自上而下的症状落回个人身上。这生出一个自我强化的反馈回路：自上而下的行政压力那切身的分量，造出一种仿佛早已存在一个自行运转的上方层级的逼真印象，而这一印象又反过来被援引，为继续向外让渡主导权辩护。把这个过程讲成一次“向上的转移”，这一叙述习惯本身，就是制度优先的错觉在语言里沉积得有多深的诊断残余。[主权、信念与规制结构的生成](../sovereignty-belief-and-regulatory-structures/)揭示的正是这个回路：持久的监管装置并不独立地生成权威；它们之所以维持，只因为个人持续地把自己的决策权外化到一个集体的脚手架上，换取一种安全的错觉——哪怕这一交托之举本身，依然是他们各自的离散选择。
+能动性的归因一旦向外位移，随之而来的指令、合规门槛与把关规则，便作为自上而下的症状落回个人身上。这生出一个自我强化的反馈回路：自上而下的行政压力那切身的分量，造出一种逼真印象，仿佛上方早已存在一个自行运转的层级，而这一印象又反过来被援引，为继续向外让渡主导权辩护。把这个过程讲成一次“向上的转移”，这一叙述习惯本身，就是制度优先的错觉在语言里沉积得有多深的诊断残余。[主权、信念与规制结构的生成](../sovereignty-belief-and-regulatory-structures/)揭示的正是这个回路：持久的监管装置并不独立地生成权威；它们之所以维持，只因为个人持续地把自己的决策权外化到一个集体的脚手架上，换取一种安全的错觉——哪怕这一交托之举本身，依然是他们各自的离散选择。
 
 ```mermaid
 flowchart TD
@@ -114,23 +114,23 @@ Across most daily routines, individuals habitually choose under closed-reality a
 
 This asymmetry shows the hidden fragility of zero-sum systems. Followed through their own workings, closed-reality activities—redistributive politics, regulatory rent-seeking, and moral gatekeeping—are negative-sum, because every compulsory transfer of value consumes resources in friction, surveillance, and administrative attrition.
 
-如果全然任其自行运转，一个封闭现实的装置无法维持自己；它会很快耗尽供养它的东西，就像一家赌场，如果没有新玩家带着在外部生产性事业中生成的新财富进场，场内玩家的钱很快就会输光。零和的制度机器之所以延续，只因为同一批个人在他们开放的时刻持续生产出一份剩余，补贴着集体游戏的损耗。[秩序、剩余与道德拦截](../order-surplus-and-the-moral-intercept/)追踪的正是这一拦截动态：道德化的制度并不生成它们所管制的剩余；它们拦截开放行动的生成产出，并把自己安装为这份产出的必要前提。
+如果全然任其自行运转，一个封闭现实的装置无法维持自己；它会很快耗尽供养它的东西，就像一家赌场，如果没有新玩家带着在外部生产性事业中生成的新财富进场，场内玩家的钱很快就会输光。零和的制度机器之所以延续，只因为同一批个人在他们开放的时刻持续生产出一份剩余，补贴着集体游戏的损耗。[秩序、剩余与道德拦截](../order-surplus-and-the-moral-intercept/)追踪的正是这一拦截动态：无论是道德框架还是监管脚手架，都不生成流经其中的剩余；这层道德外衣把因果权能移到消费与转移所在的后一极，由此拦截回报并安放一个“应当”，仿佛转移与集体监督授权了供养它们的开放生产。
 
-Left wholly to itself, a closed-reality apparatus cannot sustain itself; it would soon use up what feeds it, like a casino that would run out of players' money if no new players arrived with fresh wealth generated in productive enterprise outside. The zero-sum institutional machinery endures only because the very same individuals, in their open moments, keep producing a surplus that subsidizes the attrition of the collective games. [Order, Surplus, and the Moral Intercept](../order-surplus-and-the-moral-intercept/) tracks this dynamic of interception: moralizing institutions do not generate the surplus they regulate; they intercept the generative output of open action and install themselves as its necessary precondition.
+Left wholly to itself, a closed-reality apparatus cannot sustain itself; it would soon use up what feeds it, like a casino that would run out of players' money if no new players arrived with fresh wealth generated in productive enterprise outside. The zero-sum institutional machinery endures only because the very same individuals, in their open moments, keep producing a surplus that subsidizes the attrition of the collective games. [Order, Surplus, and the Moral Intercept](../order-surplus-and-the-moral-intercept/) tracks this dynamic of interception: neither moral framing nor regulatory scaffolding generates the surplus channeled through it; by relocating causal power onto the later pole of consumption and transfer, the moral overlay intercepts the return and installs a "should" as if transfer and collective oversight authorized the open production that feeds them.
 
 ## 三、 制度因果的错觉 / 3. The Illusion of Institutional Causality
 
-能动性一旦在归因上被外化，又由开放的剩余补贴着，集体结构便被误认作人类事务中首要的因果行动者。
+能动性一旦在归因上被外化，集体结构又由开放的剩余所补贴，这一结构便被误认作人类事务中首要的因果行动者。
 
-Once agency is externalized in attribution and subsidized by open surplus, the collective structure is mistaken for the primary causal actor in human affairs.
+Once agency is externalized in attribution and the collective structure is subsidized by open surplus, that structure is mistaken for the primary causal actor in human affairs.
 
-无论讲成善意的守护，还是讲成官僚的俘获，底下的因果故事都一样：被当作结果作者的，是制度，而不是个人分布式的、有心智的选择。技术被降为配角，要么被塑造成需要约束的生存威胁，要么被塑造成系统性颠覆的钝器；而设计、选择并采用工具的那些个人不可化约的能动性，则从账本上被抹去了。
+无论正面讲成善意的守护，还是负面讲成官僚的俘获，底下的因果故事都一样：被当作结果作者的，是制度，而不是个人分布式的、有心智的选择。技术被降为配角，要么被塑造成需要约束的生存威胁，要么被塑造成系统性颠覆的钝器；而那些设计、选择并采用工具的个人，其不可化约的能动性则从账本上被抹去了。
 
 Whether told favorably as benevolent guardianship or unfavorably as bureaucratic capture, the underlying causal story is the same: the institution, rather than the distributed, minded choices of individuals, is treated as the author of outcomes. Technology is demoted to a supporting role, cast either as an existential threat needing restraint or as a blunt instrument of systemic disruption, while the irreducible agency of the individuals who design, choose, and adopt tools is written out of the ledger.
 
-[能动性的错配](../the-misallocation-of-agency/)追踪了这个基础的倒置：把集体记录与行动的生成之源混为一谈，就反转了因果的流向。协调者或监管者被赋予因果上的优先，而真正提供劳作的分布式选择，反倒被当作下游的效果。[协调者的范畴错误](../the-coordinators-category-error/)是同一个错误在账本上的那一面：把中央记账记录当作下一步的共同作者；可正如[你的代码库即是记忆](../your-codebase-is-memory/)沿着制度与技术脚手架的每一层所追溯的，规则、账本与共享器物只是先前区分堆叠留下的残余，自己无法重续或发起下一次切分。
+[能动性的错配](../the-misallocation-of-agency/)追踪了这个基础的倒置：把集体记录与行动的生成之源混为一谈，就反转了因果的流向。协调者或监管者被赋予因果上的优先，而真正提供劳作的分布式选择，反倒被当作下游的效果。[协调者的范畴错误](../the-coordinators-category-error/)是同一个错误在账本上的那一面：把中央记账记录当作下一步的共同作者；可实际上，正如[你的代码库即是记忆](../your-codebase-is-memory/)在层叠的数字制品与技术脚手架中所追溯的，规则、账本与制度制品只是先前区分堆叠留下的残余，自己无法重续或发起下一次切分。
 
-[The Misallocation of Agency](../the-misallocation-of-agency/) tracks this foundational inversion: confusing the collective record with the generative source of action reverses the flow of causation. The coordinator or regulator is granted causal priority, while the distributed choices that actually supply the work are treated as downstream effects. [The Coordinator's Category Error](../the-coordinators-category-error/) is the ledger face of the same mistake: treating the central accounting record as co-author of the next step, when in fact—as [Your Codebase Is Memory](../your-codebase-is-memory/) traces across every layer of institutional and technical scaffolding—rules, ledgers, and shared artifacts are only stacked residues of prior distinctions that cannot resume or initiate the next cut on their own.
+[The Misallocation of Agency](../the-misallocation-of-agency/) tracks this foundational inversion: confusing the collective record with the generative source of action reverses the flow of causation. The coordinator or regulator is granted causal priority, while the distributed choices that actually supply the work are treated as downstream effects. [The Coordinator's Category Error](../the-coordinators-category-error/) is the ledger face of the same mistake: treating the central accounting record as co-author of the next step, when in fact—just as [Your Codebase Is Memory](../your-codebase-is-memory/) traces across stacked digital artifacts and technical scaffolding—rules, ledgers, and institutional artifacts are only stacked residues of prior distinctions that cannot resume or initiate the next cut on their own.
 
 ## 四、 开放的边界与道德效价的消散 / 4. Open Boundaries and the Dissolving of Moral Valence
 
@@ -152,9 +152,9 @@ Once reality is recognized as open, the way it carries no moral property becomes
 
 Surface symptoms—delayed adoption schedules, transitional friction, unexpected side effects, and organized political resistance—look the same to observation under both the closed and the open interpretation.
 
-如果不先把个人选择确立为不可化约的前提，单凭经验数据，无法区分一场危机是源自一项新技术内在的危险，还是源自先前能动性从个人身上错配进僵硬的集体垄断。因为封闭现实的假设是运作中的文化默认，公共叙事便条件反射式地退回制度因果：制度被当作原因，技术被塑造成问题或武器，道德语言继续投射防御性的社会站队，而不是澄清机制。
+如果不先把个人选择确立为不可化约的前提，单凭经验数据，无法区分一场危机是源自一项新技术内在的危险，还是源自先前在归因上将能动性错配到僵硬的集体垄断之上。因为封闭现实的假设是运作中的文化默认，公共叙事便条件反射式地退回制度因果：制度被当作原因，技术被塑造成问题或武器，道德语言继续投射防御性的社会站队，而不是澄清机制。
 
-Without first setting individual choice as an irreducible prior, empirical data alone cannot tell whether a crisis comes from the inherent danger of a new technology or from the earlier misallocation of agency away from individuals into rigid collective monopolies. Because the closed-reality assumption is the operating cultural default, public narratives revert by reflex to institutional causality: institutions are taken as causes, technology is cast as the problem or the weapon, and moral language goes on projecting defensive social alignments instead of clarifying mechanisms.
+Without first setting individual choice as an irreducible prior, empirical data alone cannot tell whether a crisis comes from the inherent danger of a new technology or from the earlier misallocation of agency in attribution onto rigid collective monopolies. Because the closed-reality assumption is the operating cultural default, public narratives revert by reflex to institutional causality: institutions are taken as causes, technology is cast as the problem or the weapon, and moral language goes on projecting defensive social alignments instead of clarifying mechanisms.
 
 ## 六、 个人的姿态是唯一的化解之处 / 6. The Individual Stance as the Only Point of Resolution
 
@@ -162,7 +162,7 @@ Without first setting individual choice as an irreducible prior, empirical data 
 
 Since the zero-sum apparatus has no independent engine of generation and is sustained only by a subsidy from open creation that it does not itself generate, the point of resolution lies only at each individual center.
 
-化解从来不在于按零和装置自己的条件与它周旋：向监管脚手架请求许可，改革道德词汇，或向制度控制的向下症状开战。杠杆只在于每个个人提高依开放现实的前提所做出的离散选择的比例。
+化解从来不在于按零和装置自己的条件与它周旋：向监管脚手架请求许可，改革道德词汇，或向制度控制的向下症状开战。杠杆只在于每个个人提高在开放现实前提下所作离散选择的比例。
 
 Resolution never lies in engaging the zero-sum apparatus on its own terms: petitioning the regulatory scaffold for permission, reforming the moral vocabulary, or waging war on the downward symptoms of institutional control. The lever lies only in each individual raising the share of discrete choices made under the open-reality premise.
 
@@ -170,6 +170,6 @@ Resolution never lies in engaging the zero-sum apparatus on its own terms: petit
 
 This shift does two self-amplifying things at once. On the generative side, it writes new wealth, tools, and positive-sum capacity at the open frontier; at the same time, it withdraws compliance, attention, and subsidy from zero-sum transfers, leaving the regulatory apparatus to bear its own internal attrition—the one-way dependence on upstream production traced in [The Ultimate Constraint of the Net Producer](../the-ultimate-constraint-of-the-net-producer/).
 
-开放现实的行动频率一步步提高，制度摩擦的阻力系数就一步步降低。财富转移的机制因失去补贴而收缩，而因果则在做出选择的有心智的前沿不受干扰地得到认清。[表征的闭环](../the-closed-loop-of-representation/)追踪的正是这种内在性：指向他人的道德评判，总是自己既有概念与内部模型之间未化解的落差向外的位移。在这一动态中，诊断外部行动者的动机或所感到的欠缺，从来不是对一片外部领土的客观检视；正如[投射中的自画像](../the-self-portrait-in-the-projection/)所考察的，把低维漫画投射到他人身上，主要是在护住持留的自我形象及其脆弱的评价图式，使其免受不同活生生的中心带来的摩擦。即便人群的痕迹在统计基线上聚拢于这一防御习惯，[目的性的评判与认知的缺省状态](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)依然表明，诉诸目的论或道德化的评判从来不是受某条先验认知律令的支配，而是活生生的前沿上一项不受强迫的选择：把外部行动者指定为自身反应的原因。现实的边界不是靠改造集体脚手架扩展的，而是靠每个中心持续践行那个生成的动作——这正是[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)所确立的不对称性。
+开放现实的行动频率一步步提高，制度摩擦的阻力系数就一步步降低。财富转移的机制因失去补贴而收缩，而因果则在做出选择的有心智的前沿不受干扰地得到认清。[表征的闭环](../the-closed-loop-of-representation/)追踪的正是这种内在性：指向他人的道德评判，总是自己既有概念与内部模型之间未化解的落差向外的位移。在这一动态中，诊断外部行动者的动机或所感到的欠缺，从来不是对一片外部领土的客观检视；正如[投射中的自画像](../the-self-portrait-in-the-projection/)所考察的，把低维漫画投射到他人身上，主要是在护住持留的自我形象及其脆弱的评价图式，使其免受不同活生生的中心带来的摩擦。即便人群的痕迹在统计基线上聚拢于这一防御习惯，[目的性的评判与认知的缺省状态](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)依然表明，诉诸目的论或道德化的评判从来不是受某条先在的认知律令支配，而是活生生的前沿上一项不受强迫的选择：把外部行动者指定为自身反应的原因。现实的边界不是靠改造集体脚手架扩展的，而是靠每个中心持续践行那个生成的动作——这正是[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)所确立的不对称性。
 
 As the frequency of open-reality action rises step by step, the drag coefficient of institutional friction falls step by step. Wealth-transfer mechanisms shrink as their subsidy is withdrawn, while causation is recognized undisturbed at the minded edge that chooses. [The Closed Loop of Representation](../the-closed-loop-of-representation/) tracks this interiority: moral judgments aimed at others are always the outward displacement of unresolved discrepancies between one's own standing concepts and inner models. In this dynamic, diagnosing the motives or perceived deficits of outside agents is never an objective inspection of foreign territory; as [The Self-Portrait in the Projection](../the-self-portrait-in-the-projection/) examines, projecting low-dimensional caricatures onto others serves mainly to shield a retained self-image and its fragile evaluative schema from the friction of divergent living centers. Even when population traces cluster around that defensive habit as a statistical baseline, [Judging by Purpose and the Default State of Cognition](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) shows that reaching for a teleological or moralizing verdict is never dictated by a prior cognitive law, but remains an uncoerced choice at the living edge to appoint an outside actor as the cause of one's own reaction. The boundary of reality is widened not by reworking the collective scaffold, but by each center continually enacting the generative move—the exact asymmetry established in [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/).
