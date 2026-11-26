@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-25T23:44:13.670Z",
+    "generated_at": "2026-11-26T00:07:20.203Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -49,7 +49,7 @@
       "content/posts/chollet-intelligence-explosion-analysis.md": "35675f123c70",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "b2def21d59e6",
       "content/posts/claudes-constitution-analysis.md": "2905a740b2f2",
-      "content/posts/clean-averaging-and-residual-choice.md": "50744be34c78",
+      "content/posts/clean-averaging-and-residual-choice.md": "c47281d454f2",
       "content/posts/cli-interface-stack.md": "434ef2a6fde5",
       "content/posts/climbing-does-not-leave-the-ground.md": "1c2abe2271a4",
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "8379c3e264d9",
@@ -137,7 +137,7 @@
       "content/posts/intelligence-belongs-only-to-the-mind.md": "5153fb0eac11",
       "content/posts/intelligence-crisis-response.md": "ae3e106cc101",
       "content/posts/intelligence-folding-back-on-itself.md": "bb47ec4b37c0",
-      "content/posts/intelligence-in-observation-and-the-residual-gap.md": "eb38ddf77c2e",
+      "content/posts/intelligence-in-observation-and-the-residual-gap.md": "7cf4be5ce77a",
       "content/posts/intelligence-traps-itself.md": "b55c25ec2f5f",
       "content/posts/judgment-is-not-a-stock.md": "b1cff2455d94",
       "content/posts/learned-boundaries-and-the-given-rate.md": "221afc9b0a2c",
@@ -198,7 +198,7 @@
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "048c60e24068",
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "1269873794ba",
       "content/posts/price-as-utterance-understanding-as-trade.md": "7d2d5706134c",
-      "content/posts/production-consumption-and-the-minds-distinction.md": "a4228e0e32b6",
+      "content/posts/production-consumption-and-the-minds-distinction.md": "32f9f790dc07",
       "content/posts/public-spending-does-not-create-capital.md": "ff04541bddf9",
       "content/posts/qian-yin-hou-guo.md": "ae8884412d19",
       "content/posts/rationality-never-travels-across-the-mind.md": "3cb2e68dd3f2",
@@ -498,10 +498,10 @@
     },
     "stats": {
       "posts": 471,
-      "edges": 14684,
-      "unique_directed": 7221,
+      "edges": 14686,
+      "unique_directed": 7222,
       "missing_targets": 0,
-      "one_way": 1679,
+      "one_way": 1680,
       "isolated": 0,
       "posts_with_outbound": 471,
       "book_pages": 16,
@@ -1869,9 +1869,9 @@
       "slug": "clean-averaging-and-residual-choice",
       "path": "content/posts/clean-averaging-and-residual-choice.md",
       "title": "清洁的平均与残余的抉择 / Clean Averaging and Residual Choice",
-      "hash": "50744be34c78",
+      "hash": "c47281d454f2",
       "in_degree": 0,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "the-real-lesson-from-the-consciousness-vector-paper",
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
@@ -1879,6 +1879,7 @@
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "intelligence-in-observation-and-the-residual-gap",
         "the-density-of-judgment",
+        "continuous-learning-as-expression-and-simulation",
         "the-average-is-residue-not-the-engine",
         "agency-and-the-pattern",
         "causality-stays-at-the-edge-that-steers",
@@ -2342,7 +2343,7 @@
       "path": "content/posts/continuous-learning-as-expression-and-simulation.md",
       "title": "持续学习作为表达与模拟 / Continuous Learning as Expression and Simulation",
       "hash": "c2aa6e42e3d8",
-      "in_degree": 27,
+      "in_degree": 28,
       "out_degree": 30,
       "links_out": [
         "two-phase-sleep-and-deep-sleep-continual-learning",
@@ -4325,7 +4326,7 @@
       "slug": "intelligence-in-observation-and-the-residual-gap",
       "path": "content/posts/intelligence-in-observation-and-the-residual-gap.md",
       "title": "观察中的智能与残余间隙 / Intelligence in Observation and the Residual Gap",
-      "hash": "eb38ddf77c2e",
+      "hash": "7cf4be5ce77a",
       "in_degree": 7,
       "out_degree": 16,
       "links_out": [
@@ -6116,7 +6117,7 @@
       "slug": "production-consumption-and-the-minds-distinction",
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "生产、消费与心智的区分 / Production, Consumption, and the Mind's Distinction",
-      "hash": "a4228e0e32b6",
+      "hash": "32f9f790dc07",
       "in_degree": 45,
       "out_degree": 41,
       "links_out": [
@@ -22031,9 +22032,21 @@
     },
     {
       "from": "clean-averaging-and-residual-choice",
+      "to": "continuous-learning-as-expression-and-simulation",
+      "rel": "points_to",
+      "label": "持续学习作为表达与模拟"
+    },
+    {
+      "from": "clean-averaging-and-residual-choice",
       "to": "the-density-of-judgment",
       "rel": "points_to",
       "label": "The Density of Judgment"
+    },
+    {
+      "from": "clean-averaging-and-residual-choice",
+      "to": "continuous-learning-as-expression-and-simulation",
+      "rel": "points_to",
+      "label": "Continuous Learning as Expression and Simulation"
     },
     {
       "from": "clean-averaging-and-residual-choice",

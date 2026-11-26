@@ -12,7 +12,7 @@ Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: t
 
 Different observers begin from different priors and form different ascriptions of intelligence toward the same model outputs. When they repeatedly interact with the same system, or with one another while using that system, certain patterns stabilize even without full agreement, much as [Shared Consciousness Is Intersecting Individualities](../shared-consciousness-is-intersecting-individualities/). Those stabilized patterns are not properties discovered inside the observed system, since [Objects Are Stabilized Relationships](../objects-are-stabilized-relationships/); they are regularities that survive across multiple, partially mismatched observers. Just as [Shared Humanity Is Never Shared](../shared-humanity-is-never-shared/), [No Genius Can Solve the Knowledge Problem](../no-genius-can-solve-the-knowledge-problem/), and [Price as Utterance, Understanding as Trade](../price-as-utterance-understanding-as-trade/) show that coordination rests on partial overlap across a permanent gap rather than identical internal models, the points at which observers' expectations, predictions, or evaluations overlap—as each observer registers that overlap from its own locus—function as intercepts: shared reference points that permit coordination.
 
-当观察者把一套固定标准维持得足够长久——即[流动之物无法被基准衡量](../you-cant-benchmark-the-fluid/)所说的固定测试框架——截点看似稳定，模型输出与观察者要求之间的间隙看似收窄。然而间隙本身并不消失。它只是模型当前功能模拟与观察者继续应用的全部标准之间的残余差异。一旦这一残余差异在旧标准下持续变小，它便常被重新描述为新的基线，迈出的正是[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)所揭示的那一步。先前被当作意外短缺的东西，现在成为预期的起点，而观察者们随之引入新的标准，对照它加以衡量。标准已然移动，间隙相对于更新后的标准重新出现。
+当观察者把一套固定标准维持得足够长久——即[流动之物无法被基准衡量](../you-cant-benchmark-the-fluid/)所说的固定测试框架——截点看似稳定，模型输出与观察者要求之间的间隙看似收窄。然而间隙本身并不消失。它只是模型当前功能模拟与观察者继续应用的全部标准之间的残余差异。一旦旧标准下的落差持续变小，满足这些旧标准便被重新归类为新的基线——即预期的起点，迈出的正是[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)所揭示的那一步——而尚存的残余短缺则被提升为观察者据以衡量的新标准。标准已然移动，间隙相对于更新后的标准重新出现。
 
 ```mermaid
 flowchart TD
@@ -30,8 +30,8 @@ flowchart TD
         direction TB
         FIX["固定标准维持足够长久<br/>（截点看似稳定，间隙看似收窄）"]
         RES["残余间隙<br/>（模型当前功能模拟与观察者继续应用的全部标准之间的差异）"]
-        BASE["旧标准下残余差异持续变小<br/>（昔日意外短缺被重新描述为预期的起点与新基线）"]
-        NEW["观察者引入新的标准<br/>（标准发生移动，间隙相对于更新后的标准重新出现）"]
+        BASE["旧标准已饱和<br/>（满足旧标准被重新归类为预期的起点基线）"]
+        NEW["尚存残余提升为新标准<br/>（标准发生移动，间隙相对于更新后的衡量标准重新出现）"]
         FIX --> RES
         RES --> BASE
         BASE --> NEW
@@ -50,7 +50,7 @@ flowchart TD
     style NEW fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-When observers hold a fixed set of standards steady long enough—the fixed test frame of [You Can't Benchmark the Fluid](../you-cant-benchmark-the-fluid/)—the intercepts appear stable and the gap between model outputs and observer requirements appears to narrow. The gap itself, however, does not disappear. It is simply the residual difference between the model's current functional emulation and the full range of criteria the observers continue to apply. Once that residual difference becomes consistently small under the old standards, it is frequently re-described as the new baseline, taking the exact step that [AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/) reveals. What previously counted as a surprising shortfall is now the expected starting point, and the observers introduce fresh criteria to measure against it. The standards have shifted, and the gap reappears relative to the updated criteria.
+When observers hold a fixed set of standards steady long enough—the fixed test frame of [You Can't Benchmark the Fluid](../you-cant-benchmark-the-fluid/)—the intercepts appear stable and the gap between model outputs and observer requirements appears to narrow. The gap itself, however, does not disappear. It is simply the residual difference between the model's current functional emulation and the full range of criteria the observers continue to apply. Once the discrepancy under the old standards becomes consistently small, meeting those old standards is reclassified as the new baseline—the expected starting point, taking the exact step that [AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/) reveals—while the remaining residual shortfall is promoted into the fresh criteria observers measure against. The standards have shifted, and the gap reappears relative to the updated criteria.
 
 ```mermaid
 flowchart TD
@@ -68,8 +68,8 @@ flowchart TD
         direction TB
         FIX["Fixed Standards Held Steady<br/>(Intercepts appear stable; gap appears to narrow)"]
         RES["Residual Gap<br/>(Difference between current functional emulation and full observer criteria)"]
-        BASE["Consistent Narrowing Under Old Standards<br/>(Former shortfall re-described as expected starting baseline)"]
-        NEW["Fresh Criteria Introduced by Observers<br/>(Standards shift; residual gap reappears relative to updated measure)"]
+        BASE["Old Standards Saturated<br/>(Meeting old standards reclassified as expected starting baseline)"]
+        NEW["Remaining Residual Promoted to Fresh Criteria<br/>(Standards shift; gap reappears relative to updated measure)"]
         FIX --> RES
         RES --> BASE
         BASE --> NEW
@@ -166,7 +166,7 @@ flowchart TD
         direction TB
         SURF["Disagreement Surfaces a Residual Gap<br/>(Relative to currently held standards)"]
         OPER["Residual Difference Named & Operationalized<br/>(Turned into a fresh criterion & next intercept without needing a winner)"]
-        LOOP["AI Science Generation Loop<br/>(Scaling experiments, architectural variants, new evaluation protocols)"]
+        LOOP["AI Science Generation Loop<br/>(Scaling experiments, architectural variants, new evaluation protocols, revised capability definitions)"]
         SURF --> OPER
         OPER --> LOOP
         LOOP -. "Supplies next patterns" .-> MOD
