@@ -2,9 +2,9 @@
 
 *概念是导航用的局部测绘，错误与情绪是回传的信号 / Concepts are local surveys for navigation as error and emotion return the signal*
 
-算式 1 + 1 = 2 在纸面上是一条静止、对称、已经完成的法则。而在因果一步步展开的活态前沿，“+”却不是一个印刷符号，而是一次必须消耗能量、遭遇阻力并吸收摩擦的不可逆执行。概念的僭越，就发生在把纸面上已完成的那一面当成仍在展开的那一面，用第三人称的全景图置换第一人称的切身在场，让温顺的符号顶替未决的因果。站在起点的 1 上反复盘算、苦等一张无瑕的蓝图，却从不去执行那一记粗糙的 +1，2 就永远留在纸面上。[从形式迷思到逻辑闭环](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)追踪的正是把记住形式符号误当作因果落地的这道接缝，而[寄存器的算术](../the-arithmetic-of-the-register/)则在账本上揭示了同一道裂隙，表明数字的对称代替不了生成下一状态时实际发生的位移。
+算式 1 + 1 = 2 在纸面上是一条静止、对称、已经完成的法则。而在因果一步步展开的活态前沿，“+”却不是一个印刷符号，而是一次必须消耗能量、遭遇阻力并吸收摩擦的不可逆执行。概念的僭越，就发生在把纸面上已完成的那一面当成仍在展开的那一面，用第三人称的全景图置换第一人称的切身在场，让温顺的符号顶替未决的因果。站在起点的 1 上反复盘算、苦等一张无瑕的蓝图，却从不去执行那一记粗糙的 +1，2 就永远留在纸面上。[从形式迷思到逻辑闭环](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)追踪的正是把记住形式符号误当作因果落地的这道接缝，而[寄存器的算术](../the-arithmetic-of-the-register/)则在账本上揭示了同一道裂隙，表明稳定痕迹上的算术与纸面上关于相对排名的等式，代替不了更新寄存器并划出下一位的初发切分。
 
-On paper the sum 1 + 1 = 2 is a still, symmetrical, finished law. Where causality unfolds step by step at the living edge, however, "+" is not a printed sign; it is an irreversible execution that expends energy, meets resistance, and absorbs friction. The overreach of concepts occurs when the finished face on paper is mistaken for the face still unfolding, swapping a third-person panorama for first-person presence and letting tame symbols stand in for undecided causality. Standing on the starting 1, calculating again and again while waiting for a flawless blueprint without ever executing that rough +1, leaves the 2 forever on paper. [From the Myth of Form to the Closed Loop of Logic](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/) traces this exact seam where remembering a formal symbol is confused with causality landing in reality, while [The Arithmetic of the Register](../the-arithmetic-of-the-register/) exposes the same gap in the ledger, showing that numerical symmetry cannot substitute for the physical displacement required to generate the next state.
+On paper the sum 1 + 1 = 2 is a still, symmetrical, finished law. Where causality unfolds step by step at the living edge, however, "+" is not a printed sign; it is an irreversible execution that expends energy, meets resistance, and absorbs friction. The overreach of concepts occurs when the finished face on paper is mistaken for the face still unfolding, swapping a third-person panorama for first-person presence and letting tame symbols stand in for undecided causality. Standing on the starting 1, calculating again and again while waiting for a flawless blueprint without ever executing that rough +1, leaves the 2 forever on paper. [From the Myth of Form to the Closed Loop of Logic](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/) traces this exact seam where remembering a formal symbol is confused with causality landing in reality, while [The Arithmetic of the Register](../the-arithmetic-of-the-register/) exposes the same gap in the ledger, showing that arithmetic over stabilized traces and paper equations of relative rank cannot substitute for the initiating cut that updates the register and draws the next bit.
 
 ## 一、 测绘与颠倒 / 1. The Survey and the Reversal
 
@@ -26,7 +26,7 @@ The reversal occurs the moment the survey is mistaken for the terrain. Instead o
 
 ## 二、 错误与情绪是回传的信号 / 2. Error and Emotion Are the Returning Signal
 
-把次序摆正，先要消解把“理智”与“反馈和情绪”对立起来的人为割裂。唯理主义惯于把外部的失误视为耻辱，把内部的负面情绪当成亟待清除的非理性噪声。然而顺着学习的机制追溯，外部错误与负面情绪，恰恰是局部测绘撞上坚硬地形时回传的损失信号。
+把次序摆正，先要消解把“理智”与“反馈和情绪”对立起来的人为割裂。理智主义惯于把外部的失误视为耻辱，把内部的负面情绪当成亟待清除的非理性噪声。然而顺着学习的机制追溯，外部错误与负面情绪，恰恰是局部测绘撞上坚硬地形时回传的损失信号。
 
 Setting the order right begins by dissolving the artificial opposition that pits reason against feedback and emotion. Intellectualism routinely treats outward error as a disgrace and inward negative emotion as irrational noise to be purged. Traced through the mechanics of learning, however, external error and negative emotion are the exact loss signal sent back when a local survey collides with unyielding terrain.
 
@@ -44,9 +44,9 @@ When the Mind claims the returning signal instead, using reason to locate which 
 
 ## 三、 阿甘的跑鞋 / 3. Gump's Running Shoes
 
-看清错误与情绪是回传的信号，就能明白当一个中心拒绝让概念包袱压倒活态前沿时，不经概念中介的行动是什么模样，正如《阿甘正传》所展现的那样。
+看清错误与情绪是回传的信号，就能明白当一个中心拒绝让概念包袱压倒活态前沿时，行动是什么模样，正如《阿甘正传》所展现的那样。
 
-Recognizing error and emotion as returning signals clarifies what unmediated action looks like when a center refuses to let conceptual baggage override the living edge, as pictured in *Forrest Gump*.
+Recognizing error and emotion as returning signals clarifies what action looks like when a center refuses to let conceptual baggage override the living edge, as pictured in *Forrest Gump*.
 
 一种姿态执意要在脑子里先把误差消到零才肯迈出一步。为了维持推演沙盘的一尘不染，它宁可改写对现实的解释，也不肯冒碰撞擦伤的风险，最终瘫痪在起跑线上。阿甘体现的是相反的姿态。珍妮喊他跑，他就迈步奔跑，腿上僵硬的金属支架在奔跑中震碎散落一地。出海捕虾，网拉上来全是破靴子和碎瓦片，他不替这次落空背负任何“个人失败”的概念叙事：倒掉垃圾，调整航向，再撒一网。丹中尉则被困在一幅保留的历史投射里——家族先辈在每一场战争中都穿着军装战死沙场，他也注定应当如此。当幸存打断了这出剧本，他把未消耗的损失信号调转过来对准世界与自己，直到在飓风肆虐的桅杆顶端才终于松开那幅冻结的意象。同一种受挫，随着概念是被握成牢笼还是在前沿放下，走出了两条截然不同的因果路径。
 
