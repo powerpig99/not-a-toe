@@ -2,9 +2,9 @@
 
 *任何理论皆为脚手架，唯有第一人称涉险方见活态因果 / Every theory is scaffolding; only first-person venture touches living causality*
 
-任何理论都只是行路时的脚手架。在特定的假设与适用范围之内，形式与概念框架能够帮我们压缩经验、定位问题并协调行动；然而当心智试图把一套有限的框架扩展为解释一切的终极体系时，它的前提所在之处便显露为不完备的边界。“非万物之理”不是另一套用来替代旧理论的封闭教条，而是回到第一人称的原点：在唯一不可化约的自我区分活动之中，把每一个概念切回它得以成立的前提。
+任何理论都只是行路时的脚手架。在其明言的假设与适用范围之内，形式或概念框架能够帮助心智压缩经验、定位问题并协调行动；然而当心智试图把一套有限的框架扩展为解释一切的终极体系时，它的前提所在之处便显露为不完备的边界。“非万物之理”不是另一套用来替代旧理论的封闭教条，而是回到第一人称的原点：在唯一不可化约的自我区分活动之中，把每一个概念切回它得以成立的前提。
 
-Every theory is scaffolding for the road. Within its stated assumptions and scope, a formal or conceptual framework compresses experience, locates problems, and coordinates action; yet when the mind tries to stretch a finite framework into a final explanation of everything, the place where its premise sits marks the boundary where its incompleteness begins. Not a Theory of Everything is not another closed doctrine built to replace earlier ones, but a return to the first-person origin: tracing every concept back to the premise it rests on from the single irreducible activity of self-distinguishing.
+Every theory is scaffolding for the road. Within its stated assumptions and scope, a formal or conceptual framework helps a mind compress experience, locate problems, and coordinate action; yet when the mind tries to stretch a finite framework into a final explanation of everything, the place where its premise sits marks the boundary where its incompleteness begins. Not a Theory of Everything is not another closed doctrine built to replace earlier ones, but a return to the first-person origin: tracing every concept back to the premise it rests on from the single irreducible activity of self-distinguishing.
 
 这一部收录的随笔，记录了这套溯源方法的形成与展开。从辨析模型与实在的错位、框内延伸与维度跃迁的差异，到观察外化器物作为脚手架的角色如何被遗忘，这些篇目展示了心智如何在开放的现实摩擦中校准自身的坐标——把理论留作可替换的参考，而将抉择与验证留在当下的移动边缘。
 

@@ -33,5 +33,4 @@ The essays in this part step into the twin paradox, the quantum measurement cut,
 - [感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding](../../posts/the-boundary-of-perception-and-the-infinity-of-understanding/)
 - [割点可移不可除 / The Cut Moves but Never Vanishes](../../posts/the-cut-moves-but-never-vanishes/)
 - [算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records](../../posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records/)
-
 - [隔离理想化的边界与不可闭合的开放 / Boundary of the Isolation Idealization and the Non-Closable Open](../../posts/boundary-of-the-isolation-idealization-and-the-non-closable-open/)

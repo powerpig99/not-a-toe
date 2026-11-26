@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-26T21:14:29.595Z",
+    "generated_at": "2026-11-26T21:34:15.846Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -490,9 +490,9 @@
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
       "content/book/mathematics.md": "15cf0e9db0a5",
       "content/book/meaning-and-transcendence.md": "85824b01375a",
-      "content/book/method.md": "2f0a174477dc",
+      "content/book/method.md": "eccaadfbe9d4",
       "content/book/morality.md": "d7bed5438283",
-      "content/book/physics.md": "5b9b842c40ad",
+      "content/book/physics.md": "ba8239e00706",
       "content/book/preface.md": "09791dd76ace",
       "content/book/state-and-collective.md": "a1b57a68703f",
       "content/book/success-and-the-self.md": "b9f2395b40ac",
@@ -102395,7 +102395,7 @@
         "slug": "method",
         "path": "content/book/method.md",
         "title": "非万物之理 / Not a Theory of Everything",
-        "hash": "2f0a174477dc",
+        "hash": "eccaadfbe9d4",
         "out_degree": 29
       },
       {
@@ -102413,7 +102413,7 @@
         "slug": "physics",
         "path": "content/book/physics.md",
         "title": "物理即定律的迷思 / The Myth of Physics Is the Law",
-        "hash": "5b9b842c40ad",
+        "hash": "ba8239e00706",
         "out_degree": 22
       },
       {
