@@ -128,7 +128,7 @@ Stripped of moral vocabulary, interactions unfold along unadorned causal lines. 
 
 Evaluative categories insert an intermediate filter between the agent and raw consequences. Feedback ceases to report whether an action achieved functional displacement or informational convergence; instead, it registers whether the conduct matched a socially approved label. Agents who over-weight this categorical signal calibrate toward compliance with the description, damping their registration of direct friction. [Moral Language Dilutes the Feedback That Scales Freedom](../moral-language-dilutes-the-feedback-that-scales-freedom/) tracks this damping effect: when operational returns are converted into symbolic ethical scores, the Mind loses the feedback loop required for compounding skill. Moreover, as [The Compassion Is the Mechanism of Obscuration](../the-compassion-is-the-mechanism-of-obscuration/) demonstrates, the categorical frame seals itself against inspection by scoring any mechanistic analysis of the underlying feedback loop as cruelty, turning the questioner into the offense. The apparent stickiness of moral categories is merely the statistical sediment of individuals electing to treat labels as relevant; the vocabulary carries no independent causal force.
 
-优先考量范畴信号的累积代价，是操作反馈的渐进式失真。行动者致力于对齐共享的赞誉，却忽视了维系共同生活的物质与代谢基础。在狭窄的观察窗口内，顺从规范的系统显得连贯而稳定；但在这些边界之外，热力学约束与生产基底正在悄然侵蚀。[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/)阐明了这种系统性漂移：当合规指标取代经验推力时，灾难便在无懈可击的文书背后积聚。历史上追求意识形态纯洁性的狂热遵循着同一轨迹：每当僵硬的范畴凌驾于生存约束之上，现实终将以骤然崩塌的方式重申其条件。
+优先考量范畴信号的累积代价，是操作反馈的渐进式失真。行动者致力于对齐共享的赞誉，却忽视了维系共同生活的物质与代谢基础。在狭窄的观察窗口内，顺从规范的系统显得连贯而稳定；但在这些边界之外，维系它们的代谢余量与生产基底正在悄然消蚀。[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/)阐明了这种系统性漂移：当合规指标取代经验推力时，灾难便在无懈可击的文书背后积聚。历史上追求意识形态纯洁性的狂热遵循着同一轨迹：随着僵硬的范畴将生存约束排挤出反馈回路，未建模的耗竭在合规记录之下复利累积，直至变薄的基底再也无法承重，显现为损耗或骤然的结构性断裂。
 
 ```mermaid
 flowchart TD
@@ -142,7 +142,7 @@ flowchart TD
         direction TB
         C1["行动选择"] --> C2["迎合评价性标签"]
         C2 --> C3["因果摩擦被稀释与阻尼"]
-        C3 --> C4["合规表象下热力学约束侵蚀"]
+        C3 --> C4["合规表象下代谢与生产基底消蚀"]
     end
     P2 ===>|"标签置换摩擦"| C2
     style S_Physical fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -157,7 +157,7 @@ flowchart TD
     style C4 fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
 ```
 
-The cumulative toll of prioritizing categorical signals is progressive distortion of operational feedback. Agents optimize for alignment with shared praise while neglecting the material and metabolic foundations sustaining collective life. Within narrow observational windows, conforming systems appear coherent and stable; outside those boundaries, thermodynamic constraints and productive bases erode without notice. [Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) illustrates this systemic drift: when compliance metrics replace empirical thrust, catastrophe gathers behind flawless paperwork. Historical crusades for ideological purity follow an identical arc: whenever rigid categories supersede survival constraints, reality reasserts its terms through abrupt collapse.
+The cumulative toll of prioritizing categorical signals is progressive distortion of operational feedback. Agents optimize for alignment with shared praise while neglecting the material and metabolic foundations sustaining collective life. Within narrow observational windows, conforming systems appear coherent and stable; outside those boundaries, the metabolic margins and productive bases sustaining them erode without notice. [Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) illustrates this systemic drift: when compliance metrics replace empirical thrust, catastrophe gathers behind flawless paperwork. Historical crusades for ideological purity follow an identical arc: as rigid categories displace survival constraints from the feedback loop, unmodeled depletion compounds beneath the conforming record until the thinned base can no longer carry the load, surfacing as attrition or abrupt structural rupture.
 
 ```mermaid
 flowchart TD
@@ -171,7 +171,7 @@ flowchart TD
         direction TB
         C1["Action Selection"] --> C2["Conforming to Evaluative Labels"]
         C2 --> C3["Causal Friction Diluted and Damped"]
-        C3 --> C4["Thermodynamic Constraints Erode Beneath Conformity"]
+        C3 --> C4["Metabolic and Productive Base Erodes Beneath Conformity"]
     end
     P2 ===>|"Labels Substitute Friction"| C2
     style S_Physical fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
