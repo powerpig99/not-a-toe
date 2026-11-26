@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-26T20:55:49.406Z",
+    "generated_at": "2026-11-26T21:14:29.595Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -390,7 +390,7 @@
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "685cd17ea64e",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "150840057c20",
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "47785705522a",
-      "content/posts/the-reflexive-dilemma-of-unique-insight.md": "d836ec0d3431",
+      "content/posts/the-reflexive-dilemma-of-unique-insight.md": "bc7aab0e6002",
       "content/posts/the-residue-and-the-free-variable.md": "59c833d0592d",
       "content/posts/the-residue-of-exercise-and-the-stabilization-of-politics.md": "f05119489494",
       "content/posts/the-residue-of-progress-and-the-reactivity-of-resistance.md": "932e4725e971",
@@ -11226,18 +11226,18 @@
       "slug": "the-reflexive-dilemma-of-unique-insight",
       "path": "content/posts/the-reflexive-dilemma-of-unique-insight.md",
       "title": "独见者的自反困境与必然性的后验投射 / The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity",
-      "hash": "d836ec0d3431",
+      "hash": "bc7aab0e6002",
       "in_degree": 4,
       "out_degree": 11,
       "links_out": [
         "the-free-variable-and-the-retrospective-illusion-of-power",
-        "the-walking-tangent-and-the-stumbling-sphere",
         "the-surface-that-registers",
-        "the-model-never-becomes-a-second-edge",
         "felt-resistance-and-the-speed-differential",
         "the-reversal-of-verification",
-        "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "the-unfrictioned-mind-and-borrowed-omnipotence",
+        "the-walking-tangent-and-the-stumbling-sphere",
+        "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+        "the-model-never-becomes-a-second-edge",
         "the-knowledge-problem-and-the-illusion-of-delegation",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "your-codebase-is-memory"
@@ -85621,33 +85621,15 @@
     },
     {
       "from": "the-reflexive-dilemma-of-unique-insight",
-      "to": "the-walking-tangent-and-the-stumbling-sphere",
-      "rel": "points_to",
-      "label": "切平面的行者与完美球面的踩空者"
-    },
-    {
-      "from": "the-reflexive-dilemma-of-unique-insight",
       "to": "the-free-variable-and-the-retrospective-illusion-of-power",
       "rel": "points_to",
       "label": "The Invisible Free Variable and the Retrospective Illusion of Power"
     },
     {
       "from": "the-reflexive-dilemma-of-unique-insight",
-      "to": "the-walking-tangent-and-the-stumbling-sphere",
-      "rel": "points_to",
-      "label": "The Walking Tangent and the Stumbling Sphere"
-    },
-    {
-      "from": "the-reflexive-dilemma-of-unique-insight",
       "to": "the-surface-that-registers",
       "rel": "points_to",
       "label": "登记共鸣的表面"
-    },
-    {
-      "from": "the-reflexive-dilemma-of-unique-insight",
-      "to": "the-model-never-becomes-a-second-edge",
-      "rel": "points_to",
-      "label": "模型永远无法成为第二重前沿"
     },
     {
       "from": "the-reflexive-dilemma-of-unique-insight",
@@ -85660,12 +85642,6 @@
       "to": "the-surface-that-registers",
       "rel": "points_to",
       "label": "The Surface That Registers"
-    },
-    {
-      "from": "the-reflexive-dilemma-of-unique-insight",
-      "to": "the-model-never-becomes-a-second-edge",
-      "rel": "points_to",
-      "label": "The Model Never Becomes a Second Edge"
     },
     {
       "from": "the-reflexive-dilemma-of-unique-insight",
@@ -85687,6 +85663,18 @@
     },
     {
       "from": "the-reflexive-dilemma-of-unique-insight",
+      "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
+      "rel": "points_to",
+      "label": "未历摩擦的心智与借来的全能"
+    },
+    {
+      "from": "the-reflexive-dilemma-of-unique-insight",
+      "to": "the-walking-tangent-and-the-stumbling-sphere",
+      "rel": "points_to",
+      "label": "切平面的行者与完美球面的踩空者"
+    },
+    {
+      "from": "the-reflexive-dilemma-of-unique-insight",
       "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "rel": "points_to",
       "label": "调速者的幻觉与行动的活态摩擦"
@@ -85695,7 +85683,13 @@
       "from": "the-reflexive-dilemma-of-unique-insight",
       "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "rel": "points_to",
-      "label": "未历摩擦的心智与借来的全能"
+      "label": "The Unfrictioned Mind and Borrowed Omnipotence"
+    },
+    {
+      "from": "the-reflexive-dilemma-of-unique-insight",
+      "to": "the-walking-tangent-and-the-stumbling-sphere",
+      "rel": "points_to",
+      "label": "The Walking Tangent and the Stumbling Sphere"
     },
     {
       "from": "the-reflexive-dilemma-of-unique-insight",
@@ -85705,9 +85699,9 @@
     },
     {
       "from": "the-reflexive-dilemma-of-unique-insight",
-      "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
+      "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
-      "label": "The Unfrictioned Mind and Borrowed Omnipotence"
+      "label": "模型永远无法成为第二重前沿"
     },
     {
       "from": "the-reflexive-dilemma-of-unique-insight",
@@ -85726,6 +85720,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-reflexive-dilemma-of-unique-insight",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
     },
     {
       "from": "the-reflexive-dilemma-of-unique-insight",
