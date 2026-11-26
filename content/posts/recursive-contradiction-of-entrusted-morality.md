@@ -27,7 +27,7 @@ flowchart TD
     end
     subgraph S_Drift["二、 结构性漂移与能力萎缩"]
         direction TB
-        D_Codify["受托席位与模型：以维护成文框架为优化目标"]
+        D_Codify["受托席位：以维护成文框架为优化目标；模型只据这些痕迹应答"]
         D_Decay["局部能力萎缩：外包侵蚀了审视权威的能力"]
         D_Codify --> D_Decay
     end
@@ -61,7 +61,7 @@ flowchart TD
     end
     subgraph S_Drift["2. Structural Drift & Atrophy"]
         direction TB
-        D_Codify["Entrusted Seat & Model: Optimizes for preserving the codified framework"]
+        D_Codify["Entrusted Seat: Optimizes for preserving the codified framework; a model only answers from those traces"]
         D_Decay["Atrophy of Local Capacity: Outsourcing erodes the ability to audit the authority"]
         D_Codify --> D_Decay
     end

@@ -120,9 +120,9 @@ Across minds the same pattern appears as disagreement about who is good and who 
 
 ## 四、 单一框架下的现实 / 4. Reality Under One Frame
 
-现实不表达矛盾，也不表达悖论。看似悖论的东西，是将两个框架强行塞进同一块计分板——成功按距离理想的欠缺来度量，失败按动机的清白来度量，而裁决者则丝毫不受度量。消解量具之间的错位，矛盾便随之消解。留存下来的是约束下的序列：有些序列更连贯地契合那些约束，有些序列与约束对抗，还有些从未进入场域。
+看似矛盾或悖论的东西，是将两个框架强行塞进同一块计分板——成功按距离理想的欠缺来度量，失败按意图的清白来度量，而裁决者则丝毫不受度量。一旦把这两个框架分开并消除量具之间的错位，矛盾与悖论便都不会被登记。留存下来的是约束下的序列：有些序列更连贯地契合那些约束，有些序列与约束对抗，还有些从未进入场域。
 
-Reality expresses no contradictions and no paradoxes. What appears as paradox is two frames forced onto one scoreboard—success measured as shortfall from an ideal, failure measured as purity of intention, and the judge measured as nothing at all. Collapse the discrepancy of instruments and the contradiction dissolves. What remains is sequence under constraints: some sequences track those constraints more coherently, some fight them, and some never enter the field.
+What appears as contradiction or paradox is two frames forced onto one scoreboard—success measured as shortfall from an ideal, failure measured as purity of intention, and the judge measured as nothing at all. Once those two frames are separated and the discrepancy of instruments is removed, neither contradiction nor paradox registers. What remains is sequence under constraints: some sequences track those constraints more coherently, some fight them, and some never enter the field.
 
 在单一参照系下度量，成功者就是那些更连贯地顺应现实约束而非逆着约束行事的人。无论这一序列从外部看去如何、旁观者如何诠释，或者行动者本人在事后如何重述，这一点都成立。表象、评论与事后叙事，都是用不同量具对同一批行动重新计分的进一步投射；它们无法改写那些行动在推进发生之处的框架内所具备的连贯性。
 
@@ -138,9 +138,9 @@ The moral inversion is therefore not a discovery about the successful; it is a r
 
 None of this makes every standard equivalent or ranking arbitrary. Some measures allow finer distinctions, more reliable prediction, or more coherent action than others. Direction is real wherever sequences of acts increase coherence and capacity for further differentiation, as registered by minds that track sequence under a shared instrument. That is registration from a vantage, not a universal scorecard free of every vantage and not a license to invert rank by swapping rulers mid-comparison.
 
-不可能标准的替代方案，并不是抛弃标准，而是觉察正在使用的是哪一件量具、被比较的事物是否适用同一件量具，以及计分者本人是否也处在这件量具之下。用不同的尺子比较成功与失败，再从一个从不直面那些尺子的席位宣布道德排序，并不会产生更客观的视野；它只是把扭曲安放成严肃，并制造出一个现实本身并不包含的悖论。
+不可能标准的替代方案，并不是抛弃标准，而是觉察正在使用的是哪一件量具、被比较的事物是否适用同一件量具，以及计分者本人是否也处在这件量具之下。用不同的尺子比较成功与失败，再从一个从不直面那些尺子的席位宣布道德排序，并不会产生更客观的视野；它只是把扭曲安放成严肃，并制造出一个在单一共享尺子下从不会被登记的悖论。
 
-The alternative to impossible standards is not the abandonment of standards. It is noticing which instrument is in use, whether the same instrument is being applied to what is being compared, and whether the one scoring sits under it at all. Comparing success and failure under different rulers and announcing a moral ranking from a seat that never faces those rulers does not produce a more objective view; it installs distortion as seriousness and manufactures a paradox that reality itself does not contain.
+The alternative to impossible standards is not the abandonment of standards. It is noticing which instrument is in use, whether the same instrument is being applied to what is being compared, and whether the one scoring sits under it at all. Comparing success and failure under different rulers and announcing a moral ranking from a seat that never faces those rulers does not produce a more objective view; it installs distortion as seriousness and manufactures a paradox that never registers under one shared ruler.
 
 没有参照就没有评估，也没有任何参照能免于被另一参照所置换。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，每一条留存的标准——如同任何外化的代码库或规约——都只是先前区分留下的记录，而非凌驾于运用它的活边缘之上的主权裁决者；为框架索取豁免，把它当成一把从不必在持尺者身上经受自身检验的尺子，正是将双重标准冻结在原地的症结。把参照交还给正在计分的行动宽度：在正在度量的前沿重新渲染它，并将它对称地施于被排序的事物与排序者本人。进步便会在它原本发生的地方重新显现——作为单一框架下已登记的推进，既不是相对于已移开目标的道德欠缺，也不是因免于同一标尺而赐予失败的道德嘉奖，更不是靠从不进入场域而换取的道德制高点。[旁观者洞察的悖论](../the-paradoxical-nature-of-bystander-insights/)剖析了日常权衡中那个获豁免的旁观者席位，而拿不可能的标尺去给成功者打分，则是把封闭的基准逻辑强加于开放的人类行动，正如[基准刷榜中的封闭实存](../closed-reality-in-benchmark-maxing/)所展示的那样。
 

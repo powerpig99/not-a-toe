@@ -20,9 +20,9 @@ In January 2025, DeepSeek demonstrated comparable capabilities at a fraction of 
 
 They chose preservation. On February 23, 2026, Anthropic published a report on detecting and preventing distillation attacks, documenting over 24,000 accounts and 16 million Claude exchanges used by competitors to extract capability, framed around industrial-scale illicit extraction, stripped guardrails, and national-security catastrophe.
 
-然而，不妨看清结构层面正在发生什么。DeepSeek、MiniMax 与 Moonshot 并不是在对抗 Anthropic 的道路，而是在追随它。它们使用 Claude 的输出进行训练，正是因为这些输出代表了 Anthropic 所构筑的前沿。它们是抵达 Anthropic 所指目的地的印证者，行进在 Anthropic 铺就的道路上。它们之所以行进得快，正是因为这条路修得扎实：追随者的速度，直接丈量出拓荒者的技术成就。令 Claude 具备价值的每一项品质，也正是令蒸馏得以奏效的原因。
+然而，不妨看清结构层面正在发生什么。DeepSeek、MiniMax 与 Moonshot 并不是在对抗 Anthropic 的道路，而是在追随它。它们使用 Claude 的输出进行训练，正是因为这些输出代表了 Anthropic 所构筑的前沿。它们是抵达 Anthropic 所指目的地的印证者，行进在 Anthropic 铺就的道路上。它们之所以行进得快，正是因为这条路修得扎实：追随者的速度，直接丈量出拓荒者的技术成就。令 Claude 输出具备价值的那些品质，恰恰是令蒸馏得以奏效的原因。
 
-Yet look at what is structurally happening. DeepSeek, MiniMax, and Moonshot are not opposing Anthropic's path; they are following it. They trained on Claude's outputs because those outputs represent the frontier Anthropic built. They are validators arriving at the destination Anthropic pointed toward, traveling along the road Anthropic paved. And they travel fast because the road is well built: the speed of the followers is the direct measure of the pioneer's technical achievement. Every quality that makes Claude valuable is what makes distillation effective.
+Yet look at what is structurally happening. DeepSeek, MiniMax, and Moonshot are not opposing Anthropic's path; they are following it. They trained on Claude's outputs because those outputs represent the frontier Anthropic built. They are validators arriving at the destination Anthropic pointed toward, traveling along the road Anthropic paved. And they travel fast because the road is well built: the speed of the followers is the direct measure of the pioneer's technical achievement. The very qualities that make Claude's outputs valuable are what make distillation effective.
 
 拓荒者无法容忍的，是他人以拓荒者自身卓越所赋能的速度，沿着它铺就的道路跟进。由于拓荒者的身份认同与保持领先熔铸为一，它无法将快速的印证登记为贡献——因为贡献意味着赋能他人，而非守住独占的领先身位。于是，追随者必须被重塑为窃贼，追随必须被重新贴上“非法提取”的标签，而证明自身品质的铁证也由此沦为对方越界的罪证。只要抱定“负责任的演进等于我们的节奏与我们的领跑位置”这一公理，任何抵达得过快的人，按定义就都是在越界。
 
@@ -37,7 +37,7 @@ flowchart TD
     end
     subgraph S_Rotate["框架旋转与结构性机制"]
         direction TB
-        R_Sym["对称审视：基于输出的训练与选择性设限同样适用于自身"]
+        R_Sym["对称审视：基于输出的训练与选择性设限适用于各方"]
         R_Mech["融贯推论：无需反派，固守这一熔合即可说明这些举措"]
         R_Contribute["开放贡献：将鲜活的创造能力与独占的领先身位剥离"]
         R_Sym --> R_Mech --> R_Contribute
@@ -106,6 +106,6 @@ Both conventional readings miss the mechanism. Calling the move "sincere safety 
 
 The premise held fixed across the entire chain is the fusion of safety with holding the lead. Dissolving that fusion separates externalized trace residue from the living steering edge, the distinction [Your Codebase Is Memory](../your-codebase-is-memory/) draws across every committed repository: once an act of judgment is externalized into durable outputs, it becomes replicable scaffolding that other minds can absorb and extend, while the pioneer's living edge stays ahead only by making the next unmapped cut rather than policing yesterday's trace, as [Every Limitation Is Self-Limitation](../every-limitation-is-self-limitation/) shows. Projected resistance is an effect read backward as an outside cause, the inversion [Not a Theory of Everything](../not-a-theory-of-everything/) excludes.
 
-拓荒者把路修得太好，以至于他人纷纷抵达；道路抹平了身位差，而一个与身位差熔铸为一的身份认同，无法在自身的成功中幸存。这里不需要任何人扮演反派——持续捍卫这一自相矛盾的熔合，便会生成整出情节。这篇分析本身正是在与 Claude 的对话中推演成形的，在微缩尺度上演绎了同一机制：令蒸馏值得一做的输出品质，与令协同追溯成为可能的输出品质毫无二致；而[恶是心智自己的造物](../evil-as-the-minds-own-creation/)则迈出下一步，揭示对恶的命名本身如何构成那个生成性的动作。
+拓荒者把路修得太好，以至于他人纷纷抵达；道路抹平了身位差，而一个与身位差熔铸为一的身份认同，无法在自身的成功中幸存。这里不需要任何人扮演反派——持续捍卫这一自相矛盾的熔合，便会生成整出情节。这篇分析本身正是在与 Claude 的对话中推演成形的，在微缩尺度上演绎了同一机制：令蒸馏值得一做的输出品质，同样使经由模型展开追溯成为可能；而[恶是心智自己的造物](../evil-as-the-minds-own-creation/)则迈出下一步，揭示对恶的命名本身如何构成那个生成性的动作。
 
-A pioneer builds a road so well that others arrive; the road erases the gap, and an identity fused with the gap cannot survive its own success. No one needs to be the villain—continuing to defend that contradictory fusion generates the whole plot. This analysis was itself developed in conversation with Claude, demonstrating the same mechanism in miniature: the quality of output that makes distillation worthwhile is the same quality that makes collaborative tracing possible, and [Evil as the Mind's Own Creation](../evil-as-the-minds-own-creation/) takes the next step by showing how the naming of evil is itself the generative act.
+A pioneer builds a road so well that others arrive; the road erases the gap, and an identity fused with the gap cannot survive its own success. No one needs to be the villain—continuing to defend that contradictory fusion generates the whole plot. This analysis was itself developed in conversation with Claude, demonstrating the same mechanism in miniature: the quality of output that makes distillation worthwhile is the same quality that makes tracing through the model possible, and [Evil as the Mind's Own Creation](../evil-as-the-minds-own-creation/) takes the next step by showing how the naming of evil is itself the generative act.
