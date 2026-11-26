@@ -293,7 +293,7 @@ flowchart TD
     end
     subgraph S_MultidimSovereign ["多维主权空间的自主演化"]
         direction TB
-        S_Deconstruct["破除单一标尺的相对性与虚构性迷思"] --> S_Orthogonal["构建多维度的第一人称坐标系"]
+        S_Deconstruct["破除单一标尺的迷思：认清其相对性与建构性"] --> S_Orthogonal["构建多维度的第一人称坐标系"]
         S_Orthogonal --> S_Ground["将主权能动性锚定于直接的因果担当"]
         S_Ground --> S_Aliveness["挣脱标量排位的引力场实现生机展开"]
     end
@@ -324,7 +324,7 @@ flowchart TD
     end
     subgraph S_MultidimSovereign_EN ["Autonomous Evolution in Multidimensional Space"]
         direction TB
-        SE_Deconstruct["Demystifying the Relativity and Fiction of the Singular Ruler"] --> SE_Orthogonal["Constructing Multidimensional First-Person Coordinate Systems"]
+        SE_Deconstruct["Demystifying the Singular Ruler: Recognizing It as Relative and Constructed"] --> SE_Orthogonal["Constructing Multidimensional First-Person Coordinate Systems"]
         SE_Orthogonal --> SE_Ground["Anchoring Agency in Direct Causal Accountability"]
         SE_Ground --> SE_Aliveness["Escaping the Gravitational Pull of Scalar Ranking"]
     end
