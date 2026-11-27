@@ -36,7 +36,7 @@ The formation of such structures therefore does not rest on sovereignty having b
 
 ## 三、 残余不是移置 / 3. Residue Is Not Relocation
 
-当众多人共同将主权当作可委托之物时，这种表达便稠化为持久的痕迹：章程、审查委员会、许可制度、跨司法管辖区的审批路径。这些痕迹持续存在，延伸了触角，并塑造了后续行动觉得省力或高昂的格局，但它们并未完成那份信念所描述的转移。正如[你的代码库即是记忆](../your-codebase-is-memory/)针对数字制品与智能体脚手架所确立的，监管章程、审查委员会与外化的规则手册，正是外化记忆代码库在制度层面的对应物：成文规则与程序脚手架是先前抉择留下的持久残余，为后续行动塑造执行路径，却从不移置抉择的心智：作出决定、重新描摹并修剪这些残余的，依然是它。在教育与资格认证的筛选机制中，[卓异、感知与自我设限的问题场域](../exceptionality-perception-and-the-self-limiting-field-of-problems/)与[平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/)追溯了同样的沉积过程：形式系统、群体比率与制度声望被误读为因果引擎，实则只是那些仍在作出选择的个体早先自我筛选的合成结果。集体信念所登记的，是发起的心智已经做过的事，正如[进步叙事中的症候与原因](../symptom-and-cause-in-the-narratives-of-progress/)所展示的。
+当众多人共同将主权当作可委托之物时，这种表达便稠化为持久的痕迹：章程、审查委员会、许可制度、跨司法管辖区的审批路径。这些痕迹持续存在，延伸了触角，并塑造了后续行动觉得省力或高昂的格局，但它们并未完成那份信念所描述的转移。正如[你的代码库即是记忆](../your-codebase-is-memory/)针对数字制品与智能体脚手架所确立的，监管章程、审查委员会与外化的规则手册，正是外化记忆代码库在制度层面的对应物：成文规则与程序脚手架是先前抉择留下的持久残余，为后续行动塑造执行路径，却从不移置抉择的心智：作出决定、重新描摹并修剪这些残余的，依然是它。在移民、教育与制度的筛选机制中，[卓异、感知与自我设限的问题场域](../exceptionality-perception-and-the-self-limiting-field-of-problems/)与[平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/)追溯了同样的沉积过程：形式系统、总体百分比与制度被误读为因果引擎，实则只是那些仍在作出选择的个体早先自我筛选的合成结果。集体信念所登记的，是发起的心智已经做过的事，正如[进步叙事中的症候与原因](../symptom-and-cause-in-the-narratives-of-progress/)所展示的。
 
 ```mermaid
 flowchart TD
@@ -46,36 +46,36 @@ flowchart TD
         Return["不可转移的回响：后果与问责在作出选择的个体身上登记"]
         Choose --> Return
     end
-    subgraph S_Residue["残余痕迹（章程、自律组织与国家关卡）"]
+    subgraph S_Residue["转移信念稠化为残余（章程、自律组织与国家关卡）"]
         direction TB
+        Belief["可转移性先验：相信个人主权本身可以被交出去的集体信念"]
         Traces["外化的规则手册：章程、审查委员会、许可制度与程序脚手架"]
         Pattern["执行路径塑形：塑造后续行动所遭遇的对齐方式与激励格局"]
+        Belief --> Traces
         Traces --> Pattern
     end
-    subgraph S_Freeze["可委托主权的信念（移置的因果叙事与双重关卡冻结）"]
+    subgraph S_Freeze["移置的因果叙事与双重关卡冻结"]
         direction TB
-        Belief["可转移性先验：将个人主权本身当作已交出之物"]
-        DualGate["硬化的双重关卡：行业自律组织与国家监管者叠加为替代权威"]
+        DualGate["硬化的双重关卡：行业自律组织与国家监管者被当作替代权威"]
         Lag["外在性滞后：回落的后果被误读为框架缺口或审批被拒"]
-        Belief --> DualGate
         DualGate --> Lag
     end
-    Choose ==>|"将共享模式外化为"| Traces
-    Pattern -->|"在转移信念下被误读为"| Belief
+    Choose ==>|"跨中心共同表达为"| Belief
+    Pattern -->|"在该信念下被读作移置的因果"| DualGate
     Lag -.->|"后果依然落回"| Return
     style S_Locus fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Residue fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style Choose fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Return fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Belief fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Traces fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Pattern fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Belief fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style DualGate fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Lag fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-When many individuals jointly treat sovereignty as delegable, that expression densifies into durable traces: charters, review boards, licensing regimes, multi-jurisdiction approval paths. Those traces persist, extend reach, and pattern what later acts find easy or costly, yet they do not complete the transfer the belief describes. As [Your Codebase Is Memory](../your-codebase-is-memory/) establishes for digital artifacts and agent harnesses, regulatory charters, review boards, and externalized rulebooks are the institutional counterpart of an externalized memory codebase: written rules and procedural harnesses are durable residue of prior choices that pattern the execution path for later acts, without ever relocating the choosing Mind that must still decide, re-trace, and prune them. Across educational and credentialing filters, [Exceptionality, Perception, and the Self-Limiting Field of Problems](../exceptionality-perception-and-the-self-limiting-field-of-problems/) and [The Average Is Residue, Not the Engine](../the-average-is-residue-not-the-engine/) trace the same sedimentation: formal systems, mass rates, and institutional prestige are misread as causal engines while remaining the composition of earlier self-selections by individuals who still choose. Collective belief registers what initiating minds already did, as [Symptom and Cause in the Narratives of Progress](../symptom-and-cause-in-the-narratives-of-progress/) shows.
+When many individuals jointly treat sovereignty as delegable, that expression densifies into durable traces: charters, review boards, licensing regimes, multi-jurisdiction approval paths. Those traces persist, extend reach, and pattern what later acts find easy or costly, yet they do not complete the transfer the belief describes. As [Your Codebase Is Memory](../your-codebase-is-memory/) establishes for digital artifacts and agent harnesses, regulatory charters, review boards, and externalized rulebooks are the institutional counterpart of an externalized memory codebase: written rules and procedural harnesses are durable residue of prior choices that pattern the execution path for later acts, without ever relocating the choosing Mind that must still decide, re-trace, and prune them. Across immigration, educational, and institutional selection filters, [Exceptionality, Perception, and the Self-Limiting Field of Problems](../exceptionality-perception-and-the-self-limiting-field-of-problems/) and [The Average Is Residue, Not the Engine](../the-average-is-residue-not-the-engine/) trace the same sedimentation: formal systems, aggregate percentages, and institutions are misread as causal engines while remaining the composition of earlier self-selections by individuals who still choose. Collective belief registers what initiating minds already did, as [Symptom and Cause in the Narratives of Progress](../symptom-and-cause-in-the-narratives-of-progress/) shows.
 
 ```mermaid
 flowchart TD
@@ -85,38 +85,38 @@ flowchart TD
         Return["Non-Transferable Return: Consequences and accountability register with the individual who chose"]
         Choose --> Return
     end
-    subgraph S_Residue["Residual Traces (Charters, SROs, and State Gates)"]
+    subgraph S_Residue["Transfer Belief Densifying into Residue (Charters, SROs, and State Gates)"]
         direction TB
+        Belief["Prior of Transferability: Collective belief that individual sovereignty itself can be handed over"]
         Traces["Externalized Rulebooks: Charters, review boards, licensing regimes & procedural harnesses"]
         Pattern["Execution Path Patterning: Shapes which alignments and incentives later acts encounter"]
+        Belief --> Traces
         Traces --> Pattern
     end
-    subgraph S_Freeze["Belief in Delegable Sovereignty (Relocated Causal Story & Dual-Gate Freeze)"]
+    subgraph S_Freeze["Relocated Causal Story & Dual-Gate Freeze"]
         direction TB
-        Belief["Prior of Transferability: Treating individual sovereignty itself as handed over"]
-        DualGate["Hardened Dual Gate: Industry SRO and state regulator stacked as substitute authorities"]
+        DualGate["Hardened Dual Gate: Industry SRO and state regulator treated as substitute authorities"]
         Lag["Externality Lag: Returning consequences misread as framework gaps or withheld approvals"]
-        Belief --> DualGate
         DualGate --> Lag
     end
-    Choose ==>|"Externalizes shared patterns into"| Traces
-    Pattern -->|"Misread under transfer belief as"| Belief
+    Choose ==>|"Jointly expressed across centers as"| Belief
+    Pattern -->|"Read under that belief as relocated causality"| DualGate
     Lag -.->|"Consequences still land back at"| Return
     style S_Locus fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Residue fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style Choose fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Return fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Belief fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Traces fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Pattern fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Belief fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style DualGate fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Lag fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-无论何处，只要把托付误当作移走了执行托付的那份能力，同样的几何结构就会显现。当能力被框定为获授权机构所恩赐的礼物时，[赋权确立权力的集中](../empowerment-establishes-the-centralization-of-power/)展示了赐予与接受如何共同追认转移叙事，而作者身份依然留在个体身上。在道德权威领域，[托付道德的自指悖论](../recursive-contradiction-of-entrusted-morality/)证明了：选择由谁来界定道德的这一行动本身，就已经在行使那份自称匮乏的判断力。在制度性风险管理中，[你委托的风险就是你创造的风险](../the-risk-you-delegate-is-the-risk-you-create/)追溯了一旦将风险当作已经移入某个机构，可归因的新型失败便如何成为唯一可见的代价，而基线伤害则在无人认领的状态下持续发生；而在政治认同中，[臣服作为错位的主权](../sovereignty-essay/)则表明，为偏好的掌权者欢呼依然是个人主权在运作，只是运作在一根与所期盼结果相割裂的轴线上。
+无论何处，只要把托付误当作移走了执行托付的那份能力，同样的几何结构就会显现。当能力被框定为获授权机构所恩赐的礼物时，[赋权确立权力的集中](../empowerment-establishes-the-centralization-of-power/)展示了赐予与接受如何共同追认转移叙事，而作者身份依然留在个体身上。在道德权威领域，[托付道德的自指悖论](../recursive-contradiction-of-entrusted-morality/)证明了：选择由谁来界定道德的这一行动本身，就已经在行使那份自称匮乏的判断力。在制度性风险管理中，[你委托的风险就是你创造的风险](../the-risk-you-delegate-is-the-risk-you-create/)追溯了一旦将风险当作已经移入某个机构，可归因的新型失败便如何成为唯一可见的代价，而基线伤害则在无人认领的状态下持续发生；而在政治认同中，[臣服作为错位的主权](../sovereignty-essay/)则表明，为偏好的制度权力持有者欢呼依然是个人主权在运作，只是运作在一根与所期盼结果相割裂的轴线上。
 
-The same geometry appears wherever entrustment is mistaken for relocating the capacity that performs the entrustment. When capacity is framed as a gift bestowed by an authorized body, [Empowerment Establishes the Centralization of Power](../empowerment-establishes-the-centralization-of-power/) shows how offer and acceptance ratify the transfer story while authorship stays with the individual. In moral authority, [The Recursive Contradiction of Entrusted Morality](../recursive-contradiction-of-entrusted-morality/) demonstrates that the very act of choosing who defines morality exercises the judgment claimed to be lacking. In institutional risk management, [The Risk You Delegate Is the Risk You Create](../the-risk-you-delegate-is-the-risk-you-create/) traces how treating risk as moved into an agency makes attributable novel failure the only visible cost while baseline harm continues unowned; and in political identification, [Surrender as Misaligned Sovereignty](../sovereignty-essay/) shows that cheering a preferred officeholder is still individual sovereignty operating on an axis severed from the results expected.
+The same geometry appears wherever entrustment is mistaken for relocating the capacity that performs the entrustment. When capacity is framed as a gift bestowed by an authorized body, [Empowerment Establishes the Centralization of Power](../empowerment-establishes-the-centralization-of-power/) shows how offer and acceptance ratify the transfer story while authorship stays with the individual. In moral authority, [The Recursive Contradiction of Entrusted Morality](../recursive-contradiction-of-entrusted-morality/) demonstrates that the very act of choosing who defines morality exercises the judgment claimed to be lacking. In institutional risk management, [The Risk You Delegate Is the Risk You Create](../the-risk-you-delegate-is-the-risk-you-create/) traces how treating risk as moved into an agency makes attributable novel failure the only visible cost while baseline harm continues unowned; and in political identification, [Surrender as Misaligned Sovereignty](../sovereignty-essay/) shows that cheering a preferred holder of institutional power is still individual sovereignty operating on an axis severed from the results expected.
 
 在每一种情形下，抉择的作者都留在原处。发生移动的，是关于因果如今栖身何处的叙事。在该叙事下，回落到抉择心智的后果被登记为来自别处——批准被拒、关卡延误、框架尚不完备——其外在感的幅度，恰好等于行动与那个将自身豁免于重新描摹的自我形象之间的裂隙宽度。正如[能动性、矛盾与权力的移置](../agency-contradiction-and-the-relocation-of-power/)所追溯的，这一叙事唯有在当事人把自身对低代价路径的持续选择——等待关卡放行，或回绝在没有制度掩护的情况下行动所带来的摩擦——从账目中隐去时才得以维持；将那份等待与随之回落的后果登记为同一项活动，便会使这些监管代价从无法另作他选的理由，重新变为附着于可见替代选项上的标价。
 
