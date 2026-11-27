@@ -2301,11 +2301,11 @@ Closed-book exams measure unaided performance, which is of use in assessing inde
 ### 闭合世界假定 / Closed-World Assumption
 `技术 / Technological`
 
-闭合世界假定将数据库、逻辑电路或形式系统中一切未知或未列举之项推定为假或归入固定补集，在有限目录依构造即已完备的场合，有助于让查询求值、真值表与自动推理保持清晰可处理；它在此到了边界：将其搬到开放的探索、工程或活态认知领域时，接触会持续翻出既有目录从未列出的变量与失效模式，而把现实当作密封容器则把边界的另一面硬化为须反复重描的常设排斥。
+闭合世界假定将数据库、逻辑电路或形式系统中一切未知或未列举之项推定为假或归入固定补集，在有限目录依构造即已完备的场合，有助于让查询求值、真值表与自动推理保持清晰可处理；它在此到了边界：将其搬到开放的探索、工程或活态认知领域时，接触会持续翻出既有目录从未列出的变量与失效模式，把现实当作密封容器会把边界的另一面硬化为须反复重描的常设排斥，而封闭模型预设则会在接纳决定性操作信号之前索求完备的先验理论与防御性因果限定。
 
-The closed-world assumption treats any unstated or underivable item within a database, logic circuit, or formal system as false or part of a fixed complement, which is of use in keeping query evaluation, truth tables, and automated inference crisp and tractable where a finite catalog is complete by construction; it reaches its boundary when carried over to open domains of inquiry, engineering, or living cognition, where contact keeps turning up variables and failure modes the catalog never listed and treating reality as a sealed container hardens the other side of a boundary into a standing exclusion that must be continually re-traced.
+The closed-world assumption treats any unstated or underivable item within a database, logic circuit, or formal system as false or part of a fixed complement, which is of use in keeping query evaluation, truth tables, and automated inference crisp and tractable where a finite catalog is complete by construction; it reaches its boundary when carried over to open domains of inquiry, engineering, or living cognition, where contact keeps turning up variables and failure modes the catalog never listed, treating reality as a sealed container hardens the other side of a boundary into a standing exclusion that must be continually re-traced, and closed-model presuppositions demand complete prior theories and reflexive causal hedging before a decisive operational signal is accepted.
 
-→ [闭合的N与开放的现实 / The Closed N and the Open Reality](../../posts/the-closed-n-and-the-open-reality/) · [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/) · [流动中的坐标 / Coordinates in Flux](../../posts/coordinates-in-flux-negation-and-self-anchoring/) · [旁观者洞察的悖论 / The Paradoxical Nature of Bystander Insights](../../posts/the-paradoxical-nature-of-bystander-insights/)
+→ [闭合的N与开放的现实 / The Closed N and the Open Reality](../../posts/the-closed-n-and-the-open-reality/) · [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/) · [流动中的坐标 / Coordinates in Flux](../../posts/coordinates-in-flux-negation-and-self-anchoring/) · [旁观者洞察的悖论 / The Paradoxical Nature of Bystander Insights](../../posts/the-paradoxical-nature-of-bystander-insights/) · [动态发现的损失函数与错误的转化 / The Dynamically Discovered Loss Function and the Conversion of Error](../../posts/the-dynamically-discovered-loss-function-and-the-conversion-of-error/)
 
 ### 将 AI 视作对话聊天机器人 / AI as Conversational Chatbot
 `技术 / Technological`
@@ -2715,11 +2715,11 @@ Factory-model schooling presumes that bundling instruction, childcare logistics,
 ### 失败是对自我的判决 / Failure as Verdict on the Self
 `成功学 / Self-Help`
 
-把失败读成对自我的判决，在让一个结果的分量被切身感到时有用；它在此到了边界：它在结果与下一步之间插进第二重计算，先问是否继续、再注入勇气，日历时间花在恢复身份上，而成功与失败本是同一策略的样本，区别只在回写信号的正负与大小。
+把失败读成对自我的判决，在让一个结果的分量被切身感到时有用；它在此到了边界：它在结果与下一步之间插进第二重计算，先问是否继续、再注入勇气，使日历时间花在恢复身份上——且当外部评判把暴露出来的错误记作无能时，抬高修订的代价，直至避免错误令信号发现枯竭——而成功与失败本是同一策略的样本，区别只在回写信号的正负与大小。
 
-Reading failure as a verdict on the self is of use in keeping the weight of an outcome felt; it reaches its boundary in that it inserts a second computation between outcome and next act, asking whether to continue and then injecting courage, so calendar time goes to restoring an identity, while success and failure are samples of one policy that differ only in the sign and magnitude written back.
+Reading failure as a verdict on the self is of use in keeping the weight of an outcome felt; it reaches its boundary in that it inserts a second computation between outcome and next act, asking whether to continue and then injecting courage so calendar time goes to restoring an identity—and when external evaluation scores exposed error as incompetence, raises the cost of revision until error avoidance starves signal discovery—while success and failure are samples of one policy that differ only in the sign and magnitude written back.
 
-→ [失败即信息 / Failure as Information](../../posts/failure-as-information/)
+→ [失败即信息 / Failure as Information](../../posts/failure-as-information/) · [动态发现的损失函数与错误的转化 / The Dynamically Discovered Loss Function and the Conversion of Error](../../posts/the-dynamically-discovered-loss-function-and-the-conversion-of-error/)
 
 ### 认知溯源的两种失效 / Two Failures of Epistemic Tracing
 `哲学 / Philosophical`
@@ -5091,11 +5091,11 @@ Presumes the truth lies in the world or the text and can be retrieved without th
 ### 反馈使人学习 / Feedback Teaches
 `哲学 / Philosophical`
 
-反馈驱动的学习预设回返信号自带被吸收的效力，这在损失函数已由设计者事先选定的工程场景里依然成立；它在鲜活的心智之间到达边界——同一道信号在一颗心智那里改写下一次表述，在另一颗那里却穿堂而过，并非那里无事发生，而是摩擦被记到了承载者名下以护住固守的自我形象。
+反馈驱动的学习预设回返信号自带被吸收的效力，这在损失函数已由设计者事先选定的工程场景里依然成立；它在鲜活的心智中到达边界：同一道信号在一颗心智那里改写下一次表述——乃至改写究竟由哪一道信号充当损失函数本身，把单纯的迭代速度转化为修订——在另一颗那里却穿堂而过或复利放大既有承诺，因为摩擦被记到了承载者名下以护住固守的自我形象。
 
-Feedback-driven learning presumes a returning signal carries its own uptake, which still holds in engineered settings where the loss function was chosen in advance by a designer; it reaches its boundary between living Minds, where the same signal rewrites the next formulation in one Mind and passes straight through another—not because nothing happened there, but because the friction is booked under the carrier's name to protect a held self-image.
+Feedback-driven learning presumes a returning signal carries its own uptake, which still holds in engineered settings where the loss function was chosen in advance by a designer; it reaches its boundary in living Minds, where the same signal rewrites the next formulation—or rewrites which signal serves as the loss function itself, converting raw iteration speed into revision—in one Mind and passes straight through or compounds prior commitments in another when friction is booked under the carrier's name to protect a held self-image.
 
-→ [回返的信号与认领 / The Returning Signal and Its Claim](../../posts/the-returning-signal-and-its-claim/) · [投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop](../../posts/the-judgment-that-classifies-the-complaint/)
+→ [回返的信号与认领 / The Returning Signal and Its Claim](../../posts/the-returning-signal-and-its-claim/) · [投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop](../../posts/the-judgment-that-classifies-the-complaint/) · [动态发现的损失函数与错误的转化 / The Dynamically Discovered Loss Function and the Conversion of Error](../../posts/the-dynamically-discovered-loss-function-and-the-conversion-of-error/)
 
 ### 注释等同于代码 / The Comment as Functionally the Code
 `技术 / Technological`
@@ -5303,3 +5303,12 @@ Psychological reactance presumes that restricting or threatening an available op
 Confirmation bias treats selective reinforcement of standing beliefs as a defective deviation from neutral, belief-free intake of raw input, which is useful for spotting one-sided reading and self-reinforcing loops; it reaches its boundary where everyday perception necessarily completes sparse marks from prior beliefs, so interrupting the loop occurs through a further distinction inside ongoing perception that separates arriving wording from supplied completion rather than through an ascent to belief-free reception.
 
 → [感知中的填补与唯一的走出中心 / Filling-In in Perception and the Single Center That Steps Out](../../posts/filling-in-in-perception-and-the-single-center-that-steps-out/)
+
+### 损失函数 / Loss Function
+`技术 / Technological`
+
+损失函数量化当前输出与选定参照之间的差距，以便梯度更新据此调整参数，在已分离出决定性信号的机器训练与有界工程子问题里颇为有用；它在此到了边界：一旦把运作中的目标预设为固定在回路之外、预先给定的“绝对目标”，而不是鲜活的心智在活态接触中借暴露出来的错误与意外动态发现并改写的暂时切分，这一模型便不再完备。
+
+A loss function quantifies the gap between current output and a chosen reference so gradient updates can adjust parameters, which is of use in machine training and bounded engineering sub-problems once a decisive signal has been isolated; it reaches its boundary when the working objective is presumed to be a pre-specified absolute target fixed outside the loop rather than a provisional cut that a living Mind dynamically discovers and rewrites through exposed error and surprise in live contact.
+
+→ [动态发现的损失函数与错误的转化 / The Dynamically Discovered Loss Function and the Conversion of Error](../../posts/the-dynamically-discovered-loss-function-and-the-conversion-of-error/) · [人生是一个持续的自我迭代过程 / Life as a Continuous Process of Self-Iteration](../../posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/) · [失败即信息 / Failure as Information](../../posts/failure-as-information/) · [回返的信号与认领 / The Returning Signal and Its Claim](../../posts/the-returning-signal-and-its-claim/) · [不知去向何方的梯度下降 / The Descent That Doesn't Know Where It's Going](../../posts/the-descent-that-doesnt-know-where-its-going/)

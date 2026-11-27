@@ -49,3 +49,4 @@ The essays in this part explore illegible long-term compounding, how a closed ma
 - [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/)
 - [展示的独处是已确保连接后的残余 / Displayed Solitude Is Residual After Secured Connection](../../posts/displayed-solitude-is-residual-after-secured-connection/)
 - [让解决者生长，而非解决孩子 / Growing the Solver, Not Solving the Child](../../posts/growing-the-solver-not-solving-the-child/)
+- [动态发现的损失函数与错误的转化 / The Dynamically Discovered Loss Function and the Conversion of Error](../../posts/the-dynamically-discovered-loss-function-and-the-conversion-of-error/)

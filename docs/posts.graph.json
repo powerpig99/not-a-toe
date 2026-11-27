@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-27T10:56:10.729Z",
+    "generated_at": "2026-11-27T12:09:50.816Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -286,6 +286,7 @@
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "1de0b89fb560",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "c00b5490e42d",
       "content/posts/the-dual-cut.md": "f749f9ebf880",
+      "content/posts/the-dynamically-discovered-loss-function-and-the-conversion-of-error.md": "56b936795446",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "83ebcde0fc1b",
       "content/posts/the-extendable-horizon.md": "b2ada327f796",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "1dab3fa9644a",
@@ -484,7 +485,7 @@
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "dd669bf8563f",
       "content/book/economics.md": "a4f628ea701e",
-      "content/book/index-of-premises.md": "b98817701949",
+      "content/book/index-of-premises.md": "20bc9c565ec6",
       "content/book/intelligence.md": "ff7c08b8ecea",
       "content/book/knowledge-and-learning.md": "573ddb01c140",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -495,20 +496,20 @@
       "content/book/physics.md": "ba8239e00706",
       "content/book/preface.md": "09791dd76ace",
       "content/book/state-and-collective.md": "d37a7cb0470b",
-      "content/book/success-and-the-self.md": "4534d044ad94",
+      "content/book/success-and-the-self.md": "799093988c5b",
       "content/book/tools-and-progress.md": "df8a9305858c"
     },
     "stats": {
-      "posts": 473,
-      "edges": 14780,
-      "unique_directed": 7270,
+      "posts": 474,
+      "edges": 14804,
+      "unique_directed": 7282,
       "missing_targets": 0,
-      "one_way": 1692,
+      "one_way": 1704,
       "isolated": 0,
-      "posts_with_outbound": 473,
+      "posts_with_outbound": 474,
       "book_pages": 16,
-      "book_edges": 1719,
-      "posts_reached_by_book": 473
+      "book_edges": 1728,
+      "posts_reached_by_book": 474
     }
   },
   "hubs_in": [
@@ -526,7 +527,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 102
+      "in_degree": 103
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -581,15 +582,15 @@
       "in_degree": 41
     },
     {
+      "slug": "symptom-and-cause-in-the-narratives-of-progress",
+      "in_degree": 39
+    },
+    {
       "slug": "closed-reality-in-benchmark-maxing",
       "in_degree": 38
     },
     {
       "slug": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
-      "in_degree": 38
-    },
-    {
-      "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "in_degree": 38
     }
   ],
@@ -3245,7 +3246,7 @@
       "path": "content/posts/failure-as-information.md",
       "title": "失败即信息 / Failure as Information",
       "hash": "11a236cd7faa",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 13,
       "links_out": [
         "hardness-is-not-inherent-in-the-action",
@@ -3809,7 +3810,7 @@
       "path": "content/posts/having-more-is-never-the-cause.md",
       "title": "拥有更多从不是原因 / Having More Is Never the Cause",
       "hash": "fff7b1e393f6",
-      "in_degree": 31,
+      "in_degree": 32,
       "out_degree": 22,
       "links_out": [
         "not-predicting-is-predicting-without-awareness",
@@ -4841,7 +4842,7 @@
       "path": "content/posts/mistaking-the-symptom-of-stability-for-its-source.md",
       "title": "把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source",
       "hash": "db3e71f746c2",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 12,
       "links_out": [
         "when-the-effect-authors-the-frame",
@@ -5556,7 +5557,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
       "hash": "de9e7ea03986",
-      "in_degree": 102,
+      "in_degree": 103,
       "out_degree": 90,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -6008,7 +6009,7 @@
       "path": "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md",
       "title": "幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution",
       "hash": "57d4caa587f7",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 11,
       "links_out": [
         "zi-you-de-ce-bu-zhun",
@@ -6415,7 +6416,7 @@
       "path": "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md",
       "title": "人生是一个持续的自我迭代过程 / Life as a Continuous Process of Self-Iteration",
       "hash": "7d80f5dead38",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 6,
       "links_out": [
         "how-to-fix-your-whole-life-in-one-split-second",
@@ -7061,7 +7062,7 @@
       "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
       "title": "进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress",
       "hash": "1c779f9f8528",
-      "in_degree": 38,
+      "in_degree": 39,
       "out_degree": 33,
       "links_out": [
         "when-the-effect-authors-the-frame",
@@ -8302,7 +8303,7 @@
       "path": "content/posts/the-descent-that-doesnt-know-where-its-going.md",
       "title": "不知去向何方的梯度下降 / The Descent That Doesn't Know Where It's Going",
       "hash": "4bce45f3540d",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 7,
       "links_out": [
         "sensing-before-interpretation",
@@ -8535,6 +8536,30 @@
       ]
     },
     {
+      "id": "post:the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "kind": "post",
+      "slug": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "path": "content/posts/the-dynamically-discovered-loss-function-and-the-conversion-of-error.md",
+      "title": "动态发现的损失函数与错误的转化 / The Dynamically Discovered Loss Function and the Conversion of Error",
+      "hash": "56b936795446",
+      "in_degree": 0,
+      "out_degree": 12,
+      "links_out": [
+        "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+        "the-returning-signal-and-its-claim",
+        "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+        "failure-as-information",
+        "the-price-of-closing-optionality",
+        "having-more-is-never-the-cause",
+        "symptom-and-cause-in-the-narratives-of-progress",
+        "the-descent-that-doesnt-know-where-its-going",
+        "openness-is-consistency",
+        "the-unobservable-driver-of-learning",
+        "power-law-is-the-long-term-consequence-of-normal-distribution",
+        "mistaking-the-symptom-of-stability-for-its-source"
+      ]
+    },
+    {
       "id": "post:the-explanatory-trap-of-the-ordinary-perspective",
       "kind": "post",
       "slug": "the-explanatory-trap-of-the-ordinary-perspective",
@@ -8601,7 +8626,7 @@
       "path": "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md",
       "title": "调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth",
       "hash": "1dab3fa9644a",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 15,
       "links_out": [
         "the-illusion-of-knowing-and-the-geometry-of-amputation",
@@ -10934,7 +10959,7 @@
       "path": "content/posts/the-price-of-closing-optionality.md",
       "title": "关闭选择权的代价 / The Price of Closing Optionality",
       "hash": "fb93eed77a4b",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 17,
       "links_out": [
         "the-risk-is-the-belief-in-oversight-itself",
@@ -11342,7 +11367,7 @@
       "path": "content/posts/the-returning-signal-and-its-claim.md",
       "title": "回返的信号与认领 / The Returning Signal and Its Claim",
       "hash": "80999e1c9c27",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 12,
       "links_out": [
         "filling-in-in-perception-and-the-single-center-that-steps-out",
@@ -12356,7 +12381,7 @@
       "path": "content/posts/the-unobservable-driver-of-learning.md",
       "title": "学习中不可观测的驱动力 / The Unobservable Driver of Learning",
       "hash": "27742353345d",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 15,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -67903,6 +67928,150 @@
       "label": "On-Demand Contexts Keep Coherence at One Step"
     },
     {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "rel": "points_to",
+      "label": "调速者的幻觉与行动的活态摩擦"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "rel": "points_to",
+      "label": "The Fallacy of Pacing and the Felt Friction of Ground Truth"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "the-returning-signal-and-its-claim",
+      "rel": "points_to",
+      "label": "回返的信号与认领"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "the-returning-signal-and-its-claim",
+      "rel": "points_to",
+      "label": "The Returning Signal and Its Claim"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "rel": "points_to",
+      "label": "人生是一个持续的自我迭代过程"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "failure-as-information",
+      "rel": "points_to",
+      "label": "失败即信息"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "rel": "points_to",
+      "label": "Life as a Continuous Process of Self-Iteration"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "failure-as-information",
+      "rel": "points_to",
+      "label": "Failure as Information"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "the-price-of-closing-optionality",
+      "rel": "points_to",
+      "label": "关闭选择权的代价"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "the-price-of-closing-optionality",
+      "rel": "points_to",
+      "label": "The Price of Closing Optionality"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "拥有更多从不是原因"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having More Is Never the Cause"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "the-descent-that-doesnt-know-where-its-going",
+      "rel": "points_to",
+      "label": "不知去向何方的梯度下降"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "the-descent-that-doesnt-know-where-its-going",
+      "rel": "points_to",
+      "label": "The Descent That Doesn't Know Where It's Going"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "the-unobservable-driver-of-learning",
+      "rel": "points_to",
+      "label": "学习中不可观测的驱动力"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "rel": "points_to",
+      "label": "幂律是正态分布的长期后果"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "把稳定的症状当作稳定的来源"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "the-unobservable-driver-of-learning",
+      "rel": "points_to",
+      "label": "The Unobservable Driver of Learning"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "rel": "points_to",
+      "label": "Power Law Is the Long-Term Consequence of Normal Distribution"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "Mistaking the Symptom of Stability for Its Source"
+    },
+    {
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
       "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "rel": "points_to",
@@ -102342,8 +102511,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "b98817701949",
-        "out_degree": 473
+        "hash": "20bc9c565ec6",
+        "out_degree": 474
       },
       {
         "id": "book:intelligence",
@@ -102441,8 +102610,8 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "4534d044ad94",
-        "out_degree": 37
+        "hash": "799093988c5b",
+        "out_degree": 38
       },
       {
         "id": "book:tools-and-progress",
@@ -106333,6 +106502,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+        "rel": "collects",
+        "label": "动态发现的损失函数与错误的转化 / The Dynamically Discovered Loss Function and the Conversion of Error"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "nobody-has-seen-anything-yet",
         "rel": "collects",
         "label": "还没有人见过任何东西 / Nobody Has Seen Anything Yet"
@@ -106780,6 +106955,12 @@
         "to": "failure-as-information",
         "rel": "collects",
         "label": "失败即信息 / Failure as Information"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+        "rel": "collects",
+        "label": "动态发现的损失函数与错误的转化 / The Dynamically Discovered Loss Function and the Conversion of Error"
       },
       {
         "from": "book:index-of-premises",
@@ -110167,6 +110348,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+        "rel": "collects",
+        "label": "动态发现的损失函数与错误的转化 / The Dynamically Discovered Loss Function and the Conversion of Error"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-comment-is-not-the-code",
         "rel": "collects",
         "label": "注释不是代码 / The Comment Is Not the Code"
@@ -110608,6 +110795,36 @@
         "to": "filling-in-in-perception-and-the-single-center-that-steps-out",
         "rel": "collects",
         "label": "感知中的填补与唯一的走出中心 / Filling-In in Perception and the Single Center That Steps Out"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+        "rel": "collects",
+        "label": "动态发现的损失函数与错误的转化 / The Dynamically Discovered Loss Function and the Conversion of Error"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+        "rel": "collects",
+        "label": "人生是一个持续的自我迭代过程 / Life as a Continuous Process of Self-Iteration"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "failure-as-information",
+        "rel": "collects",
+        "label": "失败即信息 / Failure as Information"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-returning-signal-and-its-claim",
+        "rel": "collects",
+        "label": "回返的信号与认领 / The Returning Signal and Its Claim"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-descent-that-doesnt-know-where-its-going",
+        "rel": "collects",
+        "label": "不知去向何方的梯度下降 / The Descent That Doesn't Know Where It's Going"
       },
       {
         "from": "book:intelligence",
@@ -112468,6 +112685,12 @@
         "to": "growing-the-solver-not-solving-the-child",
         "rel": "collects",
         "label": "让解决者生长，而非解决孩子 / Growing the Solver, Not Solving the Child"
+      },
+      {
+        "from": "book:success-and-the-self",
+        "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+        "rel": "collects",
+        "label": "动态发现的损失函数与错误的转化 / The Dynamically Discovered Loss Function and the Conversion of Error"
       },
       {
         "from": "book:tools-and-progress",
