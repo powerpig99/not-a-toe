@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-27T12:38:14.652Z",
+    "generated_at": "2026-11-27T13:40:45.001Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -99,7 +99,7 @@
       "content/posts/extension-and-shift.md": "7e04bad69879",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "c3b016c6607d",
       "content/posts/externalizing-unmet-drive-as-the-pathology-of-growth.md": "ca1002317b56",
-      "content/posts/failure-as-information.md": "11a236cd7faa",
+      "content/posts/failure-as-information.md": "57a1683209b5",
       "content/posts/fate-loves-irony-refined.md": "588c29686b20",
       "content/posts/felt-resistance-and-the-speed-differential.md": "c19840358a80",
       "content/posts/fidelity-not-optimality.md": "84fdc763c7f0",
@@ -155,7 +155,7 @@
       "content/posts/minimizing-path.md": "818c9dd4041e",
       "content/posts/mises-state-analysis.md": "6690c568a71b",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "197756d74a84",
-      "content/posts/mistaking-the-symptom-of-stability-for-its-source.md": "db3e71f746c2",
+      "content/posts/mistaking-the-symptom-of-stability-for-its-source.md": "939da9977393",
       "content/posts/moral-language-as-projection.md": "ce16717ab85f",
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "bfd3e1d8da89",
       "content/posts/munger-dumb-competition-refined.md": "7f20fb303e4b",
@@ -194,7 +194,7 @@
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "ef2cc3b230fc",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "028a28b54a32",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "970f15f5bad3",
-      "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "57d4caa587f7",
+      "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "1cf801f571a8",
       "content/posts/precision-and-resolution.md": "6a62412fc47d",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "c3db45c37bfc",
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "1269873794ba",
@@ -208,7 +208,7 @@
       "content/posts/rebellion-as-symptom-not-property.md": "173dbf1aeb71",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "a1a865aa2e91",
       "content/posts/relative-differentials-and-the-compounding-of-comparison.md": "fd12c5bc620e",
-      "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "7d80f5dead38",
+      "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "f8b8da084e06",
       "content/posts/residual-control-recedes-to-the-edge.md": "72aed460f52b",
       "content/posts/residual-individualism.md": "07993abeddee",
       "content/posts/restriction-is-a-selective-tax.md": "bfdd4ca0b587",
@@ -276,7 +276,7 @@
       "content/posts/the-defining-seat.md": "da67e82244e3",
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "63186ffa42d4",
       "content/posts/the-density-of-judgment.md": "617d36bce730",
-      "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4bce45f3540d",
+      "content/posts/the-descent-that-doesnt-know-where-its-going.md": "1886c3b32d27",
       "content/posts/the-deterministic-machine.md": "b6531e536cdf",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "5add511ef694",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "74e15da43c71",
@@ -289,7 +289,7 @@
       "content/posts/the-dynamically-discovered-loss-function-and-the-conversion-of-error.md": "47b750947230",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "83ebcde0fc1b",
       "content/posts/the-extendable-horizon.md": "b2ada327f796",
-      "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "1dab3fa9644a",
+      "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "48b08ea75655",
       "content/posts/the-fallacy-of-post-success-parenting.md": "c16baf33d16f",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "421e27d0cbc1",
       "content/posts/the-fixed-image-of-transcendence.md": "ec5b2ab11ce2",
@@ -381,7 +381,7 @@
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "8d14b5508798",
       "content/posts/the-power-law-of-surrendered-agency.md": "39a10e28e9cc",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "9112e95e2719",
-      "content/posts/the-price-of-closing-optionality.md": "fb93eed77a4b",
+      "content/posts/the-price-of-closing-optionality.md": "2e6b852253cf",
       "content/posts/the-projection-of-ranking-and-the-recession-of-self-awareness.md": "26ee186a22cb",
       "content/posts/the-question-that-installs-the-war.md": "abbfac881964",
       "content/posts/the-ramble-within-the-ramble.md": "334a81eee6ce",
@@ -396,7 +396,7 @@
       "content/posts/the-residue-of-exercise-and-the-stabilization-of-politics.md": "f05119489494",
       "content/posts/the-residue-of-progress-and-the-reactivity-of-resistance.md": "932e4725e971",
       "content/posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations.md": "ac21f41166ae",
-      "content/posts/the-returning-signal-and-its-claim.md": "80999e1c9c27",
+      "content/posts/the-returning-signal-and-its-claim.md": "7ce2a7df84d2",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "eac491539bc9",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "c4b334e54d9b",
       "content/posts/the-reversal-of-education-and-science.md": "79d30fed4db1",
@@ -433,7 +433,7 @@
       "content/posts/the-unclosable-trace.md": "12bf152789c6",
       "content/posts/the-unexamined-critic.md": "d1e006ef8ba3",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "068a8d72ba70",
-      "content/posts/the-unobservable-driver-of-learning.md": "27742353345d",
+      "content/posts/the-unobservable-driver-of-learning.md": "2f0e4408b6cf",
       "content/posts/the-utility-men-of-progress.md": "e37db505a1a4",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "02d1443cfe24",
       "content/posts/the-velocity-of-visibility.md": "866e922e6557",
@@ -501,10 +501,10 @@
     },
     "stats": {
       "posts": 474,
-      "edges": 14804,
-      "unique_directed": 7282,
+      "edges": 14822,
+      "unique_directed": 7291,
       "missing_targets": 0,
-      "one_way": 1704,
+      "one_way": 1695,
       "isolated": 0,
       "posts_with_outbound": 474,
       "book_pages": 16,
@@ -3245,9 +3245,9 @@
       "slug": "failure-as-information",
       "path": "content/posts/failure-as-information.md",
       "title": "失败即信息 / Failure as Information",
-      "hash": "11a236cd7faa",
+      "hash": "57a1683209b5",
       "in_degree": 13,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "hardness-is-not-inherent-in-the-action",
         "openness-is-consistency",
@@ -3260,6 +3260,7 @@
         "therapy-opens-the-feedback-loop",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "power-law-is-the-long-term-consequence-of-normal-distribution",
+        "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
         "the-price-of-closing-optionality",
         "the-reality-distortion-field-names-the-closed-map"
       ]
@@ -4841,13 +4842,14 @@
       "slug": "mistaking-the-symptom-of-stability-for-its-source",
       "path": "content/posts/mistaking-the-symptom-of-stability-for-its-source.md",
       "title": "把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source",
-      "hash": "db3e71f746c2",
+      "hash": "939da9977393",
       "in_degree": 19,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "the-scaffolding-we-forget",
         "the-velocity-of-visibility",
+        "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "felt-resistance-and-the-speed-differential",
         "the-price-of-closing-optionality",
@@ -6008,15 +6010,16 @@
       "slug": "power-law-is-the-long-term-consequence-of-normal-distribution",
       "path": "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md",
       "title": "幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution",
-      "hash": "57d4caa587f7",
+      "hash": "1cf801f571a8",
       "in_degree": 10,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "zi-you-de-ce-bu-zhun",
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "ownership-and-self-worthiness",
         "failure-as-information",
+        "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
         "guan-yu-gui-yin",
         "mi-lv-shi-jie-guo-de-biao-xiang",
         "the-extendable-horizon",
@@ -6415,16 +6418,17 @@
       "slug": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
       "path": "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md",
       "title": "人生是一个持续的自我迭代过程 / Life as a Continuous Process of Self-Iteration",
-      "hash": "7d80f5dead38",
+      "hash": "f8b8da084e06",
       "in_degree": 6,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "how-to-fix-your-whole-life-in-one-split-second",
         "guan-yu-gui-yin",
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
         "mei-you-pu-du-zhi-you-zi-du",
         "the-brain-does-not-backprop",
-        "your-codebase-is-memory"
+        "your-codebase-is-memory",
+        "the-dynamically-discovered-loss-function-and-the-conversion-of-error"
       ]
     },
     {
@@ -8302,9 +8306,9 @@
       "slug": "the-descent-that-doesnt-know-where-its-going",
       "path": "content/posts/the-descent-that-doesnt-know-where-its-going.md",
       "title": "不知去向何方的梯度下降 / The Descent That Doesn't Know Where It's Going",
-      "hash": "4bce45f3540d",
+      "hash": "1886c3b32d27",
       "in_degree": 7,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "sensing-before-interpretation",
         "chollet-intelligence-explosion-analysis",
@@ -8312,7 +8316,8 @@
         "architecture-of-recursive-distinction",
         "learned-boundaries-and-the-given-rate",
         "the-irreducible-observer",
-        "your-codebase-is-memory"
+        "your-codebase-is-memory",
+        "the-dynamically-discovered-loss-function-and-the-conversion-of-error"
       ]
     },
     {
@@ -8542,7 +8547,7 @@
       "path": "content/posts/the-dynamically-discovered-loss-function-and-the-conversion-of-error.md",
       "title": "动态发现的损失函数与残余误差的转化 / The Dynamically Discovered Loss Function and the Conversion of Residual Error",
       "hash": "47b750947230",
-      "in_degree": 0,
+      "in_degree": 9,
       "out_degree": 12,
       "links_out": [
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -8625,9 +8630,9 @@
       "slug": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "path": "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md",
       "title": "调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth",
-      "hash": "1dab3fa9644a",
+      "hash": "48b08ea75655",
       "in_degree": 15,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "the-illusion-of-knowing-and-the-geometry-of-amputation",
         "the-mind-as-vector-and-coordinate-system",
@@ -8643,6 +8648,7 @@
         "felt-resistance-and-the-speed-differential",
         "individual-choices-as-the-only-causal-levers",
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+        "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency"
       ]
     },
@@ -10958,9 +10964,9 @@
       "slug": "the-price-of-closing-optionality",
       "path": "content/posts/the-price-of-closing-optionality.md",
       "title": "关闭选择权的代价 / The Price of Closing Optionality",
-      "hash": "fb93eed77a4b",
+      "hash": "2e6b852253cf",
       "in_degree": 18,
-      "out_degree": 17,
+      "out_degree": 18,
       "links_out": [
         "the-risk-is-the-belief-in-oversight-itself",
         "openness-is-consistency",
@@ -10976,6 +10982,7 @@
         "what-works-is-the-belief",
         "no-system-can-be-kept-closed",
         "failure-as-information",
+        "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
         "closed-reality-in-benchmark-maxing",
         "agi-and-asi-are-temporary-goalposts",
         "the-imagining-of-ai-risk"
@@ -11366,9 +11373,9 @@
       "slug": "the-returning-signal-and-its-claim",
       "path": "content/posts/the-returning-signal-and-its-claim.md",
       "title": "回返的信号与认领 / The Returning Signal and Its Claim",
-      "hash": "80999e1c9c27",
+      "hash": "7ce2a7df84d2",
       "in_degree": 15,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "filling-in-in-perception-and-the-single-center-that-steps-out",
         "the-model-never-becomes-a-second-edge",
@@ -11376,6 +11383,7 @@
         "a-living-external-cortex",
         "beyond-the-projection",
         "the-asymmetry-of-understanding",
+        "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
         "your-codebase-is-memory",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "causality-stays-at-the-edge-that-steers",
@@ -12380,9 +12388,9 @@
       "slug": "the-unobservable-driver-of-learning",
       "path": "content/posts/the-unobservable-driver-of-learning.md",
       "title": "学习中不可观测的驱动力 / The Unobservable Driver of Learning",
-      "hash": "27742353345d",
+      "hash": "2f0e4408b6cf",
       "in_degree": 15,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
         "studying-the-effect-of-ai-relocates-causality",
@@ -12398,6 +12406,7 @@
         "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
         "the-paradoxical-nature-of-bystander-insights",
         "the-npc-impression-is-structural",
+        "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
         "your-codebase-is-memory"
       ]
     },
@@ -31599,6 +31608,12 @@
     },
     {
       "from": "failure-as-information",
+      "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "rel": "points_to",
+      "label": "动态发现的损失函数与残余误差的转化"
+    },
+    {
+      "from": "failure-as-information",
       "to": "the-price-of-closing-optionality",
       "rel": "points_to",
       "label": "关闭选择权的代价"
@@ -31608,6 +31623,12 @@
       "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
       "rel": "points_to",
       "label": "Power Law Is the Long-Term Consequence of Normal Distribution"
+    },
+    {
+      "from": "failure-as-information",
+      "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "rel": "points_to",
+      "label": "The Dynamically Discovered Loss Function and the Conversion of Residual Error"
     },
     {
       "from": "failure-as-information",
@@ -42687,9 +42708,21 @@
     },
     {
       "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "rel": "points_to",
+      "label": "动态发现的损失函数与残余误差的转化"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
       "to": "the-velocity-of-visibility",
       "rel": "points_to",
       "label": "The Velocity of Visibility"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "rel": "points_to",
+      "label": "The Dynamically Discovered Loss Function and the Conversion of Residual Error"
     },
     {
       "from": "mistaking-the-symptom-of-stability-for-its-source",
@@ -51249,6 +51282,12 @@
     },
     {
       "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "rel": "points_to",
+      "label": "动态发现的损失函数与残余误差的转化"
+    },
+    {
+      "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "Ownership and Self-Worthiness"
@@ -51258,6 +51297,12 @@
       "to": "failure-as-information",
       "rel": "points_to",
       "label": "Failure as Information"
+    },
+    {
+      "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "rel": "points_to",
+      "label": "The Dynamically Discovered Loss Function and the Conversion of Residual Error"
     },
     {
       "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
@@ -54129,6 +54174,12 @@
     },
     {
       "from": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "rel": "points_to",
+      "label": "动态发现的损失函数与残余误差的转化"
+    },
+    {
+      "from": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
       "to": "the-brain-does-not-backprop",
       "rel": "points_to",
       "label": "The Brain Does Not Backprop, but Propagates"
@@ -54138,6 +54189,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "rel": "points_to",
+      "label": "The Dynamically Discovered Loss Function and the Conversion of Residual Error"
     },
     {
       "from": "residual-control-recedes-to-the-edge",
@@ -66476,6 +66533,18 @@
       "label": "Your Codebase Is Memory"
     },
     {
+      "from": "the-descent-that-doesnt-know-where-its-going",
+      "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "rel": "points_to",
+      "label": "动态发现的损失函数与残余误差的转化"
+    },
+    {
+      "from": "the-descent-that-doesnt-know-where-its-going",
+      "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "rel": "points_to",
+      "label": "The Dynamically Discovered Loss Function and the Conversion of Residual Error"
+    },
+    {
       "from": "the-deterministic-machine",
       "to": "the-continuum-of-the-fold",
       "rel": "points_to",
@@ -68703,9 +68772,21 @@
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "rel": "points_to",
+      "label": "动态发现的损失函数与残余误差的转化"
+    },
+    {
+      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "rel": "points_to",
+      "label": "The Dynamically Discovered Loss Function and the Conversion of Residual Error"
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -83775,9 +83856,21 @@
     },
     {
       "from": "the-price-of-closing-optionality",
+      "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "rel": "points_to",
+      "label": "动态发现的损失函数与残余误差的转化"
+    },
+    {
+      "from": "the-price-of-closing-optionality",
       "to": "failure-as-information",
       "rel": "points_to",
       "label": "Failure as Information"
+    },
+    {
+      "from": "the-price-of-closing-optionality",
+      "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "rel": "points_to",
+      "label": "The Dynamically Discovered Loss Function and the Conversion of Residual Error"
     },
     {
       "from": "the-price-of-closing-optionality",
@@ -86514,6 +86607,18 @@
       "to": "the-asymmetry-of-understanding",
       "rel": "points_to",
       "label": "The Asymmetry of Understanding"
+    },
+    {
+      "from": "the-returning-signal-and-its-claim",
+      "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "rel": "points_to",
+      "label": "动态发现的损失函数与残余误差的转化"
+    },
+    {
+      "from": "the-returning-signal-and-its-claim",
+      "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "rel": "points_to",
+      "label": "The Dynamically Discovered Loss Function and the Conversion of Residual Error"
     },
     {
       "from": "the-returning-signal-and-its-claim",
@@ -93579,9 +93684,21 @@
     },
     {
       "from": "the-unobservable-driver-of-learning",
+      "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "rel": "points_to",
+      "label": "动态发现的损失函数与残余误差的转化"
+    },
+    {
+      "from": "the-unobservable-driver-of-learning",
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
       "label": "The NPC Impression Is Structural, Not a Ranking of Minds"
+    },
+    {
+      "from": "the-unobservable-driver-of-learning",
+      "to": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "rel": "points_to",
+      "label": "The Dynamically Discovered Loss Function and the Conversion of Residual Error"
     },
     {
       "from": "the-unobservable-driver-of-learning",

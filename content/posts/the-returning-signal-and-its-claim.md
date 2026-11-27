@@ -32,7 +32,7 @@ Debate is the third. The form of alternating turns looks like two positions cont
 
 ## 三、 认领使信号成为损失 / 3. The Claim Turns a Signal into a Loss
 
-这些情形是同一个回路。心智形成一个表述并把它落成信号；信号沿某条路径传播，或立刻折成一个念头，或经他人与工具返回，或化为行动进入世界，其后果未必都能被发起者感知。即使被感知，回返的信号也还只是一个事件。唯有发起它的心智把它认作自身行动的后果，它才成为一个有待缩减的差距，也就是损失函数；学习指的就是这一步，而不是此前的任何一步。
+这些情形是同一个回路。心智形成一个表述并把它落成信号；信号沿某条路径传播，或立刻折成一个念头，或经他人与工具返回，或化为行动进入世界，其后果未必都能被发起者感知。即使被感知，回返的信号也还只是一个事件。唯有发起它的心智把它认作自身行动的后果，它才成为一个有待缩减的差距，也就是损失函数——一道暂时切分，由已认领的残余误差动态改写，正如[动态发现的损失函数与残余误差的转化](../the-dynamically-discovered-loss-function-and-the-conversion-of-error/)所追溯的那样。学习指的就是这一步，而不是此前的任何一步。
 
 ```mermaid
 flowchart TD
@@ -88,7 +88,7 @@ flowchart TD
   style C_NEXT fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-These cases are one loop. A Mind forms a formulation and turns it into a signal; the signal travels along some path, folding at once into a thought, or coming back through other people and tools, or entering the world as an act whose consequences the initiator may or may not perceive. Even when perceived, the returning signal is still only an event. Only when the Mind that sent it takes it as the consequence of its own act does it become a gap to be reduced, which is what a loss function is; learning names this step and no step before it.
+These cases are one loop. A Mind forms a formulation and turns it into a signal; the signal travels along some path, folding at once into a thought, or coming back through other people and tools, or entering the world as an act whose consequences the initiator may or may not perceive. Even when perceived, the returning signal is still only an event. Only when the Mind that sent it takes it as the consequence of its own act does it become a gap to be reduced, which is what a loss function is — a provisional cut that claimed residual error dynamically rewrites, as [The Dynamically Discovered Loss Function and the Conversion of Residual Error](../the-dynamically-discovered-loss-function-and-the-conversion-of-error/) traces. Learning names this step and no step before it.
 
 ```mermaid
 flowchart TD

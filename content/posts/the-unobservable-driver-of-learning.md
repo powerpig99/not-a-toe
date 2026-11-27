@@ -76,9 +76,9 @@ Locating the driver requires a reflexive movement: each observed effect is refle
 
 Where the return is made often, causal power stays located in one's own successive choices, and the loop is redrawn from the acts that leave it. Where it is made seldom, the observational, external stance patterns the next act; self-generated improvement registers less and less even while surface metrics may temporarily rise. The difference is not a fixed endowment. It is the accumulated result of how often the return is made to the succession of acts that was always one's own.
 
-[NPC 印象是结构性的，而非心智的排名](../the-npc-impression-is-structural/)在能动性中追溯这一频率：变量是下一个动作在未经重新审视时被先前痕迹塑造的频率，而不是内在是否在场。
+[NPC 印象是结构性的，而非心智的排名](../the-npc-impression-is-structural/)在能动性中追溯这一频率：变量是下一个动作在未经重新审视时被先前痕迹塑造的频率，而不是内在是否在场。[动态发现的损失函数与残余误差的转化](../the-dynamically-discovered-loss-function-and-the-conversion-of-error/)在迭代中追溯同一频率：一份光洁无瑕的外在记录，遮蔽了行动中的心智究竟是认领暴露的残余误差以重新划定运作目标，还是回避误差以护住表面地位。
 
-[The NPC Impression Is Structural, Not a Ranking of Minds](../the-npc-impression-is-structural/) traces this frequency in agency: what varies is how often the next act is patterned by prior traces without re-examination, not whether the interior is present.
+[The NPC Impression Is Structural, Not a Ranking of Minds](../the-npc-impression-is-structural/) traces this frequency in agency: what varies is how often the next act is patterned by prior traces without re-examination, not whether the interior is present. [The Dynamically Discovered Loss Function and the Conversion of Residual Error](../the-dynamically-discovered-loss-function-and-the-conversion-of-error/) traces the same frequency in iteration: an unblemished outward record conceals whether the acting Mind claims exposed residual error to redraw the working objective or avoids it to guard surface standing.
 
 ## 八、 工具与设计仍是次生的残余 / 8. Tools and Designs Remain Secondary Residue
 
