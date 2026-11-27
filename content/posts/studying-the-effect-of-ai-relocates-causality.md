@@ -32,7 +32,7 @@ The guarded tutor in the same experiment is still this geometry, one step later.
 
 ## 三、 替代与杠杆都是自己施加的 / 3. Substitute and Lever Are Both Self-Imposed
 
-所以替代与放大都是自己施加的。工具从不发起其中任何一种状态，它接收并放大的是已经采取的姿态。[验证中因果权能的分配](../the-allocation-of-causal-power-in-validation/)追踪的是哪一边被当作提供下一步的一方：一旦答案被当作从工具那里到来，学生自己的跟进就不再是延续的源头。对使用者取平均的随机对照试验，必然是在这些相反的姿态之间取平均。为零或为负的平均结果，并不证明工具是惰性的或有毒的，它显示的是，在总体上，自己施加的替代压过了自己施加的放大。[理性选择公设是原罪](../the-rational-choice-postulate-is-the-original-sin/)是同一种取平均以经济学的面貌呈现：均值重新分配已经产生出来的余留，又把它标成仿佛是它写出了这个样式。这里被重新标注的，是相反关系的均值，它被叫作 AI 的效应。
+所以替代与放大都是自己施加的。工具从不发起其中任何一种状态，它接收并放大的是已经采取的姿态。[验证中因果权能的分配](../the-allocation-of-causal-power-in-validation/)追踪的是哪一边被当作提供下一步的一方：一旦答案被当作从工具那里到来，学生自己的跟进就不再是延续的源头。对使用者取平均的随机对照试验，必然是在这些相反的姿态之间取平均。为零或为负的平均结果，并不证明工具是惰性的或有毒的，它显示的是，在总体上，自己施加的替代抵消或压过了自己施加的放大。[理性选择公设是原罪](../the-rational-choice-postulate-is-the-original-sin/)是同一种取平均以经济学的面貌呈现：均值重新分配已经产生出来的余留，又把它标成仿佛是它写出了这个样式。这里被重新标注的，是相反关系的均值，它被叫作 AI 的效应。
 
 ```mermaid
 flowchart TD
@@ -87,7 +87,7 @@ flowchart TD
     style M2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Both substitution and amplification are therefore self-imposed. The tool never initiates either condition. It receives and magnifies the posture already adopted. [The Allocation of Causal Power in Validation](../the-allocation-of-causal-power-in-validation/) tracks which side is treated as supplying the next step: once the answer is treated as arriving from the tool, the student's own following is no longer the source of continuation. Randomized trials that average across users necessarily average across these opposing postures. The null or negative average result does not prove the tool is inert or toxic. It shows that, in the aggregate, self-imposed substitution outweighed self-imposed amplification. [The Rational Choice Postulate Is the Original Sin](../the-rational-choice-postulate-is-the-original-sin/) is that averaging dressed as economics: the mean redistributes residue already produced and re-labels it as if it authored the pattern. Here the mean of opposed relations is re-labeled as the effect of AI.
+Both substitution and amplification are therefore self-imposed. The tool never initiates either condition. It receives and magnifies the posture already adopted. [The Allocation of Causal Power in Validation](../the-allocation-of-causal-power-in-validation/) tracks which side is treated as supplying the next step: once the answer is treated as arriving from the tool, the student's own following is no longer the source of continuation. Randomized trials that average across users necessarily average across these opposing postures. The null or negative average result does not prove the tool is inert or toxic. It shows that, in the aggregate, self-imposed substitution offset or outweighed self-imposed amplification. [The Rational Choice Postulate Is the Original Sin](../the-rational-choice-postulate-is-the-original-sin/) is that averaging dressed as economics: the mean redistributes residue already produced and re-labels it as if it authored the pattern. Here the mean of opposed relations is re-labeled as the effect of AI.
 
 ```mermaid
 flowchart TD
