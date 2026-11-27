@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-27T06:23:29.028Z",
+    "generated_at": "2026-11-27T06:42:45.093Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -93,7 +93,7 @@
       "content/posts/everything-is-changing-as-always.md": "5be209ddda71",
       "content/posts/evil-as-projected-resistance.md": "ace4e4222a2d",
       "content/posts/evil-as-the-minds-own-creation.md": "5bf25c7e99da",
-      "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "99b62ab3d3f3",
+      "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "886ec4eb1c87",
       "content/posts/expertise-as-reference-not-replacement.md": "9f33cce37cd9",
       "content/posts/extended-cognition-refined.md": "b36e06d54d81",
       "content/posts/extension-and-shift.md": "7e04bad69879",
@@ -500,7 +500,7 @@
     },
     "stats": {
       "posts": 473,
-      "edges": 14782,
+      "edges": 14780,
       "unique_directed": 7270,
       "missing_targets": 0,
       "one_way": 1692,
@@ -3048,7 +3048,7 @@
       "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "path": "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md",
       "title": "卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems",
-      "hash": "99b62ab3d3f3",
+      "hash": "886ec4eb1c87",
       "in_degree": 26,
       "out_degree": 29,
       "links_out": [
@@ -30134,12 +30134,6 @@
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
-      "to": "causality-stays-at-the-edge-that-steers",
-      "rel": "points_to",
-      "label": "因果停留在掌舵的边缘"
-    },
-    {
-      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
@@ -30155,12 +30149,6 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
-    },
-    {
-      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
-      "to": "causality-stays-at-the-edge-that-steers",
-      "rel": "points_to",
-      "label": "Causality Stays at the Edge That Steers"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
