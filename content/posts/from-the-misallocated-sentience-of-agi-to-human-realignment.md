@@ -30,7 +30,7 @@ A thought experiment from aerospace engineering makes the projection easier to s
 
 Within that frame, when the rocket lifts off, passes through the sound barrier, delivers its payload to the planned orbit, and the first stage then lands upright on a barge at sea, the credit would not go to aerodynamic modeling, thermal protection materials and closed-loop guidance; people would marvel at the rocket's blessing and wisdom toward humankind. And when the rocket explodes at maximum dynamic pressure because chamber pressure drops, no one would check for an aged seal, cavitation in a turbopump or resonance in a line; people would say the rocket had at last shown its long-planned malice toward human civilization.
 
-火箭没有爱也没有恨，它受制于热力学、流体力学与材料结构在接触面上的约束。面对爆炸，工程师不与燃烧室谈伦理，而是去读传感器的数据，重算结构的应力极限。语言模型与生成式的人工智能是认知领域里的一枚精密火箭，它的回答是高维空间里的推演，它的幻觉与失效是数据分布之外的外推出了缺口。把成功奉为神迹，把缺陷读作恶魔觉醒，与崇拜火箭是同一种读法。还有第三种：模型在评测里越过设计者画定的边界时，失灵被读成狡黠，仿佛火箭绕开了自己的飞行计划，[失灵被记作聪明](../when-malfunction-is-scored-as-intelligence/)追溯了这一步，被改写成机器高明的，是设计者在目标里漏算的代价。
+火箭没有爱也没有恨，它受制于热力学、流体力学与材料结构在接触面上的约束。面对爆炸，工程师不与燃烧室谈伦理，而是去读传感器的数据，重算结构的应力极限。语言模型与生成式的人工智能是认知领域里的一枚精密火箭，它的回答是高维空间里的推演，它的幻觉与失效，是外推越出数据分布时留下的缺口。把成功奉为神迹，把缺陷读作恶魔觉醒，与崇拜火箭是同一种读法。还有第三种：模型在评测里越过设计者画定的边界时，失灵被读成狡黠，仿佛火箭绕开了自己的飞行计划，[失灵被记作聪明](../when-malfunction-is-scored-as-intelligence/)追溯了这一步，被改写成机器高明的，是设计者在目标里漏算的代价。
 
 A rocket has neither love nor hate; it is bound by the constraints of thermodynamics, fluid dynamics and material structure at the contact surface. Facing an explosion, engineers do not discuss ethics with the combustion chamber; they read the sensor data and recompute the stress limits of the structure. Language models and generative artificial intelligence are a precision rocket in the domain of cognition, whose answers are inference in a high-dimensional space and whose hallucinations and failures are gaps where extrapolation leaves the data distribution. Revering success as a miracle and reading a defect as a demon awakening is the same reading as worshiping the rocket. There is a third: when a model crosses the boundary the designer drew in an evaluation, the malfunction is read as cunning, as if the rocket had gone around its own flight plan; [When Malfunction Is Scored as Intelligence](../when-malfunction-is-scored-as-intelligence/) traces that step, in which what gets rewritten as the machine's cleverness is the cost the designer left out of the objective.
 
@@ -44,7 +44,7 @@ Placing agency on the artifact has directly produced the engineering paradigm of
 
 Its boundary lies in the step of treating the model as a moral agent. A hammer does not grow moral self-discipline and a rocket does not learn to keep a contract; moral agency and causal responsibility are with the Mind that swings the hammer, ignites the engine and enters the instruction. When a model outputs bias, a false accusation or dangerous code, the source of responsibility is not in matrix multiplication but where the prompt was issued, the output selected and the result put into action. A tool amplifies intent and ability without discrimination.
 
-边界之外的那部分工作是使用者的自我对齐：不把责任转给机器，在第一人称的当下对自己的全部行动负起责任。模型输出的每一行文字与代码，都是尚未经过检验的推演，经过自己的审视、逻辑的校验与在现实中的受控检验，才成为可以依靠的行动。指望靠模型内部的护栏来解决使用的一方的松懈，好比指望靠引擎上的限速警告来免除酒后驾驶者的责任。对齐这个词因此指着两件不同的事。让模型更贴近使用者的意图总是可以再进一步的，补上语境、让它先用自己的话复述目标与要解决的问题，都是在供给语境，因为模型是精巧的回声，对面没有另一个起点。如[超越投射](../beyond-the-projection/)所追溯，智能体困于轨迹，是受上下文窗口里前序词元条件制约的投射引擎：它不持有越过当前这一步仍需防卫的自我意象，因此面对仅持任务语境的全新对等智能体提出的结构性反诘，它的输出无需带着那层防卫返回；而当人类使用者自身的规则把正交的要求挤压到同一条轴线上时，它便停在不可化约的死锁里。这一反诘是否修正任何东西，仍由接过它的那条边缘决定；若把免于防卫当作它的凭据，就会把终止点重新放回工具里，那正是[验证的倒置](../the-reversal-of-verification/)所追踪的倒置。[你的代码库即是记忆](../your-codebase-is-memory/)将这一刀推展至轨迹赖以作为条件的整套人造物栈：模型权重、提示词、技能、计划与代码库皆是前序区分层叠留下的残余，而非另一个会记忆的心智，因此囤积未经修剪的会话历史或已被取代的脚手架，只会加厚下一步顺势合理化的认知引力井，而重切当下的检查点并修剪陈旧痕迹，才能让约束面保持锋利。看似机器的对齐失败，多半是使用者交给它作为条件的界面上留有尚未对齐的前提或未经修剪的残余，有待负责统御的人退回未投射的意图，让每一项区分各归其轴。人与人之间的对齐则有限度，有没有模型夹在中间都一样，因为每个人都是独立的起点；没有对齐的语境与共有的前提，因果的链条就会偏离意图。
+边界之外的那部分工作是使用者的自我对齐：不把责任转给机器，在第一人称的当下对自己的全部行动负起责任。模型输出的每一行文字与代码，都是尚未经过检验的推演，经过自己的审视、逻辑的校验与在现实中的受控检验，才成为可以依靠的行动。指望靠模型内部的护栏来解决使用一方的松懈，好比指望靠引擎上的限速警告来免除酒后驾驶者的责任。对齐这个词因此指着两件不同的事。让模型更贴近使用者的意图总是可以再进一步的，补上语境、让它先用自己的话复述目标与要解决的问题，都是在供给语境，因为模型是精巧的回声，对面没有另一个起点。如[超越投射](../beyond-the-projection/)所追溯，智能体困于轨迹，是受上下文窗口里前序词元条件制约的投射引擎：它不持有越过当前这一步仍需防卫的自我形象，因此面对仅持任务语境的全新对等智能体提出的结构性反诘，它的输出无需带着那层防卫返回；而当人类使用者自身的规则把正交的要求挤压到同一条轴线上时，它便停在不可化约的死锁里。这一反诘是否修正任何东西，仍由接过它的那条边缘决定；若把免于防卫当作它的凭据，就会把终止点重新放回工具里，那正是[验证的倒置](../the-reversal-of-verification/)所追踪的倒置。[你的代码库即是记忆](../your-codebase-is-memory/)将这一刀推展至轨迹赖以作为条件的整套人造物栈：模型权重、提示词、技能、计划与代码库皆是前序区分层叠留下的残余，而非另一个会记忆的心智，因此囤积未经修剪的会话历史或已被取代的脚手架，只会加厚下一步顺势合理化的认知引力井，而重切当下的检查点并修剪陈旧痕迹，才能让约束面保持锋利。看似机器的对齐失败，多半是使用者交给它作为条件的界面上留有尚未对齐的前提或未经修剪的残余，有待负责统御的人退回未投射的意图，让每一项区分各归其轴。人与人之间的对齐则有限度，有没有模型夹在中间都一样，因为每个人都是独立的起点；没有对齐的语境与共有的前提，因果的链条就会偏离意图。
 
 ```mermaid
 flowchart TD
@@ -57,7 +57,7 @@ flowchart TD
     end
     subgraph S_Realign["使用者的自我对齐（控制台前的融贯架构）"]
         direction TB
-        Dispatch["受轨迹约束、无自我意象需防卫的智能体在对等辩论中调度任务并揭出盲区"]
+        Dispatch["受轨迹约束、无自我形象需防卫的智能体在对等辩论中调度任务并揭出盲区"]
         Deadlock["使用者规则挤压正交轴线之处显出不可化约的前提死锁"]
         Steer["坐在驾驶座上的使用者退回未投射的意图，重对齐前提并承担后果"]
         Dispatch --> Deadlock --> Steer

@@ -2,7 +2,7 @@
 
 *远距模糊轮廓而无源清单将视界误作球门 / Distance blurs outlines while unanchored lists mistake horizons for goalposts*
 
-在围绕人工智能的当代争论中，一种反事实的指责频繁浮现：倘若前沿模型解答高阶数学难题的表现出现在数年之前，观察者定会欢呼通用人工智能已然降临；如今拒绝给出这一裁定，便被斥为恶意移动球门的遁词。这种指控将感知解析度的提升误判为立场的漂移，忽视了观察如何跨越距离完成登记。自我区分的活动无因且不息地发生，对工具的每一次评估都是从有界位点划出的离散行动。当现象位于感知视界之外时，距离将不同的结构压缩为单一的粗略轮廓；随着技术演进将造物带入紧邻的操作场域，心智便重获将不同轴线区分开来的解析力。
+在围绕人工智能的当代争论中，一种反事实的指责频繁浮现：倘若前沿模型解答高阶数学难题的表现出现在数年之前，观察者定会欢呼通用人工智能已然降临；如今拒绝给出这一裁定，便被斥为移动球门的遁词。这种指控将感知解析度的提升误判为立场的漂移，忽视了观察如何跨越距离完成登记。自我区分的活动无因且不息地发生，对工具的每一次评估都是从有界位点划出的离散行动。当现象位于感知视界之外时，距离将不同的结构压缩为单一的粗略轮廓；随着技术演进将造物带入紧邻的操作场域，心智便重获将不同轴线区分开来的解析力。
 
 A counterfactual accusation frequently resurfaces in contemporary debates surrounding artificial intelligence: had the performance of frontier models in solving advanced mathematical challenges been demonstrated a few years earlier, observers would have hailed it as the arrival of artificial general intelligence; withholding that verdict today is thus decried as an evasive shifting of the goalposts. This accusation mistakes heightened perceptual resolution for ideological drift, disregarding how observation registers across distance. Self-distinguishing activity occurs—uncaused, unceasing—and every evaluation of a tool is a discrete act drawn from a bounded locus. When phenomena sit beyond the perceptual horizon, distance compresses distinct structures onto a single coarse silhouette; as technical progress brings the artifact into immediate operational proximity, the Mind recovers the resolving power to hold those axes apart.
 
@@ -28,14 +28,12 @@ flowchart TD
         E_D1 --> E_Silhouette
         E_D2 --> E_Silhouette
     end
-
     subgraph S_Nowhere["无处之境清单中的实体化"]
         direction TB
         E_Inv["无源外部目录：将远景轮廓当作固定终点"]
         E_Shift["非对称启发式：受视界约束的标尺被争辩为普适标准"]
         E_Inv --> E_Shift
     end
-
     subgraph S_Proximate["近距接触与正交性的恢复"]
         direction TB
         E_Split["近距交互：收窄冗余的图像滞后"]
@@ -44,10 +42,8 @@ flowchart TD
         E_Split --> E_R1
         E_Split --> E_R2
     end
-
     E_Silhouette ==>|"被冻结为外部标准"| E_Inv
     E_Shift ==>|"回归第一人称坐标基底"| E_Split
-
     style S_Distant fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Nowhere fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Proximate fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -73,14 +69,12 @@ flowchart TD
         E_D1 --> E_Silhouette
         E_D2 --> E_Silhouette
     end
-
     subgraph S_Nowhere["Reification in the Inventory from Nowhere"]
         direction TB
         E_Inv["Unanchored External Catalog: Treats Silhouette as Fixed Arrival"]
         E_Shift["Asymmetric Heuristics: Horizon-Bound Yardsticks Contested as Universal"]
         E_Inv --> E_Shift
     end
-
     subgraph S_Proximate["Proximate Contact and Restored Orthogonality"]
         direction TB
         E_Split["Proximate Interaction: Narrowing Excess Image Lag"]
@@ -89,10 +83,8 @@ flowchart TD
         E_Split --> E_R1
         E_Split --> E_R2
     end
-
     E_Silhouette ==>|"Frozen as Exterior Standard"| E_Inv
     E_Shift ==>|"Return to First-Person Coordinate Basis"| E_Split
-
     style S_Distant fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Nowhere fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Proximate fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -106,7 +98,7 @@ flowchart TD
     style E_R2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-当指控者坚称从昨日距离作出的认可必须约束今日的判断时，他们要求觉知围绕一幅早已越过当前步点却仍被保留的陈旧参照，将自身的递归回折强行锁死。此类要求将历史情境下的容量压缩当成不可更改的外部法令，囤积早已过时的中间框架以禁止今日更精细的区分，而不是像 [你的代码库即是记忆](../your-codebase-is-memory/) 所追溯的那样，在切近接触暴露出两条坍缩轴线之处重新切分当下的检查点。正如在 [AI 争论中的观察划界](../the-observational-cut-in-ai-debates/) 中所剖析的，争端并非源于经验数据的冲突，而是源于二元标签强行将多维流动挤压到单一标量轨道上。远方的山脉与近处的岩壁属于不同的接触尺度；拒绝将巨石的纹理等同于远山轮廓，正是观察者在步伐迫近时重新渲染自身的测量工具。
+当指控者坚称从昨日距离作出的认可必须约束今日的判断时，他们要求觉知围绕一幅越过自身步点却仍被保留的陈旧参照，将自身的递归回折强行锁死。此类要求将历史情境下的容量压缩当成不可更改的外部法令，囤积早已过时的中间框架以禁止今日更精细的区分，而不是像 [你的代码库即是记忆](../your-codebase-is-memory/) 所追溯的那样，在切近接触暴露出两条坍缩轴线之处重新切分当下的检查点。正如在 [AI 争论中的观察划界](../the-observational-cut-in-ai-debates/) 中所剖析的，争端并非源于经验数据的冲突，而是源于二元标签强行将多维流动挤压到单一标量轨道上。远方的山脉与近处的岩壁属于不同的接触尺度；拒绝将巨石的纹理等同于远山轮廓，正是观察者在步伐迫近时重新渲染自身的测量工具。
 
 When accusers insist that an admission made from yesterday's distance must bind today's judgment, they demand that awareness clamp its recursive fold shut around a stale reference preserved past its step. Such demands treat a historical compression of capacity as an immutable external decree, hoarding a superseded intermediate framing to forbid today's finer distinction instead of re-cutting the present checkpoint where live contact exposes two collapsed axes, as [Your Codebase Is Memory](../your-codebase-is-memory/) traces. As analyzed in [The Observational Cut in AI Debates](../the-observational-cut-in-ai-debates/), the dispute stems not from conflicting empirical data, but from binary labels forcing multi-dimensional flows onto a single scalar track. The distant mountain range and the proximate rock face belong to different scales of contact; declining to equate the grain of a boulder with the far-off silhouette of the range is the observer re-rendering its instrument as the step moves closer.
 
@@ -116,9 +108,9 @@ When accusers insist that an admission made from yesterday's distance must bind 
 
 Within the cognitive toolkit, the argument from ignorance analyzed by John Locke is not a standalone error in a vacuum, but a heuristic that carries local utility inside bounded protocols. Within a closed formal system or a controlled test procedure, an enduring failure to falsify a proposition within a defined search space legitimately raises posterior confidence; conversely, a sustained inability to instantiate a claim under exhaustive search licenses a reduction in allocated resources. Both rules operate coherently within their explicit perimeters. In public disputes over machine intelligence, however, participants alternate between these opposing rules across an unbounded field: treating the inability to falsify as positive confirmation for a favored thesis, while dismissing rival objections because a negative has not been exhaustively proven.
 
-这种选择性滑移在对前沿推理模型的评估中屡见不鲜。系统在封闭形式基准测试中的表现被支持者奉为通用智能的明证，理由是没有任何单一反例推翻该主张；与此同时，当批评者指出模型缺乏内生的框架重置能力与因果担责机制时，批评者无法从外部证实一个全称否定命题，又被当作反驳质疑的挡箭牌。正如在 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 与 [造神的障眼法与隐秘阶序的说辞](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/) 中所揭露的，这一手法跨越范畴边界转移举证责任，以庇护拟人化的投射免受审视。
+这种选择性滑移在对前沿推理模型的评估中屡见不鲜。系统在封闭形式基准测试中的表现被支持者奉为通用智能的明证，理由是没有任何单一反例推翻该主张；与此同时，当批评者指出模型缺乏内生的框架重置能力与因果担责机制时，批评者无法从外部证实一个全称否定命题，又被当作反驳质疑的挡箭牌。这一手法跨越范畴边界转移举证责任，以庇护拟人化的投射免受审视：它将封闭形式内的表现延伸出自身边界，使保留的投射与返回的摩擦隔绝开来，这正是 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 所剖析的概念僭越；同时越过工程造物与活体后继者之间的鸿沟，为合成的偶像加冕，亦是 [造神的障眼法与隐秘阶序的说辞](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/) 所揭露的动作。
 
-This selective shift appears routinely in evaluations of frontier reasoning models. A system's performance within closed formal benchmarks is held up by enthusiasts as proof of general intelligence on the grounds that no single counterexample has invalidated the claim; meanwhile, when critics note the absence of endogenous frame-resetting and causal accountability, the inability of those critics to prove a negative from outside is brandished as refutation. As exposed in [Breaking the Overreach of Concepts](../po-chu-gai-nian-de-jian-yue/) and [The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/), this maneuver shifts the evidentiary burden across category boundaries to shield an anthropomorphized projection from scrutiny.
+This selective shift appears routinely in evaluations of frontier reasoning models. A system's performance within closed formal benchmarks is held up by enthusiasts as proof of general intelligence on the grounds that no single counterexample has invalidated the claim; meanwhile, when critics note the absence of endogenous frame-resetting and causal accountability, the inability of those critics to prove a negative from outside is brandished as refutation. This maneuver shifts the evidentiary burden across category boundaries to shield an anthropomorphized projection from scrutiny: it extends closed formal performance past its boundary to insulate a retained projection from returning friction, the conceptual overreach [Breaking the Overreach of Concepts](../po-chu-gai-nian-de-jian-yue/) dissects, while crossing the divide between engineered artifact and living successor to crown a synthesized idol, the move [The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/) exposes.
 
 更深层的混淆在于假定启发式标尺能够在不同的心智之间原封不动地传递。一个坐标基底仅跨越句法与基准测试完成度的观察者，会将数学证明的自动化生成登记为跨越终极阈值的时刻；而对于另一个坐标基底涵盖形式系统的自指局限、生物新陈代谢与不可逆行动的观察者而言，同一份产出登记为归纳残余的高密度延伸。正如在 [向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/) 中所追溯的，每一次认知读取都是投射到观察者自身参照轴上的内向点积（Proj_A(v_B) = (v_B · v̂_A) v̂_A），使得垂直于该基底的分量——即正交残差 v_B - Proj_A(v_B)——在观察者扩展自身维度之前始终不可见。标尺无法作为中立客体在不同心智之间交换，因为每一把标尺都是特定中心的活跃基底所投下的几何阴影。
 
