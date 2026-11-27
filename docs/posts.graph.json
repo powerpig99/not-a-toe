@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-27T19:36:29.947Z",
+    "generated_at": "2026-11-27T20:19:35.815Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -40,11 +40,11 @@
       "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "0ff597e3465b",
       "content/posts/boundary-of-the-isolation-idealization-and-the-non-closable-open.md": "c38c342530ec",
       "content/posts/carbon-form-as-residual-path-silicon-as-extension.md": "8396e66e8ccd",
-      "content/posts/causality-all-the-way.md": "335fcadee6b9",
+      "content/posts/causality-all-the-way.md": "17dfd83432f3",
       "content/posts/causality-and-the-irreducible-prior.md": "23039b57892e",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "66ed4983eed8",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "18721bead0c6",
-      "content/posts/cheng-gong-xue.md": "cfddc09dfe10",
+      "content/posts/cheng-gong-xue.md": "fe265e6d153f",
       "content/posts/choice-itself-has-no-inherent-weight.md": "d294c438cd43",
       "content/posts/chollet-intelligence-explosion-analysis.md": "35675f123c70",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "b2def21d59e6",
@@ -69,7 +69,7 @@
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "d399e29f1ee7",
       "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "4fedc4c0b1c8",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "1da47f25b2c3",
-      "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "e44d01c4e90c",
+      "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "0d942d761a27",
       "content/posts/curiosity-has-no-final-form.md": "b8c3260cb644",
       "content/posts/cybersecurity-arms-race.md": "be1bf3d1f44c",
       "content/posts/data-is-local-intelligence-is-allocated.md": "0e06bf97bd60",
@@ -169,7 +169,7 @@
       "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "364e8a906439",
       "content/posts/not-a-theory-of-everything.md": "94f64ccfd358",
       "content/posts/not-a-toe-rewrite.md": "ba906b4a4ad1",
-      "content/posts/not-predicting-is-predicting-without-awareness.md": "7c0dda9a4196",
+      "content/posts/not-predicting-is-predicting-without-awareness.md": "dfeec5ee33c1",
       "content/posts/objects-are-stabilized-relationships.md": "304c3653b399",
       "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md": "39117b90bc28",
       "content/posts/observation-lag-and-the-inversion-of-optionality.md": "260873cc62a0",
@@ -189,7 +189,7 @@
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "75a4f4b296e2",
       "content/posts/payoff-as-precondition-and-the-reversal-of-causal-direction.md": "09b3896bb81e",
       "content/posts/perception-perspective-refined.md": "ea1ae6a3aa20",
-      "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "139a08a746f0",
+      "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "850e16e03824",
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "aa49b94c3914",
       "content/posts/platform-decision-capture.md": "0ee6b04aa27a",
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "ef2cc3b230fc",
@@ -198,11 +198,11 @@
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "1cf801f571a8",
       "content/posts/precision-and-resolution.md": "6a62412fc47d",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "c3db45c37bfc",
-      "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "1269873794ba",
+      "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "a1699ee644b4",
       "content/posts/price-as-utterance-understanding-as-trade.md": "7d2d5706134c",
       "content/posts/production-consumption-and-the-minds-distinction.md": "32f9f790dc07",
       "content/posts/public-spending-does-not-create-capital.md": "58790806a762",
-      "content/posts/qian-yin-hou-guo.md": "ae8884412d19",
+      "content/posts/qian-yin-hou-guo.md": "a4dea37ede47",
       "content/posts/rationality-never-travels-across-the-mind.md": "3cb2e68dd3f2",
       "content/posts/reality-doesnt-invoice-by-committee.md": "a8efdcf67130",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "f1614ed39064",
@@ -287,7 +287,7 @@
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "1de0b89fb560",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "c00b5490e42d",
       "content/posts/the-dual-cut.md": "f749f9ebf880",
-      "content/posts/the-dynamically-discovered-loss-function-and-the-conversion-of-error.md": "738776d9f0a1",
+      "content/posts/the-dynamically-discovered-loss-function-and-the-conversion-of-error.md": "4880aae63259",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "83ebcde0fc1b",
       "content/posts/the-extendable-horizon.md": "b2ada327f796",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "48b08ea75655",
@@ -330,11 +330,11 @@
       "content/posts/the-imagining-of-ai-risk.md": "7523e057a868",
       "content/posts/the-initial-distinction.md": "b22b4ebc4f7e",
       "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "c4013341a276",
-      "content/posts/the-interesting-case-of-rubin.md": "6b555b01e274",
+      "content/posts/the-interesting-case-of-rubin.md": "f041afd2cb56",
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "63fa2193ecb4",
       "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "ce4caa68056a",
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "5e4b9499f5ca",
-      "content/posts/the-invisible-first-move.md": "7e53c09c3b06",
+      "content/posts/the-invisible-first-move.md": "d24d5a5b451d",
       "content/posts/the-invisible-gods-eye.md": "3a71b3b4492b",
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "c4ddc8cfce86",
       "content/posts/the-irreducible-observer.md": "52e6ccd57980",
@@ -351,7 +351,7 @@
       "content/posts/the-loop-accelerates.md": "e148a32baf20",
       "content/posts/the-loop-that-cant-see-itself.md": "b3830610bccd",
       "content/posts/the-maintenance-paradox.md": "3f1f65a8893d",
-      "content/posts/the-map-after-the-territory.md": "38b9b3234d52",
+      "content/posts/the-map-after-the-territory.md": "75f02b269267",
       "content/posts/the-mark-and-the-act.md": "8466f1098225",
       "content/posts/the-market-repricing-of-productive-base.md": "0952106c7e56",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "104d4d3b68bc",
@@ -419,7 +419,7 @@
       "content/posts/the-source-of-all-harm.md": "67e9c861c682",
       "content/posts/the-source-of-shared-change.md": "2f5a78b035c6",
       "content/posts/the-sovereign-blinding.md": "336c79e81b6c",
-      "content/posts/the-strategy-that-wasnt.md": "d3b190e18de4",
+      "content/posts/the-strategy-that-wasnt.md": "02beb012bbb9",
       "content/posts/the-strongest-belief-of-the-mind.md": "28803b7cc924",
       "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "bfe9202c8f1c",
       "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "45683f1cde48",
@@ -502,10 +502,10 @@
     },
     "stats": {
       "posts": 475,
-      "edges": 14848,
-      "unique_directed": 7304,
+      "edges": 14872,
+      "unique_directed": 7316,
       "missing_targets": 0,
-      "one_way": 1708,
+      "one_way": 1696,
       "isolated": 0,
       "posts_with_outbound": 475,
       "book_pages": 16,
@@ -645,12 +645,12 @@
       "out_degree": 41
     },
     {
-      "slug": "mistaking-the-expression-for-the-intelligence",
+      "slug": "causality-all-the-way",
       "out_degree": 40
     },
     {
-      "slug": "causality-all-the-way",
-      "out_degree": 39
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "out_degree": 40
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
@@ -1573,9 +1573,9 @@
       "slug": "causality-all-the-way",
       "path": "content/posts/causality-all-the-way.md",
       "title": "因果贯穿始终 / Causality All the Way",
-      "hash": "335fcadee6b9",
+      "hash": "17dfd83432f3",
       "in_degree": 38,
-      "out_degree": 39,
+      "out_degree": 40,
       "links_out": [
         "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "zi-you-de-ce-bu-zhun",
@@ -1598,6 +1598,7 @@
         "what-works-is-the-belief",
         "how-belief-actually-changes",
         "price-as-utterance-understanding-as-trade",
+        "payoff-as-precondition-and-the-reversal-of-causal-direction",
         "the-reality-distortion-field-names-the-closed-map",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "po-chu-gai-nian-de-jian-yue",
@@ -1737,13 +1738,14 @@
       "slug": "cheng-gong-xue",
       "path": "content/posts/cheng-gong-xue.md",
       "title": "成功学 / Theories After Success",
-      "hash": "cfddc09dfe10",
+      "hash": "fe265e6d153f",
       "in_degree": 25,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "the-free-variable-and-the-retrospective-illusion-of-power",
         "performative-hindsight-that-pretends-to-be-foresight",
         "the-bank-shot-and-the-magic-trick",
+        "payoff-as-precondition-and-the-reversal-of-causal-direction",
         "the-rational-choice-postulate-is-the-original-sin",
         "mistaking-the-expression-for-the-intelligence",
         "the-utility-men-of-progress",
@@ -2460,9 +2462,9 @@
       "slug": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "path": "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md",
       "title": "好奇先行 / Curiosity First",
-      "hash": "e44d01c4e90c",
+      "hash": "0d942d761a27",
       "in_degree": 23,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "mistaking-the-expression-for-the-intelligence",
         "having-more-is-never-the-cause",
@@ -2474,6 +2476,7 @@
         "ownership-and-self-worthiness",
         "failure-as-information",
         "individual-choices-as-the-only-causal-levers",
+        "payoff-as-precondition-and-the-reversal-of-causal-direction",
         "writing-without-the-image",
         "the-fixed-image-of-transcendence",
         "self-rl-for-humans",
@@ -5236,9 +5239,9 @@
       "slug": "not-predicting-is-predicting-without-awareness",
       "path": "content/posts/not-predicting-is-predicting-without-awareness.md",
       "title": "不预测是没有觉察的预测 / Not Predicting Is Predicting Without Awareness",
-      "hash": "7c0dda9a4196",
+      "hash": "dfeec5ee33c1",
       "in_degree": 14,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "causality-all-the-way",
         "technology-is-residual-of-human-compounding",
@@ -5247,6 +5250,7 @@
         "individual-choices-as-the-only-causal-levers",
         "the-paradoxical-nature-of-bystander-insights",
         "only-if-it-is-not-kept-empty",
+        "payoff-as-precondition-and-the-reversal-of-causal-direction",
         "closed-reality-in-the-pursuit-of-serendipity",
         "your-codebase-is-memory",
         "the-scaffolding-we-forget",
@@ -5803,7 +5807,7 @@
       "path": "content/posts/payoff-as-precondition-and-the-reversal-of-causal-direction.md",
       "title": "回报作为前提与因果方向的逆转 / Payoff as Precondition and the Reversal of Causal Direction",
       "hash": "09b3896bb81e",
-      "in_degree": 0,
+      "in_degree": 12,
       "out_degree": 13,
       "links_out": [
         "qian-yin-hou-guo",
@@ -5842,9 +5846,9 @@
       "slug": "performative-hindsight-that-pretends-to-be-foresight",
       "path": "content/posts/performative-hindsight-that-pretends-to-be-foresight.md",
       "title": "伪装成远见的表演性后见 / Performative Hindsight That Pretends to Be Foresight",
-      "hash": "139a08a746f0",
+      "hash": "850e16e03824",
       "in_degree": 22,
-      "out_degree": 22,
+      "out_degree": 23,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -5867,6 +5871,7 @@
         "the-utility-men-of-progress",
         "the-source-of-shared-change",
         "the-climate-problem-registers-only-as-perception",
+        "payoff-as-precondition-and-the-reversal-of-causal-direction",
         "qian-yin-hou-guo"
       ]
     },
@@ -6127,9 +6132,9 @@
       "slug": "present-contact-and-the-obscuration-of-desired-feeling",
       "path": "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md",
       "title": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling",
-      "hash": "1269873794ba",
+      "hash": "a1699ee644b4",
       "in_degree": 6,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
         "the-grammar-of-finding-and-the-fading-observer",
@@ -6139,6 +6144,7 @@
         "the-blind-spot-of-the-frame",
         "the-summary-first-reversal-and-the-command-of-yields",
         "the-irreducible-observer",
+        "payoff-as-precondition-and-the-reversal-of-causal-direction",
         "your-codebase-is-memory"
       ]
     },
@@ -6265,9 +6271,9 @@
       "slug": "qian-yin-hou-guo",
       "path": "content/posts/qian-yin-hou-guo.md",
       "title": "前因，后果 / Cause Before, Effect After",
-      "hash": "ae8884412d19",
+      "hash": "a4dea37ede47",
       "in_degree": 19,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "du-zhongwen-zhexue-jianshi-you-gan",
@@ -6288,7 +6294,8 @@
         "the-vector-and-the-puzzle-of-projections",
         "mei-you-pu-du-zhi-you-zi-du",
         "cheng-gong-xue",
-        "mi-lv-shi-jie-guo-de-biao-xiang"
+        "mi-lv-shi-jie-guo-de-biao-xiang",
+        "payoff-as-precondition-and-the-reversal-of-causal-direction"
       ]
     },
     {
@@ -8572,15 +8579,16 @@
       "slug": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
       "path": "content/posts/the-dynamically-discovered-loss-function-and-the-conversion-of-error.md",
       "title": "动态发现的损失函数与残余误差的转化 / The Dynamically Discovered Loss Function and the Conversion of Residual Error",
-      "hash": "738776d9f0a1",
+      "hash": "4880aae63259",
       "in_degree": 10,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "the-returning-signal-and-its-claim",
         "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
         "failure-as-information",
         "the-price-of-closing-optionality",
+        "payoff-as-precondition-and-the-reversal-of-causal-direction",
         "having-more-is-never-the-cause",
         "symptom-and-cause-in-the-narratives-of-progress",
         "the-descent-that-doesnt-know-where-its-going",
@@ -9670,10 +9678,11 @@
       "slug": "the-interesting-case-of-rubin",
       "path": "content/posts/the-interesting-case-of-rubin.md",
       "title": "里克·鲁宾的奇特案例与不可瞄准的乐趣 / The Interesting Case of Rubin",
-      "hash": "6b555b01e274",
+      "hash": "f041afd2cb56",
       "in_degree": 5,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
+        "payoff-as-precondition-and-the-reversal-of-causal-direction",
         "the-strategy-that-wasnt",
         "extension-and-shift",
         "the-maintenance-paradox",
@@ -9765,12 +9774,13 @@
       "slug": "the-invisible-first-move",
       "path": "content/posts/the-invisible-first-move.md",
       "title": "看不见的第一步 / The Invisible First Move",
-      "hash": "7e53c09c3b06",
+      "hash": "d24d5a5b451d",
       "in_degree": 6,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "symptom-and-cause-in-the-narratives-of-progress",
         "the-average-is-residue-not-the-engine",
+        "payoff-as-precondition-and-the-reversal-of-causal-direction",
         "not-predicting-is-predicting-without-awareness",
         "your-codebase-is-memory",
         "individual-choices-as-the-only-causal-levers"
@@ -10148,11 +10158,12 @@
       "slug": "the-map-after-the-territory",
       "path": "content/posts/the-map-after-the-territory.md",
       "title": "行路之后的地图 / The Map After the Territory",
-      "hash": "38b9b3234d52",
+      "hash": "75f02b269267",
       "in_degree": 5,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "cheng-gong-xue",
+        "payoff-as-precondition-and-the-reversal-of-causal-direction",
         "how-belief-actually-changes",
         "the-meaning-of-life-is-in-the-drafting",
         "expertise-as-reference-not-replacement",
@@ -12047,12 +12058,13 @@
       "slug": "the-strategy-that-wasnt",
       "path": "content/posts/the-strategy-that-wasnt.md",
       "title": "从未作为战略的副业 / The Strategy That Wasn't",
-      "hash": "d3b190e18de4",
+      "hash": "02beb012bbb9",
       "in_degree": 4,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "constraints_are_ground",
         "individual-choices-as-the-only-causal-levers",
+        "payoff-as-precondition-and-the-reversal-of-causal-direction",
         "the-maintenance-paradox",
         "your-codebase-is-memory"
       ]
@@ -20018,6 +20030,12 @@
     },
     {
       "from": "causality-all-the-way",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "回报作为前提与因果方向的逆转"
+    },
+    {
+      "from": "causality-all-the-way",
       "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
       "label": "现实扭曲力场指认的是封闭的地图"
@@ -20051,6 +20069,12 @@
       "to": "price-as-utterance-understanding-as-trade",
       "rel": "points_to",
       "label": "Price as Utterance, Understanding as Trade"
+    },
+    {
+      "from": "causality-all-the-way",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "Payoff as Precondition and the Reversal of Causal Direction"
     },
     {
       "from": "causality-all-the-way",
@@ -21221,6 +21245,18 @@
       "to": "the-bank-shot-and-the-magic-trick",
       "rel": "points_to",
       "label": "The Bank Shot and the Magic Trick"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "回报作为前提与因果方向的逆转"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "Payoff as Precondition and the Reversal of Causal Direction"
     },
     {
       "from": "cheng-gong-xue",
@@ -26489,6 +26525,18 @@
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "回报作为前提与因果方向的逆转"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "Payoff as Precondition and the Reversal of Causal Direction"
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
@@ -45560,6 +45608,18 @@
     },
     {
       "from": "not-predicting-is-predicting-without-awareness",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "回报作为前提与因果方向的逆转"
+    },
+    {
+      "from": "not-predicting-is-predicting-without-awareness",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "Payoff as Precondition and the Reversal of Causal Direction"
+    },
+    {
+      "from": "not-predicting-is-predicting-without-awareness",
       "to": "closed-reality-in-the-pursuit-of-serendipity",
       "rel": "points_to",
       "label": "追求机缘中的封闭现实"
@@ -50156,9 +50216,21 @@
     },
     {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "回报作为前提与因果方向的逆转"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
       "to": "qian-yin-hou-guo",
       "rel": "points_to",
       "label": "前因，后果"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "Payoff as Precondition and the Reversal of Causal Direction"
     },
     {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
@@ -52172,9 +52244,21 @@
     },
     {
       "from": "present-contact-and-the-obscuration-of-desired-feeling",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "回报作为前提与因果方向的逆转"
+    },
+    {
+      "from": "present-contact-and-the-obscuration-of-desired-feeling",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "present-contact-and-the-obscuration-of-desired-feeling",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "Payoff as Precondition and the Reversal of Causal Direction"
     },
     {
       "from": "present-contact-and-the-obscuration-of-desired-feeling",
@@ -53384,6 +53468,12 @@
     },
     {
       "from": "qian-yin-hou-guo",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "回报作为前提与因果方向的逆转"
+    },
+    {
+      "from": "qian-yin-hou-guo",
       "to": "cheng-gong-xue",
       "rel": "points_to",
       "label": "Theories After Success"
@@ -53393,6 +53483,12 @@
       "to": "mi-lv-shi-jie-guo-de-biao-xiang",
       "rel": "points_to",
       "label": "Power Law Is the Surface of Outcomes"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "Payoff as Precondition and the Reversal of Causal Direction"
     },
     {
       "from": "rationality-never-travels-across-the-mind",
@@ -68234,9 +68330,21 @@
     },
     {
       "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "回报作为前提与因果方向的逆转"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
       "to": "the-price-of-closing-optionality",
       "rel": "points_to",
       "label": "The Price of Closing Optionality"
+    },
+    {
+      "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "Payoff as Precondition and the Reversal of Causal Direction"
     },
     {
       "from": "the-dynamically-discovered-loss-function-and-the-conversion-of-error",
@@ -75356,9 +75464,21 @@
     },
     {
       "from": "the-interesting-case-of-rubin",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "回报作为前提与因果方向的逆转"
+    },
+    {
+      "from": "the-interesting-case-of-rubin",
       "to": "the-strategy-that-wasnt",
       "rel": "points_to",
       "label": "从未作为战略的副业"
+    },
+    {
+      "from": "the-interesting-case-of-rubin",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "Payoff as Precondition and the Reversal of Causal Direction"
     },
     {
       "from": "the-interesting-case-of-rubin",
@@ -75941,6 +76061,18 @@
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
       "label": "The Average Is Residue, Not the Engine"
+    },
+    {
+      "from": "the-invisible-first-move",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "回报作为前提与因果方向的逆转"
+    },
+    {
+      "from": "the-invisible-first-move",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "Payoff as Precondition and the Reversal of Causal Direction"
     },
     {
       "from": "the-invisible-first-move",
@@ -78146,9 +78278,21 @@
     },
     {
       "from": "the-map-after-the-territory",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "回报作为前提与因果方向的逆转"
+    },
+    {
+      "from": "the-map-after-the-territory",
       "to": "cheng-gong-xue",
       "rel": "points_to",
       "label": "Theories After Success"
+    },
+    {
+      "from": "the-map-after-the-territory",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "Payoff as Precondition and the Reversal of Causal Direction"
     },
     {
       "from": "the-map-after-the-territory",
@@ -91445,6 +91589,18 @@
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-strategy-that-wasnt",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "回报作为前提与因果方向的逆转"
+    },
+    {
+      "from": "the-strategy-that-wasnt",
+      "to": "payoff-as-precondition-and-the-reversal-of-causal-direction",
+      "rel": "points_to",
+      "label": "Payoff as Precondition and the Reversal of Causal Direction"
     },
     {
       "from": "the-strategy-that-wasnt",

@@ -112,9 +112,9 @@ The prescription to "wait until the path is clear" is not merely a suboptimal st
 
 Clarity is not a weather that descends on an industry of its own accord. Clarity is the by-product left after someone has already gone into the fog, borne the risk of ambiguity and established empirical proof of a viable path.
 
-在投入之前要求明朗，等于放下了让超越成为可能的两种能力：一是自主的区分，在共识批准之前认出结构杠杆的眼光；二是未经验证的坚持，在没有社会确认、外部补贴或公众喝彩的情况下，维持严谨复利的能动性。
+在投入之前要求明朗，等于放下了让超越成为可能的两种能力：一是自主的区分，在共识批准之前认出结构杠杆的眼光；二是未经验证的坚持，在没有社会确认、外部补贴或公众喝彩的情况下，维持严谨复利的能动性。[回报作为前提与因果方向的逆转](../payoff-as-precondition-and-the-reversal-of-causal-direction/)直接追溯了这种因果逆转：把下游副产品设作上游行动之前的前提，会阻断产生它的生成序列。
 
-Demanding clarity before committing sets down the two capacities that make overtaking possible: autonomous distinction, the foresight to recognize structural leverage before consensus ratifies it; and unvalidated endurance, the agency to sustain rigorous compounding without social confirmation, outside subsidy or public cheering.
+Demanding clarity before committing sets down the two capacities that make overtaking possible: autonomous distinction, the foresight to recognize structural leverage before consensus ratifies it; and unvalidated endurance, the agency to sustain rigorous compounding without social confirmation, outside subsidy or public cheering. [Payoff as Precondition and the Reversal of Causal Direction](../payoff-as-precondition-and-the-reversal-of-causal-direction/) traces this causal reversal directly: installing a downstream by-product as the precondition ahead of the upstream move blocks the generating sequence that produces it.
 
 等到明朗对旁观者可见，早动的人已经筑起难以逾越的护城河：默会的知识、工具的整合、架构上的复利。一种以等待明朗为前提的策略，会让人一直留在被颠覆的一边。[不预测是没有觉察的预测](../not-predicting-is-predicting-without-awareness/)描绘的正是这个陷阱：拒绝选择一个未经验证的方向，并不能保持中立；它只是把跟随者绑在昨天领先者正在过时的假设上。
 

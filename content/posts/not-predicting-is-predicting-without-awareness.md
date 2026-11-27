@@ -56,9 +56,9 @@ The Mind does not stop choosing. It changes the style of its choosing. Effortful
 
 The empty-bowl image captures both the power and the limit of this stance. Emptiness is useful because it creates capacity. Usefulness is never located in emptiness alone; it arises from the relationship between capacity and content, the bowl being valuable precisely because it can be empty *and* because it can be filled. When the bowl is deliberately kept near-empty as a permanent method, the range of possible fullness is narrowed in advance. What began as protection against wrong predictions becomes a new constraint. Emptiness serves only while it is temporary; held as a preferred permanent method, it is a state preserved past its step, which is lag. [Only If It Is Not Kept Empty](../only-if-it-is-not-kept-empty/) traces both faces of that residual capacity in full.
 
-在西弗斯的例子里，严格的推迟防住了某些错误，也把梦想中的家限定在能从剥到最简的起点长出来的东西里。需要临时填充的更大胆的形式被放在了一边。起初那几间小屋，仍是一个家被允许成为什么的全部范围，而这片范围早已由别人的预测画出。
+在西弗斯的例子里，严格的推迟防住了某些错误，也把梦想中的家限定在能从剥到最简的起点长出来的东西里。需要临时填充的更大胆的形式被放在了一边。起初那几间小屋，仍是一个家被允许成为什么的全部范围，而这片范围早已由别人的预测画出。[回报作为前提与因果方向的逆转](../payoff-as-precondition-and-the-reversal-of-causal-direction/)追溯了同一种因果逆转：投入之前要求所需已被证明，便是把下游结果设作准入门槛，安在能生成更大胆形式的上游临时一步之前。
 
-In Sivers' case the rigorous deferral safeguards against certain errors while confining the dream house to what can emerge from the stripped-down starting point. Bolder forms that would require provisional filling are set aside. The starting cabins remain the exhaustive field of what a home is allowed to become, a field already drawn by others' predictions.
+In Sivers' case the rigorous deferral safeguards against certain errors while confining the dream house to what can emerge from the stripped-down starting point. Bolder forms that would require provisional filling are set aside. The starting cabins remain the exhaustive field of what a home is allowed to become, a field already drawn by others' predictions. [Payoff as Precondition and the Reversal of Causal Direction](../payoff-as-precondition-and-the-reversal-of-causal-direction/) traces that same causal reversal: requiring demonstrated need before committing installs a downstream outcome as an entry gate ahead of the upstream provisional step capable of generating bolder forms.
 
 ## 六、 空着的日程是同一种倒置 / 6. The Empty Calendar Is the Same Inversion
 
