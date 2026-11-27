@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-26T22:28:01.671Z",
+    "generated_at": "2026-11-27T05:20:36.674Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -204,7 +204,7 @@
       "content/posts/qian-yin-hou-guo.md": "ae8884412d19",
       "content/posts/rationality-never-travels-across-the-mind.md": "3cb2e68dd3f2",
       "content/posts/reality-doesnt-invoice-by-committee.md": "a8efdcf67130",
-      "content/posts/reality-is-the-minds-ongoing-realization.md": "812768c94db5",
+      "content/posts/reality-is-the-minds-ongoing-realization.md": "f1614ed39064",
       "content/posts/rebellion-as-symptom-not-property.md": "173dbf1aeb71",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "a1a865aa2e91",
       "content/posts/relative-differentials-and-the-compounding-of-comparison.md": "fd12c5bc620e",
@@ -284,7 +284,7 @@
       "content/posts/the-discrete-fold.md": "5928db9811b8",
       "content/posts/the-dissolution-of-the-great-reversal.md": "67837dcf960d",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cf61f9e9c832",
-      "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "14eea56f6141",
+      "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "c00b5490e42d",
       "content/posts/the-dual-cut.md": "f749f9ebf880",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "83ebcde0fc1b",
       "content/posts/the-extendable-horizon.md": "b2ada327f796",
@@ -347,7 +347,7 @@
       "content/posts/the-local-trap-of-technological-change.md": "05cdabe9b869",
       "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "a4b2df46f59c",
       "content/posts/the-loop-accelerates.md": "e148a32baf20",
-      "content/posts/the-loop-that-cant-see-itself.md": "93b89204c643",
+      "content/posts/the-loop-that-cant-see-itself.md": "b3830610bccd",
       "content/posts/the-maintenance-paradox.md": "3f1f65a8893d",
       "content/posts/the-map-after-the-territory.md": "38b9b3234d52",
       "content/posts/the-mark-and-the-act.md": "8466f1098225",
@@ -6301,7 +6301,7 @@
       "slug": "reality-is-the-minds-ongoing-realization",
       "path": "content/posts/reality-is-the-minds-ongoing-realization.md",
       "title": "现实是心智持续的实现 / Reality Is the Mind's Ongoing Realization",
-      "hash": "812768c94db5",
+      "hash": "f1614ed39064",
       "in_degree": 27,
       "out_degree": 28,
       "links_out": [
@@ -8492,7 +8492,7 @@
       "slug": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "path": "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md",
       "title": "对“AI 糟粕”的反感是反复出现的模式 / The Distaste for “AI Slop” Is a Recurring Pattern",
-      "hash": "14eea56f6141",
+      "hash": "c00b5490e42d",
       "in_degree": 14,
       "out_degree": 16,
       "links_out": [
@@ -10044,7 +10044,7 @@
       "slug": "the-loop-that-cant-see-itself",
       "path": "content/posts/the-loop-that-cant-see-itself.md",
       "title": "看不见自身的回路 / The Loop That Can't See Itself",
-      "hash": "93b89204c643",
+      "hash": "b3830610bccd",
       "in_degree": 4,
       "out_degree": 14,
       "links_out": [
@@ -10056,11 +10056,11 @@
         "grok-420-framework-drift",
         "the-freedom-of-will-to-deny-itself",
         "agency-contradiction-and-the-relocation-of-power",
-        "extended-cognition-refined",
         "the-defining-seat",
         "self-image-speaks-as-if-from-nowhere",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "your-codebase-is-memory",
+        "extended-cognition-refined",
         "mistaking-the-expression-for-the-intelligence"
       ]
     },
@@ -77539,18 +77539,6 @@
     },
     {
       "from": "the-loop-that-cant-see-itself",
-      "to": "extended-cognition-refined",
-      "rel": "points_to",
-      "label": "作为认知主动延伸的工具"
-    },
-    {
-      "from": "the-loop-that-cant-see-itself",
-      "to": "extended-cognition-refined",
-      "rel": "points_to",
-      "label": "Tools as Active Extensions of Cognition"
-    },
-    {
-      "from": "the-loop-that-cant-see-itself",
       "to": "the-defining-seat",
       "rel": "points_to",
       "label": "定义者的席位与离地的幻觉"
@@ -77587,6 +77575,12 @@
     },
     {
       "from": "the-loop-that-cant-see-itself",
+      "to": "extended-cognition-refined",
+      "rel": "points_to",
+      "label": "作为认知主动延伸的工具"
+    },
+    {
+      "from": "the-loop-that-cant-see-itself",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
       "label": "No Outside"
@@ -77596,6 +77590,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-loop-that-cant-see-itself",
+      "to": "extended-cognition-refined",
+      "rel": "points_to",
+      "label": "Tools as Active Extensions of Cognition"
     },
     {
       "from": "the-loop-that-cant-see-itself",

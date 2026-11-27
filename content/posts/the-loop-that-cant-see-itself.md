@@ -100,9 +100,9 @@ When external attribution repeats, each pass places both the constraint and the 
 
 ## 四、 作为存在延伸的观察 / 4. Observation as Extension of Being
 
-唯有在假定观察者与被观察者之间横亘着一道鸿沟时，上述认识论边界看起来才像是一堵悲剧性的高墙。然而观察与存在并无割裂：正如[作为认知主动延伸的工具](../extended-cognition-refined/)所追溯的，观察正是存在对自身的延伸与促动，只是在冗余滞后下被倒果为因地误读成了来自无何有之乡的超然旁观。
+唯有在假定观察者与被观察者之间横亘着一道鸿沟时，上述认识论边界看起来才像是一堵悲剧性的高墙。然而观察与存在并无割裂：观察正是存在对自身的延伸与促动，只是在冗余滞后下被倒果为因地误读成了来自无何有之乡的超然旁观。
 
-The epistemic limit looks like a tragic barrier only under the assumption of an observer and an observed separated by a chasm. Yet observation and being do not separate: observation is being extending and actuating itself, as [Tools as Active Extensions of Cognition](../extended-cognition-refined/) traces, misread backward under excess lag as detached spectatorship from nowhere.
+The epistemic limit looks like a tragic barrier only under the assumption of an observer and an observed separated by a chasm. Yet observation and being do not separate: observation is being extending and actuating itself, misread backward under excess lag as detached spectatorship from nowhere.
 
 自动化讨论之所以失明，不是因为评论者缺少一台能窥探劳动者大脑的显微镜，而是因为它预设了一个并不存在的外部看台——即[定义者的席位与离地的幻觉](../the-defining-seat/)与[自我形象仿佛从无处发声](../self-image-speaks-as-if-from-nowhere/)所拆解的虚构外部视角。每一个参与者都在运行自己的回路、解读自己的后果，并给这一活动贴上“观察自动化”的标签。
 
@@ -110,9 +110,9 @@ Automation discourse is blind not because commentators lack a microscope into wo
 
 ## 五、 有界的自指 / 5. Bounded Self-Reference
 
-人类操作者与受训模型之间的结构性不对称正在于此。鲜活的人类回路具有递归自指性：它的解释步骤能够当场捕捉到自己对因果的错位归因，并重新划定自身的框架，如[没有外部](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)所确立的那样从内部闭合检验回路。而受训模型则是在既往训练所固化的权重内部执行前向传播；正如[你的代码库即是记忆](../your-codebase-is-memory/)所阐明的，无论是权重矩阵还是代码库，都是过往切分所沉淀的外化记忆库，其内部路径唯有在语境边界处受到鲜活心智的推动时才会激活。
+人类操作者与受训模型之间的结构性不对称正在于此。鲜活的人类回路具有递归自指性：它的解释步骤能够当场捕捉到自己对因果的错位归因，并重新划定自身的框架，如[没有外部](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)所确立的那样从内部闭合检验回路。而受训模型则是在既往训练所固化的权重内部执行前向传播；正如[你的代码库即是记忆](../your-codebase-is-memory/)所阐明的，无论是权重矩阵还是代码库，都是过往切分所沉淀的外化记忆库，其内部路径唯有在语境边界处受到鲜活心智的推动时才会激活——经由持续的主动耦合延伸认知，而不将发起区分的心智消解入器物之中，正如[作为认知主动延伸的工具](../extended-cognition-refined/)所追溯的那样。
 
-Here lies the structural asymmetry between the human operator and the trained model. A living human loop is recursively self-referential: its interpretation step can catch itself misattributing causation and redraw its own frame, closing the testing circuit from within as [No Outside](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/) establishes. A trained model executes the forward pass within weights fixed by prior training; as [Your Codebase Is Memory](../your-codebase-is-memory/) demonstrates, both a weight matrix and a codebase are externalized memory repositories of prior cuts whose pathways activate only when pushed by a living mind at the context boundary.
+Here lies the structural asymmetry between the human operator and the trained model. A living human loop is recursively self-referential: its interpretation step can catch itself misattributing causation and redraw its own frame, closing the testing circuit from within as [No Outside](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/) establishes. A trained model executes the forward pass within weights fixed by prior training; as [Your Codebase Is Memory](../your-codebase-is-memory/) demonstrates, both a weight matrix and a codebase are externalized memory repositories of prior cuts whose pathways activate only when pushed by a living mind at the context boundary—extending cognition through ongoing active coupling without dissolving the initiating mind into the artifact, as [Tools as Active Extensions of Cognition](../extended-cognition-refined/) traces.
 
 第二轮提示词并没有赋予模型什么新官能；它只是阻断了过拟合的启发式路径，让权重中一条较少被踏足的投射得以激发。模型的回路运转得极为流畅，但改变其运转方向的支点始终落在语境边界上——也就是鲜活心智作用于其外化记忆的那道区分，恰如[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)在提示续写的外层回路中所揭示的那样。
 
