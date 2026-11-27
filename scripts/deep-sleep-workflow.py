@@ -24,13 +24,12 @@ import subprocess
 
 ROOT = Path(WORKSPACES[0]) if "WORKSPACES" in globals() and WORKSPACES else Path.cwd()
 SITE_BASE = "https://powerpig99.github.io/not-a-toe"
-TRACKED_STAGE3_PATHS = [
+TRACKED_STAGE3_PATHS = (
     "content/posts/",
     "content/book/",
-    "data/",
-    "assets/",
+    "data/title-translations.json",
     "docs/posts.graph.json",
-]
+)
 IGNORED_REPO_PREFIXES = (
     ".git",
     "work",
@@ -510,10 +509,10 @@ async def select_next_batch(batch_size: int, part_filter: str | None) -> dict:
     }
 
 
-def target_path_for(slug: str) -> tuple[bool, Path]:
+def target_path_for(slug: str, *, root: Path = ROOT) -> tuple[bool, Path]:
     if slug.startswith("_book:"):
-        return True, ROOT / "content" / "book" / f"{slug[6:]}.md"
-    return False, ROOT / "content" / "posts" / f"{slug}.md"
+        return True, root / "content" / "book" / f"{slug[6:]}.md"
+    return False, root / "content" / "posts" / f"{slug}.md"
 
 
 def live_url_for(slug: str) -> str:
@@ -901,6 +900,123 @@ async def verify_live_urls(delta_slugs: list[str]) -> list[str]:
     return bad
 
 
+def is_in_stage3_scope(rel_path: str) -> bool:
+    """Return True iff repo-relative POSIX path falls inside strict Stage 3 scope."""
+    rel = str(rel_path).strip().replace("\\", "/")
+    if not rel or rel.startswith("/"):
+        return False
+    parts = Path(rel).parts
+    if any(part in ("", ".", "..") for part in parts):
+        return False
+    norm = os.path.normpath(rel).replace("\\", "/")
+    if norm != rel:
+        return False
+    for entry in TRACKED_STAGE3_PATHS:
+        if entry.endswith("/"):
+            if rel.startswith(entry) and len(rel) > len(entry):
+                return True
+        elif rel == entry:
+            return True
+    return False
+
+
+def parse_nul_paths(stdout: str) -> list[str]:
+    """Parse NUL-delimited path output (e.g. `git diff --cached --name-only -z`)."""
+    paths: list[str] = []
+    seen: set[str] = set()
+    for token in stdout.split("\0"):
+        if token and token not in seen:
+            seen.add(token)
+            paths.append(token)
+    return paths
+
+
+async def list_staged_paths(*, root: Path = ROOT) -> list[str]:
+    """Return sorted repo-relative paths currently staged in the git index."""
+    proc = await run_cmd(
+        ["git", "diff", "--cached", "--name-only", "-z"],
+        cwd=root,
+        check=True,
+    )
+    return sorted(parse_nul_paths(proc.stdout))
+
+
+async def snapshot_dirty_paths(*, root: Path = ROOT) -> set[str]:
+    """Return the set of repo-relative dirty/untracked paths from `git status --porcelain -z -uall`."""
+    proc = await run_cmd(
+        ["git", "status", "--porcelain", "-z", "-uall"],
+        cwd=root,
+        check=True,
+    )
+    return set(parse_porcelain_z_paths(proc.stdout))
+
+
+async def prepare_stage3_git_snapshot(*, root: Path = ROOT) -> set[str]:
+    """Fail closed if the git index has pre-staged entries, then snapshot working-tree dirty paths."""
+    staged = await list_staged_paths(root=root)
+    if staged:
+        raise RuntimeError(
+            "Refusing Stage 3 assembly with pre-staged git index entries: "
+            + ", ".join(staged)
+        )
+    return await snapshot_dirty_paths(root=root)
+
+
+def compute_stage3_paths(
+    delta_slugs: list[str],
+    pre_dirty: set[str],
+    post_dirty: set[str],
+    *,
+    root: Path = ROOT,
+) -> list[str]:
+    """Compute exact sorted repo-relative paths belonging to this Stage 3 batch."""
+    batch_targets = {
+        target_path_for(slug, root=root)[1].relative_to(root).as_posix()
+        for slug in delta_slugs
+    } | {"docs/posts.graph.json"}
+    out_of_scope_targets = sorted(p for p in batch_targets if not is_in_stage3_scope(p))
+    if out_of_scope_targets:
+        raise RuntimeError(
+            "Stage 3 batch target(s) outside strict scope: "
+            + ", ".join(out_of_scope_targets)
+        )
+    newly_dirty_in_scope = {
+        p for p in (post_dirty - pre_dirty) if is_in_stage3_scope(p)
+    }
+    return sorted(p for p in (batch_targets | newly_dirty_in_scope) if p in post_dirty)
+
+
+async def stage_stage3_paths(
+    delta_slugs: list[str],
+    pre_dirty: set[str],
+    *,
+    root: Path = ROOT,
+) -> list[str]:
+    """Stage strictly this batch's Stage 3 paths and assert exact cached-index parity."""
+    post_dirty = await snapshot_dirty_paths(root=root)
+    stage_paths = compute_stage3_paths(delta_slugs, pre_dirty, post_dirty, root=root)
+
+    pre_add_staged = await list_staged_paths(root=root)
+    if pre_add_staged:
+        raise RuntimeError(
+            "Refusing Stage 3 git add: index has unexpected staged entries: "
+            + ", ".join(pre_add_staged)
+        )
+    if not stage_paths:
+        return []
+
+    await run_cmd(["git", "add", "--", *stage_paths], cwd=root, check=True)
+    actual_staged = await list_staged_paths(root=root)
+    out_of_scope = [p for p in actual_staged if not is_in_stage3_scope(p)]
+    if actual_staged != stage_paths or out_of_scope:
+        await run_cmd(["git", "reset", "--quiet", "--", *stage_paths], cwd=root, check=False)
+        raise RuntimeError(
+            f"Stage 3 staged index mismatch: expected={stage_paths}, "
+            f"actual={actual_staged}, out_of_scope={out_of_scope}"
+        )
+    return stage_paths
+
+
 async def run_batch_stage3(
     batch_num: int,
     completed_nodes: list[dict],
@@ -938,6 +1054,7 @@ async def run_batch_stage3(
         await run_cmd(["python3", "scripts/check-signoffs.py", *completed_slugs], check=True)
         delta_slugs = [r["slug"] for r in completed_nodes if r["verdict"] != "NO_DELTA"]
         if delta_slugs:
+            pre_dirty = await prepare_stage3_git_snapshot(root=ROOT)
             await run_cmd(["python3", "scripts/interleave-post.py", *delta_slugs], check=True)
             essay_deltas = [s for s in delta_slugs if not s.startswith("_book:")]
             if essay_deltas:
@@ -946,12 +1063,8 @@ async def run_batch_stage3(
             await run_cmd(["node", "build.mjs"], check=True)
             await run_cmd(["node", "scripts/project-posts-graph.mjs"], check=True)
 
-            dirty = await run_cmd(
-                ["git", "status", "--porcelain", "--", *TRACKED_STAGE3_PATHS],
-                check=True,
-            )
-            if dirty.stdout.strip():
-                await run_cmd(["git", "add", "--", *TRACKED_STAGE3_PATHS], check=True)
+            stage_paths = await stage_stage3_paths(delta_slugs, pre_dirty, root=ROOT)
+            if stage_paths:
                 slug_summary = ", ".join(delta_slugs[:3])
                 if len(delta_slugs) > 3:
                     slug_summary = f"refine {len(delta_slugs)} nodes ({slug_summary}, ...)"
