@@ -359,8 +359,13 @@ def synth_kokoro_batch(jobs: list[tuple[str, str, bool]], voice: str = "bm_georg
     return out_results
 
 
-def synth_voxcpm_batch(jobs: list[tuple[str, str, bool]], scratch_dir: Path | None = None) -> list[tuple[str, str, float, int]]:
-    """Synthesize Chinese tracks with local VoxCPM2 (voxcpm-man-zh) + mlx_whisper backcheck/reseed loop."""
+def synth_voxcpm_batch(
+    jobs: list[tuple[str, str, bool]],
+    ref_dir: Path = VOXCPM_REF,
+    voice_label: str = VOICES["zh"],
+    scratch_dir: Path | None = None,
+) -> list[tuple[str, str, float, int]]:
+    """Synthesize Chinese tracks with local VoxCPM2 + mlx_whisper backcheck/reseed loop."""
     import tempfile
 
     voice_py = VOXCPM_VENV / "bin" / "python"
@@ -368,8 +373,8 @@ def synth_voxcpm_batch(jobs: list[tuple[str, str, bool]], scratch_dir: Path | No
     backcheck_py = VOXCPM_TOOLS / "backcheck_mlx.py"
     if not voice_py.exists() or not worker_py.exists():
         raise SystemExit(f"VoxCPM2 toolchain missing: {voice_py} / {worker_py}")
-    if not (VOXCPM_REF / "man.zh.wav").exists() or not (VOXCPM_REF / "voice.json").exists():
-        raise SystemExit(f"voxcpm-man-zh reference missing in {VOXCPM_REF}")
+    if not (ref_dir / "man.zh.wav").exists() or not (ref_dir / "voice.json").exists():
+        raise SystemExit(f"VoxCPM2 reference missing in {ref_dir}")
 
     dest_dir = OUT_DIR / "zh"
     dest_dir.mkdir(parents=True, exist_ok=True)
@@ -388,7 +393,7 @@ def synth_voxcpm_batch(jobs: list[tuple[str, str, bool]], scratch_dir: Path | No
     if not todo:
         return [out_results[sid] for sid, _, _ in jobs]
 
-    env = dict(os.environ, FB_VOICE_REF=str(VOXCPM_REF), HF_HUB_OFFLINE="1")
+    env = dict(os.environ, FB_VOICE_REF=str(ref_dir), HF_HUB_OFFLINE="1")
     tmp_ctx = tempfile.TemporaryDirectory() if scratch_dir is None else None
     takes_dir = Path(tmp_ctx.name) if tmp_ctx is not None else scratch_dir
     takes_dir.mkdir(parents=True, exist_ok=True)
@@ -467,7 +472,7 @@ def synth_voxcpm_batch(jobs: list[tuple[str, str, bool]], scratch_dir: Path | No
             dest = dest_dir / f"{item['sid']}.mp3"
             dur, size = master_to_mp3(dest, wav_path=best_wav)
             tag = "OK" if best_rep["ok"] else f"BEST(sim={best_rep.get('sim', 0):.2f}: {'; '.join(best_rep.get('hard', []))})"
-            print(f"  ✓ zh/{item['sid']}.mp3 [voxcpm2/voxcpm-man-zh s{best_seed} {tag}] ({dur:.2f}s, {size/1024:.0f} KB)", flush=True)
+            print(f"  ✓ zh/{item['sid']}.mp3 [voxcpm2/{voice_label} s{best_seed} {tag}] ({dur:.2f}s, {size/1024:.0f} KB)", flush=True)
             out_results[item["sid"]] = ("zh", item["sid"], dur, size)
 
         print(f"[voxcpm2] Backcheck summary: {passed}/{len(todo)} slides passed cleanly.", flush=True)
@@ -484,6 +489,8 @@ def main() -> None:
     parser.add_argument("--lang", choices=["en", "zh", "all"], default="all", help="Which language(s) to regenerate")
     parser.add_argument("--en-voice", default=VOICES["en"], help="Kokoro voice for English (default: bm_george)")
     parser.add_argument("--en-speed", type=float, default=KOKORO_SPEED, help="Kokoro speech speed for English")
+    parser.add_argument("--zh-voice", default=VOICES["zh"], help="Voice label recorded in manifest for Chinese")
+    parser.add_argument("--voxcpm-ref", type=Path, default=VOXCPM_REF, help="Dir containing man.zh.wav + voice.json")
     parser.add_argument("--voxcpm-scratch", type=Path, default=None, help="Optional scratch dir to cache VoxCPM2 WAV takes")
     args = parser.parse_args()
 
@@ -499,13 +506,13 @@ def main() -> None:
     en_jobs = [(sid, en_text, args.force and args.lang in ("en", "all")) for sid, en_text, _ in SCRIPTS]
     results.extend(synth_kokoro_batch(en_jobs, voice=args.en_voice, speed=args.en_speed))
 
-    # 2. Chinese via local VoxCPM2 (voxcpm-man-zh) + mlx_whisper backcheck
+    # 2. Chinese via local VoxCPM2 + mlx_whisper backcheck
     zh_jobs = [(sid, zh_text, args.force and args.lang in ("zh", "all")) for sid, _, zh_text in SCRIPTS]
-    results.extend(synth_voxcpm_batch(zh_jobs, scratch_dir=args.voxcpm_scratch))
+    results.extend(synth_voxcpm_batch(zh_jobs, ref_dir=args.voxcpm_ref, voice_label=args.zh_voice, scratch_dir=args.voxcpm_scratch))
 
     manifest = {
         "engines": ENGINES,
-        "voices": {"en": args.en_voice, "zh": VOICES["zh"]},
+        "voices": {"en": args.en_voice, "zh": args.zh_voice},
         "slides": {sid: {} for sid, _, _ in SCRIPTS},
     }
     total_bytes = 0
