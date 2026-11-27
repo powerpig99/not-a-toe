@@ -15,6 +15,7 @@ import concurrent.futures
 import json
 import os
 import subprocess
+import sys
 import time
 import urllib.error
 import urllib.request
@@ -22,21 +23,24 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT_DIR = ROOT / "assets" / "audio" / "guide"
-MODEL = "gemini-2.5-flash-preview-tts"
 KOKORO_MODEL = Path.home() / ".cache" / "hyperframes" / "tts" / "models" / "kokoro-v1.0.onnx"
 KOKORO_VOICES = Path.home() / ".cache" / "hyperframes" / "tts" / "voices" / "voices-v1.0.bin"
+VOXCPM_VENV = Path(os.environ.get("FB_VOICE_VENV", str(Path.home() / "Projects" / "brief" / "tools" / "voice" / ".venv")))
+VOXCPM_REF = Path(os.environ.get("FB_VOICE_REF", str(Path.home() / "Projects" / "brief" / "ref")))
+VOXCPM_TOOLS = Path.home() / "Projects" / "brief" / "pipeline" / "tools"
 
 VOICES = {
     "en": "bm_george",
-    "zh": "Orus",
+    "zh": "voxcpm-man-zh",
 }
 
 ENGINES = {
     "en": "kokoro-v1.0",
-    "zh": MODEL,
+    "zh": "voxcpm2",
 }
 
 KOKORO_SPEED = 0.96
+VOXCPM_SEEDS = [7, 11, 13, 17]
 
 STYLE_PROMPTS = {
     "en": (
@@ -320,14 +324,16 @@ def master_to_mp3(dest: Path, *, pcm_bytes: bytes | None = None, wav_path: Path 
 
 def synth_kokoro_batch(jobs: list[tuple[str, str, bool]], voice: str = "bm_george", speed: float = KOKORO_SPEED) -> list[tuple[str, str, float, int]]:
     import tempfile
-    import kokoro_onnx
-    import soundfile as sf
-
-    if not KOKORO_MODEL.exists() or not KOKORO_VOICES.exists():
-        raise SystemExit(f"Kokoro ONNX assets missing at {KOKORO_MODEL} / {KOKORO_VOICES}")
 
     need_synth = any(force or not (OUT_DIR / "en" / f"{sid}.mp3").exists() or (OUT_DIR / "en" / f"{sid}.mp3").stat().st_size <= 8000 for sid, _, force in jobs)
-    kokoro = kokoro_onnx.Kokoro(str(KOKORO_MODEL), str(KOKORO_VOICES)) if need_synth else None
+    kokoro = None
+    sf = None
+    if need_synth:
+        import kokoro_onnx
+        import soundfile as sf
+        if not KOKORO_MODEL.exists() or not KOKORO_VOICES.exists():
+            raise SystemExit(f"Kokoro ONNX assets missing at {KOKORO_MODEL} / {KOKORO_VOICES}")
+        kokoro = kokoro_onnx.Kokoro(str(KOKORO_MODEL), str(KOKORO_VOICES))
 
     out_results = []
     dest_dir = OUT_DIR / "en"
@@ -353,71 +359,132 @@ def synth_kokoro_batch(jobs: list[tuple[str, str, bool]], voice: str = "bm_georg
     return out_results
 
 
-def synth_one(api_key: str, lang: str, slide_id: str, text: str, force: bool) -> tuple[str, str, float, int]:
-    dest_dir = OUT_DIR / lang
+def synth_voxcpm_batch(jobs: list[tuple[str, str, bool]], scratch_dir: Path | None = None) -> list[tuple[str, str, float, int]]:
+    """Synthesize Chinese tracks with local VoxCPM2 (voxcpm-man-zh) + mlx_whisper backcheck/reseed loop."""
+    import tempfile
+
+    voice_py = VOXCPM_VENV / "bin" / "python"
+    worker_py = VOXCPM_TOOLS / "voxcpm_worker.py"
+    backcheck_py = VOXCPM_TOOLS / "backcheck_mlx.py"
+    if not voice_py.exists() or not worker_py.exists():
+        raise SystemExit(f"VoxCPM2 toolchain missing: {voice_py} / {worker_py}")
+    if not (VOXCPM_REF / "man.zh.wav").exists() or not (VOXCPM_REF / "voice.json").exists():
+        raise SystemExit(f"voxcpm-man-zh reference missing in {VOXCPM_REF}")
+
+    dest_dir = OUT_DIR / "zh"
     dest_dir.mkdir(parents=True, exist_ok=True)
-    dest = dest_dir / f"{slide_id}.mp3"
 
-    if dest.exists() and dest.stat().st_size > 8000 and not force:
-        dur = probe_duration(dest)
-        return lang, slide_id, dur, dest.stat().st_size
+    todo = []
+    out_results: dict[str, tuple[str, str, float, int]] = {}
+    for sid, text, force in jobs:
+        dest = dest_dir / f"{sid}.mp3"
+        if dest.exists() and dest.stat().st_size > 8000 and not force:
+            out_results[sid] = ("zh", sid, probe_duration(dest), dest.stat().st_size)
+        else:
+            # Replace Chinese em-dashes with commas for clean VoxCPM2 cadence
+            clean_text = text.replace("——", "，")
+            todo.append({"sid": sid, "text": clean_text, "seeds": [VOXCPM_SEEDS[0]], "reports": [], "wavs": []})
 
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent?key={api_key}"
-    payload = json.dumps(
-        {
-            "contents": [{"parts": [{"text": STYLE_PROMPTS[lang] + text}]}],
-            "generationConfig": {
-                "responseModalities": ["AUDIO"],
-                "speechConfig": {
-                    "voiceConfig": {
-                        "prebuiltVoiceConfig": {"voiceName": VOICES[lang]}
-                    }
-                },
-            },
-        }
-    ).encode("utf-8")
+    if not todo:
+        return [out_results[sid] for sid, _, _ in jobs]
 
-    pcm_bytes = None
-    last_err = None
-    for attempt in range(1, 6):
+    env = dict(os.environ, FB_VOICE_REF=str(VOXCPM_REF), HF_HUB_OFFLINE="1")
+    tmp_ctx = tempfile.TemporaryDirectory() if scratch_dir is None else None
+    takes_dir = Path(tmp_ctx.name) if tmp_ctx is not None else scratch_dir
+    takes_dir.mkdir(parents=True, exist_ok=True)
+
+    try:
+        # Keep ONE persistent VoxCPM2 worker alive across all reseed rounds so the model loads only once
+        proc = subprocess.Popen(
+            [str(voice_py), str(worker_py)],
+            stdin=subprocess.PIPE,
+            stdout=subprocess.PIPE,
+            stderr=sys.stderr,
+            text=True,
+            env=env,
+        )
+        assert proc.stdin is not None and proc.stdout is not None
+
         try:
-            req = urllib.request.Request(
-                url,
-                headers={"Content-Type": "application/json"},
-                data=payload,
-            )
-            with urllib.request.urlopen(req, timeout=60) as resp:
-                data = json.loads(resp.read().decode("utf-8"))
-            parts = data["candidates"][0]["content"]["parts"]
-            inline = next(p["inlineData"] for p in parts if "inlineData" in p)
-            pcm_bytes = base64.b64decode(inline["data"])
-            if len(pcm_bytes) > 16000:
-                break
-            last_err = f"Short PCM payload ({len(pcm_bytes)} bytes)"
-        except urllib.error.HTTPError as e:
-            body = e.read().decode("utf-8", errors="ignore")[:240]
-            last_err = f"HTTP {e.code}: {body}"
-            wait = 4 * attempt if e.code == 429 else 2 * attempt
-            time.sleep(wait)
-        except Exception as e:
-            last_err = str(e)
-            time.sleep(2 * attempt)
+            for rnd in range(len(VOXCPM_SEEDS)):
+                pending = [item for item in todo if len(item["reports"]) < len(item["seeds"])]
+                if not pending:
+                    break
+                print(f"[voxcpm2] Round {rnd + 1}: synthesizing {len(pending)} Chinese slide(s)...", flush=True)
+                check_asks = []
+                for item in pending:
+                    seed = item["seeds"][-1]
+                    wav_path = takes_dir / f"{item['sid']}.s{seed}.wav"
+                    if not wav_path.exists():
+                        req = json.dumps({"text": item["text"], "seed": seed, "out": str(wav_path)}, ensure_ascii=False)
+                        proc.stdin.write(req + "\n")
+                        proc.stdin.flush()
+                        reply_line = proc.stdout.readline()
+                        if not reply_line:
+                            raise RuntimeError(f"voxcpm_worker terminated unexpectedly on {item['sid']}")
+                        reply = json.loads(reply_line)
+                        if not reply.get("ok"):
+                            raise RuntimeError(f"voxcpm_worker failed on {item['sid']}: {reply}")
+                        print(f"  · took {item['sid']} (seed {seed}, {reply['seconds']:.1f}s)", flush=True)
+                    item["wavs"].append(wav_path)
+                    check_asks.append({"name": item["sid"], "out": str(wav_path), "text": item["text"]})
 
-    if not pcm_bytes:
-        raise RuntimeError(f"Failed to synthesize {lang}/{slide_id}: {last_err}")
+                # Run mlx_whisper backcheck if available
+                if backcheck_py.exists():
+                    check_file = takes_dir / f"check_r{rnd}.json"
+                    report_file = takes_dir / f"report_r{rnd}.json"
+                    check_file.write_text(json.dumps(check_asks, ensure_ascii=False), encoding="utf-8")
+                    subprocess.run(
+                        [str(voice_py), str(backcheck_py), "--compare", str(check_file), "--report", str(report_file)],
+                        env=env,
+                        check=True,
+                    )
+                    reports = json.loads(report_file.read_text(encoding="utf-8"))
+                    for item, rep in zip(pending, reports):
+                        item["reports"].append(rep)
+                        if not rep["ok"] and len(item["seeds"]) < len(VOXCPM_SEEDS):
+                            item["seeds"].append(VOXCPM_SEEDS[len(item["seeds"])])
+                else:
+                    for item in pending:
+                        item["reports"].append({"ok": True, "sim": 1.0, "hard": [], "heard": ""})
+        finally:
+            try:
+                proc.stdin.close()
+            except Exception:
+                pass
+            proc.wait(timeout=30)
 
-    dur, size = master_to_mp3(dest, pcm_bytes=pcm_bytes)
-    print(f"  ✓ {lang}/{slide_id}.mp3 [gemini/{VOICES[lang]}] ({dur:.2f}s, {size/1024:.0f} KB)", flush=True)
-    return lang, slide_id, dur, size
+        passed = 0
+        for item in todo:
+            best_idx = next((i for i, r in enumerate(item["reports"]) if r["ok"]), None)
+            if best_idx is None:
+                best_idx = max(range(len(item["reports"])), key=lambda i: item["reports"][i].get("sim", 0.0))
+            else:
+                passed += 1
+            best_wav = item["wavs"][best_idx]
+            best_rep = item["reports"][best_idx]
+            best_seed = item["seeds"][best_idx]
+            dest = dest_dir / f"{item['sid']}.mp3"
+            dur, size = master_to_mp3(dest, wav_path=best_wav)
+            tag = "OK" if best_rep["ok"] else f"BEST(sim={best_rep.get('sim', 0):.2f}: {'; '.join(best_rep.get('hard', []))})"
+            print(f"  ✓ zh/{item['sid']}.mp3 [voxcpm2/voxcpm-man-zh s{best_seed} {tag}] ({dur:.2f}s, {size/1024:.0f} KB)", flush=True)
+            out_results[item["sid"]] = ("zh", item["sid"], dur, size)
+
+        print(f"[voxcpm2] Backcheck summary: {passed}/{len(todo)} slides passed cleanly.", flush=True)
+    finally:
+        if tmp_ctx is not None:
+            tmp_ctx.cleanup()
+
+    return [out_results[sid] for sid, _, _ in jobs]
 
 
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--force", action="store_true", help="Regenerate existing MP3s")
     parser.add_argument("--lang", choices=["en", "zh", "all"], default="all", help="Which language(s) to regenerate")
-    parser.add_argument("--workers", type=int, default=3, help="Concurrent Gemini TTS requests")
     parser.add_argument("--en-voice", default=VOICES["en"], help="Kokoro voice for English (default: bm_george)")
     parser.add_argument("--en-speed", type=float, default=KOKORO_SPEED, help="Kokoro speech speed for English")
+    parser.add_argument("--voxcpm-scratch", type=Path, default=None, help="Optional scratch dir to cache VoxCPM2 WAV takes")
     args = parser.parse_args()
 
     for slide_id, _en, zh in SCRIPTS:
@@ -432,14 +499,9 @@ def main() -> None:
     en_jobs = [(sid, en_text, args.force and args.lang in ("en", "all")) for sid, en_text, _ in SCRIPTS]
     results.extend(synth_kokoro_batch(en_jobs, voice=args.en_voice, speed=args.en_speed))
 
-    # 2. Chinese via Gemini Native TTS (Orus, standard Mandarin)
+    # 2. Chinese via local VoxCPM2 (voxcpm-man-zh) + mlx_whisper backcheck
     zh_jobs = [(sid, zh_text, args.force and args.lang in ("zh", "all")) for sid, _, zh_text in SCRIPTS]
-    need_zh_api = any(f or not (OUT_DIR / "zh" / f"{sid}.mp3").exists() for sid, _, f in zh_jobs)
-    api_key = load_api_key() if need_zh_api else ""
-    with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as pool:
-        futs = [pool.submit(synth_one, api_key, "zh", sid, txt, f) for sid, txt, f in zh_jobs]
-        for fut in concurrent.futures.as_completed(futs):
-            results.append(fut.result())
+    results.extend(synth_voxcpm_batch(zh_jobs, scratch_dir=args.voxcpm_scratch))
 
     manifest = {
         "engines": ENGINES,
