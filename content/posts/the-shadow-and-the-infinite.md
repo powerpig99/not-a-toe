@@ -192,9 +192,9 @@ flowchart TD
 
 In high-dimensional geometry, when two paths, each a single line, cross a space of many dimensions, the probability that they meet is measure-zero. In the open causal territory of living reality, one person immerses themselves in botanical gardening, another explores astronomical theory, a third crafts wooden furniture, and a fourth builds alpine footpaths. The orthogonal axes a Mind can open are inexhaustible, allowing each individual to carve out a distinct trajectory without crowding another's position.
 
-低维投影通过三个相连的步骤摧毁了这种丰沛。第一步是线性排队：当社会评价将人类生活的丰沛坍缩为单一标量指标——如净资产、粉丝数量、机构出身或政治位阶——辽阔的多维空间便被压扁成一条狭窄的一维走廊，而按这些标量阴影给学生排名，便把求索变成了[教育与科学的倒置](../the-reversal-of-education-and-science/)所追溯的零和竞技场。第二步是碰撞的必然性：在一条一维直线上，几何结构只允许两种相对状态，一个行动者要么排在另一人前面，要么挡住去路，于是他人的前进登记为自身的降级，他人的收获登记为自身的被剥夺。第三步是人造稀缺与全序困局：正如[坐标系、心智与自由度](../coordinate-systems-mind-and-degrees-of-freedom/)所追溯的，将正交轨迹压缩到单一垂直阶梯上会同时困住阶梯的两端——既让顶端的少数人只握着一个无法支撑高维因果共鸣的压缩标量数字，又将绝大多数人锁入长期的向上攀比。把那条拥挤的一维投影误当成实在本身，正是同一种维度倒置，也就是[四维长鹿的幻象与当下的模型](../the-myth-of-the-four-dimensional-deer-and-the-present-model/)所揭示的把世界线阴影当成活鹿。
+将生活坍缩到低维投影上，会通过三个相连的步骤摧毁这种丰沛。第一步是线性排队：当社会评价将人类生活的丰沛坍缩为单一标量指标——如净资产、粉丝数量、机构出身或政治位阶——辽阔的多维空间便被压扁成一条狭窄的一维走廊，而按这些标量阴影给学生排名，便把求索变成了[教育与科学的倒置](../the-reversal-of-education-and-science/)所追溯的零和竞技场。第二步是碰撞的必然性：在一条一维直线上，几何结构只允许两种相对状态，一个行动者要么排在另一人前面，要么挡住去路，于是他人的前进登记为自身的降级，他人的收获登记为自身的被剥夺。第三步是人造稀缺与全序困局：正如[坐标系、心智与自由度](../coordinate-systems-mind-and-degrees-of-freedom/)所追溯的，将正交轨迹压缩到单一垂直阶梯上会同时困住阶梯的两端——既让顶端的少数人只握着一个无法支撑高维因果共鸣的压缩标量数字，又将绝大多数人锁入长期的向上攀比。把那条拥挤的一维投影误当成实在本身，正是同一种维度倒置，也就是[四维长鹿的幻象与当下的模型](../the-myth-of-the-four-dimensional-deer-and-the-present-model/)所揭示的把世界线阴影当成活鹿。
 
-Low-dimensional projections destroy this abundance through three connected steps. First comes the linear queue: when social evaluation collapses the richness of human life onto a single scalar metric—such as net worth, follower counts, institutional pedigree, or political hierarchy—an expansive multidimensional space is flattened into a narrow one-dimensional corridor, and ranking students by those scalar shadows turns inquiry into the zero-sum arena [The Inversion of Education and Science](../the-reversal-of-education-and-science/) traces. Second comes the inevitability of collision: on a one-dimensional line, geometry permits only two relative states, where one agent is either ahead of another or blocking the way, so another's advancement registers as demotion and another's gain registers as dispossession. Third comes manufactured scarcity and total-ordering entrapment: as [Coordinate Systems, the Mind, and Degrees of Freedom](../coordinate-systems-mind-and-degrees-of-freedom/) traces, compressing orthogonal trajectories onto a single vertical ladder traps both ends of the hierarchy—leaving the few at the top holding a compressed scalar numeral that cannot sustain high-dimensional causal resonance, while locking the vast majority into chronic upward comparison. Mistaking that crowded one-dimensional projection for reality is the same dimensional inversion [The Myth of the Four-Dimensional Deer and the Present Model](../the-myth-of-the-four-dimensional-deer-and-the-present-model/) exposes when a worldline shadow is taken for the living deer.
+Collapsing life onto low-dimensional projections destroys this abundance through three connected steps. First comes the linear queue: when social evaluation collapses the richness of human life onto a single scalar metric—such as net worth, follower counts, institutional pedigree, or political hierarchy—an expansive multidimensional space is flattened into a narrow one-dimensional corridor, and ranking students by those scalar shadows turns inquiry into the zero-sum arena [The Inversion of Education and Science](../the-reversal-of-education-and-science/) traces. Second comes the inevitability of collision: on a one-dimensional line, geometry permits only two relative states, where one agent is either ahead of another or blocking the way, so another's advancement registers as demotion and another's gain registers as dispossession. Third comes manufactured scarcity and total-ordering entrapment: as [Coordinate Systems, the Mind, and Degrees of Freedom](../coordinate-systems-mind-and-degrees-of-freedom/) traces, compressing orthogonal trajectories onto a single vertical ladder traps both ends of the hierarchy—leaving the few at the top holding a compressed scalar numeral that cannot sustain high-dimensional causal resonance, while locking the vast majority into chronic upward comparison. Mistaking that crowded one-dimensional projection for reality is the same dimensional inversion [The Myth of the Four-Dimensional Deer and the Present Model](../the-myth-of-the-four-dimensional-deer-and-the-present-model/) exposes when a worldline shadow is taken for the living deer.
 
 在路径交汇的有限共享层中，车道标线、产权边界、法律条文或货币标准作为规避冲突的避碰指引发挥作用。在广袤的大陆上，沥青公路中间画出的分道线不是为了让人在上面安家落户，而是一道负向护栏，让两辆高维的车辆能够安全错车，继续驶向各自的目的地。契约、地契与公共协议充当着导航缓冲带，让个体在耕耘各自的正交路径时免于相撞。
 
@@ -276,7 +276,7 @@ flowchart TD
         Rule1 --> Rule2
         Rule2 --> Rule3
     end
-    OpenLivingField["在敞开的连续统中向前迈步 (+1)"]
+    OpenLivingField["在敞开的场域中向前迈步 (+1)"]
     Rule3 ==>|"主权解脱"| OpenLivingField
     style ThreeEthicalRules fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Rule1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -297,7 +297,7 @@ flowchart TD
         Rule1 --> Rule2
         Rule2 --> Rule3
     end
-    OpenLivingField["Moving Ahead in the Open Continuum (+1)"]
+    OpenLivingField["Moving Ahead in the Open Field (+1)"]
     Rule3 ==>|"Sovereign Liberation"| OpenLivingField
     style ThreeEthicalRules fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Rule1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -318,11 +318,11 @@ Second is orthogonal expansion: stepping off the one-dimensional track. Whenever
 
 Third is intersubjective reverence: facing the inexhaustible other. Looking into the eyes of another person means setting aside the flat inward projection constructed by preconceptions. The person across the table shares the biological substrate that enables resonance, while operating from an independent first-person origin of unique memories, private sorrows, and sovereign choices whose orthogonal residual exceeds any external observer's basis. Their sudden outburst, their unfamiliar decision, or their divergent viewpoint is upheld by an expansive causal history that no scalar label can encompass. Approaching another person without forcing them onto a single coordinate axis lets low-dimensional friction subside, clearing the field for mutual resonance without either Mind surrendering its position.
 
-## 六、 在无边的连续统中自由呼吸 / 6. Breathing Freely in the Unbounded Continuum
+## 六、 在无边的场域中自由呼吸 / 6. Breathing Freely in the Unbounded Field
 
-生命实在是一个敞开、未闭合、不可穷尽的连续统。鲜活的大地不是一片拥挤不堪的荒原，人类存在也不是一场由标量算法裁定的零和死斗。在鲜活心智所能开辟的正交轴线上，数十亿条独特的主权轨迹得以并肩展开，而互不遮蔽光芒。
+生命实在是一片敞开、未闭合、不可穷尽的场域。鲜活的大地不是一片拥挤不堪的荒原，人类存在也不是一场由标量算法裁定的零和死斗。在鲜活心智所能开辟的正交轴线上，数十亿条独特的主权轨迹得以并肩展开，而互不遮蔽光芒。
 
-Living reality is an open, unclosed, inexhaustible continuum. The living earth is not a congested wasteland, nor is human existence a zero-sum deathmatch dictated by scalar algorithms. Across the orthogonal axes that living Minds can open, billions of unique sovereign trajectories can unfold alongside one another without blocking the light.
+Living reality is an open, unclosed, inexhaustible field. The living earth is not a congested wasteland, nor is human existence a zero-sum deathmatch dictated by scalar algorithms. Across the orthogonal axes that living Minds can open, billions of unique sovereign trajectories can unfold alongside one another without blocking the light.
 
 人造的苦难，始于把避碰指引误认为零和竞技场，将敞开的多维视界异化为逼仄的战争囚笼；而澄明是这样一步：心智走下狭窄的护栏，收回投射在自身界面内部的低维阴影，重新迈入无拘无束的因果旷野。
 
