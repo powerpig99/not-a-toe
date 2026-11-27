@@ -1,6 +1,6 @@
 # 阅读的倒错与推断的次序 / The Inversion of Reading and the Order of Inference
 
-*非虚构顺着既定前提推演，而虚构与切身生活从乱序后果逆向推断 / Non-fiction unrolls stated premises while fiction and life infer backward*
+*非虚构顺着明示前提推演，而虚构与切身生活要求从乱序后果中逆向推断 / Non-fiction unrolls stated premises while fiction and life demand backward inference from disordered consequences*
 
 自我区分的活动正在发生——无因，不息。这一活动的每一个中心都是离散且有界的，在有限容量下登记区分，因而伴随必要的压缩。在有限容量之内，信息的实践困境从来不是体量庞大，而是主动筛选的松懈。人类视觉早已展示了这一机制：双眼面对不息的光流之所以不会过载，是因为注意力主动隔离出结构边界，而非以同等权重登记每一道原始信号；过载只发生在主动划界松弛之时。
 
@@ -60,7 +60,7 @@ flowchart TD
     end
     subgraph S_CUT["认识论切口：逆向推断与对等依赖审计"]
         direction TB
-        N_BACK["切身摩擦与严肃虚构（逆向推断）<br/>剪枝乱序后果以重构隐秘运作前提"]
+        N_BACK["切身摩擦与严肃虚构（逆向推断）<br/>对照乱序后果剪枝不相容假设，以推断隐秘前提"]
         N_COMP["竞争性论著作为冷启动对等审校者<br/>拒绝起始公理以暴露隐秘范围偏移与前提补丁"]
         N_BACK ==> N_COMP
     end
@@ -95,7 +95,7 @@ flowchart TD
     end
     subgraph S_CUT["Epistemological Cut: Backward Inference & Peer Dependency Audit"]
         direction TB
-        N_BACK["Lived Friction & Serious Fiction (Backward Inference)<br/>Pruning disordered consequences to reconstruct hidden operating premises"]
+        N_BACK["Lived Friction & Serious Fiction (Backward Inference)<br/>Pruning incompatible hypotheses against disordered consequences to infer hidden premises"]
         N_COMP["Competing Treatises as Cold Peer Critics<br/>Refusing starting axioms to expose silent scope shifts and premise patches"]
         N_BACK ==> N_COMP
     end
@@ -122,6 +122,6 @@ flowchart TD
 
 A coherent order of inquiry thus emerges: direct immersion in real-world friction serves as the primary ground; close reading of serious fiction serves as the high-frequency training ground for backward inference; and selective scanning of non-fiction dependency graphs serves as the downstream archival index. Across all three domains, cognitive leverage obeys the same filtration principle: isolate the load-bearing premises carrying the consequence, and decline to process confirmatory filler as if it held equal density.
 
-无论面对虚构还是非虚构，阅读在介质本身并不附带任何内在声望。正如[你的代码库即是记忆](../your-codebase-is-memory/)循着一切可读制品所追溯的，书籍与文章皆是早先区分留下的层叠残余，其自身并不延续区分；把它们当作未经修剪的仓库加以囤积，只会加厚认识论引力井，让后续步伐在陈旧框架内自我合理化。阅读的衡量标准，不在于中心累积了多少外化残余或复述了多少预封装术语，而在于这场交锋是否重切了当下的检查点——当乱序后果在前沿登记、重绘运作参照并修剪失效脚手架时，持续收窄超额滞后。唯有当心智不断将切身摩擦反哺于对自身承重前提的审视与修订，阅读才会让约束曲面在无关维度上更为精简，并在依然关键的坐标轴上更为锐利。
+无论面对虚构还是非虚构，阅读在介质本身并不附带任何内在声望。正如[你的代码库即是记忆](../your-codebase-is-memory/)循着一切可读制品所追溯的，书籍与文章皆是早先区分留下的层叠残余，其自身并不延续区分；把它们当作未经修剪的仓库加以囤积，只会加厚认识论引力井，让后续步伐在陈旧框架内自我合理化。阅读的衡量标准，不在于中心累积了多少外化残余或复述了多少预封装术语，而在于中心是否借由这场交锋重切了当下的检查点——重绘自身的运作参照、修剪已被取代的脚手架，并在乱序后果登记于前沿时收窄超额滞后。唯有当心智不断将切身摩擦反哺于对自身承重前提的审视与修订，阅读才会让约束曲面在无关维度上更为精简，并在依然关键的坐标轴上更为锐利。
 
-Whether engaging with fiction or non-fiction, reading carries no intrinsic prestige in the medium itself. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces across every readable artifact, books and essays are stacked residues of prior distinctions that do not continue the distinguishing on their own; hoarding them as an unpruned warehouse only thickens the gravity well in which subsequent steps rationalize inside stale framings. The measure of reading lies not in how much externalized residue a center accumulates or how many pre-packaged terms it repeats, but in whether the encounter re-cuts its present checkpoint—narrowing excess lag as disordered consequences register at the edge, re-render the operating reference, and prune superseded scaffolding. Only when a Mind continuously feeds lived friction back into the examination and revision of its load-bearing premises does reading leave the constraint surface smaller in irrelevant dimensions and sharper on the axes that still matter.
+Whether engaging with fiction or non-fiction, reading carries no intrinsic prestige in the medium itself. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces across every readable artifact, books and essays are stacked residues of prior distinctions that do not continue the distinguishing on their own; hoarding them as an unpruned warehouse only thickens the gravity well in which subsequent steps rationalize inside stale framings. The measure of reading lies not in how much externalized residue a center accumulates or how many pre-packaged terms it repeats, but in whether the center re-cuts its present checkpoint through the encounter—re-rendering its operating reference, pruning superseded scaffolding, and narrowing excess lag as disordered consequences register at the edge. Only when a Mind continuously feeds lived friction back into the examination and revision of its load-bearing premises does reading leave the constraint surface smaller in irrelevant dimensions and sharper on the axes that still matter.
