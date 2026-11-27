@@ -52,7 +52,7 @@
     *, *::before, *::after { box-sizing: border-box; }
 
     html {
-      font-size: clamp(13.5px, min(1.16vw, 1.88vh), 36px);
+      font-size: clamp(13.5px, min(1.18vw, 1.92vh), 56px);
     }
 
     html, body {
@@ -2709,20 +2709,20 @@
         ambCtx.stroke();
 
         // Living steady concentric waves from center
+        const s = remScale();
         const maxRad = Math.min(ambW * 0.36, ambH * 0.44);
         for (let i = 0; i < 6; i++) {
           const phase = ((state.time * 0.22 + i / 6) % 1);
-          const r = 10 + phase * maxRad;
+          const r = 10 * s + phase * maxRad;
           const a = (1 - phase) * 0.32;
           ambCtx.strokeStyle = `rgba(37, 133, 90, ${a.toFixed(3)})`;
-          ambCtx.lineWidth = 1.1;
+          ambCtx.lineWidth = 1.1 * s;
           ambCtx.beginPath();
           ambCtx.arc(cx, cy, r, 0, Math.PI * 2);
           ambCtx.stroke();
         }
 
         // Core living locus dot
-        const s = remScale();
         ambCtx.fillStyle = '#25855a';
         ambCtx.beginPath();
         ambCtx.arc(cx, cy, 4 * s, 0, Math.PI * 2);
@@ -2805,20 +2805,21 @@
       const slider = document.getElementById('ortho-slider');
       if (slider && !state.orthoDragging) slider.value = String(Math.round(deg));
 
+      const s = remScale();
       const cx = w * 0.5;
       const cy = h * 0.64;
       const axisLen = Math.min(w * 0.36, h * 0.52);
 
       // Isometric lower plane + subtle translucent orthogonal sheet rising with lift
       ctx.save();
-      const py = 12 + lift * 28;
+      const py = (12 + lift * 28) * s;
       ctx.strokeStyle = 'rgba(21, 20, 18, 0.09)';
-      ctx.lineWidth = 1;
+      ctx.lineWidth = Math.max(1, s * 0.85);
       for (let g = -3; g <= 3; g++) {
         const f = g / 3;
         ctx.beginPath();
-        ctx.moveTo(cx - axisLen + f * 36, cy + f * py);
-        ctx.lineTo(cx + axisLen + f * 36, cy + f * py);
+        ctx.moveTo(cx - axisLen + f * 36 * s, cy + f * py);
+        ctx.lineTo(cx + axisLen + f * 36 * s, cy + f * py);
         ctx.stroke();
       }
 
@@ -2838,13 +2839,13 @@
         ctx.closePath();
         ctx.fill();
         ctx.strokeStyle = `rgba(37, 133, 90, ${(0.22 * lift).toFixed(3)})`;
-        ctx.lineWidth = 1;
+        ctx.lineWidth = Math.max(1, s * 0.85);
         ctx.stroke();
       }
 
       // 1D Horizontal Axis (ToE <-> Anti-ToE)
       ctx.strokeStyle = 'rgba(21, 20, 18, 0.42)';
-      ctx.lineWidth = 1.5;
+      ctx.lineWidth = 1.5 * s;
       ctx.beginPath();
       ctx.moveTo(cx - axisLen, cy);
       ctx.lineTo(cx + axisLen, cy);
@@ -2852,26 +2853,27 @@
 
       // Axis end markers
       ctx.fillStyle = 'rgba(21, 20, 18, 0.65)';
-      ctx.font = '600 11px ui-monospace, SFMono-Regular, Menlo, monospace';
+      ctx.font = `600 ${(11 * s).toFixed(1)}px ui-monospace, SFMono-Regular, Menlo, monospace`;
       ctx.textAlign = 'left';
-      ctx.fillText(state.lang === 'zh' ? '反万物之理 (-1)' : 'ANTI-ToE (-1)', cx - axisLen, cy + 24);
+      ctx.fillText(state.lang === 'zh' ? '反万物之理 (-1)' : 'ANTI-ToE (-1)', cx - axisLen, cy + 24 * s);
       ctx.textAlign = 'right';
-      ctx.fillText(state.lang === 'zh' ? '万物之理 (+1)' : 'ToE (+1)', cx + axisLen, cy + 24);
+      ctx.fillText(state.lang === 'zh' ? '万物之理 (+1)' : 'ToE (+1)', cx + axisLen, cy + 24 * s);
 
       // Right-angle arc / square indicator
       ctx.strokeStyle = 'rgba(37, 133, 90, 0.42)';
-      ctx.lineWidth = 1.1;
+      ctx.lineWidth = 1.1 * s;
       if (deg > 84) {
-        ctx.strokeRect(cx, cy - 14, 14, 14);
+        const sq = 14 * s;
+        ctx.strokeRect(cx, cy - sq, sq, sq);
       } else {
         ctx.beginPath();
-        ctx.arc(cx, cy, 34, -rad, 0);
+        ctx.arc(cx, cy, 34 * s, -rad, 0);
         ctx.stroke();
       }
 
       // Projection drop line onto horizontal axis (vanishes at 90°!)
       if (Math.abs(vx - cx) > 2) {
-        ctx.setLineDash([3, 4]);
+        ctx.setLineDash([3 * s, 4 * s]);
         ctx.strokeStyle = 'rgba(192, 57, 43, 0.45)';
         ctx.beginPath();
         ctx.moveTo(vx, vy);
@@ -2882,7 +2884,7 @@
 
       // Orthogonal vector shaft
       ctx.strokeStyle = '#25855a';
-      ctx.lineWidth = 2.4;
+      ctx.lineWidth = 2.4 * s;
       ctx.beginPath();
       ctx.moveTo(cx, cy);
       ctx.lineTo(vx, vy);
@@ -2891,28 +2893,28 @@
       // Living tip node
       ctx.fillStyle = '#25855a';
       ctx.beginPath();
-      ctx.arc(vx, vy, 5.5, 0, Math.PI * 2);
+      ctx.arc(vx, vy, 5.5 * s, 0, Math.PI * 2);
       ctx.fill();
       ctx.strokeStyle = 'rgba(37, 133, 90, 0.28)';
-      ctx.lineWidth = 1.2;
+      ctx.lineWidth = 1.2 * s;
       ctx.beginPath();
-      ctx.arc(vx, vy, 12 + Math.sin(state.time * 2.5) * 2.5, 0, Math.PI * 2);
+      ctx.arc(vx, vy, (12 + Math.sin(state.time * 2.5) * 2.5) * s, 0, Math.PI * 2);
       ctx.stroke();
 
       // Label at tip
       ctx.fillStyle = '#151412';
-      ctx.font = '600 12px Georgia, serif';
+      ctx.font = `600 ${(12 * s).toFixed(1)}px Georgia, serif`;
       ctx.textAlign = 'center';
       ctx.fillText(
         state.lang === 'zh' ? '非万物之理（正交切分）' : 'Not a ToE (Orthogonal Cut)',
         vx,
-        vy - 18,
+        vy - 18 * s,
       );
 
       // Origin dot
       ctx.fillStyle = '#151412';
       ctx.beginPath();
-      ctx.arc(cx, cy, 3.5, 0, Math.PI * 2);
+      ctx.arc(cx, cy, 3.5 * s, 0, Math.PI * 2);
       ctx.fill();
       ctx.restore();
     }
@@ -2938,13 +2940,14 @@
       const N = parts.length;
       if (!N) return;
 
+      const s = remScale();
       const cx = w * 0.5;
       const cy = h * 0.48;
-      const R = Math.min(w, h) * 0.36;
+      const R = Math.min(w * 0.34, h * 0.36);
 
       // Subtle outer orbital hairlines
       ctx.strokeStyle = 'rgba(244, 240, 232, 0.08)';
-      ctx.lineWidth = 1;
+      ctx.lineWidth = Math.max(1, s * 0.85);
       ctx.beginPath();
       ctx.arc(cx, cy, R, 0, Math.PI * 2);
       ctx.stroke();
@@ -2983,7 +2986,7 @@
             ? (nodes[hov].accent)
             : `rgba(244, 240, 232, ${alpha.toFixed(3)})`;
           ctx.globalAlpha = isHot ? alpha : 1;
-          ctx.lineWidth = isHot ? (0.8 + norm * 2.2) : (0.5 + norm * 1.1);
+          ctx.lineWidth = (isHot ? (0.8 + norm * 2.2) : (0.5 + norm * 1.1)) * Math.sqrt(s);
           ctx.beginPath();
           ctx.moveTo(nodes[i].x, nodes[i].y);
           ctx.quadraticCurveTo(cx, cy, nodes[j].x, nodes[j].y);
@@ -3007,7 +3010,7 @@
         ctx.fillStyle = a.accent;
         ctx.globalAlpha = Math.sin(t * Math.PI);
         ctx.beginPath();
-        ctx.arc(px, py, 2.8, 0, Math.PI * 2);
+        ctx.arc(px, py, 2.8 * s, 0, Math.PI * 2);
         ctx.fill();
         ctx.globalAlpha = 1;
       }
@@ -3015,19 +3018,21 @@
       // Draw 14 Part nodes + crisp radial domain labels
       nodes.forEach((n) => {
         const isHov = hov === n.i;
-        const r = 4.2 + Math.sqrt(n.p.count) * 0.85;
+        const r = (4.2 + Math.sqrt(n.p.count) * 0.85) * s;
         ctx.fillStyle = isHov ? n.accent : '#09090b';
         ctx.strokeStyle = n.accent;
-        ctx.lineWidth = isHov ? 2.4 : 1.5;
+        ctx.lineWidth = (isHov ? 2.4 : 1.5) * s;
         ctx.beginPath();
         ctx.arc(n.x, n.y, r, 0, Math.PI * 2);
         ctx.fill();
         ctx.stroke();
 
-        const lx = cx + Math.cos(n.ang) * (R + r + 15);
-        const ly = cy + Math.sin(n.ang) * (R + r + 15);
+        const lx = cx + Math.cos(n.ang) * (R + r + 15 * s);
+        const ly = cy + Math.sin(n.ang) * (R + r + 15 * s);
         ctx.fillStyle = isHov ? '#f4f0e8' : 'rgba(244, 240, 232, 0.78)';
-        ctx.font = isHov ? '600 11.5px -apple-system, sans-serif' : '500 10.5px -apple-system, sans-serif';
+        ctx.font = isHov
+          ? `600 ${(11.5 * s).toFixed(1)}px -apple-system, sans-serif`
+          : `500 ${(10.5 * s).toFixed(1)}px -apple-system, sans-serif`;
         ctx.textBaseline = 'middle';
         const cosA = Math.cos(n.ang);
         ctx.textAlign = Math.abs(cosA) < 0.18 ? 'center' : (cosA > 0 ? 'left' : 'right');
@@ -3136,7 +3141,7 @@
             const mx = e.clientX - rect.left;
             const my = e.clientY - rect.top;
             const nodes = c._nodes || [];
-            let best = -1, bestDist = 26;
+            let best = -1, bestDist = 26 * remScale();
             for (const n of nodes) {
               const d = Math.hypot(mx - n.x, my - n.y);
               if (d < bestDist) { bestDist = d; best = n.i; }
@@ -3374,6 +3379,7 @@
     }, { passive: true });
 
     window.addEventListener('resize', resizeAmbient);
+    document.addEventListener('fullscreenchange', () => setTimeout(resizeAmbient, 60));
 
     /* =========================================================================
        ANIMATION LOOP
