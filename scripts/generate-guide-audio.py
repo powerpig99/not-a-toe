@@ -11,15 +11,12 @@ Outputs:
 """
 
 import argparse
-import base64
-import concurrent.futures
 import hashlib
 import json
 import os
 import subprocess
 import sys
-import time
-import urllib.error
+import tempfile
 import urllib.request
 from pathlib import Path
 
@@ -70,15 +67,6 @@ def ensure_voxcpm_ref(ref_dir: Path) -> Path:
     clip.write_bytes(data)
     return clip
 
-STYLE_PROMPTS = {
-    "en": (
-        "Read the following passage aloud in a calm, warm, unhurried museum audio-guide voice, "
-        "with clear articulation and natural contemplative phrasing. Read only the passage verbatim:\n\n"
-    ),
-    "zh": (
-        "请用标准流利的普通话播音腔、温和沉静地逐字朗读以下中文段落，吐字清晰准确，不要漏字或改字：\n\n"
-    ),
-}
 
 BANNED_ZH = [
     "纯粹", "绝对", "完全", "彻底", "绝不", "通常", "往往", "或许",
@@ -285,18 +273,6 @@ SCRIPTS = [
 ]
 
 
-def load_api_key() -> str:
-    if os.environ.get("GEMINI_API_KEY"):
-        return os.environ["GEMINI_API_KEY"].strip()
-    env_file = ROOT / "studio" / ".env"
-    if env_file.exists():
-        for line in env_file.read_text(encoding="utf-8").splitlines():
-            line = line.strip()
-            if line.startswith("GEMINI_API_KEY="):
-                return line.split("=", 1)[1].strip().strip('"').strip("'")
-    raise SystemExit("GEMINI_API_KEY not found in environment or studio/.env")
-
-
 def probe_duration(path: Path) -> float:
     out = subprocess.check_output(
         [
@@ -314,20 +290,14 @@ def probe_duration(path: Path) -> float:
     return round(float(out), 2)
 
 
-def master_to_mp3(dest: Path, *, pcm_bytes: bytes | None = None, wav_path: Path | None = None) -> tuple[float, int]:
+def master_to_mp3(dest: Path, wav_path: Path) -> tuple[float, int]:
     tmp_mp3 = dest.with_suffix(".tmp.mp3")
-    if wav_path is not None:
-        in_args = ["-i", str(wav_path)]
-        stdin_bytes = None
-    else:
-        in_args = ["-f", "s16le", "-ar", "24000", "-ac", "1", "-i", "pipe:0"]
-        stdin_bytes = pcm_bytes
-
     proc = subprocess.run(
         [
             "ffmpeg",
             "-y",
-            *in_args,
+            "-i",
+            str(wav_path),
             "-af",
             "silenceremove=start_periods=1:start_threshold=-50dB:start_silence=0.12,"
             "areverse,silenceremove=start_periods=1:start_threshold=-50dB:start_silence=0.22,areverse,"
@@ -338,7 +308,6 @@ def master_to_mp3(dest: Path, *, pcm_bytes: bytes | None = None, wav_path: Path 
             "-b:a", "48k",
             str(tmp_mp3),
         ],
-        input=stdin_bytes,
         stdout=subprocess.DEVNULL,
         stderr=subprocess.PIPE,
     )
@@ -351,10 +320,12 @@ def master_to_mp3(dest: Path, *, pcm_bytes: bytes | None = None, wav_path: Path 
     return dur, size
 
 
-def synth_kokoro_batch(jobs: list[tuple[str, str, bool]], voice: str = "bm_george", speed: float = KOKORO_SPEED) -> list[tuple[str, str, float, int]]:
-    import tempfile
-
-    need_synth = any(force or not (OUT_DIR / "en" / f"{sid}.mp3").exists() or (OUT_DIR / "en" / f"{sid}.mp3").stat().st_size <= 8000 for sid, _, force in jobs)
+def synth_kokoro_batch(
+    jobs: list[tuple[str, str, bool]],
+    voice: str = "bm_george",
+    speed: float = KOKORO_SPEED,
+) -> list[tuple[str, str, float, int, bool]]:
+    need_synth = any(do_regen for _, _, do_regen in jobs)
     kokoro = None
     sf = None
     if need_synth:
@@ -364,16 +335,16 @@ def synth_kokoro_batch(jobs: list[tuple[str, str, bool]], voice: str = "bm_georg
             raise SystemExit(f"Kokoro ONNX assets missing at {KOKORO_MODEL} / {KOKORO_VOICES}")
         kokoro = kokoro_onnx.Kokoro(str(KOKORO_MODEL), str(KOKORO_VOICES))
 
-    out_results = []
+    out_results: list[tuple[str, str, float, int, bool]] = []
     dest_dir = OUT_DIR / "en"
     dest_dir.mkdir(parents=True, exist_ok=True)
 
     with tempfile.TemporaryDirectory() as tmpdir:
-        for sid, text, force in jobs:
+        for sid, text, do_regen in jobs:
             dest = dest_dir / f"{sid}.mp3"
-            if dest.exists() and dest.stat().st_size > 8000 and not force:
-                dur = probe_duration(dest)
-                out_results.append(("en", sid, dur, dest.stat().st_size))
+            if not do_regen:
+                if dest.exists() and dest.stat().st_size > 8000:
+                    out_results.append(("en", sid, probe_duration(dest), dest.stat().st_size, False))
                 continue
 
             # Replace em-dashes with commas/pauses for smooth Kokoro British cadence
@@ -381,9 +352,9 @@ def synth_kokoro_batch(jobs: list[tuple[str, str, bool]], voice: str = "bm_georg
             samples, sr = kokoro.create(clean_text, voice=voice, speed=speed, lang="en-gb")
             wav_path = Path(tmpdir) / f"{sid}.wav"
             sf.write(str(wav_path), samples, sr)
-            dur, size = master_to_mp3(dest, wav_path=wav_path)
+            dur, size = master_to_mp3(dest, wav_path)
             print(f"  ✓ en/{sid}.mp3 [kokoro/{voice}] ({dur:.2f}s, {size/1024:.0f} KB)", flush=True)
-            out_results.append(("en", sid, dur, size))
+            out_results.append(("en", sid, dur, size, True))
 
     return out_results
 
@@ -394,14 +365,10 @@ import librosa, numpy as np, soundfile as sf, torch
 from voxcpm import VoxCPM
 
 ref_dir = os.environ["FB_VOICE_REF"]
-mode = os.environ.get("VOXCPM_MODE", "ref")
 default_style = os.environ.get("VOXCPM_STYLE", "")
 cfg_value = float(os.environ.get("VOXCPM_CFG", "1.75"))
 steps = int(os.environ.get("VOXCPM_STEPS", "16"))
 clip = os.path.join(ref_dir, "man.zh.wav")
-prompt_text = None
-if mode == "continuation":
-    prompt_text = json.load(open(os.path.join(ref_dir, "voice.json")))["text"]
 
 real, sys.stdout = sys.stdout, sys.stderr
 model = VoxCPM.from_pretrained("openbmb/VoxCPM2", load_denoiser=False)
@@ -411,22 +378,12 @@ for line in sys.stdin:
     torch.manual_seed(ask["seed"])
     text = ask["text"]
     style = ask.get("style", default_style)
-    if mode == "continuation":
-        audio = model.generate(
-            text=text,
-            reference_wav_path=clip,
-            prompt_wav_path=clip,
-            prompt_text=prompt_text,
-            cfg_value=cfg_value,
-            inference_timesteps=steps,
-        )
-    else:
-        audio = model.generate(
-            text=(style + text) if style else text,
-            reference_wav_path=clip,
-            cfg_value=cfg_value,
-            inference_timesteps=steps,
-        )
+    audio = model.generate(
+        text=(style + text) if style else text,
+        reference_wav_path=clip,
+        cfg_value=cfg_value,
+        inference_timesteps=steps,
+    )
     sf.write(ask["out"], audio, rate, subtype="FLOAT")
     y16 = librosa.resample(audio.astype(np.float32), orig_sr=rate, target_sr=16000)
     f0 = librosa.yin(y16, fmin=55, fmax=350, sr=16000)
@@ -441,43 +398,38 @@ def synth_voxcpm_batch(
     jobs: list[tuple[str, str, bool]],
     ref_dir: Path = VOXCPM_REF,
     voice_label: str = VOICES["zh"],
-    mode: str = "ref",
-    style: str = VOXCPM_DEFAULT_STYLE,
+    style_override: str | None = None,
     scratch_dir: Path | None = None,
-) -> list[tuple[str, str, float, int]]:
-    """Synthesize Chinese tracks with local VoxCPM2 + mlx_whisper backcheck + F0 speaker gate."""
-    import tempfile
-
-    voice_py = VOXCPM_VENV / "bin" / "python"
-    backcheck_py = VOXCPM_TOOLS / "backcheck_mlx.py"
-    if not voice_py.exists():
-        raise SystemExit(f"VoxCPM2 venv python missing: {voice_py}")
-    ensure_voxcpm_ref(ref_dir)
-    if mode == "continuation" and not (ref_dir / "voice.json").exists():
-        raise SystemExit(f"VoxCPM2 prompt transcript missing: {ref_dir / 'voice.json'}")
-
+) -> list[tuple[str, str, float, int, bool]]:
+    """Synthesize Chinese tracks with local VoxCPM2 ref-only cloning + mlx_whisper backcheck + F0 speaker gate."""
     dest_dir = OUT_DIR / "zh"
     dest_dir.mkdir(parents=True, exist_ok=True)
 
     todo = []
-    out_results: dict[str, tuple[str, str, float, int]] = {}
-    for sid, text, force in jobs:
+    out_results: dict[str, tuple[str, str, float, int, bool]] = {}
+    for sid, text, do_regen in jobs:
         dest = dest_dir / f"{sid}.mp3"
-        if dest.exists() and dest.stat().st_size > 8000 and not force:
-            out_results[sid] = ("zh", sid, probe_duration(dest), dest.stat().st_size)
+        if not do_regen:
+            if dest.exists() and dest.stat().st_size > 8000:
+                out_results[sid] = ("zh", sid, probe_duration(dest), dest.stat().st_size, False)
         else:
             # Replace Chinese em-dashes with commas for clean VoxCPM2 cadence
             clean_text = text.replace("——", "，")
             todo.append({"sid": sid, "text": clean_text, "seeds": [VOXCPM_SEEDS[0]], "reports": [], "wavs": [], "f0s": []})
 
     if not todo:
-        return [out_results[sid] for sid, _, _ in jobs]
+        return [out_results[sid] for sid, _, _ in jobs if sid in out_results]
+
+    voice_py = VOXCPM_VENV / "bin" / "python"
+    backcheck_py = VOXCPM_TOOLS / "backcheck_mlx.py"
+    if not voice_py.exists():
+        raise SystemExit(f"VoxCPM2 venv python missing: {voice_py}")
+    ensure_voxcpm_ref(ref_dir)
 
     env = dict(
         os.environ,
         FB_VOICE_REF=str(ref_dir),
-        VOXCPM_MODE=mode,
-        VOXCPM_STYLE=style,
+        VOXCPM_STYLE=style_override if style_override is not None else VOXCPM_DEFAULT_STYLE,
         VOXCPM_CFG=str(VOXCPM_CFG),
         VOXCPM_STEPS=str(VOXCPM_STEPS),
         HF_HUB_OFFLINE="1",
@@ -503,14 +455,18 @@ def synth_voxcpm_batch(
                 pending = [item for item in todo if len(item["reports"]) < len(item["seeds"])]
                 if not pending:
                     break
-                print(f"[voxcpm2/{mode}] Round {rnd + 1}: synthesizing {len(pending)} Chinese slide(s)...", flush=True)
+                print(f"[voxcpm2/ref] Round {rnd + 1}: synthesizing {len(pending)} Chinese slide(s)...", flush=True)
                 check_asks = []
                 for item in pending:
                     seed = item["seeds"][-1]
                     wav_path = takes_dir / f"{item['sid']}.s{seed}.wav"
                     meta_path = takes_dir / f"{item['sid']}.s{seed}.meta.json"
                     if not wav_path.exists():
-                        slide_style = VOXCPM_SLIDE_STYLES.get(item["sid"], style)
+                        slide_style = (
+                            style_override
+                            if style_override is not None
+                            else VOXCPM_SLIDE_STYLES.get(item["sid"], VOXCPM_DEFAULT_STYLE)
+                        )
                         req = json.dumps(
                             {"text": item["text"], "seed": seed, "out": str(wav_path), "style": slide_style},
                             ensure_ascii=False,
@@ -575,17 +531,17 @@ def synth_voxcpm_batch(
             best_seed = item["seeds"][best_idx]
             best_f0 = item["f0s"][best_idx]
             dest = dest_dir / f"{item['sid']}.mp3"
-            dur, size = master_to_mp3(dest, wav_path=best_wav)
+            dur, size = master_to_mp3(dest, best_wav)
             tag = "OK" if best_rep["ok"] else f"BEST(sim={best_rep.get('sim', 0):.2f}: {'; '.join(best_rep.get('hard', []))})"
             print(f"  ✓ zh/{item['sid']}.mp3 [voxcpm2/{voice_label} s{best_seed} f0={best_f0:.0f}Hz {tag}] ({dur:.2f}s, {size/1024:.0f} KB)", flush=True)
-            out_results[item["sid"]] = ("zh", item["sid"], dur, size)
+            out_results[item["sid"]] = ("zh", item["sid"], dur, size, True)
 
-        print(f"[voxcpm2/{mode}] Backcheck + F0 summary: {passed}/{len(todo)} slides passed cleanly.", flush=True)
+        print(f"[voxcpm2/ref] Backcheck + F0 summary: {passed}/{len(todo)} slides passed cleanly.", flush=True)
     finally:
         if tmp_ctx is not None:
             tmp_ctx.cleanup()
 
-    return [out_results[sid] for sid, _, _ in jobs]
+    return [out_results[sid] for sid, _, _ in jobs if sid in out_results]
 
 
 def text_hash(text: str) -> str:
@@ -613,9 +569,8 @@ def main() -> None:
     parser.add_argument("--en-voice", default=VOICES["en"], help="Kokoro voice for English (default: bm_george)")
     parser.add_argument("--en-speed", type=float, default=KOKORO_SPEED, help="Kokoro speech speed for English")
     parser.add_argument("--zh-voice", default=VOICES["zh"], help="Voice label recorded in manifest for Chinese")
-    parser.add_argument("--voxcpm-ref", type=Path, default=VOXCPM_REF, help="Dir containing man.zh.wav (+ voice.json for continuation)")
-    parser.add_argument("--voxcpm-mode", choices=["ref", "continuation"], default="ref", help="VoxCPM2 cloning mode (default: ref controllable cloning)")
-    parser.add_argument("--zh-style", default=VOXCPM_DEFAULT_STYLE, help="Style control prefix for ref mode")
+    parser.add_argument("--voxcpm-ref", type=Path, default=VOXCPM_REF, help="Dir containing man.zh.wav")
+    parser.add_argument("--zh-style", default=None, help="Override style control prefix for all targeted ZH slides")
     parser.add_argument("--voxcpm-scratch", type=Path, default=None, help="Optional scratch dir to cache VoxCPM2 WAV takes")
     args = parser.parse_args()
 
@@ -646,7 +601,7 @@ def main() -> None:
             return True
         if args.sync:
             prev_hash = prev_slides.get(sid, {}).get(lang, {}).get("text_sha256")
-            if prev_hash and prev_hash != text_hash(text):
+            if prev_hash != text_hash(text):
                 return True
         return False
 
@@ -669,14 +624,14 @@ def main() -> None:
         print("IN_SYNC: all targeted guide audio tracks match scripts and manifest.", flush=True)
         return
 
-    results = []
+    results: list[tuple[str, str, float, int, bool]] = []
     if args.stamp_manifest:
         for sid, _en_text, _zh_text in SCRIPTS:
             for lang in ("en", "zh"):
                 dest = OUT_DIR / lang / f"{sid}.mp3"
                 if not dest.exists():
                     raise SystemExit(f"Cannot stamp missing MP3: {dest}")
-                results.append((lang, sid, probe_duration(dest), dest.stat().st_size))
+                results.append((lang, sid, probe_duration(dest), dest.stat().st_size, True))
     else:
         # 1. English via local Kokoro ONNX (bm_george, British English)
         en_jobs = [(sid, en_text, needs_regen("en", sid, en_text)) for sid, en_text, _ in SCRIPTS]
@@ -689,28 +644,37 @@ def main() -> None:
                 zh_jobs,
                 ref_dir=args.voxcpm_ref,
                 voice_label=args.zh_voice,
-                mode=args.voxcpm_mode,
-                style=args.zh_style,
+                style_override=args.zh_style,
                 scratch_dir=args.voxcpm_scratch,
             )
         )
 
     text_map = {sid: {"en": en_text, "zh": zh_text} for sid, en_text, zh_text in SCRIPTS}
+    prev_voices = prev_manifest.get("voices", {})
     manifest = {
         "engines": ENGINES,
-        "voices": {"en": args.en_voice, "zh": args.zh_voice},
+        "voices": {
+            "en": args.en_voice if args.lang in ("en", "all") else prev_voices.get("en", args.en_voice),
+            "zh": args.zh_voice if args.lang in ("zh", "all") else prev_voices.get("zh", args.zh_voice),
+        },
         "slides": {sid: {} for sid, _, _ in SCRIPTS},
     }
     total_bytes = 0
     total_dur = {"en": 0.0, "zh": 0.0}
 
-    for lang, sid, dur, size in results:
-        manifest["slides"][sid][lang] = {
+    for lang, sid, dur, size, was_regen in results:
+        entry = {
             "file": f"{lang}/{sid}.mp3",
             "duration": dur,
             "bytes": size,
-            "text_sha256": text_hash(text_map[sid][lang]),
         }
+        if was_regen:
+            entry["text_sha256"] = text_hash(text_map[sid][lang])
+        else:
+            prev_hash = prev_slides.get(sid, {}).get(lang, {}).get("text_sha256")
+            if prev_hash:
+                entry["text_sha256"] = prev_hash
+        manifest["slides"][sid][lang] = entry
         total_bytes += size
         total_dur[lang] += dur
 
