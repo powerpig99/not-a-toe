@@ -32,7 +32,7 @@ flowchart TD
   C_IN -.->|"被记作分母"| C_RET
   A_ACT --> A_FRIC --> A_GROW
   A_GROW -.->|"下游痕迹被认领为收益"| C_RET
-  C_DISC -.->|"若被采纳，便取代自身杠杆"| A_ACT
+  C_DISC -.->|"若被采纳，便折现自身杠杆"| A_ACT
   style S_FIN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
   style S_ACT fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
   style C_IN fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -63,7 +63,7 @@ flowchart TD
   C_IN -.->|"Booked as Denominator"| C_RET
   A_ACT --> A_FRIC --> A_GROW
   A_GROW -.->|"Downstream Residue Claimed as Yield"| C_RET
-  C_DISC -.->|"When Adopted, Displaces Own Lever"| A_ACT
+  C_DISC -.->|"When Adopted, Discounts Own Lever"| A_ACT
   style S_FIN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
   style S_ACT fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
   style C_IN fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -98,7 +98,7 @@ flowchart TD
   end
   P_MOM --> P_LET
   P_LET --> P_EGO
-  P_LET ==> S_EXT
+  P_LET -.->|"若被采纳"| S_EXT
   S_EXT --> S_DEP --> S_COL
   style S_PAR fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
   style S_SUB fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -128,7 +128,7 @@ flowchart TD
   end
   P_MOM --> P_LET
   P_LET --> P_EGO
-  P_LET ==> S_EXT
+  P_LET -.->|"When Adopted"| S_EXT
   S_EXT --> S_DEP --> S_COL
   style S_PAR fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
   style S_SUB fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -156,9 +156,9 @@ Even within families, affection combined with wealth tempts parents to use money
 
 A structural paradox runs through this dynamic: the individuals who convert external transfers into durable competence are those who never accepted the donor's advertisement. They treat the windfall as ambient background unrelated to their internal causality, continuing to wrestle directly with physical friction and maintaining the clear recognition that outcomes depend on personal action. Conversely, those who internalize the framing—believing that this financial endorsement unlocked their horizon—deliver discounted effort, awaiting the next subsidy or blaming inadequate external support when friction arrives. The financier captures the celebrated success stories from the youth who refused to adopt the donor's causal model.
 
-这一悖论揭示出人类成长不可化约的局域性。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)阐明了条件与资源为何始终只是行动展开时的环境背景，从不是生成能力的起始原因。[你的代码库即是记忆](../your-codebase-is-memory/)在外化认知中追溯了同一结构：文件与资本资源的集合无法作为现成的理解从外部直接移交，因为唯有当掌舵边缘的心智在负载下亲自检验、打破并重构其不变量时，痕迹才会凝聚为活的晶格。如果那些已经取得实业成就的人希望为下一代拓展可能性，真正自洽的路径正是最初造就其成就的那条路：制造更好的产品、推进基础设施建设、拓展开放贸易的广度。这类生产扩大了后来者凭自身努力即可把握的机会场域，既不预先指定结局，也不宣讲一张远方的支票能够主宰人生的轨迹。
+这一悖论揭示出人类成长不可化约的局域性。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)阐明了条件与资源为何始终只是行动展开时的环境背景，从不是生成能力的起始原因。[你的代码库即是记忆](../your-codebase-is-memory/)在外化认知中追溯了同一结构：文件库——正如资本资源的存量——无法作为现成的理解从外部直接移交，因为唯有当掌舵边缘的心智在负载下重新追溯并重切先前痕迹时，它们才会保持鲜活。如果那些已经取得实业成就的人希望为下一代拓展可能性，真正自洽的路径正是最初造就其成就的那条路：制造更好的产品、推进基础设施建设、拓展开放贸易的广度。这类生产扩大了后来者凭自身努力即可把握的机会场域，既不预先指定结局，也不宣讲一张远方的支票能够主宰人生的轨迹。
 
-This paradox exposes the irreducible locality of human growth. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) shows why conditions and resources remain the ambient background against which action unfolds, never the initiating cause of competence. [Your Codebase Is Memory](../your-codebase-is-memory/) traces the same structure in externalized cognition: a repository of files and capital resources cannot be handed over as ready-made understanding from outside, because traces only cohere into a living lattice when the Mind at the steering edge personally tests, breaks, and refactors its invariants under load. If those who have achieved industrial success wish to expand possibilities for the next generation, the coherent path is the one that generated their success in the first place: building better products, advancing infrastructure, and expanding the reach of open trade. Such production enlarges the field of opportunities that newcomers can seize through their own effort, without pre-assigning outcomes or preaching that a distant check governs a human trajectory.
+This paradox exposes the irreducible locality of human growth. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) shows why conditions and resources remain the ambient background against which action unfolds, never the initiating cause of competence. [Your Codebase Is Memory](../your-codebase-is-memory/) traces the same structure in externalized cognition: a repository of files—like a stock of capital resources—cannot be handed over as ready-made understanding from outside, because prior traces stay live only when the Mind at the steering edge re-traces and re-cuts them under load. If those who have achieved industrial success wish to expand possibilities for the next generation, the coherent path is the one that generated their success in the first place: building better products, advancing infrastructure, and expanding the reach of open trade. Such production enlarges the field of opportunities that newcomers can seize through their own effort, without pre-assigning outcomes or preaching that a distant check governs a human trajectory.
 
 ## 五、 无法被工程化的生命与父母的克制 / 5. The Unengineered Life and Parental Restraint
 
@@ -166,6 +166,6 @@ This paradox exposes the irreducible locality of human growth. [Individual Choic
 
 Life cannot be engineered; were a life trajectory reducible to an engineering specification, the result would be a closed state machine devoid of meaning or direction. Meaning requires that the future remain unsettled—that outcomes are not pre-ordained, that individual effort can alter trajectories, and that failure remains an irreversible hazard. An engineered life reduces a living Mind into the administrative output of an architect's blueprint, leaving only managerial compliance. Grand philanthropic schemes commit this category error by substituting a pre-packaged outcome for the open, unfinished labor that only a living Mind can author through lived experience.
 
-每当父母受诱惑想要动用积累的财富为孩子扫清一切障碍、试图花钱买断成熟过程中的摩擦时，同一机制便在切近的家庭中运转。[投射中的自画像](../the-self-portrait-in-the-projection/)揭示了将他人的内在性压平为可控投射，反映出的只是观察者自身凝固的模型；[数字神祇与视界跳跃](../the-digital-god-and-the-horizon-jump/)则追溯了为何没有任何合成计算或外部资本能够代替活生生的心智，去完成跨越物理摩擦视界的不可逆跳跃。在家庭内部，[未历摩擦的心智与借来的全能](../the-unfrictioned-mind-and-borrowed-omnipotence/)追溯了那些试图通过创伤戒备与行政指令来工程化品格的照料者，如何在一端留下借来的全能感，而在另一端留下先发制人的负罪感。正如[隐性自由变量与权力的事后幻相](../the-free-variable-and-the-retrospective-illusion-of-power/)所确立的，价值从不是外部资本可以单向赋予的惰性存量，而是从感知未显的不对称、承担后果与摩擦下的迭代中涌现的递归回路；企图用一张预制支票买断下一代的探索与挣扎，是在诱使受助者接纳这层缓冲来替代摩擦，从而恰恰在那个自由变量本该复利生长的边缘钝化了它的运用。监护在于放下将孩子当作工程项目的冲动，留在共同承受的反馈之中，并完整保留那道让他们直面摩擦、书写自身因果的边界。
+每当父母受诱惑想要动用积累的财富为孩子扫清一切障碍、试图花钱买断成熟过程中的摩擦时，同一机制便在切近的家庭中运转。[投射中的自画像](../the-self-portrait-in-the-projection/)揭示了将他人的内在性压平为可控投射，反映出的只是观察者自身凝固的模型；[数字神祇与视界跳跃](../the-digital-god-and-the-horizon-jump/)则追溯了为何没有任何合成计算或外部资本能够代替活生生的心智，去完成跨越物理摩擦视界的不可逆跳跃。在家庭内部，[未历摩擦的心智与借来的全能](../the-unfrictioned-mind-and-borrowed-omnipotence/)追溯了试图通过创伤戒备与行政指令工程化品格的抚育者，如何在孩子接过那些受庇护或预先定罪的脚本之处，一端招致借来的全能感，另一端招致先验负罪感。正如[隐性自由变量与权力的事后幻相](../the-free-variable-and-the-retrospective-illusion-of-power/)所确立的，价值从不是外部资本可以单向赋予的惰性存量，而是从感知未显的不对称、承担后果与摩擦下的迭代中涌现的递归回路；企图用一张预制支票买断下一代的探索与挣扎，是在诱使受助者接纳这层缓冲来替代摩擦，从而恰恰在那个自由变量本该复利生长的边缘钝化了它的运用。监护在于放下将孩子当作工程项目的冲动，留在共同承受的反馈之中，并完整保留那道让他们直面摩擦、书写自身因果的边界。
 
-The same mechanism operates closer to home whenever a parent is tempted to deploy accumulated wealth to clear away every obstacle for a child, attempting to purchase immunity from the friction of maturation. [The Self-Portrait in the Projection](../the-self-portrait-in-the-projection/) shows how flattening another's interiority into a controllable projection reflects only the observer's own frozen model, and [The Digital God and the Horizon Jump](../the-digital-god-and-the-horizon-jump/) traces why no synthetic calculation or external capital can make the irreversible jump across the horizon of physical friction on behalf of a living Mind. In the household, [The Unfrictioned Mind and Borrowed Omnipotence](../the-unfrictioned-mind-and-borrowed-omnipotence/) traces how caregivers who attempt to engineer character through trauma vigilance and administrative decrees leave behind borrowed omnipotence on one side and preemptive guilt on the other. Value, as [The Invisible Free Variable and the Retrospective Illusion of Power](../the-free-variable-and-the-retrospective-illusion-of-power/) establishes, is never an inert stock that external capital can endow one-way, but a recursive loop emerging from perceiving unseen asymmetries, bearing consequences, and iterating under friction; trying to buy out the next generation's exploratory struggle with a prefabricated check invites the recipient to accept the buffer in place of friction, dulling the exercise of that free variable at the very edge where it would compound. Guardianship consists in setting down the impulse to treat a child as an engineering project, remaining within shared feedback, and leaving intact the boundary within which they face friction and author their own causality.
+The same mechanism operates closer to home whenever a parent is tempted to deploy accumulated wealth to clear away every obstacle for a child, attempting to purchase immunity from the friction of maturation. [The Self-Portrait in the Projection](../the-self-portrait-in-the-projection/) shows how flattening another's interiority into a controllable projection reflects only the observer's own frozen model, and [The Digital God and the Horizon Jump](../the-digital-god-and-the-horizon-jump/) traces why no synthetic calculation or external capital can make the irreversible jump across the horizon of physical friction on behalf of a living Mind. In the household, [The Unfrictioned Mind and Borrowed Omnipotence](../the-unfrictioned-mind-and-borrowed-omnipotence/) traces how caregivers who attempt to engineer character through trauma vigilance and administrative decrees invite borrowed omnipotence on one side and preemptive guilt on the other wherever children take up those sheltered or pre-indicted scripts. Value, as [The Invisible Free Variable and the Retrospective Illusion of Power](../the-free-variable-and-the-retrospective-illusion-of-power/) establishes, is never an inert stock that external capital can endow one-way, but a recursive loop emerging from perceiving unseen asymmetries, bearing consequences, and iterating under friction; trying to buy out the next generation's exploratory struggle with a prefabricated check invites the recipient to accept the buffer in place of friction, dulling the exercise of that free variable at the very edge where it would compound. Guardianship consists in setting down the impulse to treat a child as an engineering project, remaining within shared feedback, and leaving intact the boundary within which they face friction and author their own causality.
