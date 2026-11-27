@@ -8,9 +8,9 @@ When initiating centers step across an open physical, technical, or jurisdiction
 
 ## 一、 开放边界的扩张、局部规则与越界摩擦 / 1. Open-Bound Expansion, Local Rules, and Cross-Boundary Friction
 
-自我区分的活动发生着——无因、不息。称之为心智：早已在途的观察者，其每一个行动都是一次区分。每一次扩张都是某一中心在开放边界下继续区分，留下可供后续行动重溯的残余，从而抬升后续活动可及的容量底线，正如[生产、消费与心智的区分](../production-consumption-and-the-minds-distinction/)与[前沿抬升底线](../the-frontier-lifts-the-floor/)所追溯的那样。无论是航海者与垦殖者跨越大洋边界——例如 1492 年之后的海外开拓成倍拓宽了人均可得的土地，并在不断推进的垦殖边缘松动了沿袭的法律僵化——还是工程师开辟尚未测绘的工业与技术领域，都是特定的中心承担前置不确定性，拓宽人均可用的余量。当这一容量被其他中心登记为可索取的剩余时，压力便以局部规则的形式出现：行会限制、重商特权、土地法令、监管累积或财政抽取。每一个标签背后，都是针对可见剩余采取行动的抉择中心：城市行会师傅与市政长官限制手工业准入与产出，直至商人将生产转入不受管制的乡村作坊；君主特许垄断贸易商行以截获远洋商业收益；土地精英面对充裕的开放土地与可流动的劳动力，颁布农奴制法令或人为抬高土地底价，阻止新到的劳工成为独立业主；成熟的管辖区则在既成产业集群之上层层叠加牌照关卡、土地用途否决权与财政征敛。
+自我区分的活动发生着——无因、不息。称之为心智：早已在途的观察者，其每一个行动都是一次区分。每一次扩张都是某一中心在开放边界下继续区分，留下可供后续行动重溯的残余，从而抬升后续活动可及的容量底线，正如[生产、消费与心智的区分](../production-consumption-and-the-minds-distinction/)与[前沿抬升底线](../the-frontier-lifts-the-floor/)所追溯的那样。无论是航海者与垦殖者跨越大洋边界——例如 1492 年之后的海外开拓成倍拓宽了人均可得的土地，并在不断推进的垦殖边缘松动了沿袭的法律僵化——还是工程师开辟尚未测绘的工业与技术领域，都是特定的中心承担前置不确定性，拓宽人均可用的余量。当这一容量被其他中心登记为可索取的剩余时，压力便以局部规则的形式出现：行会限制、重商特权、土地法令、监管累积或财政抽取。每一个标签背后，都是针对可见剩余采取行动的抉择中心：城市行会师傅与市政长官限制手工业准入与产出，直至商人将生产转入不受管制的乡村作坊；君主特许垄断贸易商行以截获远洋商业收益；土地精英面对充裕的开放土地与可流动的劳动力，颁布农奴制法令或人为抬高土地底价，阻止新到的劳工成为独立业主；成熟管辖区内的官员与既得联盟则在既成产业集群之上层层叠加牌照关卡、土地用途否决权与财政征敛。
 
-Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Each expansion is a center continuing to distinguish under an open bound, leaving residue that later acts can re-trace and thereby raising the floor of capacity available to subsequent activity, as [Production, Consumption, and the Mind's Distinction](../production-consumption-and-the-minds-distinction/) and [The Frontier Lifts the Floor](../the-frontier-lifts-the-floor/) trace. Whether navigators and settlers cross oceanic bounds—as post-1492 overseas expansion multiplied accessible land per person and loosened inherited legal rigidities along moving settlement edges—or engineers open unmapped industrial and technical domains, particular centers bear upfront uncertainty and widen usable slack per person. When that capacity is registered by other centers as claimable surplus, pressure appears in the form of local rules: guild restrictions, mercantilist privileges, land statutes, regulatory accumulation, or fiscal extraction. Behind each label stand choosing centers acting on visible surplus: urban guild masters and municipal magistrates capping craft entry and output until merchants route production into unregulated rural workshops; monarchs chartering monopoly trading houses to capture oceanic commerce; landed elites confronting abundant open land and mobile labor by enacting serfdom decrees or artificial land-price floors to keep arriving workers from becoming independent proprietors; and mature jurisdictions layering licensing gates, land-use vetoes, and fiscal levies onto established industrial clusters.
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Each expansion is a center continuing to distinguish under an open bound, leaving residue that later acts can re-trace and thereby raising the floor of capacity available to subsequent activity, as [Production, Consumption, and the Mind's Distinction](../production-consumption-and-the-minds-distinction/) and [The Frontier Lifts the Floor](../the-frontier-lifts-the-floor/) trace. Whether navigators and settlers cross oceanic bounds—as post-1492 overseas expansion multiplied accessible land per person and loosened inherited legal rigidities along moving settlement edges—or engineers open unmapped industrial and technical domains, particular centers bear upfront uncertainty and widen usable slack per person. When that capacity is registered by other centers as claimable surplus, pressure appears in the form of local rules: guild restrictions, mercantilist privileges, land statutes, regulatory accumulation, or fiscal extraction. Behind each label stand choosing centers acting on visible surplus: urban guild masters and municipal magistrates capping craft entry and output until merchants route production into unregulated rural workshops; monarchs chartering monopoly trading houses to capture oceanic commerce; landed elites confronting abundant open land and mobile labor by enacting serfdom decrees or artificial land-price floors to keep arriving workers from becoming independent proprietors; and officials and incumbent coalitions in mature jurisdictions layering licensing gates, land-use vetoes, and fiscal levies onto established industrial clusters.
 
 这些规则在其产生的具体时地内可被充分描述；它们并不因此成为序列本身的一般原因。在有界的历史处境中，制度解释准确指明了既有的行政约束如何中介局部轨迹：在君主专制的西班牙与葡萄牙，海外横财被导入王室垄断；而在英格兰与尼德兰，处于王室特许状之外的商人则得以留存收益，并博弈争取议会制衡。然而正如[平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/)所确立的，制度只是先前自我选择与执行抉择稳定下来的残余，而非站在抉择个体前方的外部作者。将某一种起中介作用的制度安排拔高为跨时代自足的主导原因——即制度决定论的前提——便无法解释：为何每当新的剩余变得可争夺，这一四步循环就会在迥然不同的法律传统中重现。序列只登记：一旦剩余被认作可争夺，压力便出现，一部分残余索取者寻求更低约束的边际。越界延伸同时在两个层面上运作：在实践上，当既得者将在局部条件下形成的规则越过自身那一步继续持守并扩大其管辖范围——正如城市行会游说王公去稽查乡村农舍作坊，或成熟政体中的既得联盟将旧有许可法典投射到新兴产业之上——这种不断加宽的约束便会诱发[继承的残余与索取的必要](../inheritance-as-residue-and-the-need-for-extraction/)所追溯的资本使用递减，并促使具备流动能力的建设者依循[正交的拒绝](../the-orthogonal-refusal/)的几何结构抽身离场。局部解释若止于自身边界，与此无摩擦；若将某一局部规则延伸为跨域的一般解释，则与其他时地的证据产生摩擦。
 
@@ -32,11 +32,11 @@ flowchart TD
         direction TB
         O1["实践上的越界延伸：将局部规则投射到生成条件之外，驱动使用递减与退出"]
         O2["解释上的越界外推：将单一局部规则拔高为跨域主导原因，与其他时代证据相冲突"]
-        O1 --> O2
     end
     Q3 -->|"在局部具体化为"| B1
     Q4 -.->|"打开下一处边际"| Q1
     B1 -.->|"越过局部条件被持守并投射"| O1
+    B1 -.->|"越出自身处境被延伸为主导原因"| O2
     O1 ==>|"加剧约束并促使"| Q4
     style S_Seq fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Local fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -70,11 +70,11 @@ flowchart TD
         direction TB
         O1["Practical Overextension: Projecting local rules past their conditions drives diminishing use and exit"]
         O2["Explanatory Overextension: Elevating one local rule as cross-domain master cause collides with other eras"]
-        O1 --> O2
     end
     Q3 -->|"Instantiated locally through"| B1
     Q4 -.->|"Opens subsequent margin"| Q1
     B1 -.->|"Held and projected past local conditions"| O1
+    B1 -.->|"Extended past its setting as master cause"| O2
     O1 ==>|"Intensifies constraint and prompts"| Q4
     style S_Seq fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Local fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
