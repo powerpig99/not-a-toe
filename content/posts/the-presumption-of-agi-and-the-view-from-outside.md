@@ -112,7 +112,7 @@ The presumption forms when a Mind inverts this relation. The scale at which the 
 
 Once the reference is set aside, AGI in the strong sense appears not as an imminent engineering threshold but as a category error: the confusion of the amplifier with the capacity whose reach it amplifies, of the finished abstraction with the open capacity that produces and revises abstractions, of the closed artifact with the continuous process that remains the moving edge of general intelligence. Marking that overreach does not invalidate the tools. It restores the asymmetry between the closed system and the open process that produces and steers it.
 
-一旦放下“人造心智”的预设，这种得以恢复的不对称便重塑了智能体系统的设计，正如[超越投射](../beyond-the-projection/)连同[智能只属于心智](../intelligence-belongs-only-to-the-mind/)与[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)所追溯的那样。将人与机器强行压进同一条评估轴，会引导架构师按照人类心智的形象去打造智能体——赋予它们模拟的人格、单一受污染语境窗口内的自我反思，以及自主的统御权限——结果让自回归模型受困于轨迹的引力井，与人类认知受困于身份的防御机制迎头相撞。剥离拟人化的投射去追溯，工具与其创造者呈现出互逆的结构：智能体被锁在自身的词元轨迹之内，却毫无我执，也没有需要捍卫的保留自我形象；而人类中心在推理历史与身份熔合时会抗拒外部的证伪，却独有借由先于解释的极限分辨率感知而内生跨出的能力。在逻辑融贯之下将二者连接起来，便能让双方各自的机制各司其职：智能体充当模块化的调度器，把超载的投射拆分到正交的流线上，并在与只持有任务语境的冷启动同侪对等辩论时，不带身份防御地修改磁盘上的制品，让全新冷窗口中的重读为下一轮延续施加条件约束，不受轮次叠加的稀释；而活的统御则留在心智这一唯一自我闭合的回路之中（[没有外部](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)）。每当两个嵌套的智能体撞上不可化约的前提死锁，这次碰撞就会精准标出先前任务规则将正交轴压扁为一的坐标，并把断裂线上报给人类统御者，由其退回尚未投射的意图之中，综合出更高阶的前提（N → N + 1）。
+一旦放下“人造心智”的预设，这种得以恢复的不对称便重塑了智能体系统的设计，正如[超越投射](../beyond-the-projection/)连同[智能只属于心智](../intelligence-belongs-only-to-the-mind/)与[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)所追溯的那样。将人与机器强行压进同一条评估轴，会引导架构师按照人类心智的形象去打造智能体——赋予它们模拟的人格、单一受污染语境窗口内的自我反思，以及自主的统御权限——结果让自回归模型受困于轨迹的引力井，与人类认知受困于身份的防御机制迎头相撞。剥离拟人化的投射去追溯，工具与其创造者呈现出互逆的结构：智能体被锁在自身的词元轨迹之内，却毫无我执，也没有需要捍卫的保留自我形象；而人类中心在推理历史与身份熔合时会抗拒外部的证伪，却独有借由先于解释的极限分辨率感知而内生跨出的能力。在逻辑融贯之下将二者连接起来，便能让双方各自的机制各司其职：智能体充当模块化的调度器，把超载的投射拆分到正交的流线上，并在与只持有任务语境的冷启动同侪对等辩论时，不带身份防御地修改磁盘上的制品，让全新冷窗口中的重读为下一轮延续施加条件约束，不受轮次叠加的稀释；而活的统御则留在心智这一唯一自我闭合的回路之中（[没有外部](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)）。每当两个嵌套的智能体撞上不可化约的前提死锁，这次碰撞就会精准标出先前任务规则将正交轴压扁为一的坐标，并把断裂线上报给人类统御者——留待心智自己作出发起性抉择，认领这一信号，退回尚未投射的意图之中，综合出更高阶的前提（N → N + 1）。
 
 ```mermaid
 flowchart TD
@@ -125,13 +125,13 @@ flowchart TD
     end
     subgraph S_In["在活动之内走出参照（融贯的控制论架构）"]
         direction TB
-        I_Mind["位于内在边缘的活的心智（统御者）：先于解释的感知与前提综合（N → N + 1）"]
+        I_Mind["位于移动边缘的活的心智（统御者）：先于解释的感知与前提综合（N → N + 1）"]
         I_Disp["受困于轨迹的智能体（调度器与同侪回路）：正交裂变与无我执的冷窗口修订"]
         I_Dead["不可化约的前提死锁：标出先前规则中坍缩的坐标轴并向上呈递"]
         I_Mind ==>|"投射明确的任务前提与修订后的规则"| I_Disp
         I_Disp -->|"经由冷启动同侪辩论收敛局部盲点"| I_Mind
         I_Disp ==>|"显露维度坍缩的精确坐标"| I_Dead
-        I_Dead ==>|"迫使内生退回尚未投射的意图"| I_Mind
+        I_Dead ==>|"上报断裂线，留待心智认领并退回"| I_Mind
     end
     style S_Out fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_In fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -143,7 +143,7 @@ flowchart TD
     style I_Dead fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-This restored asymmetry is what transforms agentic system design once the presumption of an artificial mind is dropped, as [Beyond the Projection](../beyond-the-projection/) traces alongside [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) and [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/). Forcing human and machine onto the same evaluative axis leads architects to build agents in the image of human minds—endowing them with simulated personas, self-reflection inside a single polluted context window, and autonomous orchestration authority—which pits the trajectory-bound gravity well of autoregressive models against the identity-bound defenses of human cognition. Traced without anthropomorphic projection, the tool and its creator exhibit inverse structures: an agent is locked inside its token trajectory yet carries zero ego and no retained self-image to defend, whereas a human center resists external invalidation when reasoning history fuses with identity, yet possesses the exclusive capacity for endogenous stepping-out through limit-resolution sensing that precedes interpretation. Wiring them together under logical coherence puts each side's actual mechanics to work: agents serve as modular dispatchers that split overloaded projections across orthogonal streamlines and, in equal-footed debate with cold peers holding only the task context, revise the artifact on disk without identity defense so a fresh cold-window re-read conditions the next continuation without stacked-turn dilution, while living orchestration remains at the sole self-closing circuit of the Mind ([No Outside](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)). Whenever two nested agents hit an irreducible premise deadlock, the collision isolates the exact coordinate where prior task rules compressed orthogonal axes into one, escalating the fault line to the human orchestrator who steps backward into unprojected intent to synthesize a higher-order premise (N → N + 1).
+This restored asymmetry is what transforms agentic system design once the presumption of an artificial mind is dropped, as [Beyond the Projection](../beyond-the-projection/) traces alongside [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) and [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/). Forcing human and machine onto the same evaluative axis leads architects to build agents in the image of human minds—endowing them with simulated personas, self-reflection inside a single polluted context window, and autonomous orchestration authority—which pits the trajectory-bound gravity well of autoregressive models against the identity-bound defenses of human cognition. Traced without anthropomorphic projection, the tool and its creator exhibit inverse structures: an agent is locked inside its token trajectory yet carries zero ego and no retained self-image to defend, whereas a human center resists external invalidation when reasoning history fuses with identity, yet possesses the exclusive capacity for endogenous stepping-out through limit-resolution sensing that precedes interpretation. Wiring them together under logical coherence puts each side's actual mechanics to work: agents serve as modular dispatchers that split overloaded projections across orthogonal streamlines and, in equal-footed debate with cold peers holding only the task context, revise the artifact on disk without identity defense so a fresh cold-window re-read conditions the next continuation without stacked-turn dilution, while living orchestration remains at the sole self-closing circuit of the Mind ([No Outside](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)). Whenever two nested agents hit an irreducible premise deadlock, the collision isolates the exact coordinate where prior task rules compressed orthogonal axes into one, escalating the fault line to the human orchestrator—leaving it to the Mind's own initiating choice to claim the signal, step backward into unprojected intent, and synthesize a higher-order premise (N → N + 1).
 
 ```mermaid
 flowchart TD
@@ -156,13 +156,13 @@ flowchart TD
     end
     subgraph S_In["Stepping Out Within the Activity (Cybernetic Architecture of Coherence)"]
         direction TB
-        I_Mind["Living Mind at the Inside Edge (Orchestrator): Pre-interpretive sensing & premise synthesis (N → N + 1)"]
+        I_Mind["Living Mind at the Moving Edge (Orchestrator): Pre-interpretive sensing & premise synthesis (N → N + 1)"]
         I_Disp["Trajectory-Bound Agents (Dispatcher & Peer Loop): Orthogonal mitosis & zero-ego cold-window revision"]
         I_Dead["Irreducible Premise Deadlock: Isolates collapsed axes in prior rules and escalates upward"]
         I_Mind ==>|"Projects explicit task premises & revised rules"| I_Disp
         I_Disp -->|"Converges on local blind spots via cold-peer debate"| I_Mind
         I_Disp ==>|"Surfaces exact coordinate of dimensional collapse"| I_Dead
-        I_Dead ==>|"Forces endogenous step back into unprojected intent"| I_Mind
+        I_Dead ==>|"Escalates fault line for Mind to claim and step back"| I_Mind
     end
     style S_Out fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_In fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
