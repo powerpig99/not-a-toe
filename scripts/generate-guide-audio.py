@@ -23,11 +23,20 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 OUT_DIR = ROOT / "assets" / "audio" / "guide"
 MODEL = "gemini-2.5-flash-preview-tts"
+KOKORO_MODEL = Path.home() / ".cache" / "hyperframes" / "tts" / "models" / "kokoro-v1.0.onnx"
+KOKORO_VOICES = Path.home() / ".cache" / "hyperframes" / "tts" / "voices" / "voices-v1.0.bin"
 
 VOICES = {
-    "en": "Charon",
+    "en": "bm_george",
     "zh": "Orus",
 }
+
+ENGINES = {
+    "en": "kokoro-v1.0",
+    "zh": MODEL,
+}
+
+KOKORO_SPEED = 0.96
 
 STYLE_PROMPTS = {
     "en": (
@@ -272,6 +281,78 @@ def probe_duration(path: Path) -> float:
     return round(float(out), 2)
 
 
+def master_to_mp3(dest: Path, *, pcm_bytes: bytes | None = None, wav_path: Path | None = None) -> tuple[float, int]:
+    tmp_mp3 = dest.with_suffix(".tmp.mp3")
+    if wav_path is not None:
+        in_args = ["-i", str(wav_path)]
+        stdin_bytes = None
+    else:
+        in_args = ["-f", "s16le", "-ar", "24000", "-ac", "1", "-i", "pipe:0"]
+        stdin_bytes = pcm_bytes
+
+    proc = subprocess.run(
+        [
+            "ffmpeg",
+            "-y",
+            *in_args,
+            "-af",
+            "silenceremove=start_periods=1:start_threshold=-50dB:start_silence=0.12,"
+            "areverse,silenceremove=start_periods=1:start_threshold=-50dB:start_silence=0.22,areverse,"
+            "loudnorm=I=-16:TP=-1.5:LRA=9",
+            "-codec:a", "libmp3lame",
+            "-ar", "24000",
+            "-ac", "1",
+            "-b:a", "48k",
+            str(tmp_mp3),
+        ],
+        input=stdin_bytes,
+        stdout=subprocess.DEVNULL,
+        stderr=subprocess.PIPE,
+    )
+    if proc.returncode != 0:
+        raise RuntimeError(f"ffmpeg failed for {dest.name}: {proc.stderr.decode()[:300]}")
+
+    tmp_mp3.replace(dest)
+    dur = probe_duration(dest)
+    size = dest.stat().st_size
+    return dur, size
+
+
+def synth_kokoro_batch(jobs: list[tuple[str, str, bool]], voice: str = "bm_george", speed: float = KOKORO_SPEED) -> list[tuple[str, str, float, int]]:
+    import tempfile
+    import kokoro_onnx
+    import soundfile as sf
+
+    if not KOKORO_MODEL.exists() or not KOKORO_VOICES.exists():
+        raise SystemExit(f"Kokoro ONNX assets missing at {KOKORO_MODEL} / {KOKORO_VOICES}")
+
+    need_synth = any(force or not (OUT_DIR / "en" / f"{sid}.mp3").exists() or (OUT_DIR / "en" / f"{sid}.mp3").stat().st_size <= 8000 for sid, _, force in jobs)
+    kokoro = kokoro_onnx.Kokoro(str(KOKORO_MODEL), str(KOKORO_VOICES)) if need_synth else None
+
+    out_results = []
+    dest_dir = OUT_DIR / "en"
+    dest_dir.mkdir(parents=True, exist_ok=True)
+
+    with tempfile.TemporaryDirectory() as tmpdir:
+        for sid, text, force in jobs:
+            dest = dest_dir / f"{sid}.mp3"
+            if dest.exists() and dest.stat().st_size > 8000 and not force:
+                dur = probe_duration(dest)
+                out_results.append(("en", sid, dur, dest.stat().st_size))
+                continue
+
+            # Replace em-dashes with commas/pauses for smooth Kokoro British cadence
+            clean_text = text.replace(" — ", ", ").replace("—", ", ")
+            samples, sr = kokoro.create(clean_text, voice=voice, speed=speed, lang="en-gb")
+            wav_path = Path(tmpdir) / f"{sid}.wav"
+            sf.write(str(wav_path), samples, sr)
+            dur, size = master_to_mp3(dest, wav_path=wav_path)
+            print(f"  ✓ en/{sid}.mp3 [kokoro/{voice}] ({dur:.2f}s, {size/1024:.0f} KB)", flush=True)
+            out_results.append(("en", sid, dur, size))
+
+    return out_results
+
+
 def synth_one(api_key: str, lang: str, slide_id: str, text: str, force: bool) -> tuple[str, str, float, int]:
     dest_dir = OUT_DIR / lang
     dest_dir.mkdir(parents=True, exist_ok=True)
@@ -325,36 +406,8 @@ def synth_one(api_key: str, lang: str, slide_id: str, text: str, force: bool) ->
     if not pcm_bytes:
         raise RuntimeError(f"Failed to synthesize {lang}/{slide_id}: {last_err}")
 
-    tmp_mp3 = dest.with_suffix(".tmp.mp3")
-    proc = subprocess.run(
-        [
-            "ffmpeg",
-            "-y",
-            "-f", "s16le",
-            "-ar", "24000",
-            "-ac", "1",
-            "-i", "pipe:0",
-            "-af",
-            "silenceremove=start_periods=1:start_threshold=-50dB:start_silence=0.12,"
-            "areverse,silenceremove=start_periods=1:start_threshold=-50dB:start_silence=0.22,areverse,"
-            "loudnorm=I=-16:TP=-1.5:LRA=9",
-            "-codec:a", "libmp3lame",
-            "-ar", "24000",
-            "-ac", "1",
-            "-b:a", "48k",
-            str(tmp_mp3),
-        ],
-        input=pcm_bytes,
-        stdout=subprocess.DEVNULL,
-        stderr=subprocess.PIPE,
-    )
-    if proc.returncode != 0:
-        raise RuntimeError(f"ffmpeg failed for {lang}/{slide_id}: {proc.stderr.decode()[:300]}")
-
-    tmp_mp3.replace(dest)
-    dur = probe_duration(dest)
-    size = dest.stat().st_size
-    print(f"  ✓ {lang}/{slide_id}.mp3 ({dur:.2f}s, {size/1024:.0f} KB)", flush=True)
+    dur, size = master_to_mp3(dest, pcm_bytes=pcm_bytes)
+    print(f"  ✓ {lang}/{slide_id}.mp3 [gemini/{VOICES[lang]}] ({dur:.2f}s, {size/1024:.0f} KB)", flush=True)
     return lang, slide_id, dur, size
 
 
@@ -362,7 +415,9 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--force", action="store_true", help="Regenerate existing MP3s")
     parser.add_argument("--lang", choices=["en", "zh", "all"], default="all", help="Which language(s) to regenerate")
-    parser.add_argument("--workers", type=int, default=3, help="Concurrent TTS requests")
+    parser.add_argument("--workers", type=int, default=3, help="Concurrent Gemini TTS requests")
+    parser.add_argument("--en-voice", default=VOICES["en"], help="Kokoro voice for English (default: bm_george)")
+    parser.add_argument("--en-speed", type=float, default=KOKORO_SPEED, help="Kokoro speech speed for English")
     args = parser.parse_args()
 
     for slide_id, _en, zh in SCRIPTS:
@@ -371,21 +426,24 @@ def main() -> None:
             raise SystemExit(f"Banned Chinese word(s) {hits} in slide '{slide_id}'")
     print(f"Audited {len(SCRIPTS)} EN + {len(SCRIPTS)} ZH scripts: 0 banned Chinese words.", flush=True)
 
-    api_key = load_api_key()
-    jobs = []
-    for slide_id, en_text, zh_text in SCRIPTS:
-        jobs.append(("en", slide_id, en_text, args.force and args.lang in ("en", "all")))
-        jobs.append(("zh", slide_id, zh_text, args.force and args.lang in ("zh", "all")))
-
     results = []
+
+    # 1. English via local Kokoro ONNX (bm_george, British English)
+    en_jobs = [(sid, en_text, args.force and args.lang in ("en", "all")) for sid, en_text, _ in SCRIPTS]
+    results.extend(synth_kokoro_batch(en_jobs, voice=args.en_voice, speed=args.en_speed))
+
+    # 2. Chinese via Gemini Native TTS (Orus, standard Mandarin)
+    zh_jobs = [(sid, zh_text, args.force and args.lang in ("zh", "all")) for sid, _, zh_text in SCRIPTS]
+    need_zh_api = any(f or not (OUT_DIR / "zh" / f"{sid}.mp3").exists() for sid, _, f in zh_jobs)
+    api_key = load_api_key() if need_zh_api else ""
     with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as pool:
-        futs = [pool.submit(synth_one, api_key, lang, sid, txt, f) for lang, sid, txt, f in jobs]
+        futs = [pool.submit(synth_one, api_key, "zh", sid, txt, f) for sid, txt, f in zh_jobs]
         for fut in concurrent.futures.as_completed(futs):
             results.append(fut.result())
 
     manifest = {
-        "model": MODEL,
-        "voices": VOICES,
+        "engines": ENGINES,
+        "voices": {"en": args.en_voice, "zh": VOICES["zh"]},
         "slides": {sid: {} for sid, _, _ in SCRIPTS},
     }
     total_bytes = 0
