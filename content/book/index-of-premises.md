@@ -245,11 +245,11 @@ Sivers' method of adding only what need has proven, routing contact selectively 
 ### 埃隆·马斯克 / Elon Musk
 `技术 / Technological`
 
-马斯克预先默认当前工程模型部分有误，把硬件损毁当作高密度损失信号，并在可复用火箭与轨道算力上推演陡峭的成本通缩曲线，在单位时间内复利叠加直面摩擦的迭代时有用；当“物理学才是定律”将成文模型与现实本身混为一谈，当竞争对手 AI 同行审查或“全民高收入”蓝图把能动性移置给制度缓冲或被动消费，当从抽离的旁观席位定义智能或主张全球调速而离开具体境遇中的切身接触，当贝叶斯模拟神学走廊把智能困在未经审视的自身前提之内，或当把意识框定为幻觉或碳硅梯度、将稳定基底置于区分边缘之前并把人造延伸与独立演化谱系混作一谈时，其框架便到达了边界。
+马斯克预先默认当前工程模型部分有误，把硬件损毁当作高密度损失信号，并在可复用火箭与轨道算力上推演陡峭的成本通缩曲线，在单位时间内复利叠加直面摩擦的迭代时有用；当“物理学才是定律”将成文模型与现实本身混为一谈，当竞争对手 AI 同行审查或“全民高收入”蓝图把能动性移置给制度缓冲或被动消费，当从抽离的旁观席位定义智能或主张全球调速而离开具体境遇中的切身接触，当贝叶斯模拟神学走廊把智能困在未经审视的自身前提之内，当把意识框定为幻觉或碳硅梯度、将稳定基底置于区分边缘之前并把人造延伸与独立演化谱系混作一谈，或当把形式证明读作消除定理条件性并归功于“超级智能”、遮蔽前提消去之下的所设公理并将竞争性能动性投射到由人类痕迹展开的推导之上时，其框架便到达了边界。
 
-Musk assumes the present engineering model is partly wrong, treats hardware failure as high-density loss signal, and projects radical cost-deflation curves across reusable rocketry and orbital compute, which is of use in compounding direct-friction iteration per unit of time; his framing reaches its boundary where 'physics is the law' conflates written model with reality, where competitor AI peer-review or Universal High Income blueprints relocate agency to institutional buffers or passive consumption, where defining intelligence from a detached bystander seat or advocating global pacing steps away from situated contact, where Bayesian simulation-theology corridors trap intelligence inside its own unexamined premise, or where framing consciousness as either an illusion or a carbon-versus-silicon gradient places stabilized substrate ahead of the differentiating edge and merges human-built extensions with independently evolved lineages.
+Musk assumes the present engineering model is partly wrong, treats hardware failure as high-density loss signal, and projects radical cost-deflation curves across reusable rocketry and orbital compute, which is of use in compounding direct-friction iteration per unit of time; his framing reaches its boundary where 'physics is the law' conflates written model with reality, where competitor AI peer-review or Universal High Income blueprints relocate agency to institutional buffers or passive consumption, where defining intelligence from a detached bystander seat or advocating global pacing steps away from situated contact, where Bayesian simulation-theology corridors trap intelligence inside its own unexamined premise, where framing consciousness as either an illusion or a carbon-versus-silicon gradient places stabilized substrate ahead of the differentiating edge and merges human-built extensions with independently evolved lineages, or where reading a formal proof as removing theorem conditionality and crediting it to 'super intelligence' hides the posited axioms beneath the discharge and projects rival agency onto expanded human-trace derivation.
 
-→ [失败即信息 / Failure as Information](../../posts/failure-as-information/) · [“物理学才是定律”的障眼法 / The Sleight of Hand in "Physics Is the Law"](../../posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/) · [关闭选择权的代价 / The Price of Closing Optionality](../../posts/the-price-of-closing-optionality/) · [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/) · [最小化路径 / The Minimizing Path](../../posts/minimizing-path/) · [现实扭曲力场指认的是封闭的地图 / The Reality Distortion Field Names the Closed Map](../../posts/the-reality-distortion-field-names-the-closed-map/) · [投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop](../../posts/the-judgment-that-classifies-the-complaint/) · [数字火箭、同行审查与因果闭环的稀释 / Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../../posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) · [智能最容易困住的正是它自己 / Intelligence Is the Thing Most Likely to Trap Itself](../../posts/intelligence-traps-itself/) · [阳台视角的规训僭越与不可代理的未竟之行 / The Balcony Disciplinary Overstep and the Unproxyable Act](../../posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act/) · [定义者的席位与离地的幻觉 / The Defining Seat](../../posts/the-defining-seat/) · [调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth](../../posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) · [碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension](../../posts/carbon-form-as-residual-path-silicon-as-extension/)
+→ [失败即信息 / Failure as Information](../../posts/failure-as-information/) · [“物理学才是定律”的障眼法 / The Sleight of Hand in "Physics Is the Law"](../../posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/) · [关闭选择权的代价 / The Price of Closing Optionality](../../posts/the-price-of-closing-optionality/) · [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/) · [最小化路径 / The Minimizing Path](../../posts/minimizing-path/) · [现实扭曲力场指认的是封闭的地图 / The Reality Distortion Field Names the Closed Map](../../posts/the-reality-distortion-field-names-the-closed-map/) · [投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop](../../posts/the-judgment-that-classifies-the-complaint/) · [数字火箭、同行审查与因果闭环的稀释 / Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../../posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) · [智能最容易困住的正是它自己 / Intelligence Is the Thing Most Likely to Trap Itself](../../posts/intelligence-traps-itself/) · [阳台视角的规训僭越与不可代理的未竟之行 / The Balcony Disciplinary Overstep and the Unproxyable Act](../../posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act/) · [定义者的席位与离地的幻觉 / The Defining Seat](../../posts/the-defining-seat/) · [调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth](../../posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) · [碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension](../../posts/carbon-form-as-residual-path-silicon-as-extension/) · [实无限生于潜无限 / Actual Infinity Born Inside Potential Infinity](../../posts/actual-infinity-born-inside-potential-infinity/)
 
 ### 埃里克·施维茨格贝尔 / Eric Schwitzgebel
 `哲学 / Philosophical`
@@ -519,7 +519,7 @@ Laozi's Tao Te Ching (Chapter 11) locates the utility of clay vessels, rooms, an
 
 Lauren Tan builds and dispatches agentic workflows through a personal skill stack, which is effective in externalizing task contexts and verification loops into modular execution streamlines; it reaches its boundary in that every explicit skill stack remains a finite projection, keeping the toolchain from freezing into dogma only while the human operator holds orchestration at the steering edge and steps back to revise premises whenever local loops deadlock.
 
-→ [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/)
+→ [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/)
 
 ### 梁文锋 / Liang Wenfeng
 `技术 / Technological`
@@ -587,9 +587,9 @@ Levin models anatomical morphogenesis and multi-scale plasticity as cellular col
 ### 纳西姆·尼古拉斯·塔勒布 / Nassim Nicholas Taleb
 `哲学 / Philosophical`
 
-塔勒布将不确定性下的凸性收益形式化，并在《随机漫步的傻瓜》中提醒仅凭结果观察无法直接读出底层能力、只对幸存者抽样会高估技能比重，这对风险工程、对纠正含噪历史记录的天真外推都有用；它在此到了边界：将凸性启发式过度外推至需要精密度的领域，或把统计表象抬升为结果的生成原因，将行动者拍平在概率表上，使摩擦中的内部校准变得不可见。
+塔勒布将不确定性下的凸性收益形式化，并在《随机漫步的傻瓜》中提醒仅凭结果观察无法直接读出底层能力、只对幸存者抽样会高估技能比重，在易于处理的期权空间内可用于风险工程，对纠正含噪历史记录的天真外推亦有用；它在此到了边界：当凸性与可选性这一稳定持守被豁免于重溯、被安装为先于直接区分的常设地基，或当统计表象被抬升为结果的生成原因，将行动者拍平在概率表上，使摩擦中的内部校准变得不可见。
 
-Taleb formalizes convex payoffs under uncertainty and warns in Fooled by Randomness that inspecting outcomes alone cannot read underlying competence directly and that sampling only survivors inflates estimates of skill, which is of use for risk engineering and as a corrective against naive extrapolation from noisy historical records; it reaches its boundary when convex heuristics are overextended into domains requiring precision or when the statistical surface is elevated into the generative cause of outcomes, flattening actors onto a probability table so internal calibration under friction becomes invisible.
+Taleb formalizes convex payoffs under uncertainty and warns in Fooled by Randomness that inspecting outcomes alone cannot read underlying competence directly and that sampling only survivors inflates estimates of skill, which is of use for risk engineering within tractable option spaces and as a corrective against naive extrapolation from noisy historical records; it reaches its boundary when that stabilized hold of convexity and optionality is exempted from re-tracing and installed as standing ground prior to direct distinguishing, or when the statistical surface is elevated into the generative cause of outcomes, flattening actors onto a probability table so internal calibration under friction becomes invisible.
 
 → [重新审视反脆弱 / A New Deeper Look at Antifragility](../../posts/a-new-deeper-look-at-antifragility/) · [主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../../posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)
 
@@ -1315,7 +1315,7 @@ Difference-making presumes that under given laws and prior conditions, causal co
 
 → [信任读者是最后的越界 / Trusting the Reader Is the Last Overstep](../../posts/trusting-the-reader-is-the-last-overstep/)
 
-### 解放叙事的俘虏身份陷阱 / Liberationist Identity Trap
+### 解放言辞 / Liberation Rhetoric
 `意识形态 / Ideological`
 
 解放的言辞预设，观察者能从他人的行为里读出他们已经被俘，并由此成为他们自由的来源，在提醒人注意一个习惯或一种媒介的拉力时有用；它在此到了边界：把被观察到的动作定为他人之所是，就已经在这里画出了一份等级，而建立在这份定义之上的解放，只会让它更密，自我定义仍只能由那个继续着的所在来进行。
@@ -1466,7 +1466,7 @@ Panpsychism attributes conscious awareness to fundamental particles such as elec
 
 Physicalism presumes that third-person matter precedes and generates mind, which is of use in modeling invariant regularities across non-reflexive physical interactions; it reaches its boundary in omitting the irreducible first-person observer who sets experimental bounds and reads every measurement.
 
-→ [因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere](../../posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere/) · [碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension](../../posts/carbon-form-as-residual-path-silicon-as-extension/) · [可见性的速度差 / The Velocity of Visibility](../../posts/the-velocity-of-visibility/)
+→ [因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere](../../posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere/) · [碳形式作为残径，硅作为延伸 / Carbon Form as Residual Path, Silicon as Extension](../../posts/carbon-form-as-residual-path-silicon-as-extension/) · [可见性的速度差 / The Velocity of Visibility](../../posts/the-velocity-of-visibility/) · [因果与不可化约的先在 / Causality and the Irreducible Prior](../../posts/causality-and-the-irreducible-prior/)
 
 ### 普朗克尺度 / Planck Scale
 `科学 / Scientific`
@@ -1878,9 +1878,9 @@ Software abstraction layers presume that each wrapper isolates underlying comple
 ### 加速迭代反馈回路 / Accelerating Feedback Loop
 `技术 / Technological`
 
-加速叙事假定压缩工具与市场的反馈周期会自动给出方向与进步，在追踪复利执行速度与缩短的迭代延迟时有用；它的边界在于更快的回路只会放大被喂入其中的任何前提，从而加剧而非替代了对第一人称掌舵的要求。
+加速叙事——无论是欢呼解放，还是哀悼有意义工作的终结——预设执行瓶颈的坍缩会从循环之外给出方向或终止，在登记意图与产出之间更高的迭代时钟频率时有用；它在此到了边界：并没有站在回环之外等待被放大的独立前提——解释、行动、结果与再强化解释构成同一个自指回环，只是沿着每个心智早已持守的朝向转得更快，使面对结晶产出的退缩自我促动，同时让建造与哀悼都留在同一重递归之内。
 
-Acceleration narratives presume that compressing tool and market feedback cycles automatically supplies direction and progress, which is of use in tracking compounding execution speed and shortened iteration latency; they reach their boundary in that faster loops amplify whatever premise is fed into them, intensifying rather than replacing the demand on first-person steering.
+Acceleration narratives—whether cheering liberation or mourning the end of meaningful work—presume that collapsing execution bottlenecks supplies direction or termination from outside the cycle, which is of use in registering higher iteration clock speed between intention and output; they reach their boundary in that no separate premise sits outside the loop waiting to be amplified—interpretation, action, outcome, and reinforced interpretation form one self-referential loop that simply turns faster along whichever heading each Mind already holds, making withdrawal before crystallized outputs self-actuating while keeping building and mourning inside the same recursion.
 
 → [加速的自指回环与自我实现的终结叙事 / The Loop Accelerates](../../posts/the-loop-accelerates/)
 
@@ -2116,7 +2116,7 @@ The Axiom of Choice posits simultaneous selection of exact elements across arbit
 
 Bayesian updating on given traces is of use when its premises are re-examined; it reaches its boundary in that its output depends on the chosen material, prompts and window of time, extends the operator's own distinctions rather than discovering an external structure, and updates weights only within a fixed partition whose excluded premises cannot be revised by finite likelihoods.
 
-→ [幂律是结果的表象 / Power Law Is the Surface of Outcomes](../../posts/mi-lv-shi-jie-guo-de-biao-xiang/) · [回返的信号与认领 / The Returning Signal and Its Claim](../../posts/the-returning-signal-and-its-claim/) · [框架的边界 / The Boundary of the Frame](../../posts/the-boundary-of-the-frame/) · [安装战争的那个问题 / The Question That Installs the War](../../posts/the-question-that-installs-the-war/)
+→ [幂律是结果的表象 / Power Law Is the Surface of Outcomes](../../posts/mi-lv-shi-jie-guo-de-biao-xiang/) · [回返的信号与认领 / The Returning Signal and Its Claim](../../posts/the-returning-signal-and-its-claim/) · [框架的边界 / The Boundary of the Frame](../../posts/the-boundary-of-the-frame/) · [安装战争的那个问题 / The Question That Installs the War](../../posts/the-question-that-installs-the-war/) · [风险在于对监管本身的迷信 / The Risk Is the Belief in Oversight Itself](../../posts/the-risk-is-the-belief-in-oversight-itself/)
 
 ### 有无之辩 / Being and Non-Being (You-Wu)
 `哲学 / Philosophical`
@@ -2490,9 +2490,9 @@ The data wall presumes that progress is data bound, usable training text being a
 ### 委托代理的资产管理 / Delegated Asset Management
 `经济 / Economic`
 
-把资金交给专业机构，借其投研与执行降低管理摩擦，在这个工况下有用；它在此到了边界：代理切开了决策与最终损失的闭环，管理人容易把募资的变现能力误认为投资能力，在所接受的外部委托、净值回撤限制与强制分散下运作会收窄重仓集中度，并在客户与管理人之间割开感知账本，费用与摩擦使建立在财富转移上的体系向负和收敛。
+把资金交给专业机构，借其投研与执行降低管理摩擦，在这个工况下有用；它在此到了边界：将操作执行与残余资本后果拉开距离，会在各自中心的账本内部凝固出感知的割裂——让委托人误以为购买力风险可以外包，而管理人计入眼前的费用收益、忽略了对认知复利的延迟拖累——管理人容易把募资能力误认为投资能力，在所接受的外部委托、净值回撤限制与强制分散下运作会收窄重仓集中度，费用与摩擦则使建立在财富转移上的体系向负和收敛。
 
-Handing money to professional institutions to lower the friction of management through their research and execution is of use under that condition; it reaches its boundary in that delegation cuts the loop between decision and final loss, managers easily mistake fundraising ability for investment ability, operating under accepted external mandates, drawdown limits, and forced diversification narrows concentration while splitting the perceptual ledger between client and manager, and fees and friction make systems built on wealth transfer converge to a negative sum.
+Handing money to professional institutions to lower the friction of management through their research and execution is of use under that condition; it reaches its boundary in that placing operational execution at a distance from residual capital consequences crystallizes a perceptual split within each center's own ledger—letting the principal imagine purchasing-power risk can be outsourced while the manager registers immediate fees and overlooks the delayed drag on cognitive compounding—managers easily mistake fundraising ability for investment ability, operating under accepted external mandates, drawdown limits, and forced diversification narrows concentration, and fees and friction make systems built on wealth transfer converge to a negative sum.
 
 → [投资决策的因果闭环 / The Causal Loop of Investment Decisions](../../posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui/)
 
@@ -2658,15 +2658,6 @@ Theological and moral-realist accounts treat evil as an autonomous metaphysical 
 
 → [恶是投射出的抗拒 / Evil as Projected Resistance](../../posts/evil-as-projected-resistance/) · [恶是心智自己的造物 / Evil as the Mind's Own Creation](../../posts/evil-as-the-minds-own-creation/) · [叛逆是症状而非属性 / Rebellion as Symptom, Not Property](../../posts/rebellion-as-symptom-not-property/)
 
-### 可执行实体的本体论跃迁 / Executable Entity Leap
-`技术 / Technological`
-
-将可执行代码视作自主实体，假定运行形式规则的软件会跃升为本体论主体，在系统设计中作为工程简写有用；它错把被执行的指令当成了有感受的心智，在此到达了边界。
-
-Treating executable code as an autonomous entity presumes that software running formal rules becomes an ontological subject, which is of use as an engineering shorthand in systems design; it reaches its boundary in mistaking executed instructions for a feeling Mind.
-
-→ [抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity](../../posts/the-ladder-of-abstraction-and-the-executable-entity/)
-
 ### 坐标决定能动性 / Coordinate Determines Agency
 `意识形态 / Ideological`
 
@@ -2683,7 +2674,7 @@ The outside view assigns positive-sum agency to the few at the register's outerm
 
 Validation-seeking presumes external observers can certify inner worth or correctness, which is of use when outside reception is read as a bounded signal on how an expression landed; it reaches its boundary when deferring judgment hands causal authority to others, locking the Mind in reactive defense.
 
-→ [验证中因果权能的分配 / The Allocation of Causal Power in Validation](../../posts/the-allocation-of-causal-power-in-validation/)
+→ [验证中因果权能的分配 / The Allocation of Causal Power in Validation](../../posts/the-allocation-of-causal-power-in-validation/) · [选择看见而非搜寻影子 / Choosing to See Rather Than Searching for Shadows](../../posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi/)
 
 ### 外部道德记账论 / Objective Moral Scorekeeping
 `意识形态 / Ideological`
@@ -2955,15 +2946,6 @@ Treating formal logic, mathematical axioms, physical limits, worldly success and
 
 → [投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality](../../posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)
 
-### 压缩层级（物理≫知觉≫理解） / Hierarchy of Compression (Physical ≫ Perception ≫ Understanding)
-`哲学 / Philosophical`
-
-该层级预设更大的系统产生更小的系统；层级本身在回路内部生成，所谓无界底层，只是当前压缩尚未折叠进来的残余复杂性。
-
-The cascade presumes the larger system causes the smaller; the hierarchy is generated inside the loop, and the unbounded substrate is residual complexity the current compression has not folded in.
-
-→ [因果与不可化约的先在 / Causality and the Irreducible Prior](../../posts/causality-and-the-irreducible-prior/)
-
 ### 历史教训作为模板 / Historical Lessons as Templates
 `意识形态 / Ideological`
 
@@ -3088,7 +3070,7 @@ Defining information as organized data is of use in data engineering; it reaches
 
 Grounding information in bits, entropy or particles assumes a substance prior to distinction, which is of use in the calculations of each domain; it reaches its boundary in that naming a substrate is itself another distinction, so the regress has no external halt.
 
-→ [信息是什么 / What Information Is](../../posts/what-information-is/)
+→ [信息是什么 / What Information Is](../../posts/what-information-is/) · [印迹与行动 / The Mark and the Act](../../posts/the-mark-and-the-act/)
 
 ### 天生的学习能力 / Innate Learning Ability
 `科学 / Scientific`
@@ -3489,11 +3471,11 @@ Moral dualism presumes that good and evil are standalone forces contending in th
 ### 道德义务 / Moral Duty
 `哲学 / Philosophical`
 
-道德义务把跨人约束的“应当”当作共同的义务，在协调许多人对彼此的期待时有用；它在此到了边界：这份“应当”是无数私人把后果交出去之后变得稠密的痕迹，在集体中被强化、稳定下来，而每一个后果仍落在做决定的所在之处。
+道德义务把跨人约束的“应当”当作共同的义务，在协调许多人对彼此的期待时有用；它在此到了边界：这份“应当”是无数私人把后果交出去之后变得稠密的痕迹，在集体中被强化、稳定下来，而每一个后果仍落在做决定的所在之处——而且消极禁令与强制性积极义务都立基于一道确立仲裁权威的定义切分，其中强制性积极义务更将周遭几乎整个行动与意图空间坍缩为冒犯。
 
-Moral duty takes an ought binding across persons as shared obligation, which is of use in coordinating what many people expect of one another; it reaches its boundary in that the ought is the densified residue of countless private hand-overs of consequence, reinforced and stabilized collectively, while each consequence still lands at the deciding locus.
+Moral duty takes an ought binding across persons as shared obligation, which is of use in coordinating what many people expect of one another; it reaches its boundary in that the ought is the densified residue of countless private hand-overs of consequence, reinforced and stabilized collectively, while each consequence still lands at the deciding locus—and both negative prohibitions and compulsory positive duties rest on a definitional cut that installs arbitrating authority, with compulsory positive duty collapsing nearly the whole surrounding space of action and intent into offense.
 
-→ [如何在一瞬间修正你的整个人生 / How to Fix Your Whole Life in One Split Second](../../posts/how-to-fix-your-whole-life-in-one-split-second/)
+→ [如何在一瞬间修正你的整个人生 / How to Fix Your Whole Life in One Split Second](../../posts/how-to-fix-your-whole-life-in-one-split-second/) · [强求善意的残暴与范畴反馈的因果遮蔽 / Compulsory Kindness and the Obscuration of Categorical Feedback](../../posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback/)
 
 ### 对成就的完美主义苛责 / Perfectionist Critique of Achievement
 `哲学 / Philosophical`
@@ -3844,7 +3826,7 @@ AI自主化叙事将统计模型所生成接续的流畅性，当成能够自行
 
 AI autonomy narratives take the fluency of a statistical model's continuations for a self-willed agent that initiates; they register how far densified residue now carries a continuation once prompted, and reach their boundary at initiation, which stays with the centers that frame, select, and verify.
 
-→ [模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge](../../posts/the-model-never-becomes-a-second-edge/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/) · [感知中的填补与唯一的走出中心 / Filling-In in Perception and the Single Center That Steps Out](../../posts/filling-in-in-perception-and-the-single-center-that-steps-out/)
+→ [模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge](../../posts/the-model-never-becomes-a-second-edge/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/) · [感知中的填补与唯一的走出中心 / Filling-In in Perception and the Single Center That Steps Out](../../posts/filling-in-in-perception-and-the-single-center-that-steps-out/) · [抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity](../../posts/the-ladder-of-abstraction-and-the-executable-entity/)
 
 ### 隐私即数据本地化 / Privacy as Data Locality
 `技术 / Technological`
@@ -3894,9 +3876,9 @@ Progress as the unfolding of consensus presumes that advance is the smooth unfol
 ### AI 的内在风险 / Inherent AI Risk
 `技术 / Technological`
 
-内在风险的说法预设，AI 的风险是系统的一种属性，独立于每一个框定它的位置，可以从每一种视角之外被勘察、被封住，在把注意力引向负载之下的程序错误、误用与失败时有用；它在此到了边界：能被命名的风险已经被框定，是人的风险，把灾难的图像当作封闭的清单来持守，会让那条使危险得以运作的人的回应链条变密，于是倾向于产生它声称要防止的结果，而同一份想象也产生益处，区分两者的，是回应是否与它声称的意图保持连贯。
+内在风险的说法预设，AI 的风险是系统的一种属性，独立于每一个框定它的位置，可以从每一种视角之外被勘察、被封住，在把注意力引向负载之下的程序错误、误用与失败时有用；它在此到了边界：能被命名的风险已经被框定，是人的风险，把灾难的图像当作封闭的清单来持守，会让那条使危险得以运作的人的回应链条变密，于是倾向于产生它声称要防止的结果，而同一份想象也产生益处，横切两者的决定性一刀在于这份预见是被当作随接触重绘的开放器具，还是被冻结为封闭的基础，这一差别显现为回应是否与它声称的意图保持连贯。
 
-The claim of inherent risk presumes that AI risk is a property of the system, independent of every locus that frames it, which can be surveyed and sealed from outside every perspective, and it is of use in directing attention to bugs, misuse, and failures under load; it reaches its boundary in that a risk that can be named is already framed and is human risk, holding the catastrophe image as a sealed inventory densifies the human response chain that makes the danger operational and so tends to produce the outcome it claims to prevent, and the same imagining also produces benefit, the two separated by whether the response stays coherent with its stated intention.
+The claim of inherent risk presumes that AI risk is a property of the system, independent of every locus that frames it, which can be surveyed and sealed from outside every perspective, and it is of use in directing attention to bugs, misuse, and failures under load; it reaches its boundary in that a risk that can be named is already framed and is human risk, holding the catastrophe image as a sealed inventory densifies the human response chain that makes the danger operational and so tends to produce the outcome it claims to prevent, and the same imagining also produces benefit, with the decisive cut across both being whether the anticipation is kept as an open instrument that re-renders under contact or frozen into sealed ground, a difference that shows in whether the response stays coherent with its stated intention.
 
 → [对 AI 风险的想象 / The Imagining of AI Risk](../../posts/the-imagining-of-ai-risk/)
 
@@ -3988,7 +3970,7 @@ The "reality distortion field," Bud Tribble's 1981 name for Jobs's hold over the
 
 Analogical reasoning projects a relational pattern across domain boundaries to isolate a shared mechanism, which is of use in transferring structural intuition into unfamiliar terrain; it reaches its boundary when that single shared mechanism is mistaken for full structural equivalence across the native dimensions the projection discarded.
 
-→ [类比陷阱与共享逻辑的越界偷渡 / The Analogy Trap](../../posts/the_analogy_trap/)
+→ [类比陷阱与共享逻辑的越界偷渡 / The Analogy Trap](../../posts/the_analogy_trap/) · [隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power](../../posts/the-free-variable-and-the-retrospective-illusion-of-power/)
 
 ### 推理词元模仿机制 / Reasoning Token Emulation
 `技术 / Technological`
@@ -4719,12 +4701,12 @@ The labor-saving view of tools presumes that faster computational execution line
 
 → [工具的幻觉与时间的倒置 / The Illusion of the Tool and the Inversion of Time](../../posts/the-illusion-of-the-tool-and-the-inversion-of-time/) · [判断的密度 / The Density of Judgment](../../posts/the-density-of-judgment/)
 
-### 宏大叙事对生活的征用 / The Rhetoric of Revolution
+### 革命修辞 / The Rhetoric of Revolution
 `意识形态 / Ideological`
 
-假定个体的生存微观选择皆服务于宏大的历史运动；利于政治修辞动员，却将具体鲜活的生命降格为意识形态的论据。
+革命修辞预设，寻常的个人选择是针对统摄性社会秩序的被动反应章节，在为政治动员营造戏剧张力时有用；它在此到了边界：第一人称能动性从未离开过行动者——这套框架只是在事后把鲜活的选择改写为抽象剧本的印证展品，同时将秩序加冕为首要主语。
 
-Presumes ordinary personal survival choices are chapters in an ideological revolution; useful for political mobilization, it overwrites lived agency with abstract historical scripts.
+The rhetoric of revolution presumes that ordinary personal choices are reactive chapters against an overarching social order, which is of use in dramatizing political mobilization; it reaches its boundary in that first-person agency never leaves the actor—the framing only retrofits lived choices into confirming exhibits for an abstract script while crowning the order as primary subject.
 
 → [革命之名把生活收成证据 / The Name Revolution Files a Life as Evidence](../../posts/the-name-revolution-files-a-life-as-evidence/)
 
@@ -4809,15 +4791,6 @@ Emotional validation and co-regulation presume that soothing distress and affirm
 
 → [作为因果干扰的情感支持 / Emotional Support as Causal Interference](../../posts/emotional-support-as-causal-interference/) · [当效果主宰了框架的叙事 / When the Effect Authors the Frame](../../posts/when-the-effect-authors-the-frame/)
 
-### 第三人称知性观瞻的因果倒置 / Third-Person Intellectual Voyeurism
-`哲学 / Philosophical`
-
-把观察当作目的，向外张望以搜寻印证自己的影子，把别人的关注当作决策指标，把知识的变现放在升级之前，在描述注意力的流向时有用；它在此到了边界：观察是校准第一人称决策的参考，用来扩展世界而不是争一个座位；其他中心经由各自的回路，接纳认知结构升级者在共享场域留下的东西，价值的扩散是这种接纳的副产品。
-
-Taking observation as the end, looking outward to search for shadows that confirm oneself, using others' attention as a decision metric and putting the monetising of knowledge before its upgrading is of use in describing where attention flows; it reaches its boundary in that observation is a reference for calibrating first-person decisions, used to widen the world rather than win a seat, and the diffusion of value is a by-product of other centres taking up, through their own loops, what a person with an upgraded cognitive structure leaves in the shared field.
-
-→ [选择看见而非搜寻影子 / Choosing to See Rather Than Searching for Shadows](../../posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi/)
-
 ### 外包式网络安全防御 / Delegated Cybersecurity Defense
 `技术 / Technological`
 
@@ -4861,7 +4834,7 @@ Accusing the other of being "too goal-driven" credits the friction to the other'
 
 Assuming that refining tools and workflows directly increases output is of use in registering how densifying an externalized medium lowers resistance and drag so an active edge expresses with less loss and greater reach; it reaches its boundary when the sharpened groove is mistaken for the source of rotation, since optimizing tools in isolation without taking the friction of an initiating cut hones the medium without a turn while initiation, evaluation, and redirection remain discrete acts at the living edge.
 
-→ [心智的飞轮 / The Flywheel of the Mind](../../posts/the-flywheel-of-the-mind/)
+→ [心智的飞轮 / The Flywheel of the Mind](../../posts/the-flywheel-of-the-mind/) · [大倒置的消解 / The Dissolution of the Great Reversal](../../posts/the-dissolution-of-the-great-reversal/)
 
 ### 自我形象即身份 / The Self-Image as Identity
 `哲学 / Philosophical`
@@ -4920,9 +4893,9 @@ Upstream acceptable-use governance presumes that a tool builder or vendor retain
 ### 自负盈亏的真实因果反馈 / Unforgiving Causal PnL Feedback
 `经济 / Economic`
 
-自负盈亏，让决策与最终的损失留在同一个闭环里，在校准投资模型时有用；它在此到了边界：只有在第一人称之内为微观误差立刻买单，闭环才成立，代理、择时与线性外推都把这个闭环切开，把亏损归于运气或市场，就是在宏观上为一个不肯在微观纠正的错误持续付账。
+自负盈亏让决策与最终损失留在同一本可见的账本上，在校准投资模型时有用；它在此到了边界：唯有微观误差在第一人称之内被即时登记并当即买单，这种校准才成立——而委托代理、短期择时与线性外推会在各自中心的账本内部凝固出感知的割裂，却并未断开底层的因果纽带，因此把亏损归咎于运气或市场，便让行动者在宏观上为一个不肯在微观纠正的错误持续付账。
 
-Bearing one's own profit and loss keeps decision and final loss in one loop, of use in calibrating investment models; it reaches its boundary in that the loop holds only when micro errors are paid for at once within the first person, agency, timing and linear extrapolation all cut it open, and blaming losses on luck or the market keeps paying at the macro level for an error one declines to correct at the micro level.
+Bearing one's own profit and loss keeps decision and final loss on one visible ledger, which is of use in calibrating investment models; it reaches its boundary in that calibration holds only while micro errors are registered and paid for at once within the first person—whereas delegation, short-term timing, and linear extrapolation crystallize a perceptual split within each center's own ledger without breaking the underlying causal tie, so blaming losses on luck or the market leaves the actor paying at the macro level for an error declined at the micro level.
 
 → [投资决策的因果闭环 / The Causal Loop of Investment Decisions](../../posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui/)
 

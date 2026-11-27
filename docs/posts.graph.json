@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-27T10:49:49.061Z",
+    "generated_at": "2026-11-27T10:56:10.729Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -484,7 +484,7 @@
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "dd669bf8563f",
       "content/book/economics.md": "a4f628ea701e",
-      "content/book/index-of-premises.md": "222743ac4354",
+      "content/book/index-of-premises.md": "b98817701949",
       "content/book/intelligence.md": "ff7c08b8ecea",
       "content/book/knowledge-and-learning.md": "573ddb01c140",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -507,7 +507,7 @@
       "isolated": 0,
       "posts_with_outbound": 473,
       "book_pages": 16,
-      "book_edges": 1714,
+      "book_edges": 1719,
       "posts_reached_by_book": 473
     }
   },
@@ -102342,7 +102342,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "222743ac4354",
+        "hash": "b98817701949",
         "out_degree": 473
       },
       {
@@ -103531,6 +103531,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "actual-infinity-born-inside-potential-infinity",
+        "rel": "collects",
+        "label": "实无限生于潜无限 / Actual Infinity Born Inside Potential Infinity"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "subtracting-consciousness-at-the-source",
         "rel": "collects",
         "label": "集聚与人造主体性 / Collective and Artificial Subjectivity"
@@ -103810,12 +103816,6 @@
         "to": "beyond-the-projection",
         "rel": "collects",
         "label": "超越投射 / Beyond the Projection"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "on-demand-contexts-keep-coherence-at-one-step",
-        "rel": "collects",
-        "label": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step"
       },
       {
         "from": "book:index-of-premises",
@@ -105085,6 +105085,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "causality-and-the-irreducible-prior",
+        "rel": "collects",
+        "label": "因果与不可化约的先在 / Causality and the Irreducible Prior"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "time-is-causality-not-a-dimension",
         "rel": "collects",
         "label": "时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality"
@@ -106141,6 +106147,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-risk-is-the-belief-in-oversight-itself",
+        "rel": "collects",
+        "label": "风险在于对监管本身的迷信 / The Risk Is the Belief in Oversight Itself"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "you-wu-zhi-bian",
         "rel": "collects",
         "label": "有无之边 / The Edge of Being and Non-Being"
@@ -106723,12 +106735,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "the-ladder-of-abstraction-and-the-executable-entity",
-        "rel": "collects",
-        "label": "抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "the-extendable-horizon",
         "rel": "collects",
         "label": "可延展的地平线 / The Extendable Horizon"
@@ -106738,6 +106744,12 @@
         "to": "the-allocation-of-causal-power-in-validation",
         "rel": "collects",
         "label": "验证中因果权能的分配 / The Allocation of Causal Power in Validation"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
+        "rel": "collects",
+        "label": "选择看见而非搜寻影子 / Choosing to See Rather Than Searching for Shadows"
       },
       {
         "from": "book:index-of-premises",
@@ -107065,12 +107077,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "causality-and-the-irreducible-prior",
-        "rel": "collects",
-        "label": "因果与不可化约的先在 / Causality and the Irreducible Prior"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "war-revolution-and-the-fall-of-empires",
         "rel": "collects",
         "label": "战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires"
@@ -107200,6 +107206,12 @@
         "to": "what-information-is",
         "rel": "collects",
         "label": "信息是什么 / What Information Is"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-mark-and-the-act",
+        "rel": "collects",
+        "label": "印迹与行动 / The Mark and the Act"
       },
       {
         "from": "book:index-of-premises",
@@ -107638,6 +107650,12 @@
         "to": "how-to-fix-your-whole-life-in-one-split-second",
         "rel": "collects",
         "label": "如何在一瞬间修正你的整个人生 / How to Fix Your Whole Life in One Split Second"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+        "rel": "collects",
+        "label": "强求善意的残暴与范畴反馈的因果遮蔽 / Compulsory Kindness and the Obscuration of Categorical Feedback"
       },
       {
         "from": "book:index-of-premises",
@@ -108115,6 +108133,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-ladder-of-abstraction-and-the-executable-entity",
+        "rel": "collects",
+        "label": "抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "hardware-locality-is-not-the-information-boundary",
         "rel": "collects",
         "label": "硬件的本地性不是信息的边界 / Hardware Locality Is Not the Information Boundary"
@@ -108292,6 +108316,12 @@
         "to": "the_analogy_trap",
         "rel": "collects",
         "label": "类比陷阱与共享逻辑的越界偷渡 / The Analogy Trap"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-free-variable-and-the-retrospective-illusion-of-power",
+        "rel": "collects",
+        "label": "隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power"
       },
       {
         "from": "book:index-of-premises",
@@ -109621,12 +109651,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
-        "rel": "collects",
-        "label": "选择看见而非搜寻影子 / Choosing to See Rather Than Searching for Shadows"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "cybersecurity-arms-race",
         "rel": "collects",
         "label": "网络安全军备竞赛与感知范畴边界 / The Cybersecurity Arms Race"
@@ -109666,6 +109690,12 @@
         "to": "the-flywheel-of-the-mind",
         "rel": "collects",
         "label": "心智的飞轮 / The Flywheel of the Mind"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-dissolution-of-the-great-reversal",
+        "rel": "collects",
+        "label": "大倒置的消解 / The Dissolution of the Great Reversal"
       },
       {
         "from": "book:index-of-premises",
