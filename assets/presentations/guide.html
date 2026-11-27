@@ -229,6 +229,50 @@
       font-weight: 600;
     }
 
+    .voice-bars {
+      display: inline-flex;
+      align-items: flex-end;
+      gap: 2px;
+      height: 0.72rem;
+      width: 0.78rem;
+      justify-content: center;
+    }
+
+    .voice-bars i {
+      display: block;
+      width: 2px;
+      height: 36%;
+      border-radius: 99px;
+      background: currentColor;
+      transition: height 0.2s ease, opacity 0.2s ease;
+    }
+
+    .voice-bars i:nth-child(2) { height: 72%; }
+    .voice-bars i:nth-child(3) { height: 48%; }
+
+    .tool-btn.muted .voice-bars i { height: 22% !important; opacity: 0.4; }
+
+    @keyframes voiceWave {
+      0%, 100% { height: 26%; }
+      50% { height: 95%; }
+    }
+
+    .tool-btn.speaking .voice-bars i:nth-child(1) { animation: voiceWave 0.78s ease-in-out infinite; }
+    .tool-btn.speaking .voice-bars i:nth-child(2) { animation: voiceWave 0.62s ease-in-out 0.14s infinite; }
+    .tool-btn.speaking .voice-bars i:nth-child(3) { animation: voiceWave 0.86s ease-in-out 0.28s infinite; }
+
+    .narration-time {
+      font-family: var(--font-mono);
+      font-size: 0.68rem;
+      color: var(--accent);
+      font-variant-numeric: tabular-nums;
+      white-space: nowrap;
+      opacity: 0;
+      transition: opacity 0.25s ease;
+    }
+
+    .narration-time.visible { opacity: 0.92; }
+
     /* MAIN STAGE */
     #stage {
       position: relative;
@@ -1700,7 +1744,8 @@
       <div class="toolbar" role="toolbar" aria-label="Presentation controls">
         <button class="tool-btn lang-btn" id="btn-lang" type="button" title="Switch language (L)">中文</button>
         <button class="tool-btn" id="btn-overview" type="button" title="Slide overview (O)">⊞ <span class="hide-sm" id="lbl-overview">Index</span></button>
-        <button class="tool-btn" id="btn-auto" type="button" title="Toggle autoplay (A)">▶ <span class="hide-sm" id="lbl-auto">Auto</span></button>
+        <button class="tool-btn" id="btn-voice" type="button" title="Toggle narration voice (M)"><span class="voice-bars" aria-hidden="true"><i></i><i></i><i></i></span><span class="hide-sm" id="lbl-voice">Voice</span></button>
+        <button class="tool-btn" id="btn-auto" type="button" title="Toggle narrated autoplay (A)"><span id="ico-auto">▶</span> <span class="hide-sm" id="lbl-auto">Auto</span></button>
         <button class="tool-btn" id="btn-fs" type="button" title="Toggle fullscreen (F)" aria-label="Fullscreen">⛶</button>
       </div>
     </header>
@@ -1715,6 +1760,7 @@
       <div class="slide-meta">
         <span class="slide-num" id="slide-num">01 / 21</span>
         <span class="slide-label" id="slide-label"></span>
+        <span class="narration-time" id="narration-time" aria-live="off"></span>
       </div>
       <nav class="pip-rail" id="pip-rail" aria-label="Slide navigation"></nav>
       <div class="nav-btns">
@@ -1754,6 +1800,8 @@
         langToggle: '中文',
         overview: 'Index',
         close: 'Close',
+        voiceOn: 'Voice',
+        voiceOff: 'Muted',
         autoOff: 'Auto',
         autoOn: 'Playing',
         overviewTitle: 'Not a ToE — 21-Slide Panorama',
@@ -1766,13 +1814,14 @@
         explorePart: (lbl, n) => `Open ${lbl} (${n} essays) →`,
         essaysUnit: 'essays',
         linksUnit: 'incoming links',
-        beginTour: 'Begin the Tour →',
-        jumpParts: 'Jump to All 14 Parts',
+        playTour: '▶ Play Narrated Tour',
+        beginTour: 'Step Manually →',
+        jumpParts: 'All 14 Parts',
         enterBook: 'Enter Living Book',
         replay: '↺ Replay from Slide 1',
         openOverview: '⊞ Open 21-Slide Index',
         coverDate: 'A LIVING BOOK · SINCE FEB 2026',
-        coverHint: '← → NAVIGATE · O INDEX · L 中文',
+        coverHint: 'A AUTOPLAY · M VOICE · O INDEX · L 中文',
         statParts: 'Parts',
         statEssays: 'Essays',
         statLinks: 'Synaptic Links',
@@ -1792,6 +1841,8 @@
         langToggle: 'EN',
         overview: '目录',
         close: '关闭',
+        voiceOn: '朗读',
+        voiceOff: '静音',
         autoOff: '自动',
         autoOn: '播放中',
         overviewTitle: '非万物之理 · 二十一页全景目录',
@@ -1804,13 +1855,14 @@
         explorePart: (lbl, n) => `进入${lbl}（${n} 篇）→`,
         essaysUnit: '篇随笔',
         linksUnit: '条入链',
-        beginTour: '开始导览 →',
-        jumpParts: '直达十四卷全景',
+        playTour: '▶ 播放语音导览',
+        beginTour: '手动翻页 →',
+        jumpParts: '十四卷全景',
         enterBook: '进入活书首页',
         replay: '↺ 从第一页重播',
         openOverview: '⊞ 打开全景目录',
         coverDate: '一部活着的书 · 始于二〇二六年二月',
-        coverHint: '← → 翻页 · O 目录 · L EN',
+        coverHint: 'A 自动播放 · M 朗读 · O 目录 · L EN',
         statParts: '卷结构',
         statEssays: '篇随笔',
         statLinks: '条突触链接',
@@ -2114,6 +2166,13 @@
       slide: initSlide,
       autoplay: false,
       autoElapsed: 0,
+      narrationEnabled: true,
+      speaking: false,
+      audioEnded: false,
+      audioFailed: false,
+      postAudioPause: 0,
+      pausedForOverview: false,
+      userPinnedPlate: false,
       overviewOpen: false,
       // Per-part selected cover index (0..2)
       selectedPlate: Object.fromEntries((BOOK_DATA.parts || []).map((p) => [p.slug, 0])),
@@ -2137,7 +2196,10 @@
       btnLang: document.getElementById('btn-lang'),
       btnOverview: document.getElementById('btn-overview'),
       lblOverview: document.getElementById('lbl-overview'),
+      btnVoice: document.getElementById('btn-voice'),
+      lblVoice: document.getElementById('lbl-voice'),
       btnAuto: document.getElementById('btn-auto'),
+      icoAuto: document.getElementById('ico-auto'),
       lblAuto: document.getElementById('lbl-auto'),
       btnFs: document.getElementById('btn-fs'),
       stage: document.getElementById('stage'),
@@ -2146,6 +2208,7 @@
       autoplayBar: document.getElementById('autoplay-bar'),
       slideNum: document.getElementById('slide-num'),
       slideLabel: document.getElementById('slide-label'),
+      narrationTime: document.getElementById('narration-time'),
       pipRail: document.getElementById('pip-rail'),
       btnPrev: document.getElementById('btn-prev'),
       btnNext: document.getElementById('btn-next'),
@@ -2155,6 +2218,143 @@
       btnCloseOverview: document.getElementById('btn-close-overview'),
       lblClose: document.getElementById('lbl-close'),
     };
+
+    /* =========================================================================
+       SYNCHRONIZED AUDIO NARRATION ENGINE (Single reused Audio for Safari/iOS)
+       ========================================================================= */
+    const BREATH_PAUSE = 1.25;
+    const narrator = new Audio();
+    narrator.preload = 'auto';
+    let audioPlayToken = 0;
+    const preloadedAudio = new Set();
+
+    function getTrack(slideIdx = state.slide, lang = state.lang) {
+      const sl = SLIDES[slideIdx];
+      if (!sl) return null;
+      return BOOK_DATA.audio?.[sl.id]?.[lang] || null;
+    }
+
+    function preloadAudioFor(slideIdx, lang = state.lang) {
+      const tr = getTrack(slideIdx, lang);
+      if (!tr || !tr.url || preloadedAudio.has(tr.url)) return;
+      preloadedAudio.add(tr.url);
+      const a = new Audio();
+      a.preload = 'auto';
+      a.src = tr.url;
+    }
+
+    function fmtTime(sec) {
+      const s = Math.max(0, Math.floor(sec || 0));
+      const m = Math.floor(s / 60);
+      const r = s % 60;
+      return `${m}:${String(r).padStart(2, '0')}`;
+    }
+
+    function updateVoiceChrome() {
+      const u = UI[state.lang];
+      dom.lblVoice.textContent = state.narrationEnabled ? u.voiceOn : u.voiceOff;
+      dom.btnVoice.classList.toggle('muted', !state.narrationEnabled);
+      dom.btnVoice.classList.toggle('speaking', state.speaking && state.narrationEnabled);
+      dom.btnVoice.classList.toggle('active', state.speaking && state.narrationEnabled);
+      dom.icoAuto.textContent = state.autoplay ? '❚❚' : '▶';
+      dom.lblAuto.textContent = state.autoplay ? u.autoOn : u.autoOff;
+      dom.btnAuto.classList.toggle('active', state.autoplay);
+    }
+
+    function stopNarration() {
+      audioPlayToken += 1;
+      narrator.pause();
+      try { narrator.currentTime = 0; } catch (_) {}
+      state.speaking = false;
+      state.audioEnded = false;
+      state.audioFailed = false;
+      state.postAudioPause = 0;
+      dom.narrationTime.classList.remove('visible');
+      updateVoiceChrome();
+    }
+
+    function startSlideNarration() {
+      stopNarration();
+      if (!state.narrationEnabled) return;
+      const tr = getTrack(state.slide, state.lang);
+      if (!tr || !tr.url) {
+        state.audioFailed = true;
+        return;
+      }
+      const token = ++audioPlayToken;
+      state.audioEnded = false;
+      state.audioFailed = false;
+      state.postAudioPause = 0;
+      narrator.src = tr.url;
+      narrator.currentTime = 0;
+      const p = narrator.play();
+      if (p && typeof p.then === 'function') {
+        p.then(() => {
+          if (token !== audioPlayToken) return;
+          state.speaking = true;
+          updateVoiceChrome();
+        }).catch(() => {
+          if (token !== audioPlayToken) return;
+          state.speaking = false;
+          state.audioFailed = true;
+          updateVoiceChrome();
+        });
+      }
+      preloadAudioFor(state.slide + 1, state.lang);
+    }
+
+    narrator.addEventListener('playing', () => {
+      state.speaking = true;
+      state.audioFailed = false;
+      updateVoiceChrome();
+    });
+
+    narrator.addEventListener('pause', () => {
+      if (!narrator.ended) {
+        state.speaking = false;
+        updateVoiceChrome();
+      }
+    });
+
+    narrator.addEventListener('ended', () => {
+      state.speaking = false;
+      state.audioEnded = true;
+      state.postAudioPause = 0;
+      updateVoiceChrome();
+      if (state.autoplay && state.slide === SLIDES.length - 1) {
+        // Finished narrating final slide cleanly
+        state.autoplay = false;
+        dom.autoplayBar.style.width = '100%';
+        updateVoiceChrome();
+      }
+    });
+
+    narrator.addEventListener('error', () => {
+      state.speaking = false;
+      state.audioFailed = true;
+      updateVoiceChrome();
+    });
+
+    function selectPartPlate(slug, pIdx, userTriggered = false) {
+      const part = PARTS_BY_SLUG.get(slug);
+      const essay = part?.featured?.[pIdx];
+      if (!essay) return;
+      if (userTriggered) state.userPinnedPlate = true;
+      state.selectedPlate[slug] = pIdx;
+      dom.slideMount.querySelectorAll('.gallery-img').forEach((img) => {
+        img.classList.toggle('active', Number(img.dataset.plateImg) === pIdx);
+      });
+      dom.slideMount.querySelectorAll('.plate-tab').forEach((tab) => {
+        tab.classList.toggle('active', Number(tab.dataset.plateIdx) === pIdx);
+      });
+      const link = document.getElementById('active-essay-link');
+      const openBtn = document.getElementById('active-essay-btn');
+      if (link) {
+        link.href = essay.url;
+        link.textContent = state.lang === 'zh' ? essay.titleZh : essay.titleEn;
+      }
+      if (openBtn) openBtn.href = essay.url;
+    }
 
     /* =========================================================================
        HELPERS & PRELOADING
@@ -2217,7 +2417,8 @@
                 <h1 class="hero-title">${esc(title)}</h1>
                 <p class="hero-sub">${esc(sub)}</p>
                 <div class="hero-actions">
-                  <button class="btn-primary" type="button" data-action="next">${esc(u.beginTour)}</button>
+                  <button class="btn-primary" type="button" data-action="play-tour">${esc(u.playTour)}</button>
+                  <button class="btn-ghost" type="button" data-action="next">${esc(u.beginTour)}</button>
                   <button class="btn-ghost" type="button" data-action="jump-parts">${esc(u.jumpParts)}</button>
                   <a class="btn-ghost" href="../">${esc(u.enterBook)}</a>
                 </div>
@@ -3177,11 +3378,15 @@
         }
       }
 
-      // Update Pips & Preload adjacent covers
+      // Update Pips & Preload adjacent covers + next audio
       updatePips();
       preloadAdjacent(state.slide);
+      preloadAudioFor(state.slide, state.lang);
+      preloadAudioFor(state.slide + 1, state.lang);
       state.autoElapsed = 0;
+      state.userPinnedPlate = false;
       dom.autoplayBar.style.width = '0%';
+      updateVoiceChrome();
     }
 
     /* =========================================================================
@@ -3245,7 +3450,18 @@
 
     function setOverview(open) {
       state.overviewOpen = open;
-      if (open) renderOverview();
+      if (open) {
+        renderOverview();
+        if (state.speaking) {
+          narrator.pause();
+          state.pausedForOverview = true;
+        }
+      } else if (state.pausedForOverview) {
+        state.pausedForOverview = false;
+        if (state.narrationEnabled && (state.autoplay || narrator.currentTime > 0) && !narrator.ended) {
+          narrator.play().catch(() => {});
+        }
+      }
       dom.overviewDrawer.classList.toggle('open', open);
       dom.overviewDrawer.setAttribute('aria-hidden', open ? 'false' : 'true');
       dom.btnOverview.classList.toggle('active', open);
@@ -3257,24 +3473,68 @@
     function goTo(idx) {
       const target = Math.max(0, Math.min(SLIDES.length - 1, idx));
       if (target === state.slide) return;
+      const shouldNarrate = state.autoplay && state.narrationEnabled;
+      stopNarration();
       state.slide = target;
+      // Reset part cover to first plate when entering via autoplay so 3-plate progression runs cleanly
+      if (state.autoplay && SLIDES[target]?.kind === 'part') {
+        state.selectedPlate[SLIDES[target].partSlug] = 0;
+      }
       mountSlide(false);
+      if (shouldNarrate) startSlideNarration();
     }
 
     function toggleLang() {
+      const wasSpeaking = state.speaking || (state.autoplay && state.narrationEnabled);
+      stopNarration();
       state.lang = state.lang === 'en' ? 'zh' : 'en';
       const url = new URL(location.href);
       url.searchParams.set('lang', state.lang);
       history.replaceState(null, '', url.toString());
       mountSlide(true);
       if (state.overviewOpen) renderOverview();
+      if (wasSpeaking && !state.overviewOpen) startSlideNarration();
     }
 
-    function toggleAutoplay() {
-      state.autoplay = !state.autoplay;
-      dom.btnAuto.classList.toggle('active', state.autoplay);
-      dom.lblAuto.textContent = state.autoplay ? UI[state.lang].autoOn : UI[state.lang].autoOff;
-      if (!state.autoplay) dom.autoplayBar.style.width = '0%';
+    function toggleVoice() {
+      if (state.autoplay) {
+        state.narrationEnabled = !state.narrationEnabled;
+        if (state.narrationEnabled) {
+          startSlideNarration();
+        } else {
+          stopNarration();
+        }
+      } else {
+        // Manual mode: toggle narrating current slide on demand
+        if (state.speaking) {
+          stopNarration();
+        } else {
+          state.narrationEnabled = true;
+          startSlideNarration();
+        }
+      }
+      updateVoiceChrome();
+    }
+
+    function toggleAutoplay(forceOn = null) {
+      const next = forceOn === null ? !state.autoplay : Boolean(forceOn);
+      if (next && state.slide === SLIDES.length - 1 && !state.autoplay) {
+        // Restart from Slide 1 if autoplay is triggered at the end
+        state.slide = 0;
+        mountSlide(false);
+      }
+      state.autoplay = next;
+      state.autoElapsed = 0;
+      state.postAudioPause = 0;
+      if (state.autoplay) {
+        if (state.narrationEnabled) {
+          startSlideNarration();
+        }
+      } else {
+        stopNarration();
+        dom.autoplayBar.style.width = '0%';
+      }
+      updateVoiceChrome();
     }
 
     function toggleFullscreen() {
@@ -3290,34 +3550,26 @@
       const actionBtn = e.target.closest('[data-action]');
       if (actionBtn) {
         const act = actionBtn.dataset.action;
+        if (act === 'play-tour') {
+          state.narrationEnabled = true;
+          toggleAutoplay(true);
+        }
         if (act === 'next') goTo(state.slide + 1);
         if (act === 'jump-parts') goTo(5);
         if (act === 'overview') setOverview(true);
-        if (act === 'replay') goTo(0);
+        if (act === 'replay') {
+          stopNarration();
+          state.autoplay = false;
+          goTo(0);
+          updateVoiceChrome();
+        }
         return;
       }
 
       // Part 3-plate cover switcher
       const plateBtn = e.target.closest('[data-plate-idx]');
       if (plateBtn) {
-        const slug = plateBtn.dataset.partSlug;
-        const pIdx = Number(plateBtn.dataset.plateIdx);
-        state.selectedPlate[slug] = pIdx;
-        const part = PARTS_BY_SLUG.get(slug);
-        const essay = part?.featured?.[pIdx];
-        dom.slideMount.querySelectorAll('.gallery-img').forEach((img) => {
-          img.classList.toggle('active', Number(img.dataset.plateImg) === pIdx);
-        });
-        dom.slideMount.querySelectorAll('.plate-tab').forEach((tab) => {
-          tab.classList.toggle('active', Number(tab.dataset.plateIdx) === pIdx);
-        });
-        const link = document.getElementById('active-essay-link');
-        const openBtn = document.getElementById('active-essay-btn');
-        if (essay && link) {
-          link.href = essay.url;
-          link.textContent = state.lang === 'zh' ? essay.titleZh : essay.titleEn;
-        }
-        if (essay && openBtn) openBtn.href = essay.url;
+        selectPartPlate(plateBtn.dataset.partSlug, Number(plateBtn.dataset.plateIdx), true);
         return;
       }
 
@@ -3333,6 +3585,7 @@
       const item = e.target.closest('[data-jump-idx]');
       if (!item) return;
       const idx = Number(item.dataset.jumpIdx);
+      state.pausedForOverview = false;
       setOverview(false);
       goTo(idx);
     });
@@ -3340,7 +3593,8 @@
     dom.btnLang.addEventListener('click', toggleLang);
     dom.btnOverview.addEventListener('click', () => setOverview(!state.overviewOpen));
     dom.btnCloseOverview.addEventListener('click', () => setOverview(false));
-    dom.btnAuto.addEventListener('click', toggleAutoplay);
+    dom.btnVoice.addEventListener('click', toggleVoice);
+    dom.btnAuto.addEventListener('click', () => toggleAutoplay());
     dom.btnFs.addEventListener('click', toggleFullscreen);
     dom.btnPrev.addEventListener('click', () => goTo(state.slide - 1));
     dom.btnNext.addEventListener('click', () => goTo(state.slide + 1));
@@ -3356,6 +3610,7 @@
       else if (e.key === 'Home') { goTo(0); }
       else if (e.key === 'End') { goTo(SLIDES.length - 1); }
       else if (e.key === 'l' || e.key === 'L') { toggleLang(); }
+      else if (e.key === 'm' || e.key === 'M') { toggleVoice(); }
       else if (e.key === 'a' || e.key === 'A') { toggleAutoplay(); }
       else if (e.key === 'f' || e.key === 'F') { toggleFullscreen(); }
     });
@@ -3395,13 +3650,58 @@
       if (sl?.id === 'orthogonal') drawOrthoInstrument(dt);
       if (sl?.id === 'lattice') drawLatticeCanvas(dt);
 
-      if (state.autoplay && !state.overviewOpen && state.slide < SLIDES.length - 1) {
-        state.autoElapsed += dt;
-        const dur = sl?.duration || 10;
-        dom.autoplayBar.style.width = `${Math.min(100, (state.autoElapsed / dur) * 100)}%`;
-        if (state.autoElapsed >= dur) {
-          goTo(state.slide + 1);
+      // Narration-length-synchronized autoplay + gentle 3-plate progression on Part slides
+      const tr = getTrack(state.slide, state.lang);
+      const liveDur = (Number.isFinite(narrator.duration) && narrator.duration > 0)
+        ? narrator.duration
+        : (tr?.duration || sl?.duration || 12);
+
+      if (!state.overviewOpen && state.speaking && state.narrationEnabled && !state.audioFailed) {
+        const cur = narrator.currentTime || 0;
+        const denom = state.autoplay && state.slide < SLIDES.length - 1 ? (liveDur + BREATH_PAUSE) : liveDur;
+        const ratio = Math.min(1, cur / Math.max(0.1, denom));
+        dom.autoplayBar.style.width = `${(ratio * 100).toFixed(2)}%`;
+        dom.narrationTime.textContent = `${fmtTime(cur)} / ${fmtTime(liveDur)}`;
+        dom.narrationTime.classList.add('visible');
+
+        // Auto-cycle the 3 flagship cover plates smoothly across the narration on Part slides
+        if (sl?.kind === 'part' && !state.userPinnedPlate) {
+          const audioRatio = cur / Math.max(0.1, liveDur);
+          const wantIdx = audioRatio < 0.34 ? 0 : (audioRatio < 0.67 ? 1 : 2);
+          if (state.selectedPlate[sl.partSlug] !== wantIdx) {
+            selectPartPlate(sl.partSlug, wantIdx, false);
+          }
         }
+      } else if (state.autoplay && !state.overviewOpen && state.slide < SLIDES.length - 1) {
+        if (state.narrationEnabled && !state.audioFailed && state.audioEnded) {
+          // Breathing pause after narration ends, then advance cleanly
+          state.postAudioPause += dt;
+          const total = liveDur + BREATH_PAUSE;
+          const pct = Math.min(100, ((liveDur + state.postAudioPause) / total) * 100);
+          dom.autoplayBar.style.width = `${pct.toFixed(2)}%`;
+          if (state.postAudioPause >= BREATH_PAUSE) {
+            goTo(state.slide + 1);
+          }
+        } else if (!state.narrationEnabled || state.audioFailed) {
+          // Muted or fallback autoplay paced to the exact narration length
+          state.autoElapsed += dt;
+          const dur = (tr?.duration || sl?.duration || 11) + BREATH_PAUSE;
+          const ratio = Math.min(1, state.autoElapsed / dur);
+          dom.autoplayBar.style.width = `${(ratio * 100).toFixed(2)}%`;
+          dom.narrationTime.textContent = `${fmtTime(state.autoElapsed)} / ${fmtTime(dur)}`;
+          dom.narrationTime.classList.add('visible');
+          if (sl?.kind === 'part' && !state.userPinnedPlate) {
+            const wantIdx = ratio < 0.34 ? 0 : (ratio < 0.67 ? 1 : 2);
+            if (state.selectedPlate[sl.partSlug] !== wantIdx) {
+              selectPartPlate(sl.partSlug, wantIdx, false);
+            }
+          }
+          if (state.autoElapsed >= dur) {
+            goTo(state.slide + 1);
+          }
+        }
+      } else if (!state.speaking) {
+        dom.narrationTime.classList.remove('visible');
       }
 
       requestAnimationFrame(tick);

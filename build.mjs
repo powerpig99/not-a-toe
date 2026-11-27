@@ -2077,6 +2077,20 @@ function copyStaticAssets() {
       fs.copyFileSync(path.join(figuresDir, entry.name), path.join(publicFiguresDir, entry.name));
     }
   }
+
+  const guideAudioDir = path.join(scriptDir, 'assets', 'audio', 'guide');
+  if (fs.existsSync(guideAudioDir)) {
+    for (const lang of ['en', 'zh']) {
+      const srcDir = path.join(guideAudioDir, lang);
+      if (!fs.existsSync(srcDir)) continue;
+      const dstDir = path.join(outputDir, 'audio', 'guide', lang);
+      fs.mkdirSync(dstDir, { recursive: true });
+      for (const entry of fs.readdirSync(srcDir, { withFileTypes: true })) {
+        if (!entry.isFile() || !entry.name.endsWith('.mp3')) continue;
+        fs.copyFileSync(path.join(srcDir, entry.name), path.join(dstDir, entry.name));
+      }
+    }
+  }
 }
 
 function stripMdLinks(text) {
@@ -2225,6 +2239,26 @@ function buildPresentations(posts, book = null) {
         }),
     }));
 
+  // Load pre-generated bilingual guide narration audio manifest (same-origin hashed URLs + exact durations)
+  const guideAudioDir = path.join(scriptDir, 'assets', 'audio', 'guide');
+  const guideAudioManifestPath = path.join(guideAudioDir, 'manifest.json');
+  const audioTracks = {};
+  if (fs.existsSync(guideAudioManifestPath)) {
+    const manifest = JSON.parse(fs.readFileSync(guideAudioManifestPath, 'utf8'));
+    for (const [slideId, langs] of Object.entries(manifest.slides ?? {})) {
+      audioTracks[slideId] = {};
+      for (const [lang, meta] of Object.entries(langs ?? {})) {
+        const mp3Path = path.join(guideAudioDir, meta.file);
+        if (!fs.existsSync(mp3Path)) continue;
+        const hash = crypto.createHash('sha256').update(fs.readFileSync(mp3Path)).digest('hex').slice(0, 10);
+        audioTracks[slideId][lang] = {
+          url: `../audio/guide/${meta.file}?v=${hash}`,
+          duration: meta.duration,
+        };
+      }
+    }
+  }
+
   const heroPost = book?.postsBySlug.get(SITE.pinnedSlug);
   const bookData = {
     postCount: posts.length,
@@ -2234,6 +2268,7 @@ function buildPresentations(posts, book = null) {
     heroCoverUrl: heroPost?.cover?.url ?? SITE.socialImage,
     parts: partsData,
     partMatrix,
+    audio: audioTracks,
     indexStats: {
       sections: sectionsData,
       labels: labelsData,
