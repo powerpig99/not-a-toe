@@ -26,7 +26,7 @@ Whether a world outside the mind exists or does not exist cannot be verified out
 
 ## 四、 方法 / 4. The Method
 
-方法不回答有无，只处理参考系的宽度。第一种操作是假定有，最后消除并返回：让显现站着，当暂借的仪器，不当答案；用尽指认后收回。返回不是抵达终点，是收回本轮多出的宽度。清晰是反复移动，从不到达。第二种操作是从无开始：不给任何显现独立地基，以无授权为边。
+方法不回答有无，只处理参考系的宽度。第一种操作是假定有，最后消除并返回：让显现站着，当暂借的仪器，不当答案；用尽指认后收回。返回不是抵达终点，是收窄本轮多出的宽度。清晰是反复移动，从不到达。第二种操作是从无开始：不给任何显现独立地基，以无授权为边。
 
 The method does not answer the question of being and non-being; it operates only on the width of the reference frame. The first operation posits being, then dissolves it and returns: let the appearance stand as a provisional instrument rather than an answer, and reclaim it once the pointing is done. Returning is not arriving at a destination; it is narrowing the excess width added in this round. Clarity is repeated movement that never arrives. The second operation begins from non-being: granting no independent ground to any appearance, with non-authorization as its edge.
 
@@ -47,7 +47,7 @@ flowchart TD
     subgraph S_Edge["有无之边：移动而不固化"]
         direction TB
         E_Edge["可借或可不借的边：在划出它的这一步成立，遵循因果"]
-        E_Return["收回多余宽度：返回正在区分的活边缘，不在有无间站队"]
+        E_Return["收窄多余宽度：返回正在区分的活边缘，不在有无间站队"]
         E_Edge --> E_Return
     end
     O_Borrow ==> E_Edge
@@ -76,7 +76,7 @@ flowchart TD
     subgraph S_Edge["The Edge of Being and Non-Being: Moving Without Solidifying"]
         direction TB
         E_Edge["The Borrowable or Unborrowed Edge: Operative at the Act That Draws It, Following Causality"]
-        E_Return["Reclaiming Excess Width: Returning to the Living Distinguishing Edge Without Taking Sides"]
+        E_Return["Narrowing Excess Width: Returning to the Living Distinguishing Edge Without Taking Sides"]
         E_Edge --> E_Return
     end
     O_Borrow ==> E_Edge
@@ -96,12 +96,12 @@ flowchart TD
 
 Neither being nor non-being is the answer. Being is the edge that can be borrowed; non-being is the edge that need not be borrowed. The method lies at the edge, not in adjudicating right or wrong between being and non-being. Sealing either one as the sole true path or final answer is taking sides. [Only If It Is Not Kept Empty](../only-if-it-is-not-kept-empty/) exposes this same side-taking in the use of an instrument: enshrining "emptiness" as a permanent ideal and enshrining "being" as a fixed ground are the same over-wide reference. [Your Codebase Is Memory](../your-codebase-is-memory/) traces the same boundary in externalized artifacts: a codebase or recorded memory is posited being borrowed as working scaffolding by the living edge, and the moment those accumulated traces are treated as a self-sustaining ground replacing present judgment, the reference freezes into excess lag—conditioning later steps to rationalize inside stale scaffolding rather than step outside and re-cut it, while the distinguishing activity itself continues.
 
-边在划出它的这一步成立，但不固定：下一步就不在同一处。它遵循因果，保持自洽。[前因，后果](../qian-yin-hou-guo/)是同一边在因果间隔上的登记：轨迹只能单向塑造；参照与解释滞后于观察，前因种下的后果就登记为外因。
+边在划出它的这一步成立，但不固定：下一步就不在同一处。它遵循因果，保持自洽。[前因，后果](../qian-yin-hou-guo/)是同一边在因果间隔上的登记：轨迹只能单向塑造；保留的参照-解释一旦滞后于生成之步并超出构成性的一步下界，前因种下的后果就登记为外因。
 
-At the act that draws it, the edge holds without fixing: at the next step it is no longer in the same place. It follows causality and remains internally coherent. [Cause Before, Effect After](../qian-yin-hou-guo/) registers this same edge across the causal interval: traces shape only in one direction; when reference and interpretation lag behind observation, the effects planted by prior causes register as arriving from outside.
+At the act that draws it, the edge holds without fixing: at the next step it is no longer in the same place. It follows causality and remains internally coherent. [Cause Before, Effect After](../qian-yin-hou-guo/) registers this same edge across the causal interval: traces shape only in one direction; when a retained reference-interpretation lags behind the generating step past the constitutive one-step bound, the effects planted by prior causes register as arriving from outside.
 
 ## 七、 不软化 / 7. Without Softening
 
-日常写作里，平衡、弱化、留退路，常常是在补救一种不配有的“无条件定论”：话说得像从外部拍板，所以要用副词把锋刃磨钝。这里不是这种情形。地基是相对于每一次区分的运作——任何显现、任何边，都只在其区分活动中成立，没有可站到外面去裁定的第二块基石。软化不是谦虚，是在相对性上再叠一层虚假的不确定，把框架的清晰抹掉。断言直接落地；需要收回的不是语气，是参考系的宽度。有与无的边界，正是果有别于因的那道分界，[非万物之理](../not-a-theory-of-everything/)给出了它的最简形式。
+日常写作里，平衡、弱化、留退路，常常是在补救一种不配有的“无条件定论”：话说得像从外部拍板，所以要用副词把锋刃磨钝。这里不是这种情形。地基是相对于每一次区分的运作——任何显现、任何边，都只在其区分活动中成立，没有可站到外面去裁定的第二块基石。软化不是谦虚，是在相对性上再叠一层虚假的不确定，把框架的清晰抹掉。断言直接落地；需要重绘收窄的不是语气，是参考系的宽度。有与无的边界，正是果有别于因的那道分界，[非万物之理](../not-a-theory-of-everything/)给出了它的最简形式。
 
 In everyday writing, balancing, hedging, and leaving escape hatches often compensate for an undeserved "absoluteness": a claim spoken as if handed down from outside must have its blade blunted with qualifiers. That is not what is happening here. The ground operates relative to each act of distinction—every appearance and every edge holds only within the distinguishing activity that constitutes it, with no second foundation outside from which to adjudicate. Softening is not modesty; it stacks false uncertainty on top of relativity and blurs the clarity of the frame. Assertions land directly; what gets re-rendered narrower is not the tone, but the width of the reference frame. The boundary between being and non-being is the very cut where effect differs from cause, and [Not a Theory of Everything](../not-a-theory-of-everything/) gives its minimal form.
