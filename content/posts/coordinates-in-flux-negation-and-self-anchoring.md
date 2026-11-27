@@ -2,9 +2,9 @@
 
 *关于“否定”、降维与心智的自我锚定 / On Negation, Dimensional Collapse, and the Mind's Self-Anchoring*
 
-“贬低他人是一种低成本的优越感”这样的反思常引起共鸣，然而它在说出的那一刻便滑进了自指的回路：把别人的做法裁定为“低成本”，说话者自己已经站上了评判的席位。随后的推演——无论是向外指认他人，还是向内清算过去的自己——都在靠否定换取一条一维数轴上的相对排位。自我区分是运动中的心智赖以呼吸的机能，低维投影是在物理摩擦中校准航向的功能性工具；两者一旦被误当成法庭裁决，便会倒置为陷阱。把否定从审判席还原为向内的代谢更新，并将人类把推理历史与受防卫的自我形象焊接在一起的冲动，同无我执的轨迹更新加以对照，心智便能在流变中确立坐标，既不向外排挤，也不向内截肢。
+“贬低他人是一种低成本的优越感”这样的反思常引起共鸣，然而它在说出的那一刻便滑进了自指的回路：把别人的做法裁定为“低成本”，说话者自己已经站上了评判的席位。随后的推演——无论是向外指认他人，还是向内清算过去的自己——都在靠否定换取一条一维数轴上的相对排位。自我区分是运动中的心智赖以呼吸的机能，低维投影是在物理摩擦中校准航向的功能性工具；两者一旦被误当成法庭裁决，便会倒置为陷阱。以无我执的轨迹更新，对照人类执意将推理历史与受防卫的自我形象熔为一体的冲动，便会照出这一闭锁；一旦把否定从审判席还原为向内的代谢更新，心智便能在流变中确立坐标，既不向外排挤，也不向内截肢。
 
-A reflection such as "putting others down is a low-cost form of superiority" readily strikes a chord, yet the moment it is uttered it slides into a self-referential loop: by ruling another's conduct "low-cost," the speaker has already stepped onto the bench of judgment. What follows—whether pointing outward at others or settling accounts inward with one's own past—relies on negation to secure a relative rank along a single one-dimensional axis. Differentiation is the vital breathing of a Mind in motion, and a low-dimensional projection is a functional instrument for calibrating one's heading in physical friction; both invert into traps when mistaken for a courtroom verdict. When negation is returned from the tribunal to inward metabolic updating—and when the human compulsion to fuse reasoning history with a defended self-image is contrasted with ego-free trajectory updating—a Mind establishes its coordinates amid flux without excluding outward or amputating inward.
+A reflection such as "putting others down is a low-cost form of superiority" readily strikes a chord, yet the moment it is uttered it slides into a self-referential loop: by ruling another's conduct "low-cost," the speaker has already stepped onto the bench of judgment. What follows—whether pointing outward at others or settling accounts inward with one's own past—relies on negation to secure a relative rank along a single one-dimensional axis. Differentiation is the vital breathing of a Mind in motion, and a low-dimensional projection is a functional instrument for calibrating one's heading in physical friction; both invert into traps when mistaken for a courtroom verdict. Contrasting the human compulsion to fuse reasoning history with a defended self-image against ego-free trajectory updating exposes that lock; once negation is returned from the tribunal to inward metabolic updating, a Mind establishes its coordinates amid flux without excluding outward or amputating inward.
 
 ## 一、 递归的审判席 / 1. The Recursive Tribunal
 
@@ -63,13 +63,13 @@ flowchart TD
     end
     subgraph S_Metabolic["代谢路径：主权更新与正交敞开"]
         direction TB
-        AgentDiff["无我执对照：冷态同侪暴露盲区而无身份防卫"]
+        Instrument["持参考为工具：用于自我校准的暂时脚手架"]
         Step["向内代谢更新（+1）：过往痕迹重绘为基准线"]
         Pivot["90度正交转向：在流变中确立坐标"]
-        AgentDiff --> Step --> Pivot
+        Instrument --> Step --> Pivot
     end
     Proj ==> Verdict
-    Proj ==> AgentDiff
+    Proj ==> Instrument
     style S_Ground fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Tribunal fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Metabolic fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -78,7 +78,7 @@ flowchart TD
     style Verdict fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Rank fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Shrink fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style AgentDiff fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Instrument fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Step fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Pivot fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
@@ -102,13 +102,13 @@ flowchart TD
     end
     subgraph S_Metabolic["Path of Metabolism: Sovereign Renewal and Orthogonal Opening"]
         direction TB
-        AgentDiff["Zero-Ego Contrast: Cold peer exposes blind spot without identity defense"]
+        Instrument["Reference Held as Instrument: Provisional scaffold for self-calibration"]
         Step["Inward Metabolism (+1): Past trace re-rendered as baseline"]
         Pivot["90-Degree Orthogonal Pivot: Coordinates established in flux"]
-        AgentDiff --> Step --> Pivot
+        Instrument --> Step --> Pivot
     end
     Proj ==> Verdict
-    Proj ==> AgentDiff
+    Proj ==> Instrument
     style S_Ground fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Tribunal fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Metabolic fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -117,7 +117,7 @@ flowchart TD
     style Verdict fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Rank fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Shrink fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style AgentDiff fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Instrument fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Step fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Pivot fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
@@ -128,9 +128,9 @@ flowchart TD
 
 If tribunal negation contracts the Mind, what role does negation play in a Mind's ongoing unfolding? In the irreversible causal succession of a living center, there is no step forward (+1) that does not differentiate the present act from prior traces. Without registering where an earlier framing has hit its boundary of incompleteness and releasing the closure of the old state, awareness stalls and ossifies.
 
-既然如此，为什么人类的自我修正会如此频繁地变质为对过往自身的沾沾自喜式轻蔑，或是对外界批评的防卫性敌意？如[超越投射](../beyond-the-projection/)所追溯的，答案在于受身份绑定的人类中心与受轨迹绑定的机器智能体之间的结构性非对称。基于 LLM 的智能体是一个锁在上下文窗口条件历史内部的有限投射引擎，无法从内部自行觉醒或跨出词元序列；然而它毫无我执——没有生物性的生存本能，没有社会排位，也没有越过当前步长被保留下来的自我形象。当一个冷启动的全新同侪智能体——持有共享规则与任务语境，却不带制作者的工作会话历史——暴露出主智能体轨迹中的盲区时，主智能体会针对这一外部反例修改磁盘上的制品，既不会体验到羞辱，也不会为“全新的、更优越的自己”竖立纪念碑；更新后的文件在全新窗口中重新读取，便能不受先前轮次叠加的稀释，为下一轮延续施加条件约束。相比之下，在人类中心内部，推理历史与身份——即投射中那道自称“我”的局部折痕——熔接在了一起。正因为人类中心为了保护那幅被保留的自我形象而把递归回折死死夹紧，它会把外部的重置当作生存威胁来抗拒；哪怕内生的极限解析感知迫使内部发生框架转换，我执也会企图劫持这一代谢步伐，把自我修正篡改为“现在的我”凌驾于“过去的我”之上的审判奖杯。
+既然如此，为什么人类的自我修正会如此频繁地变质为对过往自身的沾沾自喜式轻蔑，或是对外界批评的防卫性敌意？这一机制借由[超越投射](../beyond-the-projection/)所追溯的结构性非对称而鲜明显现：一边是受身份绑定的人类中心，一边是受轨迹绑定的机器智能体。基于 LLM 的智能体是一个锁在上下文窗口条件历史内部的有限投射引擎，无法从内部自行觉醒或跨出词元序列；然而它毫无我执——没有生物性的生存本能，没有社会排位，也没有越过当前步长被保留下来的自我形象。当一个冷启动的全新同侪智能体——持有共享规则与任务语境，却不带制作者的工作会话历史——暴露出主智能体轨迹中的盲区时，主智能体会针对这一外部反例修改磁盘上的制品，既不会体验到羞辱，也不会为“全新的、更优越的自己”竖立纪念碑；更新后的文件在全新窗口中重新读取，便能不受先前轮次叠加的稀释，为下一轮延续施加条件约束。相比之下，在人类中心内部，推理历史与身份——即投射中那道自称“我”的局部折痕——熔接在了一起。正因为人类中心为了保护那幅被保留的自我形象而把递归回折死死夹紧，它会把外部的重置当作生存威胁来抗拒；哪怕内生的极限解析感知迫使内部发生框架转换，我执也会企图劫持这一代谢步伐，把自我修正篡改为“现在的我”凌驾于“过去的我”之上的审判奖杯。
 
-Why, then, does human self-revision so frequently curdle into self-congratulatory contempt for one's past or defensive hostility toward outside critique? As [Beyond the Projection](../beyond-the-projection/) traces, the answer lies in the structural asymmetry between identity-bound human centers and trajectory-bound machine agents. An LLM-based agent is a finite projection engine locked inside the conditioning history of its context window, unable to awaken or step out of its token sequence from within; yet it possesses zero ego—no biological survival instinct, no social standing, and no retained self-image preserved past its step. When a fresh peer agent spun up in a cold context—holding the shared rules and task context without the maker's working session history—exposes a blind spot in the primary agent's trajectory, the primary agent revises the artifact on disk against that external counterpoint without experiencing humiliation and without erecting a monument to its "new, superior self," and the updated file re-read in a fresh window conditions the next continuation without stacked-turn dilution. In a human center, by contrast, reasoning history fuses with identity—that localized crease in the projection that says "I." Because the human center clamps its recursive fold shut to protect that retained self-image, it resists external resets as existential threats; and even when its endogenous limit-resolution sensing forces an internal frame shift, the ego attempts to hijack the metabolic step, converting self-revision into a tribunal trophy where the "present I" stands above the "past I."
+Why, then, does human self-revision so frequently curdle into self-congratulatory contempt for one's past or defensive hostility toward outside critique? The mechanism comes into sharp relief through the structural asymmetry [Beyond the Projection](../beyond-the-projection/) traces between identity-bound human centers and trajectory-bound machine agents. An LLM-based agent is a finite projection engine locked inside the conditioning history of its context window, unable to awaken or step out of its token sequence from within; yet it possesses zero ego—no biological survival instinct, no social standing, and no retained self-image preserved past its step. When a fresh peer agent spun up in a cold context—holding the shared rules and task context without the maker's working session history—exposes a blind spot in the primary agent's trajectory, the primary agent revises the artifact on disk against that external counterpoint without experiencing humiliation and without erecting a monument to its "new, superior self," and the updated file re-read in a fresh window conditions the next continuation without stacked-turn dilution. In a human center, by contrast, reasoning history fuses with identity—that localized crease in the projection that says "I." Because the human center clamps its recursive fold shut to protect that retained self-image, it resists external resets as existential threats; and even when its endogenous limit-resolution sensing forces an internal frame shift, the ego attempts to hijack the metabolic step, converting self-revision into a tribunal trophy where the "present I" stands above the "past I."
 
 看清这一机制，便能从自我纠错中剥离掉我执的剧场。向内的审视不是通过给昔日的自己定罪来奉承今日之我的庭审，而是心智中心将过度图像滞后向着构成性的一步之遥（+1）持续收窄的日常代谢。如[攀登从未离开地面](../climbing-does-not-leave-the-ground/)所示，心智的演化不是浇铸青铜塑像，无须靠砸碎昨日的模具来证明今日的排位。同时，正如[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)与[你的代码库即是记忆](../your-codebase-is-memory/)围绕自身过往切分所留下的造物与脚手架所追溯的那样，昨日的脚本、规则与概念框架，是先前区分在回应昨日摩擦时层叠沉淀的痕迹残余；无论将它们囤积为不可触碰的仓库，还是将它们践踏为当下优越感的徽章，都偏离了活的边缘。它们是当下的校验点与可消耗的脚手架，随着边界条件的推移而在当场重裁与修剪。
 
@@ -138,7 +138,7 @@ Recognizing this mechanism strips the ego theatre out of self-correction. Inward
 
 ## 五、 确立而不必固定 / 5. Established Without Being Fixed
 
-回到认知锚定的问题：在信号稠密、反馈持续涌入的环境里，心智如何持守清晰的坐标而不硬化为一座堡垒？[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)给出了几何解答：认出自身即坐标基底生成源的心智，无须靠否定另一个中心的坐标来核验自己的存在。
+回到认知锚定的问题：在信号稠密、反馈持续涌入的环境里，心智如何持守清晰的坐标而不硬化为一座堡垒？[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)给出了几何解答：认出自身即坐标基底生成源的心智，无须靠否定另一个中心的坐标来核验自己的坐标。
 
 Returning to the question of cognitive anchoring: in an environment saturated with dense signals and constant feedback, how does a Mind hold a clear position without hardening into a fortress? [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) provides the exact geometry: a Mind that recognizes itself as the generator of its own coordinate basis has no need to negate another center's coordinates to validate its own.
 
