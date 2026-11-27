@@ -2,9 +2,9 @@
 
 *速度加速并进而放大生效中的反馈信号，进展取决于残余误差能否动态改写损失函数本身 / Speed accelerates and in turn amplifies the active feedback signal; progress turns on whether residual error dynamically rewrites the loss function itself*
 
-可见的成功生自把残余误差持续转化为修订信号的能力，而非源于产生更少的误差。只要运作模型尚不完备，围绕避免误差来组织行动，便会扣留本可修订它的摩擦，直接令进展停滞。若行动者用速度去捍卫既有承诺，单凭跑得更快本身无济于事；而锚定静态能力的外部评判，则会抬高借暴露出来的残余误差改写目标的代价。循着这一条高更新率的误差转化回路追溯下去，人才、资本与操作空间便落在下游，成为在可见误差间得以维系的症候；而让现实保持开放，则同时消解了对完备先验模型的索求，以及闭合世界假定所迫使的语言限定。
+可见的成功生自把残余误差持续转化为修订信号的能力，而非源于产生更少的误差。只要运作模型尚不完备，围绕避免误差来组织行动，便会扣留本可修订它的摩擦，直接令进展停滞。若行动者用速度去捍卫既有承诺，单凭跑得更快本身无济于事；锚定静态能力的外部评判会抬高可见误差的声誉代价，却只在行动中的心智依那本外部账本为自身地位计分、而非对照与结果的活态接触计分时，才会令修订折断。循着这一条高更新率的误差转化回路追溯下去，人才、资本与操作空间便落在下游，作为症候而非先决条件或认证；而让现实保持开放，则同时消解了对完备先验模型的索求，以及闭合世界假定所迫使的语言限定。
 
-Visible success grows out of the sustained capacity to convert residual error into revised signals rather than out of producing fewer errors. Wherever an operating model remains incomplete, organizing action around avoiding error directly stalls progress by withholding the friction that would revise it. Running faster settles nothing on its own when an operator uses that speed to defend a retained commitment, and external evaluation anchored in static competence raises the cost of using exposed residual error to rewrite the objective. Tracing a single high-update-rate loop of error conversion places talent, capital, and operational latitude downstream as symptoms sustained across visible errors, while leaving reality open removes both the demand for a complete prior model and the linguistic hedging that closed-world assumptions force.
+Visible success grows out of the sustained capacity to convert residual error into revised signals rather than out of producing fewer errors. Wherever an operating model remains incomplete, organizing action around avoiding error directly stalls progress by withholding the friction that would revise it. Running faster settles nothing on its own when an operator uses that speed to defend a retained commitment; external evaluation anchored in static competence raises the reputational cost of visible error, yet breaks off revision only when the acting Mind scores its standing on that external ledger rather than on live contact with the outcome. Tracing a single high-update-rate loop of error conversion places talent, capital, and operational latitude downstream as symptoms rather than prerequisites or certifications, while leaving reality open removes both the demand for a complete prior model and the linguistic hedging that closed-world assumptions force.
 
 ## 一、 速度加速并进而放大生效中的信号 / 1. Speed Accelerates and in Turn Amplifies the Active Signal
 
@@ -22,7 +22,7 @@ When that signal tracks contact with the actual outcome—because the Mind claim
 
 The working loss function is no pre-specified absolute target waiting outside the work to be located once and for all. It is a provisional reference dynamically formed and re-cut in contact with the field. Machine training receives its loss function from a designer before the run begins; in living action, the objective function itself belongs among the terms open to revision, as [Life as a Continuous Process of Self-Iteration](../ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/) traces. Residual errors and surprises operate here as information at that higher level: beyond registering an error under a fixed target—the policy update traced in [Failure as Information](../failure-as-information/)—they distinguish which signals predict the outcome that matters and which remain stale remnants of a prior model. The loop improves because the operating Mind uses those errors and surprises to rewrite the objective itself rather than discarding them as noise or scoring them as verdicts of incompetence.
 
-锚定静态能力的外部评判倒置了这一关系。若观察者以不出现可见误差来衡量本领，暴露出来的残余误差便会被读作行动者不知自己在做什么的证据。这种评断为周遭的报偿场域定型，抬高了让误差保持可见并借以改写目标的声誉与组织代价。当这道代价高企，在外部账本上为自身地位计分的行动者，便会选择放慢迭代、遮掩中间结果，或捍卫既有目标——把一道敞开的工作切分变成严加守卫的外观，这正是[关闭选择权的代价](../the-price-of-closing-optionality/)所追溯的那种撤离接触。当这道代价保持在低位——因为同一行动者已反复显明，只要新摩擦证伪既有做法便果断抛弃，于是观察者把可见的修剪读作运作方法而非失手——暴露出来的残余误差便仍可充当可用信息。动态发现由此得以延续，而不是为了维护先前能力的外观而中途折断。
+锚定静态能力的外部评判倒置了这一关系。若观察者以不出现可见误差来衡量本领，暴露出来的残余误差便会被读作行动者不知自己在做什么的证据。这种评断为周遭的报偿场域定型，抬高了让误差保持可见并借以改写目标的声誉与组织代价。分岔在于行动中的心智追踪哪一本账本，而不在于这道外部代价是高是低。在那本外部账本上为自身地位计分的行动者，会在这道代价之下选择放慢迭代、遮掩中间结果，或捍卫既有目标——把一道敞开的工作切分变成严加守卫的外观，这正是[关闭选择权的代价](../the-price-of-closing-optionality/)所追溯的那种撤离接触。当行动中的心智把账本锚定在与结果的活态接触、而非外部能力评分上，即便外部观察者仍在惩罚可见误差、声誉代价居高不下，暴露出来的残余误差仍是可用信息，动态发现依旧延续。更新回路持续运转，既不等待观察者认可，也不等待外部摩擦降低；日后若观察者转而把可见的修剪读作运作方法而非失手，这一转变也只登记为下游残余，从不是改写目标的先决条件或认证。
 
 ```mermaid
 flowchart TD
@@ -44,7 +44,7 @@ flowchart TD
         direction TB
         L_Claim["认领残余误差为信号：区分有效预测线索与陈旧遗留"]
         L_Recut["就地重切目标：心智改写损失函数本身"]
-        L_Cont["持续发现：可见的修剪降低修订所遇的外部摩擦"]
+        L_Cont["持续发现：修订后的损失函数支配下一步接触"]
         L_Claim --> L_Recut --> L_Cont
     end
     A_Err --> M_Fork
@@ -66,7 +66,7 @@ flowchart TD
     style L_Cont fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-External evaluation anchored in static competence inverts this relation. An observer who measures skill by the absence of visible errors reads exposed residual error as proof that the operator does not know what they are doing. That judgment patterns the surrounding payoff field, raising the reputational and organizational cost of keeping an error visible while using it to rewrite the goal. Where that cost sits high, an operator who scores their own standing on that external ledger chooses to slow iteration, conceal intermediate results, or defend the prior objective—converting an open working cut into a guarded appearance, the same withdrawal from contact traced in [The Price of Closing Optionality](../the-price-of-closing-optionality/). Where that cost stays low—because the same operator has repeatedly demonstrated the willingness to discard whatever new friction falsifies, so observers read visible pruning as the operating method rather than a lapse—exposed residual error remains usable information. Dynamic discovery continues instead of breaking off to protect the appearance of prior competence.
+External evaluation anchored in static competence inverts this relation. An observer who measures skill by the absence of visible errors reads exposed residual error as proof that the operator does not know what they are doing. That judgment patterns the surrounding payoff field, raising the reputational and organizational cost of keeping an error visible while using it to rewrite the goal. The fork sits in which ledger the acting Mind tracks, not in whether that external cost is high or low. An operator who scores their own standing on that external ledger chooses to slow iteration, conceal intermediate results, or defend the prior objective under that cost—converting an open working cut into a guarded appearance, the same withdrawal from contact traced in [The Price of Closing Optionality](../the-price-of-closing-optionality/). When the acting Mind anchors its ledger in live contact with the outcome rather than in external competence scoring, exposed residual error remains usable information and dynamic discovery continues even while outside observers penalize visible errors and reputational cost stays high. The update loop runs without waiting on observer approval or lowered external friction; any later shift in which observers come to read visible pruning as an operating method rather than a lapse registers only as downstream residue, never as a prerequisite or certification for rewriting the objective.
 
 ```mermaid
 flowchart TD
@@ -88,7 +88,7 @@ flowchart TD
         direction TB
         L_Claim["Residual Error Claimed as Signal: Separates predictive cues from stale remnants"]
         L_Recut["Objective Re-Cut in Place: Mind rewrites the loss function itself"]
-        L_Cont["Sustained Discovery: Visible pruning lowers external friction on revision"]
+        L_Cont["Sustained Discovery: Revised loss function governs next contact step"]
         L_Claim --> L_Recut --> L_Cont
     end
     A_Err --> M_Fork
@@ -112,9 +112,9 @@ flowchart TD
 
 ## 三、 支撑条件是下游症候，而非独立前提 / 3. Supporting Conditions as Downstream Symptoms, Not Independent Premises
 
-这一机制解释了为何快速迭代能够与可见的残余误差并存，同时持续产出递进的结果。面对反证保持高更新率，既能尽早暴露误差，也能迅速加以修剪；正是同一种可见的纪律，在中间误差之后仍维系着各项支撑条件。这种维系并非某种方法对被动资源施加的机械拉力。反复显明愿意抛弃被证伪的前提，会留下致密而可靠的纠偏痕迹；其他心智——决定在何处建造的工程师、决定把资本投向何方的支持者、决定给予多大操作空间的伙伴与用户——会在暴露出来的误差间持续选择与这些痕迹对齐。因此，人才、资本与操作空间在这里登记为持续转化残余误差的下游症候，而不是这套解释成立所需的独立前提，这正循着[拥有更多从不是原因](../having-more-is-never-the-cause/)与[进步叙事中的症候与原因](../symptom-and-cause-in-the-narratives-of-progress/)所追溯的因果次序。
+这一机制解释了为何快速迭代能够与可见的残余误差并存，同时持续产出递进的结果。面对反证保持高更新率，既能尽早暴露误差，也能迅速加以修剪；支撑条件在中间误差间得以存续之处，追溯的正是同一种可见的纪律。这种存续并非某种方法对被动资源施加的机械拉力。反复显明愿意抛弃被证伪的前提，会留下致密而可靠的纠偏痕迹；其他心智——决定在何处建造的工程师、决定把资本投向何方的支持者、决定给予多大操作空间的伙伴与用户——会在暴露出来的误差间选择与这些痕迹对齐。这份外部对齐既不认证运作中的损失函数，也不决定行动中的心智自身的更新回路能否继续运转：充分与否登记在与结果的活态接触之中，无论其他中心在某一周期是否对齐，修订都持续推进。因此，人才、资本与操作空间在这里登记为持续转化残余误差的下游症候，而不是这套解释成立所需的独立前提，这正循着[拥有更多从不是原因](../having-more-is-never-the-cause/)与[进步叙事中的症候与原因](../symptom-and-cause-in-the-narratives-of-progress/)所追溯的因果次序。
 
-This mechanism accounts for why rapid iteration can coexist with visible residual errors while still generating progressive results. A high update rate on counter-evidence both exposes errors early and prunes them quickly; the same visible discipline sustains the supporting conditions after intermediate errors. That persistence is no mechanical pull exerted by a method on passive resources. Demonstrated willingness to discard falsified premises leaves dense, reliable traces of course-correction, and other Minds—engineers deciding where to build, backers deciding where to commit capital, partners and users deciding how much operational latitude to extend—continue to elect alignment with those traces across exposed errors. Talent, capital, and operational latitude therefore register here as downstream symptoms of ongoing conversion of residual error rather than as independent premises required for the explanation to hold, following the causal ordering traced in [Having More Is Never the Cause](../having-more-is-never-the-cause/) and [Symptom and Cause in the Narratives of Progress](../symptom-and-cause-in-the-narratives-of-progress/).
+This mechanism accounts for why rapid iteration can coexist with visible residual errors while still generating progressive results. A high update rate on counter-evidence both exposes errors early and prunes them quickly; where supporting conditions persist across intermediate errors, they trace to the same visible discipline. That persistence is no mechanical pull exerted by a method on passive resources. Demonstrated willingness to discard falsified premises leaves dense, reliable traces of course-correction, and other Minds—engineers deciding where to build, backers deciding where to commit capital, partners and users deciding how much operational latitude to extend—elect alignment with those traces across exposed errors. That outside alignment neither certifies the working loss function nor gates whether the acting Mind's own update loop keeps running: adequacy registers in live contact with the outcome, and revision continues whether or not other centers align on a given cycle. Talent, capital, and operational latitude therefore register here as downstream symptoms of ongoing conversion of residual error rather than as independent premises required for the explanation to hold, following the causal ordering traced in [Having More Is Never the Cause](../having-more-is-never-the-cause/) and [Symptom and Cause in the Narratives of Progress](../symptom-and-cause-in-the-narratives-of-progress/).
 
 这一因果次序一旦确立，便无需再追加任何临时假设，去解释迭代为何没有在公开的残余误差之后停滞或崩塌。靠事后经验记分去比较不同轨迹，始终纠缠在选择性后见与彼此竞争的叙事里；把这一排序区分开来的，是解释的简约性。仅凭一条生效中的机制——对照决定性反证的高速率修订——便同时解释了误差的快速暴露、快速修剪，以及其他中心的持续对齐。任何拒斥这一核心逻辑、转而把存续归功于超常资本、特殊人才或罕见误差余地的替代解释，都不得不把这些条件在可见误差间依旧存续当作彼此孤立的未解事实，每逢一次恢复便增设一条新前提，由此降低了与所观察模式之间的连贯性。
 
