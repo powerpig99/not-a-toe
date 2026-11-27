@@ -731,13 +731,23 @@ def is_noop_todo_line(line: str) -> bool:
     body = body.strip("*_`() \t")
     if not body:
         return True
-    return bool(
-        re.match(
-            r"^(?:none|n/?a|no\s+(?:new\s+|cross-node\s+|out-of-file\s+)?items?(?:\s+to\s+(?:add|report|record))?|nothing(?:\s+to\s+(?:add|report|record))?)(?:\s*[.:—–\-;(].*)?$",
-            body,
-            flags=re.IGNORECASE,
-        )
-    )
+    if re.match(
+        r"^(?:none|n/?a|no\s+(?:new\s+|cross-node\s+|out-of-file\s+)?items?(?:\s+to\s+(?:add|report|record))?|nothing(?:\s+to\s+(?:add|report|record))?)(?:\s*[.:—–\-;(].*)?$",
+        body,
+        flags=re.IGNORECASE,
+    ):
+        return True
+    if re.search(
+        r"\b(?:already\s+(?:resolved|fixed|settled|covered|updated|addressed)|no\s+further\s+action|can\s+be\s+(?:closed|pruned|removed|cleared))\b",
+        body,
+        flags=re.IGNORECASE,
+    ) and not re.search(
+        r"\b(?:still|remaining|open\s+defect|unfinished|needs?\s+(?:fix|update|edit))\b",
+        body,
+        flags=re.IGNORECASE,
+    ):
+        return True
+    return False
 
 
 def extract_todo_blocks(slug: str) -> list[str]:
@@ -809,15 +819,15 @@ def split_header_body(work: str) -> tuple[str, str]:
 
 
 _CONTEXT_PREFIX_HEAD_NO_LINES_RE = re.compile(
-    r"(?:noticed\s+from|from|citing|against|with|contradicting|vs\.?|gloss(?:es)?\s+on|(?<!\w)on)\s+(?:\*+|`+)?$",
+    r"(?<![A-Za-z0-9_-])(?:noticed\s+from|noticed\s+during|during|from|citing|against|with|contradicting|vs\.?|gloss(?:es)?\s+on|on)\s+(?:\*+|`+)?$",
     flags=re.IGNORECASE,
 )
 _CONTEXT_PREFIX_HEAD_WITH_LINES_RE = re.compile(
-    r"(?:noticed\s+from|from|citing|against|with|contradicting|vs\.?|gloss(?:es)?\s+on)\s+(?:\*+|`+)?$",
+    r"(?<![A-Za-z0-9_-])(?:noticed\s+from|noticed\s+during|during|from|citing|against|with|contradicting|vs\.?|gloss(?:es)?\s+on)\s+(?:\*+|`+)?$",
     flags=re.IGNORECASE,
 )
 _CONTEXT_PREFIX_BODY_RE = re.compile(
-    r"(?:noticed\s+from|from|citing|against|with|contradicting|vs\.?|gloss(?:es)?\s+on|(?<!\w)on|(?<!\w)in|corrected\s+in|fixed\s+in)\s+(?:the\s+)?(?:\*+|`+)?$",
+    r"(?<![A-Za-z0-9_-])(?:noticed\s+from|noticed\s+during|during|from|citing|against|with|contradicting|vs\.?|gloss(?:es)?\s+on|on|in|corrected\s+in|fixed\s+in)\s+(?:the\s+)?(?:\*+|`+)?$",
     flags=re.IGNORECASE,
 )
 
@@ -828,7 +838,7 @@ def strip_head_context_clauses(head: str) -> str:
         if re.search(rf"`?{POST_SLUG_PAT}`?\s*`?/deep-sleep`?\s+observation", inner, flags=re.IGNORECASE):
             return ""
         inner = re.sub(
-            r"(?:,\s*|;\s*)?\b(?:noticed\s+from|from|via|supplementing|if\s+not\s+already|corrected\s+in|fixed\s+in|already\s+|with\s+)\b.*$",
+            r"(?:,\s*|;\s*)?(?<![A-Za-z0-9_-])(?:noticed\s+from|noticed\s+during|during|from|via|supplementing|if\s+not\s+already|corrected\s+in|fixed\s+in|already|with)(?![A-Za-z0-9_-]).*$",
             "",
             inner,
             flags=re.IGNORECASE,
@@ -888,7 +898,7 @@ def parse_todo_item(
     # 1. Book surfaces (_book:<name>)
     book_matches = [
         m.group(1)
-        for m in re.finditer(r"(?<![A-Za-z0-9_/-])`?(_book:[a-z0-9-]+)`?(?![A-Za-z0-9_/@-])", line)
+        for m in re.finditer(r"(?<![A-Za-z0-9_/-])`?(_book:[a-z0-9-]+)`?(?![A-Za-z0-9_/@-])(?!\s*\[evaluated\])", line)
         if m.group(1) in valid_books
     ]
     if book_matches:
@@ -916,7 +926,7 @@ def parse_todo_item(
         tail = line[m_eval.end() :]
         targets: list[str] = []
         lines_by_target = {}
-        for m in re.finditer(rf"(?<![A-Za-z0-9_/-])`?({POST_SLUG_PAT})`?(?![A-Za-z0-9_/@-])(?:\s*\(([^)]*)\))?", tail):
+        for m in re.finditer(rf"(?<![A-Za-z0-9_/-])`?({POST_SLUG_PAT})`?(?![A-Za-z0-9_/@-])(?!\s*\[evaluated\])(?:\s*\(([^)]*)\))?(?!\s*\[evaluated\])", tail):
             slug = m.group(1)
             if slug not in valid_posts:
                 continue
@@ -947,7 +957,7 @@ def parse_todo_item(
     targets = []
     lines_by_target = {}
     head_pat = re.compile(
-        rf"(?<![A-Za-z0-9_/-])`?(?:content/posts/)?({POST_SLUG_PAT})(?:\.md)?(?::(\d+(?:\s*[-–]\s*\d+)?(?:\s*,\s*\d+(?:\s*[-–]\s*\d+)?)*))?`?(?![A-Za-z0-9_/@-])"
+        rf"(?<![A-Za-z0-9_/-])`?(?:content/posts/)?({POST_SLUG_PAT})(?:\.md)?(?::(\d+(?:\s*[-–]\s*\d+)?(?:\s*,\s*\d+(?:\s*[-–]\s*\d+)?)*))?`?(?![A-Za-z0-9_/@-])(?!\s*\[evaluated\])"
     )
     for m in head_pat.finditer(cleaned_head):
         slug = m.group(1)
@@ -966,7 +976,7 @@ def parse_todo_item(
         # Remove `(vs. ...)` explanations before scanning body for explicit `<slug>:<lines>` targets
         cleaned_body = re.sub(r"\(\s*vs\.?\s+[^)]*\)", "", body, flags=re.IGNORECASE)
         body_pat = re.compile(
-            rf"(?<![A-Za-z0-9_/-])`?(?:content/posts/)?({POST_SLUG_PAT})(?:\.md)?:(\d+(?:\s*[-–]\s*\d+)?(?:\s*,\s*\d+(?:\s*[-–]\s*\d+)?)*)`?(?![A-Za-z0-9_/@-])"
+            rf"(?<![A-Za-z0-9_/-])`?(?:content/posts/)?({POST_SLUG_PAT})(?:\.md)?:(\d+(?:\s*[-–]\s*\d+)?(?:\s*,\s*\d+(?:\s*[-–]\s*\d+)?)*)`?(?![A-Za-z0-9_/@-])(?!\s*\[evaluated\])"
         )
         for m in body_pat.finditer(cleaned_body):
             slug = m.group(1)
@@ -1063,7 +1073,7 @@ def strip_targets_from_line(
             entry_matches = [
                 m
                 for m in re.finditer(
-                    rf"(?<![A-Za-z0-9_/-])`?({POST_SLUG_PAT})`?(?![A-Za-z0-9_/@-])(?:\s*\([^)]*\))?",
+                    rf"(?<![A-Za-z0-9_/-])`?({POST_SLUG_PAT})`?(?![A-Za-z0-9_/@-])(?!\s*\[evaluated\])(?:\s*\([^)]*\))?(?!\s*\[evaluated\])",
                     tail,
                 )
                 if m.group(1) in valid_posts
@@ -1075,13 +1085,13 @@ def strip_targets_from_line(
     for t in drop_targets:
         if t.startswith("_book:"):
             updated = re.sub(
-                rf"(?<![A-Za-z0-9_/-])`?({re.escape(t)})`?(?![A-Za-z0-9_/@-])",
+                rf"(?<![A-Za-z0-9_/-])`?({re.escape(t)})`?(?![A-Za-z0-9_/@-])(?!\s*\[evaluated\])",
                 r"\1 [evaluated]",
                 updated,
             )
         else:
             updated = re.sub(
-                rf"(?<![A-Za-z0-9_/-])`?(?:content/posts/)?{re.escape(t)}(?:\.md)?(?::[\d,\s–-]+)?`?(?![A-Za-z0-9_/@-])",
+                rf"(?<![A-Za-z0-9_/-])`?(?:content/posts/)?{re.escape(t)}(?:\.md)?(?::[\d,\s–-]+)?`?(?![A-Za-z0-9_/@-])(?!\s*\[evaluated\])",
                 f"{t} [evaluated]",
                 updated,
             )
@@ -1234,12 +1244,18 @@ def record_batch(
         for line in existing_todo_text.splitlines():
             if re.match(r"^-\s+\[[xX]\]\s+", line):
                 continue
-            if re.match(r"^-\s+\[\s\]\s+", line):
+            is_checkbox_open = bool(re.match(r"^-\s+\[\s\]\s+", line))
+            is_bare_bullet = bool(re.match(r"^-\s+(?!\[)", line))
+            if (is_checkbox_open or is_bare_bullet) and not re.search(
+                r"Operator\s+fact-check|\[deferred\s+tooling\]",
+                line,
+                flags=re.IGNORECASE,
+            ):
                 spec = parse_todo_item(line, valid_posts, valid_books)
                 kind = str(spec["kind"])
                 targets: list[str] = spec["targets"]  # type: ignore[assignment]
                 if kind in ("book", "eval_post", "general_post") and targets:
-                    if kind in ("eval_post", "general_post"):
+                    if is_checkbox_open and kind in ("eval_post", "general_post"):
                         for t in targets:
                             todo_trigger_by_slug[t] = line
                     remaining = [t for t in targets if t not in batch_slug_set]

@@ -33,8 +33,11 @@ const wantCatalog = args.includes('--catalog');
 const wantInterfaces = args.includes('--interfaces');
 const nextBatchIdx = args.indexOf('--next-batch');
 const wantNextBatch = nextBatchIdx >= 0;
-const nextBatchSizeArg = wantNextBatch && args[nextBatchIdx + 1] && !args[nextBatchIdx + 1].startsWith('--')
-  ? Number.parseInt(args[nextBatchIdx + 1], 10)
+const rawNextBatchArg = wantNextBatch && args[nextBatchIdx + 1] && !args[nextBatchIdx + 1].startsWith('--')
+  ? args[nextBatchIdx + 1]
+  : null;
+const nextBatchSizeArg = rawNextBatchArg !== null
+  ? (/^\d+$/.test(rawNextBatchArg) ? Number.parseInt(rawNextBatchArg, 10) : Number.NaN)
   : 12;
 const partIdx = args.indexOf('--part');
 const filterPart = partIdx >= 0 && args[partIdx + 1] ? args[partIdx + 1].replace(/\.md$/, '') : null;
@@ -596,7 +599,11 @@ function writeGraphIfChanged(builtGraph) {
 }
 
 function runNextBatch(builtGraph, batchSize, partFilter, isDryRun) {
-  const bSize = Number.isFinite(batchSize) && batchSize > 0 ? batchSize : 12;
+  if (!(Number.isInteger(batchSize) && batchSize > 0)) {
+    console.error('Error: --next-batch requires a positive integer (use --dry-run for read-only probes)');
+    process.exit(2);
+  }
+  const bSize = batchSize;
   if (!isDryRun) {
     writeGraphIfChanged(builtGraph);
   }
