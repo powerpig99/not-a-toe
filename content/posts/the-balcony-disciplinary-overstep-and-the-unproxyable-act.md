@@ -56,7 +56,7 @@ The internal contradiction of the blueprint is exposed by the conduct of its own
 
 Dissolving the deadlock requires stepping off the observational balcony and tracing how first-person recursion operates in each position rather than adjudicating between frozen third-person stories.
 
-从构建者的第一人称位置看，架构的保留形象与当前物理状态之间的落差，并非登记为账面上的抽象差额，而是登记为唯有直接干预方能收窄的紧迫因果缺口。驱动劳作的张力，是未完成系统在物理摩擦下的阻力；哪怕巨额财务回报作为下游痕迹滚滚而来，资产负债表上的数字也从不闭合那条生成回路。唯有下一次代码提交、下一次结构测试或下一次设计决断，才能将边缘向前推进一步。在这一位置上，登记为生命力的正是“未完成”这一状态本身。
+从构建者的第一人称位置看，架构的保留意象与当前物理状态之间的落差，并非登记为账面上的抽象差额，而是登记为唯有直接干预方能收窄的紧迫因果缺口。驱动劳作的张力，是未完成系统在物理摩擦下的阻力；哪怕巨额财务回报作为下游痕迹滚滚而来，资产负债表上的数字也从不闭合那条生成回路。唯有下一次代码提交、下一次结构测试或下一次设计决断，才能将边缘向前推进一步。在这一位置上，登记为生命力的正是“未完成”这一状态本身。
 
 From the builder's first-person position, the differential between the retained image of an architecture and its current physical state registers not as an abstract ledger entry, but as an urgent causal gap that only direct intervention can narrow. The tension driving the work is the physical friction of an unfinished system; even when massive financial return arrives as a downstream trace, balance-sheet figures never close the generating loop. Only the next code commit, the next structural test, or the next design cut moves the edge forward. What registers as vitality in that position is the condition of being unfinished.
 
@@ -70,7 +70,7 @@ Traced from within, these two first-person positions do not negate each other; t
 
 ## 四、 不可代理的原点 / 4. The Unproxyable Origin
 
-化解阳台之间的冲突，从不在于挑选一座更高的看台去颁布更完善的社会处方。正如在[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)中所确立的，任务的机械移交与裁决及后果的归属之间横亘着不可逾越的边界：操作者可以将计算与物资调配移交给外部系统，然而损失函数与切身的因果回响依然单向锁死在发起行动的中心之上。与这一边界相呼应，[超越投射](../beyond-the-projection/)剖析了调度器与统御者之间的精确分界，而[你的代码库即是记忆](../your-codebase-is-memory/)则揭示了为何即便整座由自动化工作流与分配规则构成的代码库，也始终只是过往切分的外化记忆，而非鲜活的意图所在：有限的投射可以充当遵循显式规则分发资源与子任务的调度器，却无法成为统御者，因为唯有处于未投射边缘的鲜活心智，才持有不断演进的极限解析度意图，并能在框架破碎时退后一步重新渲染。
+化解阳台之间的冲突，从不在于挑选一座更高的看台去颁布更完善的社会处方。正如在[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)中所确立的，任务的机械移交与裁决及后果的归属之间横亘着不可逾越的边界：操作者可以将计算、物资调配，乃至以形式文本起草候选目标移交给外部系统，然而决定哪一损失函数算数、承接切身的因果回响，依然单向锁死在发起行动的中心之上。与这一边界相呼应，[超越投射](../beyond-the-projection/)剖析了调度器与统御者之间的精确分界，而[你的代码库即是记忆](../your-codebase-is-memory/)则揭示了为何即便整座由自动化工作流与分配规则构成的代码库，也始终只是过往切分的外化记忆，而非鲜活的意图所在：有限的投射可以充当遵循显式规则分发资源与子任务的调度器，却无法成为统御者，因为唯有处于未投射边缘的鲜活心智，才持有不断演进的极限解析度意图，并能在框架破碎时退后一步重新渲染。
 
 ```mermaid
 flowchart TD
@@ -85,7 +85,7 @@ flowchart TD
     subgraph S_Split["2. 不对称边界（机械调度与主权统御）"]
         direction TB
         D_Route["外部供给与任务调度：分发物质产品、算力与机械执行"]
-        D_Limit["不可让渡的视界：无法确立损失函数或代为完成另一中心的因果回响"]
+        D_Limit["不可让渡的视界：无法决定哪一损失函数算数，也无法代为完成另一中心的因果回响"]
         D_Route --> D_Limit
     end
     subgraph S_Origin["3. 不可代理的第一人称原点（鲜活边缘）"]
@@ -108,7 +108,7 @@ flowchart TD
     style O_Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Resolving the clash between the balconies never lies in selecting a higher platform from which to issue a better societal prescription. As established in [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/), an impassable boundary separates the mechanical delegation of tasks from the ownership of judgment and consequences: an operator can delegate calculation and provisioning to external systems, yet the loss function and the lived return remain unidirectionally locked to the initiating center. Complementing this boundary, [Beyond the Projection](../beyond-the-projection/) traces the exact split between a Dispatcher and an Orchestrator, and [Your Codebase Is Memory](../your-codebase-is-memory/) shows why even an entire codebase of automated workflows and allocation rules remains an externalized memory of prior cuts rather than a living locus of intention: a finite projection can serve as a Dispatcher that routes resources and sub-tasks along explicit rules, but it can never become the Orchestrator, because only the living Mind at the unprojected edge holds evolving, limit-resolution intention and steps back to re-render broken frames.
+Resolving the clash between the balconies never lies in selecting a higher platform from which to issue a better societal prescription. As established in [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/), an impassable boundary separates the mechanical delegation of tasks from the ownership of judgment and consequences: an operator can delegate calculation, provisioning, and even drafting candidate objectives as formal text to external systems, yet deciding which loss function counts and bearing the lived return remain unidirectionally locked to the initiating center. Complementing this boundary, [Beyond the Projection](../beyond-the-projection/) traces the exact split between a Dispatcher and an Orchestrator, and [Your Codebase Is Memory](../your-codebase-is-memory/) shows why even an entire codebase of automated workflows and allocation rules remains an externalized memory of prior cuts rather than a living locus of intention: a finite projection can serve as a Dispatcher that routes resources and sub-tasks along explicit rules, but it can never become the Orchestrator, because only the living Mind at the unprojected edge holds evolving, limit-resolution intention and steps back to re-render broken frames.
 
 ```mermaid
 flowchart TD
@@ -123,7 +123,7 @@ flowchart TD
     subgraph S_Split["2. The Asymmetric Boundary (Dispatching vs. Orchestration)"]
         direction TB
         D_Route["External Provisioning & Task Dispatch: Routes material goods, compute, and mechanical execution"]
-        D_Limit["Inalienable Horizon: Cannot formulate the loss function or complete another center's causal return"]
+        D_Limit["Inalienable Horizon: Cannot decide which loss function counts or complete another center's causal return"]
         D_Route --> D_Limit
     end
     subgraph S_Origin["3. The Unproxyable First-Person Origin (Living Edge)"]
