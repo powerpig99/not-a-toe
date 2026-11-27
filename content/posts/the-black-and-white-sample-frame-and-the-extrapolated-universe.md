@@ -70,9 +70,9 @@ flowchart TD
     style Project fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
-[双生子佯谬与隐秘观察者](../the-twin-paradox-and-the-hidden-observer/)说明，只要信息在形式的变换里保持守恒，符号的运算便能给出一种“完美宇宙模型”的自洽。很少有人亲手推导那些张量方程，对大爆炸与四维时空的接受多来自学术机构的背书。[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)指出，既定的科学是特定框架下的低维出清价，即便在理论家之间，不同的学派对同一套数学形式的理解也各不相同。
+[双生子佯谬与隐秘观察者](../the-twin-paradox-and-the-hidden-observer/)说明，一旦把局部系统当作封闭实体、把不可逆的因果时间放到括号之外，在拉伸出的静态切片上以度规张量与测地线方程做符号记账，便在内部保持自洽，同时将画出网格的观察者留在图外。很少有人亲手推导那些张量方程，对大爆炸与四维时空的接受多来自学术机构的背书。[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)指出，既定的科学是特定框架下的低维出清价，即便在理论家之间，不同的学派对同一套数学形式的理解也各不相同。
 
-[The Twin Paradox and the Hidden Observer](../the-twin-paradox-and-the-hidden-observer/) shows that as long as information is conserved through formal transformations, symbolic operations can yield the self-consistency of a "perfect model of the universe." Few people derive those tensor equations by hand, and acceptance of the Big Bang and four-dimensional spacetime mostly comes from the endorsement of academic institutions. [The Illusion of the Shared Sandbox](../the-illusion-of-the-shared-sandbox/) points out that established science is a low-dimensional clearing price under a particular framework, and even among theorists, different schools understand the same mathematical formalism differently.
+[The Twin Paradox and the Hidden Observer](../the-twin-paradox-and-the-hidden-observer/) shows that once a local system is treated as a closed entity and irreversible causal time is placed outside the bracket, symbolic bookkeeping with metric tensors and geodesic equations on a stretched static slice stays internally self-consistent while leaving the observer who drew the grid out of the picture. Few people derive those tensor equations by hand, and acceptance of the Big Bang and four-dimensional spacetime mostly comes from the endorsement of academic institutions. [The Illusion of the Shared Sandbox](../the-illusion-of-the-shared-sandbox/) points out that established science is a low-dimensional clearing price under a particular framework, and even among theorists, different schools understand the same mathematical formalism differently.
 
 ## 二、 从高动态的现实到黑白采样帧 / 2. From High-Dynamic Reality to the Black-and-White Sample Frame
 

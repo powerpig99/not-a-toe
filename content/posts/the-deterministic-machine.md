@@ -22,9 +22,9 @@ So what shapes emotion, situation and the next step is the model reading the sig
 
 ## 二、 模型锁定 / 2. Model-Lock
 
-这里有一个不对称：进来的信号不能单方面改写模型。数据改不了编译器。[你的代码库即是记忆](../your-codebase-is-memory/)把这一点落在了实处：哪怕是磁盘上外化的代码库与记忆库，本身也没有重绘的位点，只有前沿处的心智回到早先的痕迹、重新追溯它们在何处已不再融贯，它才能更新自己的前提；感官信号可以提供证据，接不接受这个证据、更新不更新模型，只在作出觉察的这个心智手里。把模型记作 M，经验到的状态记作 S，只要 M 不动，每一个下一刻都由上一刻按同一条规则推出：Sₜ₊₁ = f(Sₜ; M)。
+这里有一个不对称：进来的信号不能单方面改写模型。数据改不了编译器。[你的代码库即是记忆](../your-codebase-is-memory/)把这一点落在了实处：磁盘上外化的代码库或记忆库没有自身重绘的位点，不会自行修订——即便从外部被覆写，也只有前沿处的心智回到早先的痕迹、重新追溯它们在何处已不再融贯，这一回路才闭合；感官信号可以提供证据，接不接受这个证据、更新不更新模型，只在作出觉察的这个心智手里。把模型记作 M，经验到的状态记作 S，只要 M 不动，每一个下一刻都由上一刻按同一条规则推出：Sₜ₊₁ = f(Sₜ; M)。
 
-There is an asymmetry here: incoming signals cannot rewrite the model on their own. Data cannot re-author the compiler. As [Your Codebase Is Memory](../your-codebase-is-memory/) makes concrete, even an externalized codebase or memory repository on disk has no locus of its own re-rendering and cannot update its own premises until the Mind at the edge returns to prior traces and re-traces where they no longer cohere; sensory signals can offer evidence, but whether that evidence is accepted and the model updated rests only with the Mind doing the noticing. Write the model as M and the experienced state as S; as long as M stays untouched, each next moment follows from the last by the same rule: Sₜ₊₁ = f(Sₜ; M).
+There is an asymmetry here: incoming signals cannot rewrite the model on their own. Data cannot re-author the compiler. As [Your Codebase Is Memory](../your-codebase-is-memory/) makes concrete, an externalized codebase or memory repository on disk has no locus of its own re-rendering and does not revise itself—even when overwritten from outside, the loop closes only where the Mind at the edge returns to prior traces and re-traces where they no longer cohere; sensory signals can offer evidence, but whether that evidence is accepted and the model updated rests only with the Mind doing the noticing. Write the model as M and the experienced state as S; as long as M stays untouched, each next moment follows from the last by the same rule: Sₜ₊₁ = f(Sₜ; M).
 
 这正是拉普拉斯钟表的样子。拉普拉斯设想，一个知道全部粒子位置与作用力的智能，能把整个未来算出来；在天体力学里，这幅图让行星的位置可以提前许多年算准。它的边界在算的那一位：要把宇宙整个算完，[计算者得站在宇宙之外](../fixed-by-nothing/)，而从第一人称的原点找不到这个位置。模型锁定是把同一幅图装进了自身：M 固定，状态便一刻接一刻被推出来，看上去像钟表。差别在于，把 M 固定住的，正是身在其中的那个心智。
 
