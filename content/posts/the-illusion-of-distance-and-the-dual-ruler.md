@@ -88,8 +88,8 @@ flowchart TD
         Use["规则：探索的脚手架，协调行动的约定"]
         Shift["位置移到设想的俯瞰处"]
         Rule["加于他人的规：量度者成了统治者"]
-        Hand --> Use
-        Use --> Shift
+        Hand -->|"在原点处"| Use
+        Hand -->|"在距离幻觉之下"| Shift
         Shift --> Rule
     end
     style S_Ruler fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
@@ -109,8 +109,8 @@ flowchart TD
         Use["Rules: a scaffold of exploration, agreements that coordinate action"]
         Shift["The position moves to an imagined overview"]
         Rule["The rule laid on others: the one who measures becomes the one who rules"]
-        Hand --> Use
-        Use --> Shift
+        Hand -->|"At the origin"| Use
+        Hand -->|"Under the illusion of distance"| Shift
         Shift --> Rule
     end
     style S_Ruler fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
@@ -141,7 +141,7 @@ flowchart TD
         Mean["俯瞰之下：共享缩减为共同的交集或均值"]
         Noise["摘要被当作全部：差异成了噪音"]
         Nodes --> Net
-        Net --> Mean
+        Nodes --> Mean
         Mean --> Noise
     end
     style S_Shared fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -162,7 +162,7 @@ flowchart TD
         Mean["Under the overview: shared reduced to a common intersection or a mean"]
         Noise["The summary taken as the whole: difference becomes noise"]
         Nodes --> Net
-        Net --> Mean
+        Nodes --> Mean
         Mean --> Noise
     end
     style S_Shared fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -296,8 +296,10 @@ flowchart TD
         Auto["自动归位：当下自发的抉择"]
         Coord["协作：各个原点的自主对齐与直接连接"]
         Present --> Tools
-        Tools --> Shared
-        Shared --> Auto
+        Present --> Shared
+        Present --> Auto
+        Tools --> Coord
+        Shared --> Coord
         Auto --> Coord
     end
     style S_Return fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -320,8 +322,10 @@ flowchart TD
         Auto["Automatic back in place: the spontaneous choice of the present"]
         Coord["Cooperation: the autonomous alignment and direct connection of each origin"]
         Present --> Tools
-        Tools --> Shared
-        Shared --> Auto
+        Present --> Shared
+        Present --> Auto
+        Tools --> Coord
+        Shared --> Coord
         Auto --> Coord
     end
     style S_Return fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
