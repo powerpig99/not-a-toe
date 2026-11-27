@@ -45,19 +45,19 @@ flowchart TD
         direction TB
         D_Rule["有界投射规则：对开放性的划界一并生出离散状态与对前件条件的诉求"]
         D_Hierarchy["压缩级联：物理 ≫ 感知 ≫ 理解的内部映射"]
-        D_Agent["移动边缘：作为尚未折叠进来的残余复杂性的无界底层"]
+        D_Agent["移动边缘：无界底层即尚未折叠进来的残余复杂性"]
         D_Rule --> D_Hierarchy --> D_Agent
     end
     subgraph S_Inversion["将先在外在化的范畴谬误"]
         direction TB
         E_Demand["穷尽式执持下错用的规则：相伴而生的诉求固化为要求心智的活动具备外在原因"]
         E_Nowhere["无源视角：把预测模型的挑选当成独立底层的证明"]
-        E_Dissolve["归位：折叠进残余复杂性使底层在回环内部移动"]
-        E_Demand --> E_Nowhere --> E_Dissolve
+        E_Demand --> E_Nowhere
     end
     P_Close ==>|"投射压缩级联及其前件规则"| D_Rule
-    D_Agent ==>|"当有界姿态越出自身那一步、被持守为对心智的穷尽"| E_Demand
-    E_Dissolve -.->|"将因果权责归还给活的前沿"| P_Act
+    D_Agent ==>|"折叠进残余复杂性使底层移动并延续回环"| P_Act
+    D_Agent -.->|"当有界姿态越出自身那一步、被持守为对心智的穷尽"| E_Demand
+    E_Nowhere -.->|"放开穷尽式执持时，因果权责归还给活的前沿"| P_Act
     style S_Prior fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Inversion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -69,7 +69,6 @@ flowchart TD
     style D_Agent fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style E_Demand fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style E_Nowhere fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style E_Dissolve fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
 This asymmetry is decisive. The Mind is the permanent condition of every appearance, including the appearance of its own absence, and is therefore the irreducible prior. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds that prior across every tool and trace configuration: what can be engineered, scaled, or transferred is residue, whereas initiation stays with the self-distinguishing activity. At the step of every distinction, bounding the Mind's internal openness brings discrete states and the demand for further account into view together as co-products, as [Observation, Distinguishing Activity, and the Open Ground of Mind](../observation-distinguishing-activity-and-the-open-ground-of-mind/) traces: inside any bounded projection, every state requires an antecedent condition, a boundary traced across models and externalized memory in [Beyond the Projection](../beyond-the-projection/) and [Your Codebase Is Memory](../your-codebase-is-memory/). Demanding an external cause for the Mind's self-distinguishing activity—insisting that the prior must itself be produced by an earlier physical substrate or synthesized inside an engineered cascade—holds a bounded stance past its step as exhaustive of the Mind: the co-produced demand hardens into a requirement on the source, and a rule that holds inside every projection is extended to the activity that projects it. The successive compressions, the hierarchy, and the dual faces of causality are all generated inside the Mind's loop and remain dependent upon it. What registers as an unbounded substrate is the residual complexity that the current compression has not yet folded in. The moment a portion is folded in, the substrate shifts, and the loop continues. [Abstraction Boundaries and the Moving Edge of Reality](../abstraction-boundaries-and-the-moving-edge-of-reality/) is this residual under compression: every successful bound leaves what still presses past the catalog. [Selection, Contradiction, and Open Reality](../selection-contradiction-and-open-reality/) is the residual in selection costume: informational derivations of gravity cohere with the recursive stance while remaining selections, not exempt from reinterpretation. Physicalism tries to make the substrate the prior, and [Causality is Irreducible; The Physical is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/) shows it requires a view from nowhere to do so.
@@ -94,12 +93,12 @@ flowchart TD
         direction TB
         E_Demand["Misapplied Rule Under Exhaustive Hold: Co-produced demand hardens into requiring an external cause for the Mind's activity"]
         E_Nowhere["View from Nowhere: Treating predictive model selection as proof of an independent substrate"]
-        E_Dissolve["Locus Restored: Folding in residual complexity shifts the substrate inside the loop"]
-        E_Demand --> E_Nowhere --> E_Dissolve
+        E_Demand --> E_Nowhere
     end
     P_Close ==>|"Projects the compression cascade and its antecedent rules"| D_Rule
-    D_Agent ==>|"When a bounded stance is held past its step as exhaustive of the Mind"| E_Demand
-    E_Dissolve -.->|"Returns causal accountability to the living edge"| P_Act
+    D_Agent ==>|"Folding in residual complexity shifts the substrate and continues the loop"| P_Act
+    D_Agent -.->|"When a bounded stance is held past its step as exhaustive of the Mind"| E_Demand
+    E_Nowhere -.->|"When the exhaustive hold is released, causal accountability returns to the living edge"| P_Act
     style S_Prior fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Inversion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -111,7 +110,6 @@ flowchart TD
     style D_Agent fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style E_Demand fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style E_Nowhere fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style E_Dissolve fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
 科学实在论最有力的支撑是无奇迹论证：物理理论的预测如此可靠地成功，若不是有一个独立于心智的世界大致如它们所描述的那样，这份成功就成了奇迹。在工程与应用探究之内，这个论证有明确的用处：实践者依靠一个理论的成功记录，来决定下一座桥、下一条轨道或下一剂临床用药信赖哪一个模型。它的边界在于，预测的成功是在相互竞争的模型所共有的起始框架之内计分的，定下检验、读出结果的是心智；它在模型之间作出挑选，却不给起点本身增添任何外部效力。有用不是本体论上的证明。否认或者断言一个前提，然后在这个前提之内循环推理，并不给前提本身增添任何效力；也没有一个无源视角可以用来裁定被描述的世界独立于描述。
