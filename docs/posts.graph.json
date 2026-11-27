@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-27T07:02:11.690Z",
+    "generated_at": "2026-11-27T07:04:51.324Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -470,7 +470,7 @@
       "content/posts/why-mathematics-can-never-be-solved.md": "72891eea1ab4",
       "content/posts/writing-without-the-image.md": "157f6998ee85",
       "content/posts/xian-shi-de-bian-jie.md": "4ced2122a338",
-      "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "c0d5e0f4536d",
+      "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "e6dd67444f94",
       "content/posts/you-cant-benchmark-the-fluid.md": "0c261c0f07f5",
       "content/posts/you-tiao-jian-de-zi-you.md": "65de879a2952",
       "content/posts/you-wu-zhi-bian.md": "1649764f0e52",
@@ -13347,7 +13347,7 @@
       "slug": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "path": "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md",
       "title": "涌现的伪因果 / The Pseudo-Causality of Emergence",
-      "hash": "c0d5e0f4536d",
+      "hash": "e6dd67444f94",
       "in_degree": 22,
       "out_degree": 23,
       "links_out": [
@@ -13369,9 +13369,9 @@
         "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
         "the-illusion-of-knowing-and-the-geometry-of-amputation",
         "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
-        "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
         "your-codebase-is-memory",
         "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+        "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "the-fallacy-of-post-success-parenting"
       ]
@@ -100706,12 +100706,6 @@
     },
     {
       "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
-      "to": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
-      "rel": "points_to",
-      "label": "格物致知与信息复杂度"
-    },
-    {
-      "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
@@ -100721,6 +100715,12 @@
       "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
       "rel": "points_to",
       "label": "排序的残余与解释的非等效"
+    },
+    {
+      "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "to": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "rel": "points_to",
+      "label": "格物致知与信息复杂度"
     },
     {
       "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
@@ -100736,12 +100736,6 @@
     },
     {
       "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
-      "to": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
-      "rel": "points_to",
-      "label": "Investigating Things and the Nature of Information Complexity"
-    },
-    {
-      "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
@@ -100751,6 +100745,12 @@
       "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
       "rel": "points_to",
       "label": "The Residue of Sorting and the Non-Equivalence of Interpretations"
+    },
+    {
+      "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "to": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "rel": "points_to",
+      "label": "Investigating Things and the Nature of Information Complexity"
     },
     {
       "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
