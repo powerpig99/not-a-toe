@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-27T05:20:36.674Z",
+    "generated_at": "2026-11-27T05:24:55.385Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -188,7 +188,7 @@
       "content/posts/ownership-and-self-worthiness.md": "d1790373edbf",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "75a4f4b296e2",
       "content/posts/perception-perspective-refined.md": "ea1ae6a3aa20",
-      "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "f54eeadec188",
+      "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "139a08a746f0",
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "aa49b94c3914",
       "content/posts/platform-decision-capture.md": "0ee6b04aa27a",
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "ef2cc3b230fc",
@@ -213,7 +213,7 @@
       "content/posts/residual-individualism.md": "07993abeddee",
       "content/posts/restriction-is-a-selective-tax.md": "bfdd4ca0b587",
       "content/posts/scaffolds-or-specialized-contexts.md": "2b7375e218aa",
-      "content/posts/school_essay_final.md": "f18cabb10f9c",
+      "content/posts/school_essay_final.md": "8ebb7e44eec4",
       "content/posts/selection-contradiction-and-open-reality.md": "30ca26c67aeb",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "9569dcee1d98",
       "content/posts/self-rl-for-humans.md": "87c56550379e",
@@ -374,7 +374,7 @@
       "content/posts/the-orthogonal-refusal.md": "68eddc931d5a",
       "content/posts/the-other-coherence.md": "8dac9149aa79",
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "8a5dcab5164f",
-      "content/posts/the-paradoxical-nature-of-bystander-insights.md": "0bf0f5ca41bb",
+      "content/posts/the-paradoxical-nature-of-bystander-insights.md": "684fdc1b54f9",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "23a166fbe618",
       "content/posts/the-perceiver-and-the-trace.md": "519d034d5194",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "8d14b5508798",
@@ -500,10 +500,10 @@
     },
     "stats": {
       "posts": 473,
-      "edges": 14780,
-      "unique_directed": 7269,
+      "edges": 14782,
+      "unique_directed": 7270,
       "missing_targets": 0,
-      "one_way": 1691,
+      "one_way": 1692,
       "isolated": 0,
       "posts_with_outbound": 473,
       "book_pages": 16,
@@ -5813,7 +5813,7 @@
       "slug": "performative-hindsight-that-pretends-to-be-foresight",
       "path": "content/posts/performative-hindsight-that-pretends-to-be-foresight.md",
       "title": "伪装成远见的表演性后见 / Performative Hindsight That Pretends to Be Foresight",
-      "hash": "f54eeadec188",
+      "hash": "139a08a746f0",
       "in_degree": 21,
       "out_degree": 22,
       "links_out": [
@@ -6555,11 +6555,12 @@
       "slug": "school_essay_final",
       "path": "content/posts/school_essay_final.md",
       "title": "人工智能为何正在暴露现代学校教育的致命缺陷 / Why AI Is Exposing the Fatal Flaw in Modern Schooling",
-      "hash": "f18cabb10f9c",
+      "hash": "8ebb7e44eec4",
       "in_degree": 4,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "on-education",
+        "the-returning-signal-and-its-claim",
         "the-reversal-of-education-and-science",
         "the-loop-accelerates",
         "your-codebase-is-memory",
@@ -10752,7 +10753,7 @@
       "slug": "the-paradoxical-nature-of-bystander-insights",
       "path": "content/posts/the-paradoxical-nature-of-bystander-insights.md",
       "title": "旁观者洞察的悖论 / The Paradoxical Nature of Bystander Insights",
-      "hash": "0bf0f5ca41bb",
+      "hash": "684fdc1b54f9",
       "in_degree": 24,
       "out_degree": 27,
       "links_out": [
@@ -11341,7 +11342,7 @@
       "path": "content/posts/the-returning-signal-and-its-claim.md",
       "title": "回返的信号与认领 / The Returning Signal and Its Claim",
       "hash": "80999e1c9c27",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 12,
       "links_out": [
         "filling-in-in-perception-and-the-single-center-that-steps-out",
@@ -55051,6 +55052,12 @@
     },
     {
       "from": "school_essay_final",
+      "to": "the-returning-signal-and-its-claim",
+      "rel": "points_to",
+      "label": "回返的信号与认领"
+    },
+    {
+      "from": "school_essay_final",
       "to": "the-reversal-of-education-and-science",
       "rel": "points_to",
       "label": "教育与科学的倒置"
@@ -55060,6 +55067,12 @@
       "to": "the-loop-accelerates",
       "rel": "points_to",
       "label": "加速的自指回环与自我实现的终结叙事"
+    },
+    {
+      "from": "school_essay_final",
+      "to": "the-returning-signal-and-its-claim",
+      "rel": "points_to",
+      "label": "The Returning Signal and Its Claim"
     },
     {
       "from": "school_essay_final",
