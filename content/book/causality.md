@@ -48,3 +48,4 @@ The essays in this part trace the premises beneath determinism, external attribu
 - [观察、区分活动与心智的开放地基 / Observation, Distinguishing Activity, and the Open Ground of Mind](../../posts/observation-distinguishing-activity-and-the-open-ground-of-mind/)
 - [把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source](../../posts/mistaking-the-symptom-of-stability-for-its-source/)
 - [观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality](../../posts/observation-lag-and-the-inversion-of-optionality/)
+- [回报作为前提与因果方向的逆转 / Payoff as Precondition and the Reversal of Causal Direction](../../posts/payoff-as-precondition-and-the-reversal-of-causal-direction/)

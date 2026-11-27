@@ -2224,7 +2224,7 @@ Treating an observed path as causation is of use in proposing hypotheses to test
 
 Treating prediction and abstraction as the recovery of a causal structure standing apart from the act of distinguishing is of use in drawing a portable pattern across held effects to test fit on the next step; it reaches its boundary in that the secured pattern, held constant across branches, leaves sequences of single acts still diverging, so a map kept past its step as source turns variance outside it into alien surprise, while causality stays the first-person prior: the re-tracing at the edge that draws the next mark.
 
-→ [因果贯穿始终 / Causality All the Way](../../posts/causality-all-the-way/) · [非万物之理 / Not a Theory of Everything](../../posts/not-a-theory-of-everything/)
+→ [因果贯穿始终 / Causality All the Way](../../posts/causality-all-the-way/) · [非万物之理 / Not a Theory of Everything](../../posts/not-a-theory-of-everything/) · [回报作为前提与因果方向的逆转 / Payoff as Precondition and the Reversal of Causal Direction](../../posts/payoff-as-precondition-and-the-reversal-of-causal-direction/)
 
 ### 因果规避 / Causal Evasion
 `成功学 / Self-Help`
@@ -3387,6 +3387,15 @@ Merton named the Matthew effect after the Gospel verse "to the one who has, more
 
 → [拥有更多从不是原因 / Having More Is Never the Cause](../../posts/having-more-is-never-the-cause/)
 
+### 心智模型 / Mental Models
+`哲学 / Philosophical`
+
+心智模型将先前的痕迹压缩为暂行的因果模式以引导预测与行动，在将条件与发起活动留在上游、结果安在下游并随活态摩擦折返而持续重绘时有用；当期望回报被设为模型内部启动行动的前提，或模型被冻结为动身前必须先行确证的完备先验地图时，它便到了边界，逆转因果次序并令预测与行动一并退化。
+
+A mental model compresses prior traces into a provisional causal pattern to guide prediction and action, which is of use while it holds conditions and initiating activity upstream and outcomes downstream and re-renders as live friction returns; it reaches its boundary when a desired payoff is installed inside the model as the precondition for starting or the model is frozen as a complete prior map that must be certified before acting, reversing causal order and degrading both prediction and action together.
+
+→ [回报作为前提与因果方向的逆转 / Payoff as Precondition and the Reversal of Causal Direction](../../posts/payoff-as-precondition-and-the-reversal-of-causal-direction/) · [因果贯穿始终 / Causality All the Way](../../posts/causality-all-the-way/) · [动态发现的损失函数与残余误差的转化 / The Dynamically Discovered Loss Function and the Conversion of Residual Error](../../posts/the-dynamically-discovered-loss-function-and-the-conversion-of-error/)
+
 ### 精英主义卓异论 / Meritocratic Exceptionalism
 `哲学 / Philosophical`
 
@@ -3691,7 +3700,7 @@ Paternalism presumes one locus may override another's judgment for the other's g
 
 Hindsight commentary treats post-hoc explanation of known winners—or one's own past choices in hindsight—as predictive foresight, which is of use when re-tracing public evidence in the present field coordinates shared alignment and points to further residue; it reaches its boundary in retrofitting inevitability onto outcomes forged through open-load distinguishing while results remained uncertified, staging hindsight as if the commentator had stood at the risk-bearing edge beforehand.
 
-→ [伪装成远见的表演性后见 / Performative Hindsight That Pretends to Be Foresight](../../posts/performative-hindsight-that-pretends-to-be-foresight/) · [旁观者洞察的悖论 / The Paradoxical Nature of Bystander Insights](../../posts/the-paradoxical-nature-of-bystander-insights/)
+→ [伪装成远见的表演性后见 / Performative Hindsight That Pretends to Be Foresight](../../posts/performative-hindsight-that-pretends-to-be-foresight/) · [旁观者洞察的悖论 / The Paradoxical Nature of Bystander Insights](../../posts/the-paradoxical-nature-of-bystander-insights/) · [回报作为前提与因果方向的逆转 / Payoff as Precondition and the Reversal of Causal Direction](../../posts/payoff-as-precondition-and-the-reversal-of-causal-direction/)
 
 ### 表演性乐观 / Performative Optimism
 `意识形态 / Ideological`
@@ -4438,7 +4447,7 @@ Substance metaphysics presumes that freestanding objects exist prior to interact
 
 Success literature assumes that distilling formulas and principles from survivors after the outcome can generate future success, which is of use in recording paths already walked; it reaches its boundary in that breakthrough outcomes emerge from asynchronous movement into unmapped terrain while silent failures drop out of the sample, so post-hoc formulas travel as status markers and stay silent on which turn to take at the next live crossroad.
 
-→ [成功学 / Theories After Success](../../posts/cheng-gong-xue/) · [隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power](../../posts/the-free-variable-and-the-retrospective-illusion-of-power/) · [幸福是欲望与状态的关系 / Happiness Is the Relation of Desire to State](../../posts/happiness-is-the-relation-of-desire-to-state/) · [成功的几何学 / The Geometry of Success](../../posts/the-geometry-of-success/) · [路口的转向与地平说的行动悖论 / Turning at the Crossroad and the Flat-Earth Action Paradox](../../posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun/)
+→ [成功学 / Theories After Success](../../posts/cheng-gong-xue/) · [隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power](../../posts/the-free-variable-and-the-retrospective-illusion-of-power/) · [幸福是欲望与状态的关系 / Happiness Is the Relation of Desire to State](../../posts/happiness-is-the-relation-of-desire-to-state/) · [成功的几何学 / The Geometry of Success](../../posts/the-geometry-of-success/) · [路口的转向与地平说的行动悖论 / Turning at the Crossroad and the Flat-Earth Action Paradox](../../posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun/) · [回报作为前提与因果方向的逆转 / Payoff as Precondition and the Reversal of Causal Direction](../../posts/payoff-as-precondition-and-the-reversal-of-causal-direction/)
 
 ### 利率目标制与收益率曲线控制 / Interest-Rate Targeting and Yield-Curve Control
 `经济 / Economic`
