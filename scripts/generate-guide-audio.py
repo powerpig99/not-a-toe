@@ -28,13 +28,13 @@ OUT_DIR = ROOT / "assets" / "audio" / "guide"
 KOKORO_MODEL = Path.home() / ".cache" / "hyperframes" / "tts" / "models" / "kokoro-v1.0.onnx"
 KOKORO_VOICES = Path.home() / ".cache" / "hyperframes" / "tts" / "voices" / "voices-v1.0.bin"
 VOXCPM_VENV = Path(os.environ.get("FB_VOICE_VENV", str(Path.home() / "Projects" / "brief" / "tools" / "voice" / ".venv")))
-DEFAULT_VOXCPM_REF = ROOT / "studio" / "kits" / "shared" / "voice" / "voxcpm_ref_zh_cn"
+DEFAULT_VOXCPM_REF = ROOT / "studio" / "kits" / "shared" / "voice" / "voxcpm_ref_latenight"
 VOXCPM_REF = Path(os.environ.get("GUIDE_VOXCPM_REF", str(DEFAULT_VOXCPM_REF)))
 VOXCPM_TOOLS = Path.home() / "Projects" / "brief" / "pipeline" / "tools"
 
 VOICES = {
     "en": "bm_george",
-    "zh": "voxcpm2-demo-zh-cn-ref",
+    "zh": "voxcpm2-latenight-ref",
 }
 
 ENGINES = {
@@ -44,10 +44,15 @@ ENGINES = {
 
 KOKORO_SPEED = 0.96
 VOXCPM_SEEDS = [7, 11, 13, 17, 23, 29]
-VOXCPM_DEFAULT_STYLE = "(沉稳温和的男声，语速平缓从容，断句自然连贯)"
-VOXCPM_F0_RANGE = (100.0, 175.0)
-VOXCPM_ZH_CN_URL = "https://openbmb.github.io/voxcpm2-demopage/audio/language/zh_cn.wav"
-VOXCPM_ZH_CN_SHA256 = "a60bf2903e685dec5b3bba656548e9d89a1002d00feea3b65962e2b3ce809dfc"
+VOXCPM_CFG = 1.75
+VOXCPM_STEPS = 16
+VOXCPM_DEFAULT_STYLE = "(沉静温和的男性旁白，语速偏慢从容，气息柔和自然，像深夜静谧书房中娓娓道来的散文朗读者)"
+VOXCPM_SLIDE_STYLES = {
+    "enter": "(低沉温柔的男性朗诵者，语速缓慢悠长，带着诗意与停顿留白，气息松弛柔和，像在静谧夜色中轻声吟诵散文诗)",
+}
+VOXCPM_F0_RANGE = (80.0, 145.0)
+VOXCPM_LATENIGHT_URL = "https://openbmb.github.io/voxcpm2-demopage/audio/voice_design/vd_scene_latenight.wav"
+VOXCPM_LATENIGHT_SHA256 = "34269f4a7075a87fc5b4c9af6a90f389b95136eaae966a38f3006a0ed5dc5a19"
 
 
 def ensure_voxcpm_ref(ref_dir: Path) -> Path:
@@ -56,12 +61,12 @@ def ensure_voxcpm_ref(ref_dir: Path) -> Path:
         return clip
     if ref_dir != DEFAULT_VOXCPM_REF:
         raise SystemExit(f"VoxCPM2 reference clip missing: {clip}")
-    print(f"[voxcpm2] Bootstrapping verified zh_cn reference clip into {clip}...", flush=True)
+    print(f"[voxcpm2] Bootstrapping verified late-night reference clip into {clip}...", flush=True)
     ref_dir.mkdir(parents=True, exist_ok=True)
-    data = urllib.request.urlopen(VOXCPM_ZH_CN_URL, timeout=30).read()
+    data = urllib.request.urlopen(VOXCPM_LATENIGHT_URL, timeout=30).read()
     sha = hashlib.sha256(data).hexdigest()
-    if sha != VOXCPM_ZH_CN_SHA256:
-        raise SystemExit(f"Downloaded zh_cn.wav sha256 mismatch: {sha} != {VOXCPM_ZH_CN_SHA256}")
+    if sha != VOXCPM_LATENIGHT_SHA256:
+        raise SystemExit(f"Downloaded vd_scene_latenight.wav sha256 mismatch: {sha} != {VOXCPM_LATENIGHT_SHA256}")
     clip.write_bytes(data)
     return clip
 
@@ -272,9 +277,10 @@ SCRIPTS = [
         "No north remains at the pole to point toward north. The first-person origin continues by living the cut. "
         "There are three ways to enter this Living Book: by part through the fourteen beliefs, by name in the Index of Premises, or by time through the full chronological journal. "
         "The path and its scaffolding sit open — ready to be tested in your own living situation.",
-        "极点之上，再无北方可供指引。第一人称的原点，唯在当下活出这道区分。"
-        "进入这部活书，有三种路径：按部阅读十四卷目录，按名查阅前提索引，或按时间浏览全部日志，看它如何一页一页长出来。"
-        "走过的路径与脚手架，已在此敞开，留待每个心智，在自己的现场重新检验。",
+        "极点之上，再无北方可供指引。"
+        "第一人称的原点，唯在当下，活出这道区分。"
+        "进入这部活书，有三种路径：按部阅读十四卷目录，按名查阅前提索引，或按时间浏览全部日志，看它如何一页一页，慢慢长出来。"
+        "走过的路径与脚手架，已在此敞开；留待每一个心智，在自己的现场，重新检验。",
     ),
 ]
 
@@ -325,7 +331,7 @@ def master_to_mp3(dest: Path, *, pcm_bytes: bytes | None = None, wav_path: Path 
             "-af",
             "silenceremove=start_periods=1:start_threshold=-50dB:start_silence=0.12,"
             "areverse,silenceremove=start_periods=1:start_threshold=-50dB:start_silence=0.22,areverse,"
-            "loudnorm=I=-16:TP=-1.5:LRA=9",
+            "loudnorm=I=-16:TP=-1.5:LRA=11",
             "-codec:a", "libmp3lame",
             "-ar", "24000",
             "-ac", "1",
@@ -389,7 +395,9 @@ from voxcpm import VoxCPM
 
 ref_dir = os.environ["FB_VOICE_REF"]
 mode = os.environ.get("VOXCPM_MODE", "ref")
-style = os.environ.get("VOXCPM_STYLE", "")
+default_style = os.environ.get("VOXCPM_STYLE", "")
+cfg_value = float(os.environ.get("VOXCPM_CFG", "1.75"))
+steps = int(os.environ.get("VOXCPM_STEPS", "16"))
 clip = os.path.join(ref_dir, "man.zh.wav")
 prompt_text = None
 if mode == "continuation":
@@ -402,25 +410,26 @@ for line in sys.stdin:
     ask = json.loads(line)
     torch.manual_seed(ask["seed"])
     text = ask["text"]
+    style = ask.get("style", default_style)
     if mode == "continuation":
         audio = model.generate(
             text=text,
             reference_wav_path=clip,
             prompt_wav_path=clip,
             prompt_text=prompt_text,
-            cfg_value=2.0,
-            inference_timesteps=10,
+            cfg_value=cfg_value,
+            inference_timesteps=steps,
         )
     else:
         audio = model.generate(
             text=(style + text) if style else text,
             reference_wav_path=clip,
-            cfg_value=2.0,
-            inference_timesteps=10,
+            cfg_value=cfg_value,
+            inference_timesteps=steps,
         )
     sf.write(ask["out"], audio, rate, subtype="FLOAT")
     y16 = librosa.resample(audio.astype(np.float32), orig_sr=rate, target_sr=16000)
-    f0 = librosa.yin(y16, fmin=60, fmax=350, sr=16000)
+    f0 = librosa.yin(y16, fmin=55, fmax=350, sr=16000)
     rms = librosa.feature.rms(y=y16)[0]
     voiced = f0[rms > np.percentile(rms, 40)]
     med_f0 = float(np.median(voiced)) if len(voiced) else 0.0
@@ -469,6 +478,8 @@ def synth_voxcpm_batch(
         FB_VOICE_REF=str(ref_dir),
         VOXCPM_MODE=mode,
         VOXCPM_STYLE=style,
+        VOXCPM_CFG=str(VOXCPM_CFG),
+        VOXCPM_STEPS=str(VOXCPM_STEPS),
         HF_HUB_OFFLINE="1",
     )
     tmp_ctx = tempfile.TemporaryDirectory() if scratch_dir is None else None
@@ -499,7 +510,11 @@ def synth_voxcpm_batch(
                     wav_path = takes_dir / f"{item['sid']}.s{seed}.wav"
                     meta_path = takes_dir / f"{item['sid']}.s{seed}.meta.json"
                     if not wav_path.exists():
-                        req = json.dumps({"text": item["text"], "seed": seed, "out": str(wav_path)}, ensure_ascii=False)
+                        slide_style = VOXCPM_SLIDE_STYLES.get(item["sid"], style)
+                        req = json.dumps(
+                            {"text": item["text"], "seed": seed, "out": str(wav_path), "style": slide_style},
+                            ensure_ascii=False,
+                        )
                         proc.stdin.write(req + "\n")
                         proc.stdin.flush()
                         reply_line = proc.stdout.readline()

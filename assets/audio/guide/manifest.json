@@ -5,7 +5,7 @@
   },
   "voices": {
     "en": "bm_george",
-    "zh": "voxcpm2-demo-zh-cn-ref"
+    "zh": "voxcpm2-latenight-ref"
   },
   "slides": {
     "cover": {
@@ -17,8 +17,8 @@
       },
       "zh": {
         "file": "zh/cover.mp3",
-        "duration": 19.02,
-        "bytes": 114716,
+        "duration": 26.88,
+        "bytes": 161948,
         "text_sha256": "c86bcab7a96c0a74"
       }
     },
@@ -31,8 +31,8 @@
       },
       "zh": {
         "file": "zh/prior.mp3",
-        "duration": 20.22,
-        "bytes": 121916,
+        "duration": 22.15,
+        "bytes": 133436,
         "text_sha256": "aa9def6ad4a5de88"
       }
     },
@@ -45,8 +45,8 @@
       },
       "zh": {
         "file": "zh/coin.mp3",
-        "duration": 19.52,
-        "bytes": 117740,
+        "duration": 26.88,
+        "bytes": 161948,
         "text_sha256": "0e7c1e13c4ef4dc7"
       }
     },
@@ -59,8 +59,8 @@
       },
       "zh": {
         "file": "zh/orthogonal.mp3",
-        "duration": 19.3,
-        "bytes": 116300,
+        "duration": 24.46,
+        "bytes": 147404,
         "text_sha256": "1c76595965108462"
       }
     },
@@ -73,8 +73,8 @@
       },
       "zh": {
         "file": "zh/lattice.mp3",
-        "duration": 20.43,
-        "bytes": 123212,
+        "duration": 27.52,
+        "bytes": 165692,
         "text_sha256": "59b4f3d3cada81d0"
       }
     },
@@ -87,8 +87,8 @@
       },
       "zh": {
         "file": "zh/part-method.mp3",
-        "duration": 18.43,
-        "bytes": 111116,
+        "duration": 22.48,
+        "bytes": 135452,
         "text_sha256": "5c20d57469c37137"
       }
     },
@@ -101,8 +101,8 @@
       },
       "zh": {
         "file": "zh/part-causality.mp3",
-        "duration": 16.76,
-        "bytes": 101180,
+        "duration": 23.04,
+        "bytes": 138908,
         "text_sha256": "aad81b7c2efafa71"
       }
     },
@@ -115,8 +115,8 @@
       },
       "zh": {
         "file": "zh/part-physics.mp3",
-        "duration": 21.21,
-        "bytes": 127820,
+        "duration": 24.96,
+        "bytes": 150428,
         "text_sha256": "34a912000bfb305e"
       }
     },
@@ -129,8 +129,8 @@
       },
       "zh": {
         "file": "zh/part-mathematics.mp3",
-        "duration": 21.21,
-        "bytes": 127820,
+        "duration": 25.04,
+        "bytes": 150860,
         "text_sha256": "57ea392f15f27ebe"
       }
     },
@@ -143,8 +143,8 @@
       },
       "zh": {
         "file": "zh/part-life-and-statistics.mp3",
-        "duration": 19.88,
-        "bytes": 119900,
+        "duration": 26.4,
+        "bytes": 159068,
         "text_sha256": "86ce0b95dfb3e2f2"
       }
     },
@@ -157,8 +157,8 @@
       },
       "zh": {
         "file": "zh/part-consciousness.mp3",
-        "duration": 20.15,
-        "bytes": 121484,
+        "duration": 24.48,
+        "bytes": 147548,
         "text_sha256": "eba90e210aedef4f"
       }
     },
@@ -171,8 +171,8 @@
       },
       "zh": {
         "file": "zh/part-intelligence.mp3",
-        "duration": 19.97,
-        "bytes": 120332,
+        "duration": 26.24,
+        "bytes": 158060,
         "text_sha256": "eaafbdfa997c8cdd"
       }
     },
@@ -185,8 +185,8 @@
       },
       "zh": {
         "file": "zh/part-economics.mp3",
-        "duration": 19.23,
-        "bytes": 116012,
+        "duration": 23.52,
+        "bytes": 141788,
         "text_sha256": "2aa1fd9f5f9ab3a8"
       }
     },
@@ -199,8 +199,8 @@
       },
       "zh": {
         "file": "zh/part-state-and-collective.mp3",
-        "duration": 22.22,
-        "bytes": 133868,
+        "duration": 28.7,
+        "bytes": 172748,
         "text_sha256": "7e195bb06da7aa90"
       }
     },
@@ -213,8 +213,8 @@
       },
       "zh": {
         "file": "zh/part-morality.mp3",
-        "duration": 24.17,
-        "bytes": 145676,
+        "duration": 30.24,
+        "bytes": 182108,
         "text_sha256": "d82961578d370f23"
       }
     },
@@ -227,8 +227,8 @@
       },
       "zh": {
         "file": "zh/part-meaning-and-transcendence.mp3",
-        "duration": 20.96,
-        "bytes": 126380,
+        "duration": 25.76,
+        "bytes": 155180,
         "text_sha256": "e4cc2529b2bb8284"
       }
     },
@@ -241,8 +241,8 @@
       },
       "zh": {
         "file": "zh/part-knowledge-and-learning.mp3",
-        "duration": 21.07,
-        "bytes": 126956,
+        "duration": 25.1,
+        "bytes": 151148,
         "text_sha256": "5f6c0224d0c369f6"
       }
     },
@@ -255,8 +255,8 @@
       },
       "zh": {
         "file": "zh/part-success-and-the-self.mp3",
-        "duration": 18.63,
-        "bytes": 112412,
+        "duration": 22.93,
+        "bytes": 138188,
         "text_sha256": "ef251ec94c8eff3f"
       }
     },
@@ -269,8 +269,8 @@
       },
       "zh": {
         "file": "zh/part-tools-and-progress.mp3",
-        "duration": 23.03,
-        "bytes": 138764,
+        "duration": 26.51,
+        "bytes": 159644,
         "text_sha256": "bf400da27a97fd2f"
       }
     },
@@ -283,8 +283,8 @@
       },
       "zh": {
         "file": "zh/index.mp3",
-        "duration": 19.66,
-        "bytes": 118460,
+        "duration": 23.75,
+        "bytes": 143084,
         "text_sha256": "5506a4cc162d032e"
       }
     },
@@ -297,9 +297,9 @@
       },
       "zh": {
         "file": "zh/enter.mp3",
-        "duration": 22.74,
-        "bytes": 137036,
-        "text_sha256": "3d8b5fdce7461c87"
+        "duration": 33.92,
+        "bytes": 204140,
+        "text_sha256": "d80accf0af719d93"
       }
     }
   }
