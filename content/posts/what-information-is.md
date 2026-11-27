@@ -30,7 +30,7 @@ Because persistence is continuous re-tracing, nothing is stored in the way a phy
 
 ## 二、 在那一刀之后的度量 / 2. Measures That Come After the Cut
 
-围绕信息的混乱，出现在一个局部的度量被错认作生成之源的时候。每一种形式化或日常的定义，都是在那一刀已经落下之后才开始计量。克劳德·香农的通信数学理论，度量的是一种编码相对于约定的划分与固定的有限字母表，能可靠承载多少已经完成的二元区分。香农明确写下，通信的语义方面与这个工程问题无关，而这一排除有着结构上的理由：信道容量是预先选定的状态空间内部的组合计数，不是内在的意义。由于在选定的划分之内预测与压缩是一体两面，在海量文本痕迹之上扩展下一词元预测，得到的只是受容量约束的残余有损登记，而不是对现实的无遗漏复原，正如[开放场域中的无损知识不自洽](../lossless-knowledge-of-an-open-field-is-incoherent/)所阐明的。语言将所操作的材料与对材料的操作一并作为印迹留在同一序列化媒介之中，因此在表层受监督的延续得以把功能作为这些印迹的残余还原出来，而词元的排列顺序属于信道，不属于心智所发出与读取的意义；这一点，[固定地图与重复的行程](../the-fixed-map-and-the-repeated-trip/)已作追溯。跨过香农的系综平均走向算法信息——用行为 `f` 的柯尔莫哥洛夫复杂度 `K(f)`，即在通用参考机 `U` 上复现它的最短程序的比特长度，来定义其信息量——依然是在那一刀之后做度量：`K(f)` 预设了一套固定的符号编码，且受停机边界所限而无法从内部计算，正如[保真度而非最优化](../fidelity-not-optimality/)所确立的，它只是一个数学吸引子而非可抵达的底线；实际的精炼只能沿着局部的保真度梯度推进，而要落入哪一个吸引盆，依然取决于感知边缘的活心智，正如[底层表面](../the-surface-beneath/)所追溯的。
+围绕信息的混乱，出现在一个局部的度量被错认作生成之源的时候。每一种形式化或日常的定义，都是在那一刀已经落下之后才开始计量。克劳德·香农的通信数学理论，度量的是一种编码相对于约定的划分与固定的有限字母表，能可靠承载多少已经完成的二元区分。香农明确写下，通信的语义方面与这个工程问题无关，而这一排除有着结构上的理由：信道容量是预先选定的状态空间内部的组合计数，不是内在的意义。由于在选定的划分之内预测与压缩是一体两面，在海量文本痕迹之上扩展下一词元预测，得到的只是受容量约束的残余有损登记，而不是对现实的无遗漏复原，正如[开放场域中的无损知识不自洽](../lossless-knowledge-of-an-open-field-is-incoherent/)所阐明的。语言将所操作的材料与对材料的操作一并作为印迹留在同一序列化媒介之中，因此在表层受监督的延续得以把功能作为这些印迹的残余还原出来，而词元的排列顺序属于信道，不属于心智所发出与读取的意义；这一点，[固定地图与重复的行程](../the-fixed-map-and-the-repeated-trip/)已作追溯。跨过香农的系综平均走向算法信息——用行为 `f` 的柯尔莫哥洛夫复杂度 `K(f)`，即在通用参考机 `U` 上复现它的最短程序的比特长度，来定义其信息量——依然是在那一刀之后做度量：`K(f)` 预设了一套固定的符号编码，且受停机边界所限而无法从内部计算，正如[保真度而非最优化](../fidelity-not-optimality/)所确立的，它只是一个数学吸引子而非可抵达的底线；实际的精炼沿着局部的保真度梯度推进，而吸引盆的选择依然取决于感知边缘的活心智，正如[底层表面](../the-surface-beneath/)所追溯的。
 
 The confusion surrounding information arises when a local metric is mistaken for the generative source. Every formal or everyday definition begins measuring only after the cut has already been made. Claude Shannon's mathematical theory of communication measures how many already-performed binary distinctions an encoding can reliably carry relative to an agreed partition and a fixed finite alphabet. Shannon states explicitly that the semantic aspects of communication are irrelevant to the engineering problem, and the exclusion has a structural reason: channel capacity is a combinatorial count inside a pre-selected state space, not intrinsic significance. Because prediction and compression are dual within a chosen partition, scaling next-token prediction across vast textual traces yields a capacity-bound, lossy registration of residue rather than a complete recovery of reality, as [Lossless Knowledge of an Open Field Is Incoherent](../lossless-knowledge-of-an-open-field-is-incoherent/) demonstrates. Language leaves both the material operated on and the operations over it as marks in one serialized medium, so continuation supervised on the surface recovers function as residue of those marks, while the order of the tokens belongs to the channel rather than to the meaning a Mind issues and reads, as [The Fixed Map and the Repeated Trip](../the-fixed-map-and-the-repeated-trip/) traces. Reaching past Shannon's ensemble average to algorithmic information—defining the information content of a behavior `f` by its Kolmogorov complexity `K(f)`, the bit-length of the shortest program on a universal reference machine `U` that reproduces it—still measures after the cut: `K(f)` presupposes a fixed symbolic encoding and remains uncomputable from within because of the halting bound, acting as a mathematical attractor rather than a reachable floor as [Fidelity, Not Optimality](../fidelity-not-optimality/) establishes, while actual refinement moves along local fidelity gradients whose basin selection still depends on the living Mind at the sensing edge, as [The Surface Beneath](../the-surface-beneath/) traces.
 
@@ -51,7 +51,6 @@ flowchart TD
         direction TB
         M1["香农信息：在那一刀之后计数区分"]
         M2["显式提示与规则：开放意图的有损压缩"]
-        M1 --> M2
     end
     subgraph S_Engine["智能体上下文窗口（有限投影引擎）"]
         direction TB
@@ -67,7 +66,8 @@ flowchart TD
         P1 --> P2
         P1 --> P3
     end
-    C1 ==>|"投射有限划分"| M1
+    C1 -.->|"在选定划分下由其计数"| M1
+    C1 ==>|"投射有限划分"| M2
     M2 ==>|"条件约束"| E1
     E2 <===>|"对等辩论"| P1
     P3 ==>|"上报以重绘前提"| C2
@@ -100,7 +100,6 @@ flowchart TD
         direction TB
         M1["Shannon Information: Counts distinctions after the cut"]
         M2["Explicit Prompts & Rules: Lossy compression of open intent"]
-        M1 --> M2
     end
     subgraph S_Engine["Agent Context Window (Finite Projection Engine)"]
         direction TB
@@ -116,7 +115,8 @@ flowchart TD
         P1 --> P2
         P1 --> P3
     end
-    C1 ==>|"Projects finite partition"| M1
+    C1 -.->|"Counted under chosen partition by"| M1
+    C1 ==>|"Projects finite partition"| M2
     M2 ==>|"Conditions"| E1
     E2 <===>|"Equal-footed debate"| P1
     P3 ==>|"Escalates to re-render premise"| C2
@@ -172,7 +172,7 @@ Thinkers often meet this self-reference as an intolerable incompleteness and rea
 
 This circularity is not a defect in the definition; it is the structure of the minded condition. The activity cannot step outside itself to adjudicate its own ground. Provisional partitions operate with full rigor inside their respective domains, whereas trying to enforce a final, exhaustive definition reintroduces the exact closure incoherence it sought to escape. [The Generative Atlas of Macroscopic Phenomena](../the-generative-atlas-of-macroscopic-phenomena/) maps every macroscopic phenomenon as causal chains unfolding across an observer's finite, moving horizon, with quantum indeterminacy measured from outside and free choice exercised from inside as two faces of one thing.
 
-反复出现的诱惑，是把一个有效的划分变成一座永久的纪念碑。一个表述一旦带来操作上的清晰，冲动就是冻住它、捍卫它，把活着的能力花在保护历史的残余上，而不是继续区分的工作。[好奇没有最终的形态](../curiosity-has-no-final-form/)追踪的正是同一种过度滞后：把昨天的残余当作不可逾越的天花板，探究的活前沿就瘫痪了。每一门形式学科都是一架被投影的信息的阶梯，[投影的阶梯与因果的锚点](../tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)沿着这架阶梯定位了因果的锚点。
+反复出现的诱惑，是把一个有效的划分变成一座永久的纪念碑。一个表述一旦带来操作上的清晰，冲动就是冻住它、捍卫它，把活着的能力花在保护历史的残余上，而不是继续区分的工作。[好奇没有最终的形态](../curiosity-has-no-final-form/)追踪的正是同一种过度滞后：把昨天的残余当作不可逾越的天花板，探究的活前沿就瘫痪了。每一门形式学科都是一架投影信息的阶梯，[投影的阶梯与因果的锚点](../tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)沿着这架阶梯定位了因果的锚点。
 
 The recurring temptation is to turn an effective partition into a permanent monument. Once a formulation delivers operational clarity, the impulse is to freeze and defend it, spending living capacity on protecting historical residue rather than continuing the work of distinguishing. [Curiosity Has No Final Form](../curiosity-has-no-final-form/) tracks this same excess lag: treating yesterday's residue as an unpassable ceiling paralyzes the living edge of inquiry. Every formal discipline is a ladder of projected information, and [The Ladder of Projections and the Anchor of Causality](../tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/) locates the causal anchor along that ladder.
 
