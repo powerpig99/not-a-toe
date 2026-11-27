@@ -2577,10 +2577,10 @@
       overviewOpen: false,
       // Per-part selected cover index (0..2)
       selectedPlate: Object.fromEntries((BOOK_DATA.parts || []).map((p) => [p.slug, 0])),
-      // Slide 2 multi-center wave interference field
+      // Slide 2 multi-center wave interference field (coherent in-phase sources ~3.5λ apart)
       priorSources: [
-        { nx: 0.34, ny: 0.43, phase: 0 },
-        { nx: 0.69, ny: 0.57, phase: 0.45 },
+        { nx: 0.35, ny: 0.45, phase: 0 },
+        { nx: 0.65, ny: 0.55, phase: 0 },
       ],
       priorDragIdx: -1,
       priorHoverIdx: -1,
@@ -3318,37 +3318,54 @@
     let ambW = 0, ambH = 0, ambDpr = 1;
     const remScale = () => Math.max(0.85, parseFloat(getComputedStyle(document.documentElement).fontSize) / 16);
 
-    // Offscreen scalar wave-interference field buffer for Slide 2 (60 FPS smooth cymatics)
-    const FIELD_W = 192;
-    const FIELD_H = 144;
+    // High-res real-time hillshaded 2D wave-interference tank for Slide 2 (60 FPS via LUT + Float32Array)
+    const FIELD_W = 340;
+    const FIELD_H = 260;
     const priorBuf = document.createElement('canvas');
     priorBuf.width = FIELD_W;
     priorBuf.height = FIELD_H;
     const priorBufCtx = priorBuf.getContext('2d');
     const priorImgData = priorBufCtx.createImageData(FIELD_W, FIELD_H);
+    const priorHeight = new Float32Array(FIELD_W * FIELD_H);
+    const priorFade = new Float32Array(FIELD_W * FIELD_H);
+    // Precompute smooth radial aperture feather mask
+    for (let gy = 0; gy < FIELD_H; gy++) {
+      const ny = (gy / (FIELD_H - 1)) * 2 - 1;
+      for (let gx = 0; gx < FIELD_W; gx++) {
+        const nx = (gx / (FIELD_W - 1)) * 2 - 1;
+        const r = Math.hypot(nx, ny);
+        const f = r >= 0.99 ? 0 : (r <= 0.76 ? 1 : Math.pow((0.99 - r) / 0.23, 1.55));
+        priorFade[gy * FIELD_W + gx] = f;
+      }
+    }
+    const LUT_N = 2048;
+    const LUT_MASK = LUT_N - 1;
+    const LUT_SCALE = LUT_N / (Math.PI * 2);
+    const COS_LUT = new Float32Array(LUT_N);
+    for (let i = 0; i < LUT_N; i++) COS_LUT[i] = Math.cos((i / LUT_N) * Math.PI * 2);
 
     function getPriorFieldRect() {
       if (ambW > 960) {
-        const fx = ambW * 0.455;
-        const fw = ambW * 0.51;
-        const fy = ambH * 0.07;
-        const fh = ambH * 0.80;
-        return { fx, fy, fw, fh };
+        const size = Math.min(ambW * 0.48, ambH * 0.78);
+        const fx = ambW * 0.72 - size * 0.5;
+        const fy = ambH * 0.46 - size * 0.5;
+        return { fx, fy, fw: size, fh: size };
       }
-      return { fx: ambW * 0.05, fy: ambH * 0.44, fw: ambW * 0.90, fh: ambH * 0.48 };
+      const size = Math.min(ambW * 0.86, ambH * 0.48);
+      return { fx: ambW * 0.5 - size * 0.5, fy: ambH * 0.43, fw: size, fh: size };
     }
 
     function setPriorPreset(mode) {
       if (mode === '3') {
         state.priorSources = [
-          { nx: 0.32, ny: 0.36, phase: 0 },
-          { nx: 0.72, ny: 0.39, phase: 0.25 },
-          { nx: 0.51, ny: 0.72, phase: 0.5 },
+          { nx: 0.34, ny: 0.38, phase: 0 },
+          { nx: 0.66, ny: 0.38, phase: 0 },
+          { nx: 0.50, ny: 0.67, phase: 0 },
         ];
       } else {
         state.priorSources = [
-          { nx: 0.34, ny: 0.43, phase: 0 },
-          { nx: 0.69, ny: 0.57, phase: 0.45 },
+          { nx: 0.35, ny: 0.45, phase: 0 },
+          { nx: 0.65, ny: 0.55, phase: 0 },
         ];
       }
       state.priorWakes = [];
@@ -3433,13 +3450,13 @@
         }
       }
 
-      // Plant a new interfering wave center right where clicked (up to 5 active centers)
-      const nx = Math.max(0.08, Math.min(0.92, (x - fx) / fw));
-      const ny = Math.max(0.10, Math.min(0.88, (y - fy) / fh));
+      // Plant a new coherent interfering wave center right where clicked (up to 5 active centers)
+      const nx = Math.max(0.14, Math.min(0.86, (x - fx) / fw));
+      const ny = Math.max(0.14, Math.min(0.86, (y - fy) / fh));
       if (state.priorSources.length >= 5) {
         state.priorSources.splice(1, 1); // keep primary center + newest interacting centers
       }
-      state.priorSources.push({ nx, ny, phase: (state.time * 0.7) % (Math.PI * 2) });
+      state.priorSources.push({ nx, ny, phase: 0 });
       state.priorDragIdx = state.priorSources.length - 1;
       ambCanvas.setPointerCapture(e.pointerId);
       dom.slideMount.querySelectorAll('[data-prior-preset]').forEach((b) => {
@@ -3462,31 +3479,27 @@
       const sl = SLIDES[state.slide];
       if (!sl) return;
 
-      // Slide 2: Real 2D Multi-Center Wave Interference & Constructive Resonance Field
+      // Slide 2: Physical 2D Ripple-Tank Wave Interference Pattern (Hillshaded Surface + Nodal Corridors)
       if (sl.id === 'prior') {
         const s = remScale();
         const { fx, fy, fw, fh } = getPriorFieldRect();
+        const cx = fx + fw * 0.5;
+        const cy = fy + fh * 0.5;
+        const dishR = fw * 0.5;
         const t = state.time;
 
-        // Subtle cartographic registration hairlines around the wave tank
         ambCtx.save();
-        ambCtx.strokeStyle = 'rgba(21, 20, 18, 0.065)';
-        ambCtx.lineWidth = Math.max(1, 0.85 * s);
-        ambCtx.beginPath();
-        ambCtx.moveTo(fx + fw * 0.5, fy + 8); ambCtx.lineTo(fx + fw * 0.5, fy + fh - 8);
-        ambCtx.moveTo(fx + 8, fy + fh * 0.5); ambCtx.lineTo(fx + fw - 8, fy + fh * 0.5);
-        ambCtx.stroke();
 
-        // Advance wakes
+        // Advance pointer wake wavelets
         for (let i = state.priorWakes.length - 1; i >= 0; i--) {
-          state.priorWakes[i].r += 86 * dt;
+          state.priorWakes[i].r += 82 * dt;
           if (state.priorWakes[i].r > state.priorWakes[i].maxR) state.priorWakes.splice(i, 1);
         }
 
-        // Compute world coordinates of each active center (with tiny organic breath when idle)
+        // Active coherent wave centers (gentle micro-breath when idle)
         const srcs = state.priorSources.map((src, idx) => {
-          const driftX = state.priorDragIdx === idx ? 0 : Math.sin(t * 0.38 + idx * 2.1) * 0.012;
-          const driftY = state.priorDragIdx === idx ? 0 : Math.cos(t * 0.31 + idx * 1.7) * 0.012;
+          const driftX = state.priorDragIdx === idx ? 0 : Math.sin(t * 0.34 + idx * 2.1) * 0.006;
+          const driftY = state.priorDragIdx === idx ? 0 : Math.cos(t * 0.29 + idx * 1.7) * 0.006;
           return {
             x: fx + (src.nx + driftX) * fw,
             y: fy + (src.ny + driftY) * fh,
@@ -3494,197 +3507,249 @@
           };
         });
 
-        // 1. Scalar 2D Wave Superposition Field (constructively reinforcing ridges + nodal valleys)
-        const wavelength = Math.max(32, Math.min(fw, fh) * 0.145);
-        const kWave = (Math.PI * 2) / wavelength;
-        const omega = 2.65;
-        const falloff = Math.min(fw, fh) * 0.52;
-        const data = priorImgData.data;
+        // Pass 1: Compute true superposed wave heightfield h(x, y, t)
+        // Wavelength chosen so 2 sources ~0.32*fw apart sit ~3.6λ apart -> crisp radiating hyperbolic fringes!
+        const wavelength = Math.max(20, fw * 0.086);
+        const kLut = ((Math.PI * 2) / wavelength) * LUT_SCALE;
+        const omegaLut = 2.85 * LUT_SCALE;
+        const falloff = fw * 0.56;
         const nSrc = srcs.length;
-        const normDiv = Math.max(1.35, Math.sqrt(nSrc));
+        const normDiv = Math.max(1.15, nSrc * 0.62);
 
-        // Pre-map source coords into buffer space
-        const bSrc = srcs.map((p) => ({
-          bx: ((p.x - fx) / fw) * FIELD_W,
-          by: ((p.y - fy) / fh) * FIELD_H,
-          phase: p.phase,
-        }));
+        const bSrcX = new Float32Array(nSrc);
+        const bSrcY = new Float32Array(nSrc);
+        const bSrcP = new Float32Array(nSrc);
+        for (let i = 0; i < nSrc; i++) {
+          bSrcX[i] = ((srcs[i].x - fx) / fw) * FIELD_W;
+          bSrcY[i] = ((srcs[i].y - fy) / fh) * FIELD_H;
+          bSrcP[i] = srcs[i].phase * LUT_SCALE - omegaLut * t;
+        }
+        const nWake = state.priorWakes.length;
         const bWakes = state.priorWakes.map((w) => ({
           bx: ((w.x - fx) / fw) * FIELD_W,
           by: ((w.y - fy) / fh) * FIELD_H,
-          r: (w.r / fw) * FIELD_W,
+          rPx: w.r,
           life: 1 - w.r / w.maxR,
         }));
         const scaleX = fw / FIELD_W;
         const scaleY = fh / FIELD_H;
+        const wakeSigmaInv2 = 1 / (2 * Math.pow(wavelength * 0.52, 2));
 
-        let ptr = 0;
+        let idx = 0;
         for (let gy = 0; gy < FIELD_H; gy++) {
-          const ny = (gy / (FIELD_H - 1)) * 2 - 1;
-          const wyMask = Math.max(0, 1 - ny * ny);
-          for (let gx = 0; gx < FIELD_W; gx++) {
-            const nx = (gx / (FIELD_W - 1)) * 2 - 1;
-            const r2 = nx * nx + ny * ny;
-            const edgeFade = r2 >= 1.15 ? 0 : Math.max(0, (1.15 - r2) / 1.15) * Math.min(1, wyMask * 2.2);
-
-            if (edgeFade <= 0.002) {
-              data[ptr] = 0; data[ptr + 1] = 0; data[ptr + 2] = 0; data[ptr + 3] = 0;
-              ptr += 4;
+          for (let gx = 0; gx < FIELD_W; gx++, idx++) {
+            if (priorFade[idx] <= 0.001) {
+              priorHeight[idx] = 0;
               continue;
             }
-
-            let psi = 0;
+            let hSum = 0;
             for (let i = 0; i < nSrc; i++) {
-              const dx = (gx - bSrc[i].bx) * scaleX;
-              const dy = (gy - bSrc[i].by) * scaleY;
+              const dx = (gx - bSrcX[i]) * scaleX;
+              const dy = (gy - bSrcY[i]) * scaleY;
               const dist = Math.sqrt(dx * dx + dy * dy);
-              const att = 1 / (1 + dist / falloff);
-              psi += Math.cos(kWave * dist - omega * t + bSrc[i].phase) * att;
+              // Cylindrical 2D wave amplitude decay (smooth near core, sustained far-field fringes)
+              const att = 1 / Math.sqrt(1 + (dist / (wavelength * 1.15)) + (dist / falloff) * (dist / falloff));
+              const lutIdx = (Math.floor(dist * kLut + bSrcP[i]) & LUT_MASK + LUT_N) & LUT_MASK;
+              hSum += COS_LUT[lutIdx] * att;
             }
-            for (let w = 0; w < bWakes.length; w++) {
+            for (let w = 0; w < nWake; w++) {
               const wk = bWakes[w];
               const dx = (gx - wk.bx) * scaleX;
               const dy = (gy - wk.by) * scaleY;
               const dist = Math.sqrt(dx * dx + dy * dy);
-              const env = Math.exp(-Math.pow((dist - wk.r * scaleX) / (wavelength * 0.55), 2));
-              psi += Math.cos(kWave * dist - omega * t * 1.3) * env * wk.life * 0.72;
+              const dr = dist - wk.rPx;
+              const env = Math.exp(-(dr * dr) * wakeSigmaInv2);
+              const lutIdx = (Math.floor(dist * kLut - omegaLut * t * 1.25) & LUT_MASK + LUT_N) & LUT_MASK;
+              hSum += COS_LUT[lutIdx] * env * wk.life * 0.85;
+            }
+            priorHeight[idx] = hSum / normDiv;
+          }
+        }
+
+        // Pass 2: Directional raking hillshade + caustic constructive glow + calm flat nodal corridors
+        const data = priorImgData.data;
+        const baseR = 244, baseG = 240, baseB = 232; // archival paper #f4f0e8
+        let ptr = 0;
+        for (let gy = 0; gy < FIELD_H; gy++) {
+          const row = gy * FIELD_W;
+          const rowUp = (gy > 0 ? gy - 1 : 0) * FIELD_W;
+          const rowDn = (gy < FIELD_H - 1 ? gy + 1 : FIELD_H - 1) * FIELD_W;
+          for (let gx = 0; gx < FIELD_W; gx++, ptr += 4) {
+            const pIdx = row + gx;
+            const fade = priorFade[pIdx];
+            if (fade <= 0.001) {
+              data[ptr] = 0; data[ptr + 1] = 0; data[ptr + 2] = 0; data[ptr + 3] = 0;
+              continue;
+            }
+            const hVal = priorHeight[pIdx];
+            const hL = priorHeight[row + (gx > 0 ? gx - 1 : 0)];
+            const hR = priorHeight[row + (gx < FIELD_W - 1 ? gx + 1 : FIELD_W - 1)];
+            const hU = priorHeight[rowUp + gx];
+            const hD = priorHeight[rowDn + gx];
+            const hx = (hR - hL) * 2.9;
+            const hy = (hD - hU) * 2.9;
+
+            // Local wave energy (approaches 0 on destructive nodal hyperbolas -> glass-flat calm paper!)
+            const energy = Math.min(1, Math.sqrt(hVal * hVal + (hx * hx + hy * hy) * 0.42));
+            // Raking top-left studio light across the 3D water surface
+            const light = Math.max(-1, Math.min(1, (-hx * 0.62 - hy * 0.78)));
+
+            // Sculpted ridge tint: deep jade-slate in wave shadows, crisp ivory-gold specular on lit crests
+            let R = baseR, G = baseG, B = baseB;
+            if (hVal >= 0) {
+              // Positive wave crest: rich emerald-teal sculpted ridge
+              const crest = Math.min(1, hVal * 1.18);
+              const caustic = hVal > 0.68 ? Math.min(1, (hVal - 0.68) / 0.55) : 0;
+              // Base emerald ridge blended with warm sunlit gold on high constructive peaks
+              const ridgeR = 28 + caustic * 176;
+              const ridgeG = 128 + caustic * 36;
+              const ridgeB = 88 - caustic * 44;
+              const mix = crest * 0.72;
+              R = baseR * (1 - mix) + ridgeR * mix;
+              G = baseG * (1 - mix) + ridgeG * mix;
+              B = baseB * (1 - mix) + ridgeB * mix;
+              // Specular caustic glint on sunlit slope of constructive ridge
+              const spec = Math.max(0, light) * (0.28 + caustic * 0.45);
+              R += (255 - R) * spec;
+              G += (250 - G) * spec;
+              B += (232 - B) * spec;
+              // Crisp darker back-slope definition for sculptural 3D relief
+              if (light < 0) {
+                const sh = -light * 0.34;
+                R *= (1 - sh * 0.55);
+                G *= (1 - sh * 0.38);
+                B *= (1 - sh * 0.40);
+              }
+            } else {
+              // Wave trough: cool archival slate-emerald depression
+              const trough = Math.min(1, -hVal * 1.12);
+              const mix = trough * 0.46;
+              R = baseR * (1 - mix) + 28 * mix;
+              G = baseG * (1 - mix) + 52 * mix;
+              B = baseB * (1 - mix) + 54 * mix;
+              if (light > 0) {
+                const lit = light * 0.22;
+                R += (246 - R) * lit;
+                G += (244 - G) * lit;
+                B += (236 - B) * lit;
+              } else {
+                const sh = -light * 0.28;
+                R *= (1 - sh * 0.45);
+                G *= (1 - sh * 0.35);
+                B *= (1 - sh * 0.32);
+              }
             }
 
-            const v = psi / normDiv;
-            let R = 21, G = 20, B = 18, A = 0;
-            if (v > 0.62) {
-              // Strong constructive resonance: warm luminous gold-emerald crest!
-              const boost = Math.min(1, (v - 0.62) / 0.65);
-              R = Math.round(37 + boost * 168);
-              G = Math.round(145 + boost * 22);
-              B = Math.round(92 - boost * 32);
-              A = Math.round((0.18 + boost * 0.34) * edgeFade * 255);
-            } else if (v > 0.08) {
-              // Positive wave crest: translucent jade emerald
-              const f = (v - 0.08) / 0.54;
-              R = 37; G = 133; B = 90;
-              A = Math.round(f * 0.16 * edgeFade * 255);
-            } else if (v < -0.14) {
-              // Trough / destructive phase: delicate charcoal-ink tint
-              const f = Math.min(1, (-v - 0.14) / 0.85);
-              R = 26; G = 32; B = 38;
-              A = Math.round(f * 0.12 * edgeFade * 255);
-            }
-            data[ptr] = R;
-            data[ptr + 1] = G;
-            data[ptr + 2] = B;
-            data[ptr + 3] = A;
-            ptr += 4;
+            // Sharp translucent alpha fades gracefully to zero at rim & stays flat calm along destructive nodes
+            const visAlpha = Math.min(1, energy * 1.38) * fade;
+            data[ptr] = Math.max(0, Math.min(255, Math.round(R)));
+            data[ptr + 1] = Math.max(0, Math.min(255, Math.round(G)));
+            data[ptr + 2] = Math.max(0, Math.min(255, Math.round(B)));
+            data[ptr + 3] = Math.round(visAlpha * 242);
           }
         }
         priorBufCtx.putImageData(priorImgData, 0, 0);
         ambCtx.imageSmoothingEnabled = true;
         ambCtx.drawImage(priorBuf, fx, fy, fw, fh);
 
-        // 2. Crisp Vector Wavefront Crest Rings per Center
-        const ringCount = 6;
-        const maxRingR = ringCount * wavelength;
-        const allRings = srcs.map((src) => {
-          const rings = [];
-          const phaseFrac = (((omega * t - src.phase) / (Math.PI * 2)) % 1 + 1) % 1;
-          for (let k = 0; k < ringCount; k++) {
-            const r = (k + phaseFrac) * wavelength;
-            if (r < 6 || r > maxRingR) continue;
-            const alpha = Math.max(0, (1 - r / maxRingR)) * 0.28;
-            rings.push({ r, alpha });
-            ambCtx.strokeStyle = `rgba(37, 133, 90, ${alpha.toFixed(3)})`;
-            ambCtx.lineWidth = Math.max(0.9, 1.05 * s);
-            ambCtx.beginPath();
-            ambCtx.arc(src.x, src.y, r, 0, Math.PI * 2);
-            ambCtx.stroke();
-          }
-          return rings;
-        });
+        // Delicate scientific ripple-tank rim & cardinal registration ticks
+        ambCtx.strokeStyle = 'rgba(21, 20, 18, 0.13)';
+        ambCtx.lineWidth = Math.max(1, 1 * s);
+        ambCtx.beginPath();
+        ambCtx.arc(cx, cy, dishR * 0.96, 0, Math.PI * 2);
+        ambCtx.stroke();
+        for (let a = 0; a < 12; a++) {
+          const ang = (a / 12) * Math.PI * 2;
+          const major = a % 3 === 0;
+          const r0 = dishR * (major ? 0.935 : 0.948);
+          const r1 = dishR * 0.975;
+          ambCtx.beginPath();
+          ambCtx.moveTo(cx + Math.cos(ang) * r0, cy + Math.sin(ang) * r0);
+          ambCtx.lineTo(cx + Math.cos(ang) * r1, cy + Math.sin(ang) * r1);
+          ambCtx.stroke();
+        }
 
-        // 3. Exact Geometric Circle-Circle Constructive Resonance Nodes (crest × crest!)
-        let bestNode = null;
-        let bestStrength = 0;
-        for (let i = 0; i < srcs.length; i++) {
-          for (let j = i + 1; j < srcs.length; j++) {
-            const dx = srcs[j].x - srcs[i].x;
-            const dy = srcs[j].y - srcs[i].y;
-            const d = Math.hypot(dx, dy);
-            if (d < 8) continue;
-            const ux = dx / d;
-            const uy = dy / d;
-            for (const ri of allRings[i]) {
-              for (const rj of allRings[j]) {
-                if (d >= ri.r + rj.r || d <= Math.abs(ri.r - rj.r)) continue;
-                const a = (ri.r * ri.r - rj.r * rj.r + d * d) / (2 * d);
-                const h2 = ri.r * ri.r - a * a;
-                if (h2 <= 0) continue;
-                const h = Math.sqrt(h2);
-                const mx = srcs[i].x + a * ux;
-                const my = srcs[i].y + a * uy;
-                const strength = Math.min(1, (ri.alpha + rj.alpha) * 2.1);
-                for (const sign of [-1, 1]) {
-                  const ix = mx + sign * h * (-uy);
-                  const iy = my + sign * h * ux;
-                  if (ix < fx + 10 || ix > fx + fw - 10 || iy < fy + 10 || iy > fy + fh - 10) continue;
-                  // Draw glowing constructive resonance node
-                  ambCtx.fillStyle = `rgba(196, 134, 28, ${(strength * 0.82).toFixed(3)})`;
-                  ambCtx.beginPath();
-                  ambCtx.arc(ix, iy, (2.2 + strength * 1.6) * s, 0, Math.PI * 2);
-                  ambCtx.fill();
-                  ambCtx.strokeStyle = `rgba(37, 133, 90, ${(strength * 0.45).toFixed(3)})`;
-                  ambCtx.lineWidth = Math.max(0.85, 0.9 * s);
-                  ambCtx.beginPath();
-                  ambCtx.arc(ix, iy, (5.5 + strength * 3.5) * s, 0, Math.PI * 2);
-                  ambCtx.stroke();
-                  if (strength > bestStrength && iy > fy + fh * 0.18 && iy < fy + fh * 0.78) {
-                    const clearOfCenters = srcs.every((sc) => Math.hypot(ix - sc.x, iy - sc.y) > 54 * s);
-                    if (clearOfCenters) {
-                      bestStrength = strength;
-                      bestNode = { x: ix, y: iy };
-                    }
-                  }
-                }
-              }
+        // Analytical Constructive Beam & Silent Nodal Corridor labels (when 2 coherent centers are active)
+        if (srcs.length === 2) {
+          const mx = (srcs[0].x + srcs[1].x) * 0.5;
+          const my = (srcs[0].y + srcs[1].y) * 0.5;
+          const dx = srcs[1].x - srcs[0].x;
+          const dy = srcs[1].y - srcs[0].y;
+          const d = Math.hypot(dx, dy);
+          if (d > wavelength * 1.1) {
+            // Perpendicular bisector -> 0th-order Constructive Resonance Beam (Δr = 0)
+            let px = -dy / d, py = dx / d;
+            if (py > 0) { px = -px; py = -py; } // point toward upper half cleanly
+            const rx = mx + px * dishR * 0.54;
+            const ry = my + py * dishR * 0.54;
+            const drawTag = (label, tx, ty, col) => {
+              ambCtx.font = `600 ${(9.2 * s).toFixed(1)}px ui-monospace, SFMono-Regular, Menlo, monospace`;
+              const tw = ambCtx.measureText(label).width;
+              const padX = 7 * s, padY = 4 * s;
+              ambCtx.fillStyle = 'rgba(244, 240, 232, 0.84)';
+              ambCtx.strokeStyle = col;
+              ambCtx.lineWidth = 0.85 * s;
+              ambCtx.beginPath();
+              ambCtx.roundRect(tx - tw * 0.5 - padX, ty - 6 * s - padY, tw + padX * 2, 12 * s + padY * 2, 999);
+              ambCtx.fill();
+              ambCtx.stroke();
+              ambCtx.fillStyle = col;
+              ambCtx.textAlign = 'center';
+              ambCtx.textBaseline = 'middle';
+              ambCtx.fillText(label, tx, ty);
+            };
+            drawTag(
+              state.lang === 'zh' ? '相长共振带' : 'CONSTRUCTIVE RESONANCE',
+              rx, ry, 'rgba(154, 100, 14, 0.92)',
+            );
+
+            // First destructive nodal asymptote: sin(θ) = (λ / 2) / d
+            const sinN = Math.min(0.85, (wavelength * 0.5) / d);
+            const cosN = Math.sqrt(Math.max(0, 1 - sinN * sinN));
+            // Rotate perpendicular vector (px, py) by +θ toward right-upper nodal corridor
+            const nxDir = px * cosN - py * sinN;
+            const nyDir = px * sinN + py * cosN;
+            const ndx = mx - nxDir * dishR * 0.62;
+            const ndy = my - nyDir * dishR * 0.62;
+            if (Math.hypot(ndx - cx, ndy - cy) < dishR * 0.82) {
+              drawTag(
+                state.lang === 'zh' ? '相消静默节线' : 'NODAL CANCELLATION',
+                ndx, ndy, 'rgba(38, 52, 56, 0.78)',
+              );
             }
           }
         }
 
-        // Subtle Resonance callout on the strongest active constructive crossing
-        if (bestNode && bestStrength > 0.25) {
-          ambCtx.fillStyle = 'rgba(154, 100, 14, 0.88)';
-          ambCtx.font = `600 ${(9.5 * s).toFixed(1)}px ui-monospace, SFMono-Regular, Menlo, monospace`;
-          ambCtx.textAlign = 'left';
-          ambCtx.textBaseline = 'middle';
-          ambCtx.fillText(
-            state.lang === 'zh' ? '共振强化' : 'RESONANCE',
-            bestNode.x + 11 * s,
-            bestNode.y - 8 * s,
-          );
-        }
-
-        // 4. Crisp Living Center Markers (draggable loci)
+        // Crisp Living Center Oscillators (draggable loci)
         srcs.forEach((src, idx) => {
           const hot = state.priorHoverIdx === idx || state.priorDragIdx === idx;
-          ambCtx.strokeStyle = hot ? 'rgba(184, 122, 30, 0.75)' : 'rgba(37, 133, 90, 0.42)';
-          ambCtx.lineWidth = (hot ? 1.8 : 1.1) * s;
+          ambCtx.fillStyle = 'rgba(244, 240, 232, 0.92)';
           ambCtx.beginPath();
-          ambCtx.arc(src.x, src.y, (hot ? 13 : 9.5) * s, 0, Math.PI * 2);
-          ambCtx.stroke();
-
-          ambCtx.fillStyle = hot ? '#b87a1e' : '#25855a';
-          ambCtx.beginPath();
-          ambCtx.arc(src.x, src.y, 4.2 * s, 0, Math.PI * 2);
+          ambCtx.arc(src.x, src.y, (hot ? 9.5 : 7.5) * s, 0, Math.PI * 2);
           ambCtx.fill();
 
-          ambCtx.fillStyle = 'rgba(21, 20, 18, 0.74)';
-          ambCtx.font = `600 ${(9.5 * s).toFixed(1)}px ui-monospace, SFMono-Regular, Menlo, monospace`;
+          ambCtx.strokeStyle = hot ? '#b87a1e' : '#1f7a51';
+          ambCtx.lineWidth = (hot ? 2.1 : 1.5) * s;
+          ambCtx.beginPath();
+          ambCtx.arc(src.x, src.y, (hot ? 9.5 : 7.5) * s, 0, Math.PI * 2);
+          ambCtx.stroke();
+
+          ambCtx.fillStyle = hot ? '#b87a1e' : '#1f7a51';
+          ambCtx.beginPath();
+          ambCtx.arc(src.x, src.y, 3.6 * s, 0, Math.PI * 2);
+          ambCtx.fill();
+
+          const lbl = state.lang === 'zh' ? `中心 ${idx + 1}` : `CENTER ${idx + 1}`;
+          ambCtx.font = `600 ${(9.2 * s).toFixed(1)}px ui-monospace, SFMono-Regular, Menlo, monospace`;
+          const tw = ambCtx.measureText(lbl).width;
+          ambCtx.fillStyle = 'rgba(244, 240, 232, 0.86)';
+          ambCtx.beginPath();
+          ambCtx.roundRect(src.x - tw * 0.5 - 5 * s, src.y - 25 * s, tw + 10 * s, 14 * s, 999);
+          ambCtx.fill();
+          ambCtx.fillStyle = 'rgba(21, 20, 18, 0.86)';
           ambCtx.textAlign = 'center';
-          ambCtx.textBaseline = 'bottom';
-          ambCtx.fillText(
-            state.lang === 'zh' ? `中心 ${idx + 1}` : `CENTER ${idx + 1}`,
-            src.x,
-            src.y - 13 * s,
-          );
+          ambCtx.textBaseline = 'middle';
+          ambCtx.fillText(lbl, src.x, src.y - 18 * s);
         });
         ambCtx.restore();
       }
