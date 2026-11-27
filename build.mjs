@@ -2282,10 +2282,12 @@ function buildPresentations(posts, book = null) {
     const raw = fs.readFileSync(templatePath, 'utf8');
     const canonicalUrl = absoluteUrl(`${pres.slug}/`);
     const socialImageUrl = pres.socialImage ? absoluteSourceUrl(pres.socialImage) : SITE.socialImage;
+    const ogDescription = `A bilingual dynamic introduction to the Living Book: ${partCount} parts, ${posts.length.toLocaleString('en-US')} essays, ${totalLinks.toLocaleString('en-US')} synaptic cross-links, and ${entryCount.toLocaleString('en-US')} traced premises.`;
     const html = raw
       .replaceAll('__CANONICAL_URL__', canonicalUrl)
       .replaceAll('__SOCIAL_IMAGE_URL__', socialImageUrl)
       .replaceAll('__FAVICON_DATA_URI__', faviconDataUri)
+      .replaceAll('__GUIDE_OG_DESCRIPTION__', ogDescription)
       .replaceAll('__BOOK_DATA_JSON__', safeBookJson);
     writeFile(path.join(pres.slug, 'index.html'), html);
   }

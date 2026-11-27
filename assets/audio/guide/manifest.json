@@ -12,252 +12,294 @@
       "en": {
         "file": "en/cover.mp3",
         "duration": 21.99,
-        "bytes": 132572
+        "bytes": 132572,
+        "text_sha256": "beac4be686528c52"
       },
       "zh": {
         "file": "zh/cover.mp3",
         "duration": 19.02,
-        "bytes": 114716
+        "bytes": 114716,
+        "text_sha256": "c86bcab7a96c0a74"
       }
     },
     "prior": {
       "en": {
         "file": "en/prior.mp3",
         "duration": 24.39,
-        "bytes": 146972
+        "bytes": 146972,
+        "text_sha256": "12d26ccca2361401"
       },
       "zh": {
         "file": "zh/prior.mp3",
         "duration": 20.22,
-        "bytes": 121916
+        "bytes": 121916,
+        "text_sha256": "aa9def6ad4a5de88"
       }
     },
     "coin": {
       "en": {
         "file": "en/coin.mp3",
         "duration": 27.01,
-        "bytes": 162668
+        "bytes": 162668,
+        "text_sha256": "701e99daa039d73d"
       },
       "zh": {
         "file": "zh/coin.mp3",
         "duration": 19.52,
-        "bytes": 117740
+        "bytes": 117740,
+        "text_sha256": "0e7c1e13c4ef4dc7"
       }
     },
     "orthogonal": {
       "en": {
         "file": "en/orthogonal.mp3",
         "duration": 25.51,
-        "bytes": 153740
+        "bytes": 153740,
+        "text_sha256": "066e1a98276344db"
       },
       "zh": {
         "file": "zh/orthogonal.mp3",
         "duration": 19.3,
-        "bytes": 116300
+        "bytes": 116300,
+        "text_sha256": "1c76595965108462"
       }
     },
     "lattice": {
       "en": {
         "file": "en/lattice.mp3",
         "duration": 24.81,
-        "bytes": 149420
+        "bytes": 149420,
+        "text_sha256": "de8e1c8a218e24d9"
       },
       "zh": {
         "file": "zh/lattice.mp3",
         "duration": 20.43,
-        "bytes": 123212
+        "bytes": 123212,
+        "text_sha256": "59b4f3d3cada81d0"
       }
     },
     "part-method": {
       "en": {
         "file": "en/part-method.mp3",
         "duration": 20.39,
-        "bytes": 122924
+        "bytes": 122924,
+        "text_sha256": "827280c18d66bf02"
       },
       "zh": {
         "file": "zh/part-method.mp3",
         "duration": 18.43,
-        "bytes": 111116
+        "bytes": 111116,
+        "text_sha256": "5c20d57469c37137"
       }
     },
     "part-causality": {
       "en": {
         "file": "en/part-causality.mp3",
         "duration": 23.96,
-        "bytes": 144380
+        "bytes": 144380,
+        "text_sha256": "5a78775eaf2ac8b7"
       },
       "zh": {
         "file": "zh/part-causality.mp3",
         "duration": 16.76,
-        "bytes": 101180
+        "bytes": 101180,
+        "text_sha256": "aad81b7c2efafa71"
       }
     },
     "part-physics": {
       "en": {
         "file": "en/part-physics.mp3",
         "duration": 24.36,
-        "bytes": 146828
+        "bytes": 146828,
+        "text_sha256": "f19d95a0440ee72d"
       },
       "zh": {
         "file": "zh/part-physics.mp3",
         "duration": 21.21,
-        "bytes": 127820
+        "bytes": 127820,
+        "text_sha256": "34a912000bfb305e"
       }
     },
     "part-mathematics": {
       "en": {
         "file": "en/part-mathematics.mp3",
         "duration": 25.45,
-        "bytes": 153308
+        "bytes": 153308,
+        "text_sha256": "9940408d7c6b5e17"
       },
       "zh": {
         "file": "zh/part-mathematics.mp3",
         "duration": 21.21,
-        "bytes": 127820
+        "bytes": 127820,
+        "text_sha256": "57ea392f15f27ebe"
       }
     },
     "part-life-and-statistics": {
       "en": {
         "file": "en/part-life-and-statistics.mp3",
         "duration": 25.24,
-        "bytes": 152012
+        "bytes": 152012,
+        "text_sha256": "dce88a2f968df790"
       },
       "zh": {
         "file": "zh/part-life-and-statistics.mp3",
         "duration": 19.88,
-        "bytes": 119900
+        "bytes": 119900,
+        "text_sha256": "86ce0b95dfb3e2f2"
       }
     },
     "part-consciousness": {
       "en": {
         "file": "en/part-consciousness.mp3",
         "duration": 23.55,
-        "bytes": 141932
+        "bytes": 141932,
+        "text_sha256": "6594e0fd8355ec80"
       },
       "zh": {
         "file": "zh/part-consciousness.mp3",
         "duration": 20.15,
-        "bytes": 121484
+        "bytes": 121484,
+        "text_sha256": "eba90e210aedef4f"
       }
     },
     "part-intelligence": {
       "en": {
         "file": "en/part-intelligence.mp3",
         "duration": 26.18,
-        "bytes": 157628
+        "bytes": 157628,
+        "text_sha256": "6b66ada8cd8df5c2"
       },
       "zh": {
         "file": "zh/part-intelligence.mp3",
         "duration": 19.97,
-        "bytes": 120332
+        "bytes": 120332,
+        "text_sha256": "eaafbdfa997c8cdd"
       }
     },
     "part-economics": {
       "en": {
         "file": "en/part-economics.mp3",
         "duration": 25.96,
-        "bytes": 156332
+        "bytes": 156332,
+        "text_sha256": "ad378a29c7437dc7"
       },
       "zh": {
         "file": "zh/part-economics.mp3",
         "duration": 19.23,
-        "bytes": 116012
+        "bytes": 116012,
+        "text_sha256": "2aa1fd9f5f9ab3a8"
       }
     },
     "part-state-and-collective": {
       "en": {
         "file": "en/part-state-and-collective.mp3",
         "duration": 25.49,
-        "bytes": 153596
+        "bytes": 153596,
+        "text_sha256": "2da0c590bcd12ed2"
       },
       "zh": {
         "file": "zh/part-state-and-collective.mp3",
         "duration": 22.22,
-        "bytes": 133868
+        "bytes": 133868,
+        "text_sha256": "7e195bb06da7aa90"
       }
     },
     "part-morality": {
       "en": {
         "file": "en/part-morality.mp3",
         "duration": 23.91,
-        "bytes": 144092
+        "bytes": 144092,
+        "text_sha256": "997a060bcd0b63d4"
       },
       "zh": {
         "file": "zh/part-morality.mp3",
         "duration": 24.17,
-        "bytes": 145676
+        "bytes": 145676,
+        "text_sha256": "d82961578d370f23"
       }
     },
     "part-meaning-and-transcendence": {
       "en": {
         "file": "en/part-meaning-and-transcendence.mp3",
         "duration": 24.17,
-        "bytes": 145676
+        "bytes": 145676,
+        "text_sha256": "ff21c74e3928a945"
       },
       "zh": {
         "file": "zh/part-meaning-and-transcendence.mp3",
         "duration": 20.96,
-        "bytes": 126380
+        "bytes": 126380,
+        "text_sha256": "e4cc2529b2bb8284"
       }
     },
     "part-knowledge-and-learning": {
       "en": {
         "file": "en/part-knowledge-and-learning.mp3",
         "duration": 24.51,
-        "bytes": 147692
+        "bytes": 147692,
+        "text_sha256": "76bdcb9ad1ebdc1b"
       },
       "zh": {
         "file": "zh/part-knowledge-and-learning.mp3",
         "duration": 21.07,
-        "bytes": 126956
+        "bytes": 126956,
+        "text_sha256": "5f6c0224d0c369f6"
       }
     },
     "part-success-and-the-self": {
       "en": {
         "file": "en/part-success-and-the-self.mp3",
         "duration": 24.62,
-        "bytes": 148268
+        "bytes": 148268,
+        "text_sha256": "55bb5dd391e731c7"
       },
       "zh": {
         "file": "zh/part-success-and-the-self.mp3",
         "duration": 18.63,
-        "bytes": 112412
+        "bytes": 112412,
+        "text_sha256": "ef251ec94c8eff3f"
       }
     },
     "part-tools-and-progress": {
       "en": {
         "file": "en/part-tools-and-progress.mp3",
         "duration": 25.07,
-        "bytes": 151004
+        "bytes": 151004,
+        "text_sha256": "d95792151b1fc5fc"
       },
       "zh": {
         "file": "zh/part-tools-and-progress.mp3",
         "duration": 23.03,
-        "bytes": 138764
+        "bytes": 138764,
+        "text_sha256": "bf400da27a97fd2f"
       }
     },
     "index": {
       "en": {
         "file": "en/index.mp3",
         "duration": 24.21,
-        "bytes": 145820
+        "bytes": 145820,
+        "text_sha256": "5f1585fc99ca4497"
       },
       "zh": {
         "file": "zh/index.mp3",
         "duration": 19.66,
-        "bytes": 118460
+        "bytes": 118460,
+        "text_sha256": "5506a4cc162d032e"
       }
     },
     "enter": {
       "en": {
         "file": "en/enter.mp3",
         "duration": 22.76,
-        "bytes": 137180
+        "bytes": 137180,
+        "text_sha256": "3dab38e7fdccc012"
       },
       "zh": {
         "file": "zh/enter.mp3",
         "duration": 22.74,
-        "bytes": 137036
+        "bytes": 137036,
+        "text_sha256": "3d8b5fdce7461c87"
       }
     }
   }

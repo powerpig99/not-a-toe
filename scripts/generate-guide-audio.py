@@ -13,6 +13,7 @@ Outputs:
 import argparse
 import base64
 import concurrent.futures
+import hashlib
 import json
 import os
 import subprocess
@@ -27,12 +28,13 @@ OUT_DIR = ROOT / "assets" / "audio" / "guide"
 KOKORO_MODEL = Path.home() / ".cache" / "hyperframes" / "tts" / "models" / "kokoro-v1.0.onnx"
 KOKORO_VOICES = Path.home() / ".cache" / "hyperframes" / "tts" / "voices" / "voices-v1.0.bin"
 VOXCPM_VENV = Path(os.environ.get("FB_VOICE_VENV", str(Path.home() / "Projects" / "brief" / "tools" / "voice" / ".venv")))
-VOXCPM_REF = Path(os.environ.get("FB_VOICE_REF", str(Path.home() / "Projects" / "brief" / "ref")))
+DEFAULT_VOXCPM_REF = ROOT / "studio" / "kits" / "shared" / "voice" / "voxcpm_ref_zh_cn"
+VOXCPM_REF = Path(os.environ.get("GUIDE_VOXCPM_REF", str(DEFAULT_VOXCPM_REF)))
 VOXCPM_TOOLS = Path.home() / "Projects" / "brief" / "pipeline" / "tools"
 
 VOICES = {
     "en": "bm_george",
-    "zh": "voxcpm2-demo-zh-cn",
+    "zh": "voxcpm2-demo-zh-cn-ref",
 }
 
 ENGINES = {
@@ -44,6 +46,24 @@ KOKORO_SPEED = 0.96
 VOXCPM_SEEDS = [7, 11, 13, 17, 23, 29]
 VOXCPM_DEFAULT_STYLE = "(沉稳温和的男声，语速平缓从容，断句自然连贯)"
 VOXCPM_F0_RANGE = (100.0, 175.0)
+VOXCPM_ZH_CN_URL = "https://openbmb.github.io/voxcpm2-demopage/audio/language/zh_cn.wav"
+VOXCPM_ZH_CN_SHA256 = "a60bf2903e685dec5b3bba656548e9d89a1002d00feea3b65962e2b3ce809dfc"
+
+
+def ensure_voxcpm_ref(ref_dir: Path) -> Path:
+    clip = ref_dir / "man.zh.wav"
+    if clip.exists() and clip.stat().st_size > 10000:
+        return clip
+    if ref_dir != DEFAULT_VOXCPM_REF:
+        raise SystemExit(f"VoxCPM2 reference clip missing: {clip}")
+    print(f"[voxcpm2] Bootstrapping verified zh_cn reference clip into {clip}...", flush=True)
+    ref_dir.mkdir(parents=True, exist_ok=True)
+    data = urllib.request.urlopen(VOXCPM_ZH_CN_URL, timeout=30).read()
+    sha = hashlib.sha256(data).hexdigest()
+    if sha != VOXCPM_ZH_CN_SHA256:
+        raise SystemExit(f"Downloaded zh_cn.wav sha256 mismatch: {sha} != {VOXCPM_ZH_CN_SHA256}")
+    clip.write_bytes(data)
+    return clip
 
 STYLE_PROMPTS = {
     "en": (
@@ -423,8 +443,7 @@ def synth_voxcpm_batch(
     backcheck_py = VOXCPM_TOOLS / "backcheck_mlx.py"
     if not voice_py.exists():
         raise SystemExit(f"VoxCPM2 venv python missing: {voice_py}")
-    if not (ref_dir / "man.zh.wav").exists():
-        raise SystemExit(f"VoxCPM2 reference clip missing: {ref_dir / 'man.zh.wav'}")
+    ensure_voxcpm_ref(ref_dir)
     if mode == "continuation" and not (ref_dir / "voice.json").exists():
         raise SystemExit(f"VoxCPM2 prompt transcript missing: {ref_dir / 'voice.json'}")
 
@@ -554,9 +573,27 @@ def synth_voxcpm_batch(
     return [out_results[sid] for sid, _, _ in jobs]
 
 
+def text_hash(text: str) -> str:
+    return hashlib.sha256(text.strip().encode("utf-8")).hexdigest()[:16]
+
+
+def load_existing_manifest() -> dict:
+    mpath = OUT_DIR / "manifest.json"
+    if not mpath.exists():
+        return {}
+    try:
+        return json.loads(mpath.read_text(encoding="utf-8"))
+    except Exception:
+        return {}
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--force", action="store_true", help="Regenerate existing MP3s")
+    parser.add_argument("--force", action="store_true", help="Regenerate targeted MP3s even if already present and hash-matched")
+    parser.add_argument("--sync", action="store_true", help="Regenerate only slides whose script text_sha256 changed or whose MP3 is missing")
+    parser.add_argument("--check-sync", action="store_true", help="Read-only check: report slides whose script differs from manifest.json (exit 1 if stale)")
+    parser.add_argument("--stamp-manifest", action="store_true", help="Stamp current script text_sha256 onto existing manifest.json without regenerating MP3s")
+    parser.add_argument("--slides", default="", help="Comma-separated slide IDs to target (default: all 21 slides)")
     parser.add_argument("--lang", choices=["en", "zh", "all"], default="all", help="Which language(s) to regenerate")
     parser.add_argument("--en-voice", default=VOICES["en"], help="Kokoro voice for English (default: bm_george)")
     parser.add_argument("--en-speed", type=float, default=KOKORO_SPEED, help="Kokoro speech speed for English")
@@ -567,31 +604,83 @@ def main() -> None:
     parser.add_argument("--voxcpm-scratch", type=Path, default=None, help="Optional scratch dir to cache VoxCPM2 WAV takes")
     args = parser.parse_args()
 
+    valid_ids = {sid for sid, _, _ in SCRIPTS}
+    target_ids = valid_ids
+    if args.slides.strip():
+        target_ids = {s.strip() for s in args.slides.split(",") if s.strip()}
+        unknown = sorted(target_ids - valid_ids)
+        if unknown:
+            raise SystemExit(f"Unknown slide ID(s): {', '.join(unknown)}")
+
     for slide_id, _en, zh in SCRIPTS:
         hits = [w for w in BANNED_ZH if w in zh]
         if hits:
             raise SystemExit(f"Banned Chinese word(s) {hits} in slide '{slide_id}'")
     print(f"Audited {len(SCRIPTS)} EN + {len(SCRIPTS)} ZH scripts: 0 banned Chinese words.", flush=True)
 
+    prev_manifest = load_existing_manifest()
+    prev_slides = prev_manifest.get("slides", {})
+
+    def needs_regen(lang: str, sid: str, text: str) -> bool:
+        if sid not in target_ids or args.lang not in (lang, "all"):
+            return False
+        if args.force:
+            return True
+        dest = OUT_DIR / lang / f"{sid}.mp3"
+        if not dest.exists() or dest.stat().st_size <= 8000:
+            return True
+        if args.sync:
+            prev_hash = prev_slides.get(sid, {}).get(lang, {}).get("text_sha256")
+            if prev_hash and prev_hash != text_hash(text):
+                return True
+        return False
+
+    if args.check_sync:
+        stale = []
+        for sid, en_text, zh_text in SCRIPTS:
+            for lang, txt in (("en", en_text), ("zh", zh_text)):
+                if sid not in target_ids or args.lang not in (lang, "all"):
+                    continue
+                dest = OUT_DIR / lang / f"{sid}.mp3"
+                prev_hash = prev_slides.get(sid, {}).get(lang, {}).get("text_sha256")
+                cur_hash = text_hash(txt)
+                if not dest.exists() or dest.stat().st_size <= 8000:
+                    stale.append(f"{lang}/{sid} (missing)")
+                elif prev_hash != cur_hash:
+                    stale.append(f"{lang}/{sid} (hash {prev_hash or 'unstamped'} != {cur_hash})")
+        if stale:
+            print(f"STALE ({len(stale)}): " + ", ".join(stale), flush=True)
+            sys.exit(1)
+        print("IN_SYNC: all targeted guide audio tracks match scripts and manifest.", flush=True)
+        return
+
     results = []
+    if args.stamp_manifest:
+        for sid, _en_text, _zh_text in SCRIPTS:
+            for lang in ("en", "zh"):
+                dest = OUT_DIR / lang / f"{sid}.mp3"
+                if not dest.exists():
+                    raise SystemExit(f"Cannot stamp missing MP3: {dest}")
+                results.append((lang, sid, probe_duration(dest), dest.stat().st_size))
+    else:
+        # 1. English via local Kokoro ONNX (bm_george, British English)
+        en_jobs = [(sid, en_text, needs_regen("en", sid, en_text)) for sid, en_text, _ in SCRIPTS]
+        results.extend(synth_kokoro_batch(en_jobs, voice=args.en_voice, speed=args.en_speed))
 
-    # 1. English via local Kokoro ONNX (bm_george, British English)
-    en_jobs = [(sid, en_text, args.force and args.lang in ("en", "all")) for sid, en_text, _ in SCRIPTS]
-    results.extend(synth_kokoro_batch(en_jobs, voice=args.en_voice, speed=args.en_speed))
-
-    # 2. Chinese via local VoxCPM2 + mlx_whisper backcheck + F0 speaker gate
-    zh_jobs = [(sid, zh_text, args.force and args.lang in ("zh", "all")) for sid, _, zh_text in SCRIPTS]
-    results.extend(
-        synth_voxcpm_batch(
-            zh_jobs,
-            ref_dir=args.voxcpm_ref,
-            voice_label=args.zh_voice,
-            mode=args.voxcpm_mode,
-            style=args.zh_style,
-            scratch_dir=args.voxcpm_scratch,
+        # 2. Chinese via local VoxCPM2 + mlx_whisper backcheck + F0 speaker gate
+        zh_jobs = [(sid, zh_text, needs_regen("zh", sid, zh_text)) for sid, _, zh_text in SCRIPTS]
+        results.extend(
+            synth_voxcpm_batch(
+                zh_jobs,
+                ref_dir=args.voxcpm_ref,
+                voice_label=args.zh_voice,
+                mode=args.voxcpm_mode,
+                style=args.zh_style,
+                scratch_dir=args.voxcpm_scratch,
+            )
         )
-    )
 
+    text_map = {sid: {"en": en_text, "zh": zh_text} for sid, en_text, zh_text in SCRIPTS}
     manifest = {
         "engines": ENGINES,
         "voices": {"en": args.en_voice, "zh": args.zh_voice},
@@ -605,6 +694,7 @@ def main() -> None:
             "file": f"{lang}/{sid}.mp3",
             "duration": dur,
             "bytes": size,
+            "text_sha256": text_hash(text_map[sid][lang]),
         }
         total_bytes += size
         total_dur[lang] += dur
