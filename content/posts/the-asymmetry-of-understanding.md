@@ -12,9 +12,9 @@ Understanding is an open potential every Mind carries, yet the moment it is turn
 
 Self-distinguishing activity occurs — uncaused, unceasing. Every discrete act of distinguishing draws a boundary from a specific locus and leaves a trace, while interpretation lags at least one step behind the generating edge. In ordinary speech, "understanding" and "being understood" appear to be symmetric halves of a single exchange, differing only in who speaks and who listens. Traced from the locus of the observer, however, they move in opposite causal directions and place the criterion of coherence on opposite sides of the boundary.
 
-去理解，是从第一人称边缘向外延展的运动。心智将保留的图像作为暂时的工具，越过现有的周界，投向物理现象、陌生的技艺或另一个鲜活中心的痕迹历史。每当相遇产生既有框架无法吸收的摩擦，中心便登记这一错位并重绘自身的坐标，在区分场中增添一条新的正交区分（+1）。由于因果与第一人称视角在发起的所在处保持相连，实在依然是未闭合的连续统，每一处异常都成为扩展的材料。
+去理解，是从第一人称边缘向外延展的运动。心智将保留的图像作为暂时的工具，越过现有的周界，投向物理现象、陌生的技艺或另一个鲜活中心的痕迹历史。每当相遇产生既有框架无法吸收的摩擦，中心便登记这一错位并重绘自身的坐标，在区分场中增添一条新的正交区分（+1）。由于因果与第一人称视角在发起的所在处保持相连，实在依然处于未闭合的展开之中，每一处异常都成为扩展的材料。
 
-To understand is an outward movement from the first-person edge. The Mind uses its retained image as a provisional instrument, reaching past its current perimeter toward physical phenomena, an unfamiliar craft, or the trace-history of another living center. Whenever the encounter produces friction that the existing frame cannot absorb, the center registers the mismatch and re-renders its own coordinates, adding a new orthogonal distinction (+1) to its field. Because causality and the first-person perspective remain joined at the initiating locus, reality stays an unclosed continuum and every anomaly becomes material for expansion.
+To understand is an outward movement from the first-person edge. The Mind uses its retained image as a provisional instrument, reaching past its current perimeter toward physical phenomena, an unfamiliar craft, or the trace-history of another living center. Whenever the encounter produces friction that the existing frame cannot absorb, the center registers the mismatch and re-renders its own coordinates, adding a new orthogonal distinction (+1) to its field. Because causality and the first-person perspective remain joined at the initiating locus, reality stays an unclosed unfolding and every anomaly becomes material for expansion.
 
 索求被理解，则将这一向量倒转过来。中心不再作为边缘上的探索者行动，而是将自身当作一件等待外部核验的客体。它要求自身超高维的内在境况——数十年累积的痕迹、未曾言说的张力以及当下的因果抉择——在另一个中心有限的坐标框架内毫无损耗地复刻出来。一旦把自身的平衡系于第二处所在是否如实映照出那幅保留的自我形象，中心便把锚点挪进了一片既不由自己居留、也不由自己驾驭的投射之中。
 
@@ -26,9 +26,9 @@ To demand to be understood reverses that vector. Instead of acting as an explore
 
 That the obsession with being understood breeds endless misreading is not a contingent failure of goodwill; as [The Shadow and the Infinite](../the-shadow-and-the-infinite/) traces, it is the structural consequence of projecting a high-dimensional activity onto a lower-dimensional surface. No two centers occupy the same coordinate origin. Even where biological hardware is shared, each center's locus is shaped by an irreplicable sequence of prior distinctions, capacity limits, and historical imprints. The receiving coordinate axes of another person are therefore always tilted relative to one's own.
 
-与此同时，鲜活的体验是持续不息的连续统，而中心之间的通道只容纳离散且高度压缩的痕迹——寥寥数语、一行文字或一个短暂的手势。从当下的第一人称场步入语言，会舍弃绝大多数正交自由度，犹如将连绵的山脉压平为低分辨率的剪影。正如[观察者的隐身与无损传递的妄念](../the-invisible-observer-and-the-delusion-of-lossless-transmission/)所确立的，这种损耗内嵌在每一次跨越不同所在的传递之中，而认清没有任何信号能够原封不动地抵达，恰恰是在两端护持清明的前提。
+与此同时，鲜活的体验展开为一片开放、超高维的场域，其间离散区分持续不息，而中心之间的通道只容纳稀疏且高度压缩的痕迹——寥寥数语、一行文字或一个短暂的手势。从当下的第一人称场步入语言，会舍弃绝大多数正交自由度，犹如将连绵的山脉压平为低分辨率的剪影。正如[观察者的隐身与无损传递的妄念](../the-invisible-observer-and-the-delusion-of-lossless-transmission/)所确立的，这种损耗内嵌在每一次跨越不同所在的传递之中，而认清没有任何信号能够原封不动地抵达，恰恰是在两端护持清明的前提。
 
-At the same time, lived experience is an ongoing continuum, whereas the channel between centers admits only discrete, heavily compressed traces — a handful of spoken sentences, a line of text, a brief gesture. Stepping from the immediate first-person field into language discards the vast majority of orthogonal degrees of freedom, much like flattening a mountain range into a low-resolution silhouette. As [The Invisible Observer and the Delusion of Lossless Transmission](../the-invisible-observer-and-the-delusion-of-lossless-transmission/) establishes, this loss is built into every transmission across distinct loci, and recognizing that no signal arrives intact is what preserves clarity at both ends.
+At the same time, lived experience unfolds as an open, ultra-high-dimensional field of unceasing discrete distinctions, whereas the channel between centers admits only sparse, heavily compressed traces — a handful of spoken sentences, a line of text, a brief gesture. Stepping from the immediate first-person field into language discards the vast majority of orthogonal degrees of freedom, much like flattening a mountain range into a low-resolution silhouette. As [The Invisible Observer and the Delusion of Lossless Transmission](../the-invisible-observer-and-the-delusion-of-lossless-transmission/) establishes, this loss is built into every transmission across distinct loci, and recognizing that no signal arrives intact is what preserves clarity at both ends.
 
 在空间几何中，将同一个三维形体投射到二维平面上，随着入射角度的偏移，会生出不可胜数的形状：圆柱体从一端投下圆盘、从侧面投下矩形，立方体正面投下正方形、沿对角线投下六边形，而一只张开的手掌在掠射光下则会投下利爪般的阴影。同样，当言说者索求被理解时，倾听者当下的疲惫、早先的创伤、功利习惯或教条分类，决定了言说者的信号从哪个角度被切开。一段坦诚的流露顺着不安全感的轴线读取，会登记为算计；一条独立的轨迹顺着教条的轴线读取，会登记为背叛；一次联结的呼求在容量超载之下读取，会登记为侵扰。由于接收框架可能的朝向不可穷尽，且几乎每一个低维切片都会丢掉维系发出者原意的那条轴线，可能失真的空间没有上限。一个中心越是急切地恳求别人按它看自己的方式看待它，它往有损投射里送入的表面积就越大。
 
@@ -40,14 +40,14 @@ In spatial geometry, projecting a single three-dimensional body onto a two-dimen
 
 Once a center binds its stability to being accurately mirrored by another, the geometric skew between loci ignites a self-reinforcing escalation loop. Every utterance sent outward returns by way of the listener's response, carrying the friction of what did not transfer. As [The Returning Signal and Its Claim](../the-returning-signal-and-its-claim/) traces, that returning contact can be read from two sides: facing outward as the shape of the carrier, or facing inward as a measure of what the initiator's own formulation left open and where the initiator lodged its expectation. A center fused with its retained self-image refuses the inward claim. Treating the discrepancy as a defect in the mirror, it enters the friction under the carrier's name and faults the other person for failing to understand.
 
-为了迫使镜子对齐，感到委屈的发出者不断升级符号吞吐量——抛出更长的解释、更尖锐的辩白与更激烈的宣告。然而，向一个倾斜的坐标框架倾倒更多离散词元，无法复原未经投射的连续统。这只会为接收中心提供更多破碎的表面，任其顺着同一组倾斜的坐标轴切开，在每一轮回合中叠加失真，直到坐标之间的结构性差异被体验为蓄意的恶意。
+为了迫使镜子对齐，感到委屈的发出者不断升级符号吞吐量——抛出更长的解释、更尖锐的辩白与更激烈的宣告。然而，向一个倾斜的坐标框架倾倒更多压缩词元，无法复原未经投射的鲜活场域。这只会为接收中心提供更多破碎的表面，任其顺着同一组倾斜的坐标轴切开，在每一轮回合中叠加失真，直到坐标之间的结构性差异被体验为蓄意的恶意。
 
 ```mermaid
 flowchart TD
     subgraph S_Origin["第一人称发起所在"]
         direction TB
         M_Edge["超高维鲜活场：未投射的意向与历史"]
-        M_Signal["离散信号：压缩为言辞与行动的有损表达"]
+        M_Signal["外化信号：压缩为言辞与行动的有损表达"]
         M_Edge --> M_Signal
     end
     subgraph S_Screen["接收坐标框架（他人或工具）"]
@@ -89,14 +89,14 @@ flowchart TD
     style U_Open fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-To force the mirror into alignment, the aggrieved sender escalates symbolic throughput — issuing longer explanations, sharper justifications, and more emphatic declarations. Yet pouring additional discrete tokens into a tilted coordinate frame cannot restore the unprojected continuum. It only supplies the receiving center with more fragmented surfaces to slice along the same tilted axes, compounding the distortion at every turn until a structural difference of coordinates is experienced as deliberate malice.
+To force the mirror into alignment, the aggrieved sender escalates symbolic throughput — issuing longer explanations, sharper justifications, and more emphatic declarations. Yet pouring additional compressed tokens into a tilted coordinate frame cannot restore the unprojected lived field. It only supplies the receiving center with more fragmented surfaces to slice along the same tilted axes, compounding the distortion at every turn until a structural difference of coordinates is experienced as deliberate malice.
 
 ```mermaid
 flowchart TD
     subgraph S_Origin["First-Person Initiating Locus"]
         direction TB
         M_Edge["Ultra-High-Dimensional Lived Field: Unprojected intent & history"]
-        M_Signal["Discrete Signal: Lossy compression into words & actions"]
+        M_Signal["Externalized Signal: Lossy compression into words & actions"]
         M_Edge --> M_Signal
     end
     subgraph S_Screen["Receiving Coordinate Frame (Human or Instrument)"]
