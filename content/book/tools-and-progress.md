@@ -62,3 +62,4 @@ The essays in this part trace the architecture of the codebase as externalized m
 - [共享的边界，而非共享的语境 / Shared Boundaries, Not Shared Context](../../posts/shared-boundaries-not-shared-context/)
 - [进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance](../../posts/the-residue-of-progress-and-the-reactivity-of-resistance/)
 - [加速替换与形象滞后 / Accelerating Replacement and Image Lag](../../posts/accelerating-replacement-and-image-lag/)
+- [干预的比例退隐与因果锚点的不移 / The Proportional Recession of Intervention and the Immovable Causal Anchor](../../posts/the-proportional-recession-of-intervention-and-the-immovable-causal-anchor/)
