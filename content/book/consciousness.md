@@ -56,3 +56,4 @@ The essays in this part explore the hard problem of consciousness, sensing prior
 - [座位之内的无限进程 / Infinity Within the Seat](../../posts/infinity-within-the-seat/)
 - [硅基错位的三重区分 / Three Distinctions in the Silicon Misalignment](../../posts/three-distinctions-in-the-silicon-misalignment/)
 - [排序的投影与自我意识的退隐 / The Projection of Ranking and the Recession of Self-Awareness](../../posts/the-projection-of-ranking-and-the-recession-of-self-awareness/)
+- [独立世界预设的放下与开放实践探究 / Dropping the Independent-World Presumption and Open Practical Inquiry](../../posts/dropping-the-independent-world-presumption-and-open-practical-inquiry/)

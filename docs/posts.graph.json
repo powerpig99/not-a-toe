@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-28T09:53:02.052Z",
+    "generated_at": "2026-11-28T11:30:17.337Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -80,6 +80,7 @@
       "content/posts/dimensions-are-projections.md": "8894440c7ea6",
       "content/posts/displayed-solitude-is-residual-after-secured-connection.md": "084dfa083081",
       "content/posts/distillation-compression-agency.md": "2ef00f33208b",
+      "content/posts/dropping-the-independent-world-presumption-and-open-practical-inquiry.md": "cc7a2a062fba",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "b64fa4420bd4",
       "content/posts/dynamic-resnet-of-skill-loops.md": "36a5320147e8",
       "content/posts/e-shi-feng-bi-de-shan.md": "035dbeba3f38",
@@ -486,9 +487,9 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "cc867c93a1a5",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
       "content/book/causality.md": "359ae27fa5cb",
-      "content/book/consciousness.md": "dd669bf8563f",
+      "content/book/consciousness.md": "53555e133305",
       "content/book/economics.md": "bf65b7dfb769",
-      "content/book/index-of-premises.md": "f4fdcbe9362d",
+      "content/book/index-of-premises.md": "e0262ed0ebdd",
       "content/book/intelligence.md": "ff7c08b8ecea",
       "content/book/knowledge-and-learning.md": "573ddb01c140",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -503,16 +504,16 @@
       "content/book/tools-and-progress.md": "9cd5a59cc22e"
     },
     "stats": {
-      "posts": 477,
-      "edges": 14958,
-      "unique_directed": 7359,
+      "posts": 478,
+      "edges": 14986,
+      "unique_directed": 7373,
       "missing_targets": 0,
-      "one_way": 1705,
+      "one_way": 1719,
       "isolated": 0,
-      "posts_with_outbound": 477,
+      "posts_with_outbound": 478,
       "book_pages": 16,
-      "book_edges": 1745,
-      "posts_reached_by_book": 477
+      "book_edges": 1753,
+      "posts_reached_by_book": 478
     }
   },
   "hubs_in": [
@@ -530,7 +531,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 103
+      "in_degree": 104
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -538,7 +539,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 85
+      "in_degree": 86
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -1233,7 +1234,7 @@
       "path": "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md",
       "title": "凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable",
       "hash": "e1052154972b",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 10,
       "links_out": [
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
@@ -1629,7 +1630,7 @@
       "path": "content/posts/causality-and-the-irreducible-prior.md",
       "title": "因果与不可化约的先在 / Causality and the Irreducible Prior",
       "hash": "68527fca91ac",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 14,
       "links_out": [
         "causality-all-the-way",
@@ -2500,7 +2501,7 @@
       "path": "content/posts/curiosity-has-no-final-form.md",
       "title": "好奇没有最终的形态 / Curiosity Has No Final Form",
       "hash": "b8c3260cb644",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 15,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -2755,6 +2756,32 @@
       ]
     },
     {
+      "id": "post:dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "kind": "post",
+      "slug": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "path": "content/posts/dropping-the-independent-world-presumption-and-open-practical-inquiry.md",
+      "title": "独立世界预设的放下与开放实践探究 / Dropping the Independent-World Presumption and Open Practical Inquiry",
+      "hash": "cc7a2a062fba",
+      "in_degree": 0,
+      "out_degree": 14,
+      "links_out": [
+        "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+        "the-closed-loop-of-representation",
+        "causality-and-the-irreducible-prior",
+        "eternally-wrong-questions-that-haunt-practice",
+        "objects-are-stabilized-relationships",
+        "infinity-within-the-seat",
+        "the-illusion-of-the-shared-sandbox",
+        "shared-consciousness-is-intersecting-individualities",
+        "the-hard-problem-of-consciousness-is-consistent-with-learning",
+        "openness-is-consistency",
+        "the-scaffolding-we-forget",
+        "the-unclosable-trace",
+        "curiosity-has-no-final-form",
+        "reality-is-the-minds-ongoing-realization"
+      ]
+    },
+    {
       "id": "post:du-zhongwen-zhexue-jianshi-you-gan",
       "kind": "post",
       "slug": "du-zhongwen-zhexue-jianshi-you-gan",
@@ -2948,7 +2975,7 @@
       "path": "content/posts/eternally-wrong-questions-that-haunt-practice.md",
       "title": "终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice",
       "hash": "1e712c17ce49",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 10,
       "links_out": [
         "you-cant-benchmark-the-fluid",
@@ -4163,7 +4190,7 @@
       "path": "content/posts/infinity-within-the-seat.md",
       "title": "座位之内的无限进程 / Infinity Within the Seat",
       "hash": "f5aea96eb65b",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 22,
       "links_out": [
         "one-cannot-escape-ones-own-mind",
@@ -5270,7 +5297,7 @@
       "path": "content/posts/objects-are-stabilized-relationships.md",
       "title": "对象是被稳定化的关系 / Objects Are Stabilized Relationships",
       "hash": "304c3653b399",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 9,
       "links_out": [
         "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
@@ -5569,7 +5596,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
       "hash": "de9e7ea03986",
-      "in_degree": 103,
+      "in_degree": 104,
       "out_degree": 90,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -6345,7 +6372,7 @@
       "path": "content/posts/reality-is-the-minds-ongoing-realization.md",
       "title": "现实是心智持续的实现 / Reality Is the Mind's Ongoing Realization",
       "hash": "f1614ed39064",
-      "in_degree": 27,
+      "in_degree": 28,
       "out_degree": 28,
       "links_out": [
         "the-question-that-installs-the-war",
@@ -6790,7 +6817,7 @@
       "path": "content/posts/shared-consciousness-is-intersecting-individualities.md",
       "title": "共享意识是个体性的交集 / Shared Consciousness Is Intersecting Individualities",
       "hash": "468f5aefde9b",
-      "in_degree": 19,
+      "in_degree": 20,
       "out_degree": 15,
       "links_out": [
         "shared-humanity-is-never-shared",
@@ -8002,7 +8029,7 @@
       "path": "content/posts/the-closed-loop-of-representation.md",
       "title": "表征的闭环 / The Closed Loop of Representation",
       "hash": "208191522610",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 17,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
@@ -9373,7 +9400,7 @@
       "path": "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md",
       "title": "意识的难题与学习相容 / The Hard Problem of Consciousness Is Consistent with Learning",
       "hash": "fc38834a0c09",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 17,
       "links_out": [
         "openness-is-consistency",
@@ -9573,7 +9600,7 @@
       "path": "content/posts/the-illusion-of-the-shared-sandbox.md",
       "title": "共享沙盒的幻象 / The Illusion of the Shared Sandbox",
       "hash": "7ee1a3a906bf",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 11,
       "links_out": [
         "the-causal-inversion-of-partnership",
@@ -11733,7 +11760,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "遗忘的脚手架 / The Scaffolding We Forget",
       "hash": "c1628ffd356a",
-      "in_degree": 85,
+      "in_degree": 86,
       "out_degree": 71,
       "links_out": [
         "the-extendable-horizon",
@@ -12420,7 +12447,7 @@
       "path": "content/posts/the-unclosable-trace.md",
       "title": "无法闭合的痕迹 / The Unclosable Trace",
       "hash": "12bf152789c6",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 17,
       "links_out": [
         "the-geometry-of-mind",
@@ -28454,6 +28481,174 @@
       "to": "lossless-knowledge-of-an-open-field-is-incoherent",
       "rel": "points_to",
       "label": "Lossless Knowledge of an Open Field Is Incoherent"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "rel": "points_to",
+      "label": "凡可言说皆不可言说之产物"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
+      "label": "表征的闭环"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "rel": "points_to",
+      "label": "All That Can Be Spoken Is the Product of the Unspeakable"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
+      "label": "The Closed Loop of Representation"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "causality-and-the-irreducible-prior",
+      "rel": "points_to",
+      "label": "因果与不可化约的先在"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "causality-and-the-irreducible-prior",
+      "rel": "points_to",
+      "label": "Causality and the Irreducible Prior"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "eternally-wrong-questions-that-haunt-practice",
+      "rel": "points_to",
+      "label": "终极错问与实践萦绕"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "eternally-wrong-questions-that-haunt-practice",
+      "rel": "points_to",
+      "label": "Eternally Wrong Questions That Haunt Practice"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "objects-are-stabilized-relationships",
+      "rel": "points_to",
+      "label": "对象是被稳定化的关系"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "objects-are-stabilized-relationships",
+      "rel": "points_to",
+      "label": "Objects Are Stabilized Relationships"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "座位之内的无限进程"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "the-illusion-of-the-shared-sandbox",
+      "rel": "points_to",
+      "label": "共享沙盒的幻象"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "shared-consciousness-is-intersecting-individualities",
+      "rel": "points_to",
+      "label": "共享意识是个体性的交集"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "infinity-within-the-seat",
+      "rel": "points_to",
+      "label": "Infinity Within the Seat"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "the-illusion-of-the-shared-sandbox",
+      "rel": "points_to",
+      "label": "The Illusion of the Shared Sandbox"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "shared-consciousness-is-intersecting-individualities",
+      "rel": "points_to",
+      "label": "Shared Consciousness Is Intersecting Individualities"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "意识的难题与学习相容"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "The Hard Problem of Consciousness Is Consistent with Learning"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "the-unclosable-trace",
+      "rel": "points_to",
+      "label": "无法闭合的痕迹"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "the-unclosable-trace",
+      "rel": "points_to",
+      "label": "The Unclosable Trace"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "curiosity-has-no-final-form",
+      "rel": "points_to",
+      "label": "好奇没有最终的形态"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "现实是心智持续的实现"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "curiosity-has-no-final-form",
+      "rel": "points_to",
+      "label": "Curiosity Has No Final Form"
+    },
+    {
+      "from": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality Is the Mind's Ongoing Realization"
     },
     {
       "from": "du-zhongwen-zhexue-jianshi-you-gan",
@@ -103533,8 +103728,8 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "dd669bf8563f",
-        "out_degree": 44
+        "hash": "53555e133305",
+        "out_degree": 45
       },
       {
         "id": "book:economics",
@@ -103551,8 +103746,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "f4fdcbe9362d",
-        "out_degree": 477
+        "hash": "e0262ed0ebdd",
+        "out_degree": 478
       },
       {
         "id": "book:intelligence",
@@ -104149,6 +104344,12 @@
         "to": "the-projection-of-ranking-and-the-recession-of-self-awareness",
         "rel": "collects",
         "label": "排序的投影与自我意识的退隐 / The Projection of Ranking and the Recession of Self-Awareness"
+      },
+      {
+        "from": "book:consciousness",
+        "to": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+        "rel": "collects",
+        "label": "独立世界预设的放下与开放实践探究 / Dropping the Independent-World Presumption and Open Practical Inquiry"
       },
       {
         "from": "book:economics",
@@ -106198,6 +106399,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+        "rel": "collects",
+        "label": "独立世界预设的放下与开放实践探究 / Dropping the Independent-World Presumption and Open Practical Inquiry"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-initial-distinction",
         "rel": "collects",
         "label": "最初的区分 / The Initial Distinction"
@@ -106516,6 +106723,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+        "rel": "collects",
+        "label": "独立世界预设的放下与开放实践探究 / Dropping the Independent-World Presumption and Open Practical Inquiry"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-invisible-first-move",
         "rel": "collects",
         "label": "看不见的第一步 / The Invisible First Move"
@@ -106567,6 +106780,12 @@
         "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
         "rel": "collects",
         "label": "感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+        "rel": "collects",
+        "label": "独立世界预设的放下与开放实践探究 / Dropping the Independent-World Presumption and Open Practical Inquiry"
       },
       {
         "from": "book:index-of-premises",
@@ -110770,6 +110989,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+        "rel": "collects",
+        "label": "独立世界预设的放下与开放实践探究 / Dropping the Independent-World Presumption and Open Practical Inquiry"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-sovereign-blinding",
         "rel": "collects",
         "label": "自愿的致盲 / The Sovereign Blinding"
@@ -110929,6 +111154,12 @@
         "to": "the-proportional-recession-of-intervention-and-the-immovable-causal-anchor",
         "rel": "collects",
         "label": "干预的比例退隐与因果锚点的不移 / The Proportional Recession of Intervention and the Immovable Causal Anchor"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+        "rel": "collects",
+        "label": "独立世界预设的放下与开放实践探究 / Dropping the Independent-World Presumption and Open Practical Inquiry"
       },
       {
         "from": "book:index-of-premises",
@@ -111361,6 +111592,12 @@
         "to": "infinity-within-the-seat",
         "rel": "collects",
         "label": "座位之内的无限进程 / Infinity Within the Seat"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+        "rel": "collects",
+        "label": "独立世界预设的放下与开放实践探究 / Dropping the Independent-World Presumption and Open Practical Inquiry"
       },
       {
         "from": "book:index-of-premises",
@@ -111961,6 +112198,12 @@
         "to": "the-descent-that-doesnt-know-where-its-going",
         "rel": "collects",
         "label": "不知去向何方的梯度下降 / The Descent That Doesn't Know Where It's Going"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "dropping-the-independent-world-presumption-and-open-practical-inquiry",
+        "rel": "collects",
+        "label": "独立世界预设的放下与开放实践探究 / Dropping the Independent-World Presumption and Open Practical Inquiry"
       },
       {
         "from": "book:intelligence",
