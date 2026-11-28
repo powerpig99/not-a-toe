@@ -2,9 +2,9 @@
 
 *无生产则无可持续储存；把协议规则误认作自然稀缺，媒介便冻结资本并依赖持续注入，直至叙事本身成为唯一锚点。 / No sustainable storage without production; mistaking a protocol rule for natural scarcity freezes the medium into capital absorption that depends on continuous injection until the narrative itself is the sole remaining anchor.*
 
-储存价值的可实现度量，不在价格乘以数量的名义总额，而在持有者清算时所能换得的产品与服务。正如[价值、货币与财富的生成机制](../the-generative-mechanics-of-value-money-and-wealth/)所推导，价值生发于第一人称的必要，而非外部的数字清点；名义市值只是将最近一笔边际交易——即[价格是言说，理解是交易](../price-as-utterance-understanding-as-trade/)所追溯的、两个排序相反的订单交错留下的公开残余——外推至全部存量，从不等同于持有者可以同时提取的购买力。对任何缺乏现金流或非货币用途的非生产性资产而言，这一落差在压力之下会不断扩大：订单簿深度有限，持仓集中于少数账户，杠杆又将自愿持有转为强制抛售，使平均实现的出清价格远低于账面数字。更深一层，参与者一旦将最初用以在国家法币轨道之外重夺能动性的开放结算工具，冻结为不可质疑的价值储存正统，这件工具便倒转为一座封闭牢笼——从生产活动中抽离资本，在冻结规则之上将加杠杆的新来者与昔日前沿开拓者两类意欲统治者送上高座，并倚赖持续的资本注入，直至共享信念成为最后仅存的锚点。
+储存价值的可实现度量，不在价格乘以数量的名义总额，而在持有者清算时所能换得的产品与服务。正如[价值、货币与财富的生成机制](../the-generative-mechanics-of-value-money-and-wealth/)所推导，价值生发于第一人称的必要，而非外部的数字清点；名义市值只是将最近一笔边际交易——即[价格是言说，理解是交易](../price-as-utterance-understanding-as-trade/)所追溯的、两个排序相反的订单交错留下的公开残余——外推至全部存量，从不等同于持有者可以同时提取的购买力。对任何缺乏现金流或非货币用途的非生产性资产而言，代币内部并未储存任何价值，拉大这一落差因此无须资本净流出：面对有限的订单簿深度与集中持仓，单是足够的新增流入枯竭，便会将边际成交价向下出清；杠杆则将自愿持有转为强制抛售，使平均实现的出清价格远低于账面数字。更深一层，参与者一旦将最初用以在国家法币轨道之外重夺能动性的开放结算工具，冻结为不可质疑的价值储存正统，这件工具便倒转为一座封闭牢笼——从生产活动中抽离资本，在冻结规则之上将加杠杆的新来者与昔日前沿开拓者两类意欲统治者送上高座，并倚赖持续的资本注入，直至共享信念成为最后仅存的锚点。
 
-The realizable measure of stored value lies not in the nominal product of price multiplied by quantity, but in the goods and services a holder can obtain in exchange upon liquidation. Value originates in first-person necessity rather than an external numerical tally, as [The Generative Mechanics of Value, Money, and Wealth](../the-generative-mechanics-of-value-money-and-wealth/) derives; headline market capitalization merely extends the latest marginal trade—the public residue where two opposing order rankings crossed, as [Price as Utterance, Understanding as Trade](../price-as-utterance-understanding-as-trade/) traces—across the entire stock, never equating to purchasing power that holders can extract simultaneously. For any non-productive asset lacking cash flows or non-monetary use, that gap widens under stress: order-book depth is finite, holdings concentrate across a small tier of accounts, and leverage converts discretionary holding into forced selling, driving the average realized clearing price far below the headline figure. Deeper still, once participants freeze an open settlement instrument adopted to reclaim agency outside state rails into an unchallengeable store-of-value orthodoxy, the tool reverses into a closed cage—draining capital from productive activity, seating aspiring rulers from both leveraged newcomers and former frontier-openers atop the frozen rule, and leaning on continuous capital injection until shared belief is the sole anchor left.
+The realizable measure of stored value lies not in the nominal product of price multiplied by quantity, but in the goods and services a holder can obtain in exchange upon liquidation. Value originates in first-person necessity rather than an external numerical tally, as [The Generative Mechanics of Value, Money, and Wealth](../the-generative-mechanics-of-value-money-and-wealth/) derives; headline market capitalization merely extends the latest marginal trade—the public residue where two opposing order rankings crossed, as [Price as Utterance, Understanding as Trade](../price-as-utterance-understanding-as-trade/) traces—across the entire stock, never equating to purchasing power that holders can extract simultaneously. For any non-productive asset lacking cash flows or non-monetary use, no value is stored inside the token, so widening that gap requires no net capital outflow: a mere depletion of sufficient fresh inflow clears marginal prints downward against finite order-book depth and concentrated holdings, while leverage converts discretionary holding into forced selling and drives the average realized clearing price far below the headline figure. Deeper still, once participants freeze an open settlement instrument adopted to reclaim agency outside state rails into an unchallengeable store-of-value orthodoxy, the tool reverses into a closed cage—draining capital from productive activity, seating aspiring rulers from both leveraged newcomers and former frontier-openers atop the frozen rule, and leaning on continuous capital injection until shared belief is the sole anchor left.
 
 ## 一、 增量效用、资本吸纳与杠杆 / 1. Incremental Utility, Capital Absorption, and Leverage
 
@@ -16,9 +16,9 @@ Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: t
 
 Bitcoin's original utility was incremental. Early adopters took up an open cryptographic medium as a living instrument to reclaim agency outside state fiat rails, executing transfers that existing financial channels handled poorly—cross-border, censorship-resistant, and independent of commercial banks. Early users, builders, and miners realized that incremental settlement utility, and marginal bids rose as adoption broadened. Once price appreciation became the principal attraction, capital inflows shifted from users demanding settlement toward buyers expecting further appreciation. High on-chain fees and limited base-layer throughput during demand surges then priced out many of the small, routine transactions that had supplied the original incremental utility, reinforcing the turn toward larger, longer-horizon custody as participants began crediting value to the artifact rather than to the living activity using it.
 
-单一的价值储存命题于是要求从其他配置中持续抽调净流入资本，方能维系或抬高交换率。生产性企业向客户出售产品与服务，源源不断产生现金流；与之不同，无收益代币自身不生发内部回报，持有者在清算时所能取得的购买力，取决于新进或续接的买方是否愿意让渡生产性资源或对其的索取权。当活态中心放缓或逆转这些流入，曾经抬升边际成交价的同一撮合机制便将其向下出清。杠杆在两个阶段都会加剧效应：上涨期，借入资本扩大边际出价，同时吸走原本可供给有机订单簿深度的自由资本；一旦抵押门槛或融资利率收紧，杠杆持有者随即转为强制卖方。有效市场深度相对于名义市值愈发稀薄，更大比例的账面估值若不大幅压低出清价格，便无从触及。
+单一的价值储存命题于是要求从其他配置中持续抽调净流入资本，方能维系或抬高交换率。生产性企业向客户出售产品与服务，源源不断产生现金流；与之不同，无收益代币自身不生发内部回报，持有者在清算时所能取得的购买力，取决于新进或续接的买方是否愿意让渡生产性资源或对其的索取权。打破估值因此无须资本净流出，也无须大规模蜂拥退出：由于非生产性资产既无替代用途、内部也未储存任何价值，单是足够的新增流入枯竭——即流入降至不足以承接持续的结构性消耗，例如矿工运营与能源开支、借贷与融资持有成本以及日常流动性变现——便已将边际成交价向下出清，并触发杠杆抵押品的强制抛售。杠杆在两个阶段都会加剧效应：上涨期，借入资本扩大边际出价，同时吸走原本可供给有机订单簿深度的自由资本；一旦抵押门槛或融资利率收紧，杠杆便将这一下行出清加速推入逐底竞赛。有效市场深度相对于名义市值愈发稀薄，更大比例的账面估值若不大幅压低出清价格，便无从触及。
 
-A standalone store-of-value thesis then requires continuous net inflows of capital diverted from other deployments to sustain or lift the exchange rate. Unlike a productive enterprise that generates ongoing cash flows from goods and services sold to customers, a non-yielding token produces no internal yield; the purchasing power a holder obtains upon liquidation depends on new or continuing buyers willing to surrender productive resources or claims on them. When living centers slow or reverse those inflows, the same order-matching process that lifted marginal prints clears them downward. Leverage intensifies both phases: borrowed capital expands marginal bids during the climb, absorbs free capital that could otherwise supply organic order-book depth, and converts leveraged holders into forced sellers whenever collateral thresholds or funding rates tighten. Effective market depth thins relative to notional capitalization, leaving larger fractions of paper valuation unreachable without moving clearing prices steeply.
+A standalone store-of-value thesis then requires continuous net inflows of capital diverted from other deployments to sustain or lift the exchange rate. Unlike a productive enterprise that generates ongoing cash flows from goods and services sold to customers, a non-yielding token produces no internal yield; the purchasing power a holder obtains upon liquidation depends on new or continuing buyers willing to surrender productive resources or claims on them. Breaking the valuation therefore requires no net capital outflow and no mass rush to exit: because no value is stored inside a non-productive asset without alternative use, a mere depletion of sufficient fresh inflow—inflows dropping below what is needed to absorb ongoing structural drains such as miner operating and energy outlays, borrowing and funding carrying costs, and routine liquidity sales—already clears marginal prints downward and trips leveraged collateral into forced selling. Leverage intensifies both phases: borrowed capital expands marginal bids during the climb, absorbs free capital that could otherwise supply organic order-book depth, and accelerates that downward clearing into a race to the bottom whenever collateral thresholds or funding rates tighten. Effective market depth thins relative to notional capitalization, leaving larger fractions of paper valuation unreachable without moving clearing prices steeply.
 
 ## 二、 协议规则的稀缺、通用性倒置与持续机会成本 / 2. Protocol-Rule Scarcity, the Generality Reversal, and Continuous Opportunity Cost
 
@@ -152,9 +152,9 @@ A logical tension constitutes no proof of collapse on any fixed horizon. Shared 
 
 This places cryptographic breakability in its exact causal slot. Whether AI-driven mathematics threatens current encryption or developers coordinate an upgrade to stronger primitives alters nothing in the underlying economic self-contradiction: a non-yielding storage medium generates no cash flows and relies on ongoing capital injection from productive activities regardless of its cipher. Cryptographic breakability enters the causal chain at a different point: it shakes the foundational belief sustaining the store-of-value orthodoxy. In a leveraged cage whose valuation rests on collective ledger acceptance rather than an independent earnings stream or consensus-independent non-monetary utility, shaking that foundational belief—even prior to a live cryptographic breach—can prompt concentrated holders and leveraged treasury operators to revise expectations, reallocate capital, and tighten collateral credit into a compressed unwind.
 
-方向上的非对称性源于同一套机制。上涨阶段，资金流入渐进且自愿：买方按各自节奏吸收机会成本，借入资本与加杠杆的企业资产负债表则不断扩大边际出价。下跌阶段，由于缺少独立的现金流或非货币用途锚点，不存在随既有存量规模自动缩放的承接买盘。一旦别处的竞争回报改善、融资成本走高，或足够比例的持有者修正预期，卖单便会撞上愈发稀薄的有机流动性。杠杆将自愿持有转化为强制平仓，而已锁死在杠杆头寸中的资本，无法同时供给订单簿深度。价格发现由此压缩进比先前上涨更短的时间区间——这正呼应了[把稳定的症状当作稳定的来源](../mistaking-the-symptom-of-stability-for-its-source/)所追溯的脆弱性：建立在杠杆稳定之上的漫长平静，掩盖了日渐稀薄的修正容量，直至扰动跑赢响应。
+方向上的非对称性源于同一套机制。上涨阶段，资金流入渐进且自愿：买方按各自节奏吸收机会成本，借入资本与加杠杆的企业资产负债表则不断扩大边际出价。下跌阶段，触发压缩式平仓无须先有资本出逃：由于非生产性资产缺乏现金流或非货币用途，内部也未储存任何价值，不存在随累积存量规模自动缩放的承接买盘，单是足够的新增流入枯竭，便已足以令边际出清转为下行。一旦流入缩减至低于持续的结构性消耗——或别处的竞争回报改善、融资成本走高，或持有者修正预期——这一下行出清便会刺破升值前提，卖单撞上愈发稀薄的有机流动性，抵押压力则令杠杆持有者与杠杆财库转入强制抛售。已锁死在杠杆头寸中的资本无法同时供给订单簿深度，竞相退出由此加速演变为逐底竞赛，将价格发现压缩进比先前上涨更短的时间区间——这正呼应了[把稳定的症状当作稳定的来源](../mistaking-the-symptom-of-stability-for-its-source/)所追溯的脆弱性：建立在杠杆稳定之上的漫长平静，掩盖了日渐稀薄的修正容量，直至扰动跑赢响应。
 
-The directional asymmetry follows from the same mechanics. On the ascent, inflows enter gradually and voluntarily: buyers absorb opportunity cost at their own pace while borrowed capital and leveraged corporate balance sheets expand marginal bids. On the decline, the absence of an independent cash-flow or non-monetary use anchor leaves no automatic bid that scales with the size of the accumulated stock. Once competing returns improve elsewhere, funding costs climb, or a sufficient share of holders revises its expectations, selling orders confront thinner organic liquidity. Leverage converts discretionary holding into forced liquidation, and capital already tied up in leveraged positions cannot simultaneously supply order-book depth. Price discovery compresses into a shorter interval than the preceding climb—echoing the fragility traced in [Mistaking the Symptom of Stability for Its Source](../mistaking-the-symptom-of-stability-for-its-source/), where prolonged calm built on leveraged stability masks thinning corrective capacity until disturbance outpaces response.
+The directional asymmetry follows from the same mechanics. On the ascent, inflows enter gradually and voluntarily: buyers absorb opportunity cost at their own pace while borrowed capital and leveraged corporate balance sheets expand marginal bids. On the decline, triggering a compressed unwind requires no initial capital exodus: because no value is stored inside a non-productive asset lacking cash flows or non-monetary use, no automatic bid scales with the accumulated stock, and a mere depletion of sufficient fresh inflow is already enough to tip marginal clearing downward. Once inflows thin below ongoing structural drains—or competing returns improve elsewhere, funding costs climb, or holders revise expectations—that downward clearing punctures the appreciation premise, selling orders confront thinner organic liquidity, and collateral pressure flips leveraged holders and leveraged treasuries into forced selling. Capital already tied up in leveraged positions cannot simultaneously supply order-book depth, so competing exits accelerate into a race to the bottom, compressing price discovery into a shorter interval than the preceding climb—echoing the fragility traced in [Mistaking the Symptom of Stability for Its Source](../mistaking-the-symptom-of-stability-for-its-source/), where prolonged calm built on leveraged stability masks thinning corrective capacity until disturbance outpaces response.
 
 其他无收益或叙事依赖资产的经验片段呈现着同一模式：每当边际买方消失、杠杆头寸平仓，反转便快于先前的推进。即便是脱离现金流基础的生产性股票，每当庞大的投机溢价高耸于底层盈利之上，同样会经历剧烈回撤——因为那条剩余利润流尽管为正、且有经营产出作托底，体量仍不足以承接膨胀市值所隐含的抛售规模。正如[建造者的缺席与解释的自洽循环](../the-builders-absence-and-the-self-consistent-cycle-of-explanation/)就生产性股权所确立的，名义市值从不等同于一座静待提取的流动金库；对连这条剩余盈利底线也不具备的无收益代币而言，峰值名义市值对压力下可实现价值的高估更为陡峭。
 
@@ -175,19 +175,19 @@ flowchart TD
     subgraph S_BTC["承压中的共识下游牢笼"]
         direction TB
         B1["两千一百万上限：严格由持续账本共识执行的协议规则"]
-        B2["持续机会成本、融资利率与杠杆财库负担"]
-        B3["信念冲击：竞争性回报、信贷收紧或密码学疑虑"]
+        B2["持续机会成本、结构性消耗、融资利率与杠杆财库负担"]
+        B3["流入枯竭或信念冲击：新增流入不足、信贷收紧或密码学疑虑"]
         B1 --> B2 --> B3
     end
     subgraph S_Asym["非对称的价格发现"]
         direction TB
         D1["上涨期：渐进自愿流入叠加杠杆王座扩大边际出价"]
-        D2["平仓期：缺乏覆盖存量规模的底线；杠杆头寸与集中持仓转为强制抛售"]
+        D2["平仓期：无储存价值亦无底线；杠杆持有者与财库转入逐底竞赛"]
         D3["压缩式调整：实际清算价值远低于峰值名义市值"]
-        D1 -.->|"循环支撑减弱"| D2
+        D1 -.->|"无资本出逃而流入枯竭"| D2
         D2 ==>|"有机深度稀薄"| D3
     end
-    B3 ==>|"动摇基础正统"| D2
+    B3 ==>|"令出清下行并动摇正统"| D2
     A3 -.->|"在存量规模上缺席"| D2
     style S_Anchor fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_BTC fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
@@ -218,19 +218,19 @@ flowchart TD
     subgraph S_BTC["Consensus-Downstream Cage Under Pressure"]
         direction TB
         B1["21M supply cap: protocol rule enforced strictly by ongoing ledger consensus"]
-        B2["Continuous opportunity cost, funding rates, and leveraged treasury burden"]
-        B3["Belief shock: competing returns, tighter credit, or cryptographic doubt"]
+        B2["Continuous opportunity cost, structural drains, funding rates, and leveraged treasury burden"]
+        B3["Inflow depletion or belief shock: fresh inflows fall short, tighter credit, or cryptographic doubt"]
         B1 --> B2 --> B3
     end
     subgraph S_Asym["Asymmetric Price Discovery"]
         direction TB
         D1["Ascent: gradual voluntary inflows plus leveraged thrones expanding marginal bids"]
-        D2["Unwind: no stock-scaling floor; leveraged holdings and concentrated stacks flip into forced selling"]
+        D2["Unwind: no stored value or floor; leveraged holders and treasuries flip into a race to the bottom"]
         D3["Compressed adjustment: realized liquidation value falls far below peak market cap"]
-        D1 -.->|"Circular support weakens"| D2
+        D1 -.->|"Inflows deplete without capital exodus"| D2
         D2 ==>|"Thin organic depth"| D3
     end
-    B3 ==>|"Shakes foundational orthodoxy"| D2
+    B3 ==>|"Tips clearing and shakes orthodoxy"| D2
     A3 -.->|"Absent at stock scale"| D2
     style S_Anchor fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_BTC fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
@@ -248,9 +248,9 @@ flowchart TD
 
 ## 六、 在抉择边缘将工具持为暂用 / 6. Keeping Tools Provisional at the Choosing Edge
 
-价值储存的童话在此到达边界：把协议维持的稀缺与持续集体接受，误认作独立于生产的价值储存能力。一旦接受减弱，账本便无任何内部机制，可将先前吸纳的资本重新锚定于具体的产品与服务。逻辑并不预言日期，它只标明缺席的锚点与压力的即时性。
+价值储存的童话在此到达边界：把协议维持的稀缺与持续集体接受，误认作独立于生产的价值储存能力。一旦新增流入枯竭或接受减弱，账本便无任何内部机制，可将先前吸纳的资本重新锚定于具体的产品与服务。逻辑并不预言日期，它只标明缺席的锚点与压力的即时性。
 
-The value-storage fairytale reaches its boundary where protocol-maintained scarcity and ongoing collective acceptance are mistaken for a capacity to store value independently of production. Once acceptance weakens, the ledger possesses no internal mechanism that can re-anchor previously absorbed capital to concrete goods and services. The logic forecasts no date; it marks the absent anchor and the immediacy of the pressure.
+The value-storage fairytale reaches its boundary where protocol-maintained scarcity and ongoing collective acceptance are mistaken for a capacity to store value independently of production. Once fresh inflows deplete or acceptance weakens, the ledger possesses no internal mechanism that can re-anchor previously absorbed capital to concrete goods and services. The logic forecasts no date; it marks the absent anchor and the immediacy of the pressure.
 
 没有任何协议规则、固定发行计划或杠杆正统，能够代替某个中心储存价值或保障自由。唯有当活态心智不断生成他人愿意交换的产品与服务，购买力方能延续；唯有当每一件工具都保持暂用、而非硬化为由新来者或昔日前沿开拓者坐镇的牢笼，自由方能鲜活。重夺能动性，从不来自走出国家法币轨道、再步入一套不可更改的货币正统；它发生在每一步活态行动之中：作出选择的心智从一切冻结规则中收回握手，对照开放边界下的生产，权衡直接机会成本与清算深度，并在当下亲自承担自身配置的回报。
 

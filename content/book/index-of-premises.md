@@ -922,9 +922,9 @@ Attributing human behaviour to genes, hormones and neural circuitry is of use in
 ### 比特币作为价值储存 / Bitcoin as Store of Value
 `经济 / Economic`
 
-比特币起初是一件在国家法币轨道之外行使能动性的开放工具，作为增量交换媒介有用；将该工具冻结为不可质疑的价值储存，在此到达边界：其协议维持的供应上限位于持续账本共识下游而非共识外的摩擦或现金流，在持续机会成本下抽离生产资本并由法币支撑的稳定币承接日常转移，将开放工具倒转为由加杠杆新来者与转任正统守门人的早期采用者坐镇的封闭牢笼，也令名义市值在信念减弱时暴露于压缩式杠杆平仓。
+比特币起初是一件在国家法币轨道之外行使能动性的开放工具，作为增量交换媒介有用；将该工具冻结为不可质疑的价值储存，在此到达边界：其协议维持的供应上限位于持续账本共识下游而非共识外的摩擦或现金流，在持续机会成本下抽离生产资本并由法币支撑的稳定币承接日常转移，将开放工具倒转为由加杠杆新来者与转任正统守门人的早期采用者坐镇的封闭牢笼，也令名义市值在新增流入枯竭或信念减弱时暴露于压缩式杠杆平仓。
 
-Bitcoin began as an open instrument for exercising agency outside state fiat rails, of use as an incremental medium of exchange; freezing that tool into an unchallengeable store of value is where it reaches its boundary, since its protocol-enforced supply cap stays downstream of ongoing ledger consensus rather than consensus-independent friction or cash flows, drains productive capital under continuous opportunity cost while fiat-backed stablecoins absorb routine transfers, reverses the open instrument into a closed cage presided over by leveraged newcomers and early adopters turned orthodox gatekeepers, and leaves headline market capitalization exposed to compressed leveraged unwind once belief weakens.
+Bitcoin began as an open instrument for exercising agency outside state fiat rails, of use as an incremental medium of exchange; freezing that tool into an unchallengeable store of value is where it reaches its boundary, since its protocol-enforced supply cap stays downstream of ongoing ledger consensus rather than consensus-independent friction or cash flows, drains productive capital under continuous opportunity cost while fiat-backed stablecoins absorb routine transfers, reverses the open instrument into a closed cage presided over by leveraged newcomers and early adopters turned orthodox gatekeepers, and leaves headline market capitalization exposed to compressed leveraged unwind once fresh inflows deplete or belief weakens.
 
 → [自我价值、反向财富转移与过去成功的陷阱 / Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success](../../posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success/) · [比特币作为价值储存童话的边界 / The Boundary of Bitcoin as a Value-Storage Fairytale](../../posts/the-boundary-of-bitcoin-as-a-value-storage-fairytale/)
 
