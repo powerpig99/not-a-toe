@@ -922,11 +922,11 @@ Attributing human behaviour to genes, hormones and neural circuitry is of use in
 ### 比特币作为价值储存 / Bitcoin as Store of Value
 `经济 / Economic`
 
-比特币起初是一件让人在法币体系之外表达能动性的开放媒介，作为交换的工具有用；把价值归给代币本身、把它当作静态的价值储存，在此到了边界，媒介冻结了资本，转成零和的投机，又靠法币支撑的稳定币补上交易用途。
+比特币起初是一件在国家法币轨道之外行使能动性的开放工具，作为增量交换媒介有用；将该工具冻结为不可质疑的价值储存，在此到达边界：其协议维持的供应上限位于持续账本共识下游而非共识外的摩擦或现金流，在持续机会成本下抽离生产资本并由法币支撑的稳定币承接日常转移，将开放工具倒转为由加杠杆新来者与转任正统守门人的早期采用者坐镇的封闭牢笼，也令名义市值在信念减弱时暴露于压缩式杠杆平仓。
 
-Bitcoin began as an open medium for expressing agency outside the fiat system, of use as an instrument of exchange; crediting value to the token itself and treating it as a static store of value is where it reaches its boundary, as the medium freezes capital, turns into zero-sum speculation, and leans on fiat-backed stablecoins to patch its transactional use.
+Bitcoin began as an open instrument for exercising agency outside state fiat rails, of use as an incremental medium of exchange; freezing that tool into an unchallengeable store of value is where it reaches its boundary, since its protocol-enforced supply cap stays downstream of ongoing ledger consensus rather than consensus-independent friction or cash flows, drains productive capital under continuous opportunity cost while fiat-backed stablecoins absorb routine transfers, reverses the open instrument into a closed cage presided over by leveraged newcomers and early adopters turned orthodox gatekeepers, and leaves headline market capitalization exposed to compressed leveraged unwind once belief weakens.
 
-→ [自我价值、反向财富转移与过去成功的陷阱 / Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success](../../posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success/)
+→ [自我价值、反向财富转移与过去成功的陷阱 / Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success](../../posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success/) · [比特币作为价值储存童话的边界 / The Boundary of Bitcoin as a Value-Storage Fairytale](../../posts/the-boundary-of-bitcoin-as-a-value-storage-fairytale/)
 
 ### 块状宇宙世界线理论 / Block Universe Worldline
 `科学 / Scientific`
@@ -3318,11 +3318,11 @@ Unscheduled-time heuristics presume that clearing the calendar produces serendip
 ### 市场资本化估值 / Market Capitalization Valuation
 `经济 / Economic`
 
-市场资本化对归属上市普通股股东的预期净自由现金流剩余现值进行定价，作为即时出清投影、用以登记分散中心如何跨行业重定价生产性能力的连续性时有用；当边际出清估值被误作一座可流通、可划转的金库或活生生的生产性能力本身，或上市股东的狭窄私人残差被读作自主的市场裁决而非一种后随出清痕迹——其隐含未来价值会因强制抛售与活跃建造者的活态判断撤出而坍塌——这一估值尺度便到达了边界。
+市场资本化对归属上市普通股股东的预期净自由现金流剩余现值进行定价，作为即时出清投影、用以登记分散中心如何跨行业重定价生产性能力的连续性时有用；当边际出清估值被误作一座可流通、可划转的金库或活生生的生产性能力本身，或上市股东的狭窄私人残差被读作自主的市场裁决而非一种后随出清痕迹——其隐含未来价值会因强制抛售与活跃建造者的活态判断撤出而坍塌，而在缺乏任何剩余现金流底线的无收益资产上，这一落差更会进一步拉大——这一估值尺度便到达了边界。
 
-Market capitalization prices the present value of expected net free-cash-flow surplus accruing to listed common shareholders, which is of use as an instantaneous clearing projection registering how dispersed centers reprice the continuity of productive capacity across sectors; it reaches its boundary when marginal clearing valuation is mistaken for a liquid, transferable vault or living productive capability itself, or when listed shareholders' narrow private residual is read as an autonomous market verdict rather than a trailing clearing trace whose implied future value collapses under forced selling and the withdrawal of an active builder's living judgment.
+Market capitalization prices the present value of expected net free-cash-flow surplus accruing to listed common shareholders, which is of use as an instantaneous clearing projection registering how dispersed centers reprice the continuity of productive capacity across sectors; it reaches its boundary when marginal clearing valuation is mistaken for a liquid, transferable vault or living productive capability itself, or when listed shareholders' narrow private residual is read as an autonomous market verdict rather than a trailing clearing trace whose implied future value collapses under forced selling and the withdrawal of an active builder's living judgment—a gap that widens further for non-yielding assets lacking any residual cash-flow floor.
 
-→ [生产性基础的市场重定价 / The Market Repricing of Productive Base](../../posts/the-market-repricing-of-productive-base/) · [建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation](../../posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation/)
+→ [生产性基础的市场重定价 / The Market Repricing of Productive Base](../../posts/the-market-repricing-of-productive-base/) · [建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation](../../posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation/) · [比特币作为价值储存童话的边界 / The Boundary of Bitcoin as a Value-Storage Fairytale](../../posts/the-boundary-of-bitcoin-as-a-value-storage-fairytale/)
 
 ### 人生总图规划论 / Master Life Blueprint
 `哲学 / Philosophical`
@@ -3466,7 +3466,7 @@ AI alignment frameworks treat advanced language models as locus-bearing moral ag
 
 Treating money and accumulated assets as wealth is of use in recording deferred claims and exchanging across time; it reaches its boundary in that money is a standardised IOU and assets are past production minus past consumption accumulated, their value depending on living individuals' continued capability to produce, so that taking them for the source forgets the loss function and turns transfer into atrophy.
 
-→ [价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth](../../posts/the-generative-mechanics-of-value-money-and-wealth/) · [大倒置的消解 / The Dissolution of the Great Reversal](../../posts/the-dissolution-of-the-great-reversal/)
+→ [价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth](../../posts/the-generative-mechanics-of-value-money-and-wealth/) · [大倒置的消解 / The Dissolution of the Great Reversal](../../posts/the-dissolution-of-the-great-reversal/) · [比特币作为价值储存童话的边界 / The Boundary of Bitcoin as a Value-Storage Fairytale](../../posts/the-boundary-of-bitcoin-as-a-value-storage-fairytale/)
 
 ### 善恶二元论 / Moral Dualism
 `哲学 / Philosophical`
@@ -4663,7 +4663,7 @@ Presumes that agent harnesses and model capabilities carry judgment or elevate c
 
 Protocol disintermediation presumes that decentralized code eliminates human intermediaries and authority, which is of use in automating rule execution and removing single-party gatekeepers; it reaches its boundary in that code executes prior human choices and users who treat the protocol as neutral authority outsource judgment and the attribution of responsibility to its designers and governance while actual consequences remain inalienable.
 
-→ [“非中介化”的幻象 / The Illusion of the Unmediated](../../posts/the-illusion-of-the-unmediated/)
+→ [“非中介化”的幻象 / The Illusion of the Unmediated](../../posts/the-illusion-of-the-unmediated/) · [比特币作为价值储存童话的边界 / The Boundary of Bitcoin as a Value-Storage Fairytale](../../posts/the-boundary-of-bitcoin-as-a-value-storage-fairytale/)
 
 ### 权力的单向强制观 / Coercive Unilateralism of Power
 `哲学 / Philosophical`

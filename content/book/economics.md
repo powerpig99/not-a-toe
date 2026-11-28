@@ -49,3 +49,4 @@ The essays in this part examine the closed premises of the rational choice postu
 - [生产性基础的市场重定价 / The Market Repricing of Productive Base](../../posts/the-market-repricing-of-productive-base/)
 - [建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation](../../posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation/)
 - [净生产者的最终约束 / The Ultimate Constraint of the Net Producer](../../posts/the-ultimate-constraint-of-the-net-producer/)
+- [比特币作为价值储存童话的边界 / The Boundary of Bitcoin as a Value-Storage Fairytale](../../posts/the-boundary-of-bitcoin-as-a-value-storage-fairytale/)
