@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-28T00:52:08.335Z",
+    "generated_at": "2026-11-28T01:07:05.894Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -21,7 +21,7 @@
       "content/posts/agency-and-the-pattern.md": "b02ee5b125ec",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "ae5b6e28af81",
       "content/posts/agency-contradiction-and-the-relocation-of-power.md": "eaadfa355d33",
-      "content/posts/agency-does-not-arise.md": "9408ef08d93f",
+      "content/posts/agency-does-not-arise.md": "20e6b1df6d19",
       "content/posts/agency-relocated-into-the-formal-model.md": "3e1fa31e14a3",
       "content/posts/agents_leia_ontological_clarity.md": "c9f0ffd4dcee",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "c3f1f84df152",
@@ -1071,7 +1071,7 @@
       "slug": "agency-does-not-arise",
       "path": "content/posts/agency-does-not-arise.md",
       "title": "主体性不曾涌现 / Agency Does Not Arise",
-      "hash": "9408ef08d93f",
+      "hash": "20e6b1df6d19",
       "in_degree": 21,
       "out_degree": 20,
       "links_out": [
@@ -1090,8 +1090,8 @@
         "your-codebase-is-memory",
         "beyond-the-projection",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-        "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-density-of-judgment",
+        "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
         "the-boundary-of-perception-and-the-infinity-of-understanding",
         "subtracting-consciousness-at-the-source"
@@ -16832,15 +16832,15 @@
     },
     {
       "from": "agency-does-not-arise",
-      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
-      "rel": "points_to",
-      "label": "规程的倒置与因果回路的消声"
-    },
-    {
-      "from": "agency-does-not-arise",
       "to": "the-density-of-judgment",
       "rel": "points_to",
       "label": "判断的密度"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "规程的倒置与因果回路的消声"
     },
     {
       "from": "agency-does-not-arise",
@@ -16862,15 +16862,15 @@
     },
     {
       "from": "agency-does-not-arise",
-      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
-      "rel": "points_to",
-      "label": "The Inversion of the Protocol and the Silencing of the Causal Loop"
-    },
-    {
-      "from": "agency-does-not-arise",
       "to": "the-density-of-judgment",
       "rel": "points_to",
       "label": "The Density of Judgment"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "The Inversion of the Protocol and the Silencing of the Causal Loop"
     },
     {
       "from": "agency-does-not-arise",
