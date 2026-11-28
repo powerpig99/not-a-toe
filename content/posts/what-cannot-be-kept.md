@@ -71,7 +71,7 @@ flowchart TD
     end
     E_Redraw ==>|"将离散区分外化为"| T_Art
     T_Art -.->|"当被囤积为穷尽地基时"| M_Hold
-    T_Signal -.->|"暴露其内部被压缩的轴线"| M_Clamp
+    T_Signal ==>|"将被压缩轴线的信号返还给鲜活心智"| E_Sense
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Trace fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Museum fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -113,7 +113,7 @@ flowchart TD
     end
     E_Redraw ==>|"Externalizes discrete distinctions into"| T_Art
     T_Art -.->|"When hoarded as exhaustive ground"| M_Hold
-    T_Signal -.->|"Exposes compressed axes inside"| M_Clamp
+    T_Signal ==>|"Returns compressed-axis signal to living Mind"| E_Sense
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Trace fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Museum fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
