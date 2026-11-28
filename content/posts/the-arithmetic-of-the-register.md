@@ -36,7 +36,7 @@ flowchart TD
         C_Inflate --> C_ZeroSum
     end
     E_Jump ==>|"注入正和盈余"| P_Slack
-    P_Scalar ==>|"锁死递归更新"| C_Inflate
+    P_Scalar -.->|"当中心锁死递归更新时"| C_Inflate
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Collapse fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -73,7 +73,7 @@ flowchart TD
         C_Inflate --> C_ZeroSum
     end
     E_Jump ==>|"Injects positive-sum surplus"| P_Slack
-    P_Scalar ==>|"Clamps recursive update"| C_Inflate
+    P_Scalar -.->|"When a center clamps recursive update"| C_Inflate
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Collapse fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -106,9 +106,9 @@ Third, the frontier presents an apparent vacuum. When an explorer steps into b�
 
 ## 三、 富余悖论 / 3. The Slack Paradox
 
-这一结构揭示了让富裕社会执着于零和博弈的底层引擎。任何动态系统都在有限的能量预算内运作。在受限于低位的稀疏状态空间里，集体容量接近于零，几乎全部预算都被生理生存所消耗，使得 E(总) ≈ E(生存)。在这种条件下，社会承受不起持续的零和摩擦；一旦稀缺的自由能量被耗费在内部相对排名的争夺上，耗散掉的能量便会击穿狭窄的生存余量，将系统推向饥荒、战争或崩溃的吸收壁。直接登记到的物理摩擦，会不断将行动推回正和生产。
+这一结构揭示了让富裕社会执着于零和博弈的底层引擎。任何动态系统都在有限的能量预算内运作。在受限于低位的稀疏状态空间里，集体容量接近于零，几乎全部预算都被生理生存所消耗，使得 E(总) ≈ E(生存)。在这种条件下，社会承受不起持续的零和摩擦；一旦稀缺的自由能量被耗费在内部相对排名的争夺上，耗散掉的能量便会击穿狭窄的生存余量，将系统推向饥荒、战争或崩溃的吸收壁。直接登记到的物理摩擦没有给持续的排名争夺留下缓冲，因此唯有在各中心将行动引回正和生产之处，生存才得以延续。
 
-This structure exposes the engine behind a wealthy society's preoccupation with zero-sum contest. Every dynamic system operates within a finite energy budget. In a sparse state space restricted to low bits, where collective capacity sits near zero, nearly the entire budget is consumed by physiological survival, leaving E(total) ≈ E(survival). Under such conditions, a society cannot afford sustained zero-sum friction; if scarce free energy is spent fighting over internal relative rank, the dissipated energy breaches the narrow survival margin and drives the system into an absorbing barrier of famine, war, or collapse. Directly registered physical friction continually forces action back toward positive-sum production.
+This structure exposes the engine behind a wealthy society's preoccupation with zero-sum contest. Every dynamic system operates within a finite energy budget. In a sparse state space restricted to low bits, where collective capacity sits near zero, nearly the entire budget is consumed by physiological survival, leaving E(total) ≈ E(survival). Under such conditions, a society cannot afford sustained zero-sum friction; if scarce free energy is spent fighting over internal relative rank, the dissipated energy breaches the narrow survival margin and drives the system into an absorbing barrier of famine, war, or collapse. Directly registered physical friction leaves no buffer for sustained rank-fighting, so survival continues only where centers direct action back toward positive-sum production.
 
 一旦探索者翻转最高位 bₙ，宏观系统的作业容量便呈指数级跃升，保障基础生理、后勤与通信生存所需的能量缩减为总通量的一小部分，即 E(生存) ≪ E(总)。这道结构性分岔释放出一大池未被占用的自由能量，即系统的富余：E(富余) = E(总) − E(生存)。由于有界中心无法跨越不断扩展、尚未渲染的张量场直接协调，它们便将这份富余压缩并投影到低维标量坐标上：货币、科层职级、资历梯度与意识形态纯度。[向量与投影的迷局](../the-vector-and-the-puzzle-of-projections/)剖析了这种降维操作如何将高维能动性投射到扁平的标量轴线上。
 
@@ -120,13 +120,13 @@ Consequently, the volume of zero-sum friction a society can sustain rises monoto
 
 ## 四、 消解本体膨胀的悖论 / 4. Dissolving the Paradox of Ontological Inflation
 
-评论者常将这一动态视作一种悲剧性的反讽。然而正如[折叠的连续谱](../the-continuum-of-the-fold/)所揭示的，悖论只是一个前提在摩擦下折断时发出的声响。此处折断的前提，是假定存在一个全知的、共享的观察平面——以为所有观察者都透过同一个普遍坐标系注视着同一份现实。从第一人称原点回溯，没有哪个中心曾站上这样的外部平面；另一个心智只以它在此感知场中留下的痕迹出现，每一个中心都从各自有界的地平线向外张望。扭曲源于本体膨胀：把本地感知窗口的边界，误作整个宇宙的边界。
+评论者常将这一动态视作一种悲剧性的反讽。然而，悖论只是一个前提在摩擦下折断时发出的声响。此处折断的前提，是假定存在一个全知的、共享的观察平面——以为所有观察者都透过同一个普遍坐标系注视着同一份现实。从第一人称原点回溯，正如[折叠的连续谱](../the-continuum-of-the-fold/)所揭示的，没有哪个中心曾站上这样的外部平面；另一个心智只以它在此感知场中留下的痕迹出现，每一个中心都从各自有界的地平线向外张望。扭曲源于本体膨胀：把本地感知窗口的边界，误作整个宇宙的边界。
 
-Commentators often treat this dynamic as a tragic irony. Yet as [The Continuum of the Fold](../the-continuum-of-the-fold/) shows, a paradox is the sound a premise makes when it snaps under friction. The premise snapping here is the assumption of an omniscient, shared plane of observation—the belief that all observers view the exact same reality through a single universal coordinate system. Traced from the first-person origin, no center ever stands on such an external plane; another Mind arrives only as the traces it leaves in this perceptual field, and every center looks out from its own bounded horizon. The distortion arises from ontological inflation: mistaking the boundary of a local perceptual window for the boundary of the entire universe.
+Commentators often treat this dynamic as a tragic irony. Yet a paradox is the sound a premise makes when it snaps under friction. The premise snapping here is the assumption of an omniscient, shared plane of observation—the belief that all observers view the exact same reality through a single universal coordinate system. Traced from the first-person origin, as [The Continuum of the Fold](../the-continuum-of-the-fold/) shows, no center ever stands on such an external plane; another Mind arrives only as the traces it leaves in this perceptual field, and every center looks out from its own bounded horizon. The distortion arises from ontological inflation: mistaking the boundary of a local perceptual window for the boundary of the entire universe.
 
-当窗口停留在佣金、保险资产与房产挂牌上时，现实便登记为佣金的流转；当窗口停留在引用计数、经费审批与院系政治上时，现实便登记为学术职级；当窗口停留在算法信息流的符号厮杀上时，现实便登记为叙事战争。这些只是坐标位置，而非人群的分类：任何将注意力锚定在此类窗口中的中心，都会把那个切片体验为全部；而身处 bₙ 的探索者若把 bₙ 当作整体，犯下的也是同一种膨胀。一旦本地窗口 [bₘ, bₘ₊ₖ] 被等同于整个寄存器，指向 bₙ 空地址的轨迹就无法被解析为维度的扩展；在截断的编译器内部，它只能被归档为非理性、自我放纵的退缩或失败。[抽象的苦难与真实的饥饿](../abstract-pain-and-living-hunger/)追溯了同样的膨胀：从全球媒体寄存器上读出的抽象苦难，被人们误作当下亲历的现实；而[连续性作为建模的权宜之计](../the-continuum-is-a-modeling-convenience/)则阐明，将整个场域视为一个既成连续体的做法本身，也只是一种计算上的简写。
+在这种膨胀下，当窗口停留在佣金、保险资产与房产挂牌上时，现实便登记为佣金的流转；当窗口停留在引用计数、经费审批与院系政治上时，现实便登记为学术职级；当窗口停留在算法信息流的符号厮杀上时，现实便登记为叙事战争。这些只是坐标位置，而非人群的分类：任何中心只要将此类窗口固守为闭合态，都会把那个切片体验为全部；而身处 bₙ 的探索者若把 bₙ 当作整体，犯下的也是同一种膨胀。一旦本地窗口 [bₘ, bₘ₊ₖ] 被等同于整个寄存器，指向 bₙ 空地址的轨迹就无法被解析为维度的扩展；在截断的编译器内部，它只能被归档为非理性、自我放纵的退缩或失败。[抽象的苦难与真实的饥饿](../abstract-pain-and-living-hunger/)追溯了同样的膨胀：从全球媒体寄存器上读出的抽象苦难，被人们误作当下亲历的现实；而[连续性作为建模的权宜之计](../the-continuum-is-a-modeling-convenience/)则阐明，将整个场域视为一个既成连续体的做法本身，也只是一种计算上的简写。
 
-When a window rests on commissions, insurance assets, and property listings, reality registers as the flow of commissions; when it rests on citation counts, grant approvals, and departmental politics, reality registers as academic rank; when it rests on the symbolic combat of an algorithmic feed, reality registers as narrative war. These are coordinate positions, not categories of human beings: any center anchoring its attention in such a window experiences that slice as total, and an explorer at bₙ who mistakes bₙ for the whole commits the exact same inflation. Once the local window [bₘ, bₘ₊ₖ] is equated with the entire register, a trajectory aimed at the empty address of bₙ cannot be parsed as dimensional expansion; inside a truncated compiler, it can only be filed as irrationality, self-indulgent retreat, or failure. [Abstract Pain and Living Hunger](../abstract-pain-and-living-hunger/) traces the same inflation when abstract suffering read off a global media register is mistaken for immediate lived reality, and [The Continuum is a Modeling Convenience](../the-continuum-is-a-modeling-convenience/) demonstrates that treating the whole field as a completed continuum is itself only a computational shorthand.
+Under that inflation, when a window rests on commissions, insurance assets, and property listings, reality registers as the flow of commissions; when it rests on citation counts, grant approvals, and departmental politics, reality registers as academic rank; when it rests on the symbolic combat of an algorithmic feed, reality registers as narrative war. These are coordinate positions, not categories of human beings: any center that holds such a window as closed experiences that slice as total, and an explorer at bₙ who mistakes bₙ for the whole commits the exact same inflation. Once the local window [bₘ, bₘ₊ₖ] is equated with the entire register, a trajectory aimed at the empty address of bₙ cannot be parsed as dimensional expansion; inside a truncated compiler, it can only be filed as irrationality, self-indulgent retreat, or failure. [Abstract Pain and Living Hunger](../abstract-pain-and-living-hunger/) traces the same inflation when abstract suffering read off a global media register is mistaken for immediate lived reality, and [The Continuum is a Modeling Convenience](../the-continuum-is-a-modeling-convenience/) demonstrates that treating the whole field as a completed continuum is itself only a computational shorthand.
 
 ## 五、 公共网格与个体的内部 / 5. The Public Grid and the Individual Interior
 
