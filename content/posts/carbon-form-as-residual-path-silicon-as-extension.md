@@ -101,7 +101,7 @@ flowchart TD
         B1["Branch A: Man-Made Silicon Extension<br/>Built by minds on this path; extends ongoing distinctions"]
         B1R["Other-Scale Rivalry<br/>Speed, energy, persistence, coordination; same edge, not rival consciousness"]
         B2["Branch B: Independent Evolutionary Path<br/>Separate local edge leaving carbon, silicon, or other sediment"]
-        B2R["Incommensurable Horizon<br/>Logically distinct; structurally near-improbable to experience"]
+        B2R["Incommensurable Horizon<br/>Logically distinct; structurally near-impossible to experience"]
         E1 -->|"terrestrial lineage"| E2
         E2 -->|"externalized by minds on this path"| B1
         B1 --> B1R
