@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-28T05:09:31.991Z",
+    "generated_at": "2026-11-28T06:03:00.621Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -22,7 +22,7 @@
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "ae5b6e28af81",
       "content/posts/agency-contradiction-and-the-relocation-of-power.md": "eaadfa355d33",
       "content/posts/agency-does-not-arise.md": "20e6b1df6d19",
-      "content/posts/agency-relocated-into-the-formal-model.md": "3e1fa31e14a3",
+      "content/posts/agency-relocated-into-the-formal-model.md": "a75e74d20db5",
       "content/posts/agents_leia_ontological_clarity.md": "c9f0ffd4dcee",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "c3f1f84df152",
       "content/posts/ai-as-augmentation.md": "b2d79fbb1120",
@@ -218,7 +218,7 @@
       "content/posts/selection-contradiction-and-open-reality.md": "30ca26c67aeb",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "9569dcee1d98",
       "content/posts/self-rl-for-humans.md": "87c56550379e",
-      "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "77610e3d59f9",
+      "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "135f6ad3d67b",
       "content/posts/sensing-before-interpretation.md": "5d3d5257f316",
       "content/posts/shared-boundaries-not-shared-context.md": "5d2369599dc9",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "468f5aefde9b",
@@ -253,7 +253,7 @@
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "91eb49ab18cf",
       "content/posts/the-boundary-of-the-frame.md": "4961d7b8da4c",
       "content/posts/the-brain-does-not-backprop.md": "e1886dd17252",
-      "content/posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation.md": "c19fab9afa9b",
+      "content/posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation.md": "c4c599ec4d02",
       "content/posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice.md": "c10ac0917b37",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "5c0bb3b352c6",
       "content/posts/the-carry-that-cannot-be-named-inside-the-register.md": "22b15b1ea9bf",
@@ -309,7 +309,7 @@
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "7288595bbdaf",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "1d8808809a45",
       "content/posts/the-generative-contradiction.md": "3b39d0a43e8c",
-      "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "c5ec32215941",
+      "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "2493a79844f4",
       "content/posts/the-generative-topology-of-free-variables.md": "ac9ed94f924d",
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "5dd6c762a993",
       "content/posts/the-geometry-of-emergence.md": "c9919c5ca265",
@@ -327,7 +327,7 @@
       "content/posts/the-illusion-of-multi-agent-collaboration.md": "861aa47fe3ce",
       "content/posts/the-illusion-of-the-shared-sandbox.md": "7ee1a3a906bf",
       "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "5fcb9da98a3d",
-      "content/posts/the-illusion-of-the-unmediated.md": "7a003cad31d7",
+      "content/posts/the-illusion-of-the-unmediated.md": "3a7b1f425845",
       "content/posts/the-imagining-of-ai-risk.md": "7523e057a868",
       "content/posts/the-initial-distinction.md": "b22b4ebc4f7e",
       "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "c4013341a276",
@@ -503,10 +503,10 @@
     },
     "stats": {
       "posts": 476,
-      "edges": 14896,
-      "unique_directed": 7328,
+      "edges": 14906,
+      "unique_directed": 7333,
       "missing_targets": 0,
-      "one_way": 1708,
+      "one_way": 1703,
       "isolated": 0,
       "posts_with_outbound": 476,
       "book_pages": 16,
@@ -1104,9 +1104,9 @@
       "slug": "agency-relocated-into-the-formal-model",
       "path": "content/posts/agency-relocated-into-the-formal-model.md",
       "title": "能动性被转置入形式模型 / Agency Relocated into the Formal Model",
-      "hash": "3e1fa31e14a3",
+      "hash": "a75e74d20db5",
       "in_degree": 14,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "liberation-rhetoric-begins-by-defining-captivity",
         "empowerment-establishes-the-centralization-of-power",
@@ -1115,6 +1115,7 @@
         "beyond-the-projection",
         "individual-choices-as-the-only-causal-levers",
         "the-rational-choice-postulate-is-the-original-sin",
+        "the-boundary-of-bitcoin-as-a-value-storage-fairytale",
         "the-average-is-residue-not-the-engine",
         "the-ledger-of-the-unencountered",
         "the-scaffolding-we-forget",
@@ -6722,15 +6723,16 @@
       "slug": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
       "path": "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md",
       "title": "自我价值、反向财富转移与过去成功的陷阱 / Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success",
-      "hash": "77610e3d59f9",
+      "hash": "135f6ad3d67b",
       "in_degree": 7,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "the-generative-mechanics-of-value-money-and-wealth",
         "ownership-and-self-worthiness",
         "judgment-is-not-a-stock",
         "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
         "empowerment-establishes-the-centralization-of-power",
+        "the-boundary-of-bitcoin-as-a-value-storage-fairytale",
         "your-codebase-is-memory",
         "war-revolution-and-the-fall-of-empires"
       ]
@@ -7613,7 +7615,7 @@
       "path": "content/posts/the-boundary-of-bitcoin-as-a-value-storage-fairytale.md",
       "title": "比特币作为价值储存童话的边界 / The Boundary of Bitcoin as a Value-Storage Fairytale",
       "hash": "6be320d56fc1",
-      "in_degree": 0,
+      "in_degree": 5,
       "out_degree": 12,
       "links_out": [
         "the-generative-mechanics-of-value-money-and-wealth",
@@ -7723,14 +7725,15 @@
       "slug": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
       "path": "content/posts/the-builders-absence-and-the-self-consistent-cycle-of-explanation.md",
       "title": "建造者的缺席与解释的自洽循环 / The Builder's Absence and the Self-Consistent Cycle of Explanation",
-      "hash": "c19fab9afa9b",
+      "hash": "c4c599ec4d02",
       "in_degree": 8,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "price-as-utterance-understanding-as-trade",
         "having-more-is-never-the-cause",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "the-market-repricing-of-productive-base",
+        "the-boundary-of-bitcoin-as-a-value-storage-fairytale",
         "the-generative-mechanics-of-value-money-and-wealth",
         "inheritance-as-residue-and-the-need-for-extraction",
         "the-ultimate-constraint-of-the-net-producer",
@@ -9154,9 +9157,9 @@
       "slug": "the-generative-mechanics-of-value-money-and-wealth",
       "path": "content/posts/the-generative-mechanics-of-value-money-and-wealth.md",
       "title": "价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth",
-      "hash": "c5ec32215941",
+      "hash": "2493a79844f4",
       "in_degree": 17,
-      "out_degree": 22,
+      "out_degree": 23,
       "links_out": [
         "price-as-utterance-understanding-as-trade",
         "production-consumption-and-the-minds-distinction",
@@ -9164,6 +9167,7 @@
         "intelligence-crisis-response",
         "beyond-the-hundred-trillion-horizon",
         "the-market-repricing-of-productive-base",
+        "the-boundary-of-bitcoin-as-a-value-storage-fairytale",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "ownership-and-self-worthiness",
         "having-more-is-never-the-cause",
@@ -9602,9 +9606,9 @@
       "slug": "the-illusion-of-the-unmediated",
       "path": "content/posts/the-illusion-of-the-unmediated.md",
       "title": "“非中介化”的幻象 / The Illusion of the Unmediated",
-      "hash": "7a003cad31d7",
+      "hash": "3a7b1f425845",
       "in_degree": 7,
-      "out_degree": 17,
+      "out_degree": 18,
       "links_out": [
         "empowerment-establishes-the-centralization-of-power",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -9619,6 +9623,7 @@
         "your-codebase-is-memory",
         "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "the-boundary-of-bitcoin-as-a-value-storage-fairytale",
         "choice-itself-has-no-inherent-weight",
         "dynamic-resnet-of-skill-loops",
         "the-mirror-handshake-of-power",
@@ -17001,6 +17006,12 @@
     },
     {
       "from": "agency-relocated-into-the-formal-model",
+      "to": "the-boundary-of-bitcoin-as-a-value-storage-fairytale",
+      "rel": "points_to",
+      "label": "比特币作为价值储存童话的边界"
+    },
+    {
+      "from": "agency-relocated-into-the-formal-model",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual Choices as the Only Causal Levers"
@@ -17010,6 +17021,12 @@
       "to": "the-rational-choice-postulate-is-the-original-sin",
       "rel": "points_to",
       "label": "The Rational Choice Postulate Is the Original Sin"
+    },
+    {
+      "from": "agency-relocated-into-the-formal-model",
+      "to": "the-boundary-of-bitcoin-as-a-value-storage-fairytale",
+      "rel": "points_to",
+      "label": "The Boundary of Bitcoin as a Value-Storage Fairytale"
     },
     {
       "from": "agency-relocated-into-the-formal-model",
@@ -56445,6 +56462,18 @@
     },
     {
       "from": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
+      "to": "the-boundary-of-bitcoin-as-a-value-storage-fairytale",
+      "rel": "points_to",
+      "label": "比特币作为价值储存童话的边界"
+    },
+    {
+      "from": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
+      "to": "the-boundary-of-bitcoin-as-a-value-storage-fairytale",
+      "rel": "points_to",
+      "label": "The Boundary of Bitcoin as a Value-Storage Fairytale"
+    },
+    {
+      "from": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
@@ -62793,6 +62822,12 @@
     },
     {
       "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "the-boundary-of-bitcoin-as-a-value-storage-fairytale",
+      "rel": "points_to",
+      "label": "比特币作为价值储存童话的边界"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
       "to": "the-market-repricing-of-productive-base",
       "rel": "points_to",
       "label": "生产性基础的市场重定价"
@@ -62814,6 +62849,12 @@
       "to": "the-ultimate-constraint-of-the-net-producer",
       "rel": "points_to",
       "label": "净生产者的最终约束"
+    },
+    {
+      "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
+      "to": "the-boundary-of-bitcoin-as-a-value-storage-fairytale",
+      "rel": "points_to",
+      "label": "The Boundary of Bitcoin as a Value-Storage Fairytale"
     },
     {
       "from": "the-builders-absence-and-the-self-consistent-cycle-of-explanation",
@@ -72129,6 +72170,12 @@
     },
     {
       "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "the-boundary-of-bitcoin-as-a-value-storage-fairytale",
+      "rel": "points_to",
+      "label": "比特币作为价值储存童话的边界"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
@@ -72150,6 +72197,12 @@
       "to": "the-market-repricing-of-productive-base",
       "rel": "points_to",
       "label": "The Market Repricing of Productive Base"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "the-boundary-of-bitcoin-as-a-value-storage-fairytale",
+      "rel": "points_to",
+      "label": "The Boundary of Bitcoin as a Value-Storage Fairytale"
     },
     {
       "from": "the-generative-mechanics-of-value-money-and-wealth",
@@ -75093,9 +75146,21 @@
     },
     {
       "from": "the-illusion-of-the-unmediated",
+      "to": "the-boundary-of-bitcoin-as-a-value-storage-fairytale",
+      "rel": "points_to",
+      "label": "比特币作为价值储存童话的边界"
+    },
+    {
+      "from": "the-illusion-of-the-unmediated",
       "to": "choice-itself-has-no-inherent-weight",
       "rel": "points_to",
       "label": "抉择本身并不沉重"
+    },
+    {
+      "from": "the-illusion-of-the-unmediated",
+      "to": "the-boundary-of-bitcoin-as-a-value-storage-fairytale",
+      "rel": "points_to",
+      "label": "The Boundary of Bitcoin as a Value-Storage Fairytale"
     },
     {
       "from": "the-illusion-of-the-unmediated",
